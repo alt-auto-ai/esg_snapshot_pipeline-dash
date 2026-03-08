@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
+### [Television interview - Sky Newsday](https://www.pm.gov.au/media/television-interview-sky-newsday-0)
+Friday 6 March 2026
+Transcript
 ### [Press conference - Parliament House, Canberra](https://www.pm.gov.au/media/press-conference-parliament-house-canberra-45)
 Thursday 5 March 2026
 Transcript
@@ -34,6 +37,3 @@ Transcript
 ### [Q&A Herald Sun Future Victoria Forum](https://www.pm.gov.au/media/qa-herald-sun-future-victoria-forum)
 Wednesday 25 February 2026
 Transcript
-### [Future Victoria Summit](https://www.pm.gov.au/media/future-victoria-summit)
-Wednesday 25 February 2026
-Speech

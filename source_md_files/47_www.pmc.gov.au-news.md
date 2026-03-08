@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.pmc.gov.au/news#main-content)
 #  News
 Stay up-to-date on the latest departmental and ministerial developments through our news stories, social media updates and the Ministers' pages.
+National Strategy to Achieve Gender Equality
+### [Status of Women Report Card](https://www.pmc.gov.au/news/status-women-report-card)
+Friday 6 March 2026
 Office for Women
 ### [Gender Balance on Government Boards – 2024–25 Annual Report](https://www.pmc.gov.au/news/gender-balance-government-boards-2024-25-annual-report)
 Friday 6 February 2026
@@ -34,6 +37,3 @@ Wednesday 17 December 2025
 Behavioural economics
 ### [BETA in 2025: Empowering Australians](https://www.pmc.gov.au/news/beta-2025-empowering-australians)
 Tuesday 16 December 2025
-Behavioural economics
-### [Helping organisations reduce their gender pay gap](https://www.pmc.gov.au/news/helping-organisations-reduce-their-gender-pay-gap)
-Tuesday 9 December 2025

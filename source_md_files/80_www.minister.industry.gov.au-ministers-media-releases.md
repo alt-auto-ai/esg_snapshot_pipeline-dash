@@ -1,6 +1,22 @@
 # Media Releases
-Page 1 of 24
-. Showing 1 to 10 out of 238 results. 
+Page 1 of 25
+. Showing 1 to 10 out of 242 results. 
+## [Australia and Canada partner on safe and trustworthy AI](https://www.minister.industry.gov.au/ministers/charlton/media-releases/australia-and-canada-partner-safe-and-trustworthy-ai)
+6 March 2026
+Joint media release with Tim Ayres, Minister for Industry and Innovation and Minister for Science.
+Australia and Canada are strengthening cooperation on AI safety through a new Memorandum of Understanding.
+## [Australia and Canada partner on safe and trustworthy AI](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australia-and-canada-partner-safe-and-trustworthy-ai)
+6 March 2026
+Joint media release with Dr Andrew Charlton, Assistant Minister for Science, Technology and the Digital Economy.
+Australia and Canada are strengthening cooperation on AI safety through a new Memorandum of Understanding.
+## [Australia invests $53 million to help unlock the critical minerals of the future](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australia-invests-53-million-help-unlock-critical-minerals-future)
+6 March 2026
+Joint media release with Madeleine King, Minister for Resources and Northern Australia. 
+The Albanese Labor Government is backing a landmark new research centre with $53 million to help bolster Australia’s critical minerals refining sector.
+## [Australia invests $53 million to help unlock the critical minerals of the future](https://www.minister.industry.gov.au/ministers/king/media-releases/australia-invests-53-million-help-unlock-critical-minerals-future)
+6 March 2026
+Joint media release with Tim Ayres, Minister for Industry and Innovation and Minister for Science.
+The Albanese Labor Government is backing a landmark new research centre with $53 million to help bolster Australia’s critical minerals refining sector.
 ## [Stocktake reinforces Australia's strength in critical minerals](https://www.minister.industry.gov.au/ministers/king/media-releases/stocktake-reinforces-australias-strength-critical-minerals)
 2 March 2026
 Australia’s role as a reliable supplier of critical minerals has been reinforced with the latest Geoscience Australia stocktake of mineral resources.
@@ -20,19 +36,4 @@ Early works are underway on a transformative mining project that will help secur
 ## [Visit to India to promote Australia's National AI Plan](https://www.minister.industry.gov.au/ministers/charlton/media-releases/visit-india-promote-australias-national-ai-plan)
 17 February 2026
 Assistant Minister for Science, Technology and the Digital Economy, Dr Andrew Charlton, will visit India to attend the AI Impact Summit.
-## [Government's investment delivers a strengthened critical mineral supply chain](https://www.minister.industry.gov.au/ministers/timayres/media-releases/governments-investment-delivers-strengthened-critical-mineral-supply-chain)
-17 February 2026
-Joint media release with Premier of South Australia Peter Malinauskas.
-A critical milestone has been reached today at the Nyrstar Port Pirie smelter: the first shipment of antimony metal.
-## [Mount Isa Transformation Study to shape region’s next chapter](https://www.minister.industry.gov.au/ministers/timayres/media-releases/mount-isa-transformation-study-shape-regions-next-chapter)
-12 February 2026
-Joint media release with Queensland Minister for Natural Resources and Mines Dale Last.
-The next step in securing a strong future for Mount Isa is underway, with Expressions of Interest now open for the delivery of the Mount Isa Transformation Study.
-## [Australia-New Zealand agreement to strengthen trade and innovation](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australia-new-zealand-agreement-strengthen-trade-and-innovation)
-9 February 2026
-A new agreement between Australia and New Zealand will support innovation and strengthen trade and consumer protections across both countries.
-## [Consultation open to boost Australia's clean energy industry](https://www.minister.industry.gov.au/ministers/timayres/media-releases/consultation-open-boost-australias-clean-energy-industry)
-9 February 2026
-Joint media release with Minister for Energy and Climate Change Chris Bowen.
-Businesses from across clean energy manufacturing supply chains are being invited to help shape the future of wind and transmission tower manufacturing in Australia.
 [Back to top](https://www.minister.industry.gov.au/ministers/media-releases#top "Back to top")

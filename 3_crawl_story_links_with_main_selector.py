@@ -14,6 +14,7 @@
 
 import os
 import csv
+import re
 import asyncio
 import inspect
 from typing import List, Optional, Tuple, Dict
@@ -426,12 +427,26 @@ def write_story_filename_links(input_csv_path: str, output_csv_path: str, url_to
     rows_out: List[Tuple[str, str, str, str]] = []
     with open(input_csv_path, "r", encoding="utf-8-sig", newline="") as f_in:
         reader = csv.DictReader(f_in)
-        if not reader.fieldnames or not {"Date", "Title", "URL"}.issubset(set(reader.fieldnames)):
+        if not reader.fieldnames:
             raise ValueError("Input CSV must contain 'Date', 'Title', and 'URL' columns.")
+
+        def canon(name: str) -> str:
+            n = (name or "").strip().lower()
+            # tolerate polluted prefixes like "[warn]:Date"
+            n = n.split(":")[-1]
+            return re.sub(r"[^a-z0-9]", "", n)
+
+        col_map = {canon(h): h for h in reader.fieldnames}
+        date_col = col_map.get("date")
+        title_col = col_map.get("title")
+        url_col = col_map.get("url")
+        if not (date_col and title_col and url_col):
+            raise ValueError("Input CSV must contain 'Date', 'Title', and 'URL' columns.")
+
         for row in reader:
-            date = (row.get("Date") or "").strip()
-            title = (row.get("Title") or "").strip()
-            url_raw = (row.get("URL") or "").strip()
+            date = (row.get(date_col) or "").strip()
+            title = (row.get(title_col) or "").strip()
+            url_raw = (row.get(url_col) or "").strip()
             norm = normalize_url(url_raw)
             md_file = url_to_file.get(norm, "crawl_failure") if norm else "crawl_failure"
             rows_out.append((date, title, url_raw, md_file))

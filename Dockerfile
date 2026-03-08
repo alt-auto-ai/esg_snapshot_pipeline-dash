@@ -37,7 +37,10 @@ RUN crawl4ai-setup && \
 # ── Set working directory ───────────────────────────────────────────────
 WORKDIR /app
 
-# ── Copy entire codebase ────────────────────────────────────────────────
+# ── Copy current codebase layout (auto-includes added/removed files) ───
+# Key pipeline steps include:
+# 0_*.py ... 7_esg_relevance.py, 7.1_esg_relevance_score.py,
+# 8_esg_draft_multi_prompt.py, 8.1_esg_highlights.py, Dashboard/build.mjs
 COPY . .
 
 # ── Make pipeline runner executable ─────────────────────────────────────

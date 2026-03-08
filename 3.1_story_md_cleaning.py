@@ -7,6 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # -------- CONFIG --------
 FOLDER = r"story_md_files"
+OUTPUT_FOLDER = r"source_md_files_cleaned"
 THRESHOLD = 0.8  # similarity threshold (80%)
 
 # -------- STEP 1: READ ALL FILES --------
@@ -100,11 +101,14 @@ def strip_urls_from_text(text):
         if should_drop_line(stripped):
             continue
         cleaned_line = URL_PATTERN.sub("", line)
+        if not cleaned_line.strip():
+            continue
         cleaned_lines.append(cleaned_line)
     return "".join(cleaned_lines)
 
-def remove_urls_from_remaining_files(folder, removed_files):
+def remove_urls_from_remaining_files(folder, removed_files, output_folder):
     removed_set = {os.path.normcase(path) for path in removed_files}
+    os.makedirs(output_folder, exist_ok=True)
     for path in glob.glob(os.path.join(folder, "*.md")):
         if os.path.normcase(path) in removed_set:
             continue
@@ -112,12 +116,25 @@ def remove_urls_from_remaining_files(folder, removed_files):
             with open(path, "r", encoding="utf-8", errors="ignore") as file:
                 content = file.read()
             cleaned = strip_urls_from_text(content)
-            if cleaned != content:
-                with open(path, "w", encoding="utf-8") as file:
-                    file.write(cleaned)
-                print(f"[✂] Cleaned markdown in: {os.path.basename(path)}")
+            out_path = os.path.join(output_folder, os.path.basename(path))
+            with open(out_path, "w", encoding="utf-8") as file:
+                file.write(cleaned)
+            print(f"[✂] Wrote cleaned markdown: {os.path.basename(out_path)}")
         except Exception as e:
             print(f"[!] Failed to clean URLs in {path}: {e}")
+
+def remove_blank_markdown_files(folder):
+    removed = 0
+    for path in glob.glob(os.path.join(folder, "*.md")):
+        try:
+            with open(path, "r", encoding="utf-8", errors="ignore") as file:
+                if file.read().strip() == "":
+                    os.remove(path)
+                    removed += 1
+                    print(f"[🗑] Removed blank file: {os.path.basename(path)}")
+        except Exception as e:
+            print(f"[!] Failed to check/remove blank file {path}: {e}")
+    print(f"[INFO] Blank .md files removed from {folder}: {removed}")
 
 # -------- MAIN --------
 if __name__ == "__main__":
@@ -126,5 +143,6 @@ if __name__ == "__main__":
     duplicates = find_duplicates(contents, THRESHOLD)
     print(f"\nTotal duplicates to remove: {len(duplicates)}")
     remove_files(duplicates)
-    remove_urls_from_remaining_files(FOLDER, duplicates)
+    remove_urls_from_remaining_files(FOLDER, duplicates, OUTPUT_FOLDER)
+    remove_blank_markdown_files(OUTPUT_FOLDER)
     print("\n✅ Duplicate removal complete; remaining files cleaned of URLs and specified markdown notations.")

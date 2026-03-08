@@ -5,7 +5,8 @@ from pathlib import Path
 # before running the script. The 'r' before the string creates a raw string,
 # which correctly handles the backslashes in Windows paths.
 TARGET_FOLDERS = [
-    r"story_md_files"
+    r"story_md_files",
+    r"source_md_files_cleaned",
 ]
 
 def delete_files_in_folders(folders_to_clean: list[str]):
@@ -32,7 +33,7 @@ def delete_files_in_folders(folders_to_clean: list[str]):
             for item in folder_path.iterdir():
                 
                 # We only want to delete files, not subdirectories
-                if item.is_file():
+                if item.is_file() and item.suffix.lower() == ".md":
                     try:
                         item.unlink()  # Deletes the file
                         print(f"   [DELETED] {item.name}")
@@ -40,6 +41,8 @@ def delete_files_in_folders(folders_to_clean: list[str]):
                         total_deleted_count += 1
                     except OSError as e:
                         print(f"   [ERROR] Failed to delete file {item.name}: {e}")
+                elif item.is_file():
+                    print(f"   [SKIPPED] Non-md file: {item.name}")
                 elif item.is_dir():
                     print(f"   [SKIPPED] Directory (will not delete contents): {item.name}")
             

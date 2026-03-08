@@ -232,7 +232,7 @@ Latest news
   * ### 
 [Middle East conflict](https://www.dfat.gov.au/crisis-hub/middle-east-conflict)
 Military strikes have occurred in the Middle East. There's a risk of ongoing reprisal attacks and escalation across the region. Local security situations could deteriorate.
-2 March 2026
+6 March 2026
 Category
 Crisis Hub
 [Read more](https://www.dfat.gov.au/crisis-hub/middle-east-conflict)

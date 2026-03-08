@@ -2,65 +2,74 @@
 # What's new
 Find new or recently updated information from the last month.
 Search
-**Showing** 1 - 10 of 91
+**Showing** 1 - 10 of 83
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * CRT Alerts (1)
   * Compliance (1)
-  * Employer information (4)
+  * Employer information (2)
   * GST, Excise and indirect taxes (1)
   * General (10)
   * Income tax (1)
-  * Keeping your business safe (1)
   * Large business (2)
-  * Lodging and paying (2)
-  * Lodgment and payment (1)
+  * Lodging and paying (1)
+  * Lodgment and payment (2)
   * Lodgment and reporting (3)
   * New legislation (4)
   * New legislation and policy (2)
-  * Other news (1)
+  * Payday Super (1)
   * Reporting and obligations (1)
   * Super (1)
   * Superannuation (4)
-  * System and processes (3)
+  * System and processes (2)
   * Tax time and reporting (1)
-  * Your practice (1)
 
 
-Show 91 results
+Show 83 results
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * CRT Alerts (1)
   * Compliance (1)
-  * Employer information (4)
+  * Employer information (2)
   * GST, Excise and indirect taxes (1)
   * General (10)
   * Income tax (1)
-  * Keeping your business safe (1)
   * Large business (2)
-  * Lodging and paying (2)
-  * Lodgment and payment (1)
+  * Lodging and paying (1)
+  * Lodgment and payment (2)
   * Lodgment and reporting (3)
   * New legislation (4)
   * New legislation and policy (2)
-  * Other news (1)
+  * Payday Super (1)
   * Reporting and obligations (1)
   * Super (1)
   * Superannuation (4)
-  * System and processes (3)
+  * System and processes (2)
   * Tax time and reporting (1)
-  * Your practice (1)
 
 
-Show 91 results
+Show 83 results
+## [Top 3 questions before requesting lodgment deferrals](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/top-3-questions-before-requesting-lodgment-deferrals)
+Ask yourself these questions before you apply for lodgment deferrals.
+9 March 2026
+## [The countdown is on for Payday Super!](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/the-countdown-is-on-for-payday-super)
+The clock is ticking – actions you can take now to get Payday Super ready.
+6 March 2026
+## [Late payment offset will no longer be available](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/late-payment-offset-will-no-longer-be-available)
+The last time your business can use the late payment offset (LPO) is for the quarter ending 31 March 2026.
+6 March 2026
 ## [Public country-by-country reporting lodgment instructions available](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/public-country-by-country-reporting-lodgment-instructions-available)
 We've now finalised instructions to lodge the Public CBC report.
+5 March 2026
+## [About the Register of Foreign Ownership of Australian Assets](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/about-the-register-of-foreign-ownership-of-australian-assets)
+How the Register of Foreign Ownership of Australian Assets operates.
+5 March 2026
+## [Register of Foreign Ownership of Australian Assets 2024–25 Report](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report)
+The 2024–25 annual report of the Register of Foreign Ownership of Australian Assets.
 5 March 2026
 ## [ATO consultation report](https://www.ato.gov.au/about-ato/consultation/ato-consultation-report)
 Monthly report on ATO consultation activities.
@@ -74,21 +83,4 @@ Penalties apply to businesses who don't lodge their Taxable payments annual repo
 ## [Accessing your super early may be illegal](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/accessing-your-super-early-may-be-illegal)
 Know when you can (and when you can't) access your super early.
 4 March 2026
-## [Make BAS time easier following our 3 tips](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/make-bas-time-easier-following-our-3-tips)
-These simple habits can help you stay on top of your GST.
-4 March 2026
-## [Instructions to complete the Public country-by-country report](https://www.ato.gov.au/forms-and-instructions/instructions-to-complete-the-public-country-by-country-report)
-Guidance for completing the Public country-by-country (CBC) report for a Public CBC reporting parent or entity.
-3 March 2026
-### [Section F: Correcting your Public CBC report](https://www.ato.gov.au/forms-and-instructions/instructions-to-complete-the-public-country-by-country-report/section-f-correcting-your-public-cbc-report)
-How to make amendments to your Public CBC report and correct material errors.
-## [Super processing schedule](https://www.ato.gov.au/tax-and-super-professionals/for-superannuation-professionals/super-funds-newsroom/super-processing-schedule)
-ATO superannuation remittance and recovery processing schedule for February and March 2026.
-3 March 2026
-## [Public country-by-country (CBC) reporting](https://www.ato.gov.au/businesses-and-organisations/corporate-tax-measures-and-assurance/large-business/public-country-by-country-reporting)
-Check how some large multinational enterprises report tax information to the public on a country-by-country (CBC) basis.
-3 March 2026
-## [Critical Minerals Production Tax Incentive](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/production-tax-incentives/critical-minerals-production-tax-incentive)
-How to claim the Critical Minerals Production Tax Incentive (CMPTI) for processing activities in Australia.
-3 March 2026
 Report webpage issue

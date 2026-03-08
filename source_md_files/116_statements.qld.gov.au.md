@@ -2,47 +2,47 @@
   * [Search](https://statements.qld.gov.au/?Search=True)
 
 
-Yesterday at 05:20 PM
-[Reforms delivered to fight antisemitism and keep guns out of the hands of criminals and terrorists](https://statements.qld.gov.au/statements/104631)
-The Crisafulli Government has passed landmark legi...
-Yesterday at 01:30 PM
-[Daubney Review on State Library priorities and governance released ](https://statements.qld.gov.au/statements/104629)
-The State Library of Queensland (SLQ) will action ...
-Yesterday at 12:12 PM
-[Crisafulli Government delivering Sunshine Coast Waterways Authority ](https://statements.qld.gov.au/statements/104630)
-The Crisafulli Government is delivering a plan for...
-Yesterday at 11:00 AM
-[Crisafulli Government delivers exploration opportunities to power next wave of oil, gas, coal and vanadium projects ](https://statements.qld.gov.au/statements/104627)
-The Crisafulli Government is delivering a better l...
-Yesterday at 09:00 AM
-[Rubber hits road on first Regional Roads Connect program ](https://statements.qld.gov.au/statements/104624)
-The Crisafulli Government is getting on with the j...
-Wed 04 Mar 26 at 12:45 PM
-[Crisafulli Government’s State Flying Squad clocks up more than 2,200 arrests ](https://statements.qld.gov.au/statements/104626)
-The Crisafulli Government is making Queensland saf...
-Wed 04 Mar 26 at 10:15 AM
-[Delivering Destination 2045: backing Australia’s events capital](https://statements.qld.gov.au/statements/104619)
-The Crisafulli Government is delivering on its vis...
-Wed 04 Mar 26 at 09:15 AM
-[Strengthening police powers to protect Queensland business precincts ](https://statements.qld.gov.au/statements/104622)
-The Crisafulli Government has introduced legislati...
-Wed 04 Mar 26 at 08:45 AM
-[Reforms to resources safety framework to safeguard resources workers](https://statements.qld.gov.au/statements/104623)
-The Crisafulli Government is making Queensland’s r...
-Tue 03 Mar 26 at 02:55 PM
-[South East Queensland koala habitat to reach new heights](https://statements.qld.gov.au/statements/104615)
-The Crisafulli Government is delivering $1 million...
-Tue 03 Mar 26 at 12:40 PM
-[26,800ML of water unlocked for Whitsunday farmers](https://statements.qld.gov.au/statements/104617)
-The Crisafulli Government is delivering on a key e...
-Tue 03 Mar 26 at 10:51 AM
-[Tough new drug laws to restore consequences for actions ](https://statements.qld.gov.au/statements/104618)
-The Crisafulli Government is restoring consequence...
+Yesterday at 04:32 PM
+[Singapore and India trade mission to deliver for Queensland](https://statements.qld.gov.au/statements/104649)
+The Crisafulli Government is delivering new opport...
+Yesterday at 10:15 AM
+[Supporting women to return to work as Women’s Career Grants ramp up ](https://statements.qld.gov.au/statements/104634)
+The Crisafulli Government continues to deliver for...
+Sat 07 Mar 26 at 09:00 AM
+[Glasshouse Theatre throws open the doors for Community Day celebration ](https://statements.qld.gov.au/statements/104646)
+Thousands of Queenslanders will be invited to expl...
+Sat 07 Mar 26 at 08:45 AM
+[A proud night for Queensland at the Australian Tourism Awards ](https://statements.qld.gov.au/statements/104647)
+The Crisafulli Government’s investment in world-cl...
+Fri 06 Mar 26 at 03:00 PM
+[New appointments across justice portfolio](https://statements.qld.gov.au/statements/104636)
+The Crisafulli Government has announced the appoin...
+Fri 06 Mar 26 at 02:48 PM
+[Statement from the Attorney-General ](https://statements.qld.gov.au/statements/104644)
+Queenslanders witnessed extraordinary disarray and...
+Fri 06 Mar 26 at 02:00 PM
+[Targeted hardship assistance for Charters Towers, and application window extended for six LGAs](https://statements.qld.gov.au/statements/104645)
+The Albanese and Crisafulli Governments have exten...
+Fri 06 Mar 26 at 12:44 PM
+[Women in Manufacturing Apprentice Awards announced](https://statements.qld.gov.au/statements/104640)
+The outstanding achievements of Queensland’s manuf...
+Fri 06 Mar 26 at 11:30 AM
+[Crisafulli Government drives housing delivery in Toowoomba ](https://statements.qld.gov.au/statements/104637)
+The Crisafulli Government has accelerated the deli...
+Fri 06 Mar 26 at 11:00 AM
+[Caboolture-Bribie Island Road duplication complete ahead of schedule](https://statements.qld.gov.au/statements/104638)
+A major infrastructure milestone has been reached ...
+Fri 06 Mar 26 at 10:24 AM
+[Inaugural Quantum Challenge makes big impact ](https://statements.qld.gov.au/statements/104641)
+The Crisafulli Government is launching the inaugur...
+Fri 06 Mar 26 at 09:30 AM
+[Empowering Councils Bill passed to deliver better outcomes for Queenslanders ](https://statements.qld.gov.au/statements/104633)
+The Crisafulli Government has delivered on a key e...
   * [2](https://statements.qld.gov.au/?pageIndex=2)
   * [3](https://statements.qld.gov.au/?pageIndex=3)
   * [4](https://statements.qld.gov.au/?pageIndex=4)
   * [5](https://statements.qld.gov.au/?pageIndex=5)
   * [>](https://statements.qld.gov.au/?pageIndex=2)
-  * [>>](https://statements.qld.gov.au/?pageIndex=155)
+  * [>>](https://statements.qld.gov.au/?pageIndex=156)
 
 

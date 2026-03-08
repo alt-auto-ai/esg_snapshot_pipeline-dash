@@ -1,6 +1,10 @@
 [ Skip to main content ](https://www.chiefscientist.gov.au/news/latest-news#main-content)
 # Latest news
 ### 
+[Fighting fire with science ](https://www.chiefscientist.gov.au/news-and-media/fighting-fire-science)
+Australia’s Chief Scientist, Professor Tony Haymet, recently visited a UNSW exhibition showcasing advanced bushfire research and technology. This cinematic exhibition helps firefighters and communities to better understand the behaviour of fires under different conditions.
+[](https://www.chiefscientist.gov.au/news-and-media/fighting-fire-science)
+### 
 [Prof Haymet addresses Royal Society of NSW annual dinner ](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-addresses-royal-society-nsw-annual-dinner)
 On Friday 27 February, Prof Haymet delivered a speech at the Royal Society of NSW annual dinner.
 [](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-addresses-royal-society-nsw-annual-dinner)
@@ -36,8 +40,4 @@ On Thursday 30 October 2025, Prof Tony Haymet delivered a speech at the Australi
 [Prof Haymet delivers speech at the 2025 International Data Week Conference](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-2025-international-data-week-conference)
 On Monday 13 October, Prof Haymet delivered a speech at the 2025 International Data Week Conference in Brisbane.
 [](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-2025-international-data-week-conference)
-### 
-[Farewell to Prof Jim Peacock](https://www.chiefscientist.gov.au/news-and-media/farewell-prof-jim-peacock)
-Australia's Chief Scientist, Prof Tony Haymet, and the Office of the Chief Scientist are saddened to hear of the passing of Professor Jim Peacock.
-[](https://www.chiefscientist.gov.au/news-and-media/farewell-prof-jim-peacock)
 [▲Back to top](https://www.chiefscientist.gov.au/news/latest-news#top "Back to top")

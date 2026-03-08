@@ -118,3 +118,12 @@ docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pip
 
 
 docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline
+
+
+# Git push workflow
+# Run from: /home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED
+
+git status
+git add -A
+git commit -m "update pipeline"
+git push origin main

@@ -6,9 +6,27 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1176)
+####  News (1178)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News announcement
+  * 6 March 2026
+
+
+[Commission approves €150 million Romanian State aid scheme for electricity storage](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_524)
+The European Commission has approved a €150 million (RON 764 million) Romanian scheme to support electricity storage, in line with the objectives of the Clean Industrial Deal.
+  * 1 min read
+
+
+  * News announcement
+  * 5 March 2026
+
+
+[Energy Union Task Force meets to discuss energy security and prices in Europe](https://energy.ec.europa.eu/news/energy-union-task-force-meets-discuss-energy-security-and-prices-europe-2026-03-05_en)
+In a meeting of the Energy Union Task Force (EU TF) convened by the European Commission today, discussions centered on evaluating Europe’s energy security and prices, amid evolving developments in the Middle East.
+  * 1 min read
+
+
   * News announcement
   * 4 March 2026
 
@@ -79,24 +97,6 @@ The Commission has adopted a Recommendation on the establishment, review and use
 [Executive Vice-President Ribera and Commissioner Jørgensen to discuss energy security, affordability and sustainability with global partners](https://energy.ec.europa.eu/news/executive-vice-president-ribera-and-commissioner-jorgensen-discuss-energy-security-affordability-and-2026-02-17_en)
 The meeting will bring together government and industry representatives from around the world to discuss critical trends in the energy sector. It will focus, in particular, on affordability, sustainability, and security, which are key priorities for the European Commission.
   * 1 min read
-
-
-  * News article
-  * 17 February 2026
-
-
-[5 things you should know about your electricity bill](https://energy.ec.europa.eu/news/5-things-you-should-know-about-your-electricity-bill-2026-02-17_en)
-Did you know that your electricity bill includes more than just the cost of the electricity? Here are 5 things you should know.
-  * 13 min read
-
-
-  * News announcement
-  * 16 February 2026
-
-
-[The Commission seeks views on how to simplify legislation on energy efficient products ](https://energy.ec.europa.eu/news/commission-seeks-views-how-simplify-legislation-energy-efficient-products-2026-02-16_en)
-The call for evidence runs until 12 March.
-  * 2 min read
 
 
 Share this page 

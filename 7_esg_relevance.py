@@ -6,7 +6,6 @@ import glob
 import time
 import chardet
 import argparse
-import yaml
 import asyncio
 import aiohttp
 from dotenv import load_dotenv
@@ -19,18 +18,12 @@ parser = argparse.ArgumentParser(
 group = parser.add_mutually_exclusive_group(required=False)
 group.add_argument("--OAI", action="store_true", help="OpenAI, no web")
 group.add_argument("--OAIW", action="store_true", help="OpenAI, with web")
-group.add_argument("--OLR", action="store_true", help="Ollama reasoning")
-group.add_argument("--OLNR", action="store_true", help="Ollama non-reasoning")
 args = parser.parse_args()
 
 if args.OAI:
     PROFILE = "OAI"
 elif args.OAIW:
     PROFILE = "OAIW"
-elif args.OLR:
-    PROFILE = "OLR"
-elif args.OLNR:
-    PROFILE = "OLNR"
 else:
     PROFILE = "OAI"
 
@@ -39,11 +32,11 @@ load_dotenv()
 
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"story_md_files"
+    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
 )
 INPUT_CSV = os.getenv(
     "INPUT_CSV",
-    r"6_ESG_Summary.csv"
+    r"5_story_jurisdiction.csv"
 )
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
@@ -53,6 +46,7 @@ OUTPUT_CSV = os.getenv(
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
 OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 MAX_RETRIES = int(os.getenv("OPENAI_MAX_RETRIES", "3"))
 BASE_BACKOFF = float(os.getenv("OPENAI_BACKOFF_SECONDS", "1.0"))
 rpm_limiter = AsyncLimiter(OPENAI_RPM, time_period=60)
@@ -64,8 +58,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
     }
@@ -77,31 +79,29 @@ def load_profile_config(profile: str):
 
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 200
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 
 if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
 
-# Prompt path from script only
-PROMPT_FILE_PATH = r"7_esg_relevance copy.yaml"
+SYSTEM_PROMPT = (
+    "You are a strict Environmental, Social, and Governance (ESG) relevance rater. The input is a markdown (.md) file containing raw webpage content from a general news story. Identify and evaluate only the main news story in the file, ignoring navigation, headers, footers, repeated sections, and other webpage elements. Do not assume the story is ESG-related. Score only to the extent that the story clearly contains the specified ESG characteristic. Return only a single integer from 0 to 10 (no words, no punctuation, no explanation)."
+)
 
-
-def load_prompt_yaml(path):
-    with open(path, "r", encoding="utf-8") as f:
-        data = yaml.safe_load(f) or {}
-    system = data.get("system", "")
-    user_template = data.get("user_template", "{{markdown}}")
-    hints = (data.get("profile_hints") or {}).get(PROFILE, "")
-    return system, user_template, hints
-
-
-SYSTEM_PROMPT, USER_TEMPLATE, PROFILE_HINT = load_prompt_yaml(PROMPT_FILE_PATH)
-
-
-def render_user_prompt(md):
-    return USER_TEMPLATE.replace("{{markdown}}", md)
+RATING_PROMPTS = {
+    "Cross_sector_relevance": "Rate the main story in this markdown file from 0 to 10 for direct relevance across multiple business sectors in the Environmental, Social, and Governance (ESG) landscape; score 0 if the story does not clearly involve ESG-relevant cross-sector business relevance, and score low if relevance is narrow, indirect, political, or non-business; return only one integer from 0 to 10.",
+    "Policy_significance": "Rate the main story in this markdown file from 0 to 10 for direct Environmental, Social, and Governance (ESG) policy, regulatory, legislative, or statutory significance; score 0 if the story does not clearly involve ESG policy implications, and score low if it is mainly political, diplomatic, or administrative without clear ESG policy implications; return only one integer from 0 to 10.",
+    "Business_risk_opportunity": "Rate the main story in this markdown file from 0 to 10 for clear and material Environmental, Social, and Governance (ESG)-related business risks and/or opportunities; score 0 if the story does not clearly create or signal ESG-related business risks or opportunities, and score low if impacts are vague, indirect, or not clearly relevant to organisations; return only one integer from 0 to 10.",
+    "Strategic_ESG_signal": "Rate the main story in this markdown file from 0 to 10 for how strongly it signals a meaningful Environmental, Social, and Governance (ESG) shift, direction, or emerging trend; score 0 if the story does not clearly indicate an ESG-related shift, direction, or trend, and score low if it does not clearly indicate broader ESG change; return only one integer from 0 to 10.",
+    "Corporate_governance_relevance": "Rate the main story in this markdown file from 0 to 10 for direct relevance to board, executive, or governance decision-making on Environmental, Social, and Governance (ESG) matters; score 0 if the story is not clearly relevant to ESG-related governance decision-making, and score low if it is operational, political, or not governance-relevant; return only one integer from 0 to 10.",
+    "Forward_looking_insight": "Rate the main story in this markdown file from 0 to 10 for clear insight into future Environmental, Social, and Governance (ESG) developments; score 0 if the story does not clearly provide future-oriented ESG insight, and score low if it mainly reports a current event without meaningful future ESG implications; return only one integer from 0 to 10.",
+    "Member Relevance": "Rate the main story in this markdown file from 0 to 10 for direct relevance to sectors such as finance, infrastructure, consulting, energy, mobility, forestry, higher education, research, Indigenous business, and diversified holdings; score 0 if the story is not clearly relevant to these sectors in an ESG-relevant way, and score low if sector relevance is weak, indirect, or incidental; return only one integer from 0 to 10.",
+}
 
 
 def read_text_file(path):
@@ -116,17 +116,15 @@ def strip_code_fences(s: str):
     return m.group(1) if m else s
 
 
-def normalize_relevance(raw: str) -> str:
+def normalize_rating(raw: str) -> str:
     text = strip_code_fences(raw or "").strip()
     if not text:
         return ""
-
-    m = re.search(r"\b(High|Low|Medium)\b", text, flags=re.IGNORECASE)
+    m = re.search(r"\b(10|[0-9])\b", text)
     if not m:
         return ""
-
-    value = m.group(1).lower()
-    return value.capitalize()
+    value = int(m.group(1))
+    return str(value) if 0 <= value <= 10 else ""
 
 
 def resolve_md_path(md_file: str) -> str:
@@ -154,50 +152,86 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
     if not OPENAI_API_KEY:
         raise RuntimeError("OPENAI_API_KEY is missing")
 
-    system_block = SYSTEM_PROMPT + ("\n\n" + PROFILE_HINT if PROFILE_HINT else "")
+    system_block = SYSTEM_PROMPT
     if with_web:
         system_block += "\n\nNOTE: Web search not enabled."
 
-    user_block = render_user_prompt(markdown_text)
+    def build_payload(prompt_text):
+        user_block = f"{prompt_text}\n\n--- INPUT MARKDOWN (Begin) ---\n{markdown_text}\n--- INPUT MARKDOWN (End) ---"
+        if MODEL_SERIES == "gpt5":
+            return (
+                f"{OPENAI_BASE_URL}/responses",
+                {
+                    "model": MODEL_NAME,
+                    "input": [
+                        {"role": "system", "content": system_block},
+                        {"role": "user", "content": user_block},
+                    ],
+                    "reasoning": {"effort": GPT5_REASONING_EFFORT},
+                    "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+                    "max_output_tokens": MAX_TOKENS,
+                },
+            )
+        return (
+            f"{OPENAI_BASE_URL}/chat/completions",
+            {
+                "model": MODEL_NAME,
+                "messages": [
+                    {"role": "system", "content": system_block},
+                    {"role": "user", "content": user_block},
+                ],
+                "temperature": TEMPERATURE,
+                "max_tokens": MAX_TOKENS,
+            },
+        )
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": system_block},
-            {"role": "user", "content": user_block},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-    }
+    def extract_text(data):
+        if MODEL_SERIES == "gpt5":
+            txt = (data.get("output_text") or "").strip()
+            if txt:
+                return txt
+            out = data.get("output") or []
+            chunks = []
+            for item in out:
+                for c in (item.get("content") or []):
+                    if c.get("type") in {"output_text", "text"} and c.get("text"):
+                        chunks.append(c["text"])
+            return "\n".join(chunks).strip()
+        return ((data.get("choices") or [{}])[0].get("message", {}).get("content", "") or "").strip()
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
     }
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            async with rpm_limiter:
-                async with session.post(url, json=payload, headers=headers, timeout=120) as resp:
-                    text = await resp.text()
-                    if resp.status in (429, 500, 502, 503, 504):
-                        if attempt < MAX_RETRIES:
-                            delay = BASE_BACKOFF * (2 ** (attempt - 1))
-                            await asyncio.sleep(delay)
-                            continue
+    ratings = {}
+    for col, prompt_text in RATING_PROMPTS.items():
+        got = ""
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                url, payload = build_payload(prompt_text)
+                async with rpm_limiter:
+                    async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
+                        text = await resp.text()
+                        if resp.status in (429, 500, 502, 503, 504):
+                            if attempt < MAX_RETRIES:
+                                delay = BASE_BACKOFF * (2 ** (attempt - 1))
+                                await asyncio.sleep(delay)
+                                continue
+                            resp.raise_for_status()
+
                         resp.raise_for_status()
+                        data = json.loads(text)
+                        got = normalize_rating(extract_text(data))
+                        break
+            except (aiohttp.ClientError, asyncio.TimeoutError):
+                if attempt < MAX_RETRIES:
+                    delay = BASE_BACKOFF * (2 ** (attempt - 1))
+                    await asyncio.sleep(delay)
+                    continue
+                raise RuntimeError(f"[{file_name}] Exhausted retries for {col}")
+        ratings[col] = got
 
-                    resp.raise_for_status()
-                    data = json.loads(text)
-                    return strip_code_fences(data["choices"][0]["message"]["content"].strip())
-        except (aiohttp.ClientError, asyncio.TimeoutError):
-            if attempt < MAX_RETRIES:
-                delay = BASE_BACKOFF * (2 ** (attempt - 1))
-                await asyncio.sleep(delay)
-                continue
-            raise RuntimeError(f"[{file_name}] Exhausted retries")
-
-    raise RuntimeError(f"[{file_name}] Exhausted retries")
+    return ratings
 
 
 async def process_md_file_async(session, md_file, sem, idx, total):
@@ -206,7 +240,7 @@ async def process_md_file_async(session, md_file, sem, idx, total):
         md_path = resolve_md_path(md_file)
         if not md_path:
             print(f"   ❌ [{md_file}] File not found in {SOURCE_DIR}")
-            return md_file, ""
+            return md_file, {}
 
         md_text = read_text_file(md_path)
         print(f"   📄 [{md_file}] File loaded ({len(md_text)} chars).")
@@ -218,11 +252,10 @@ async def process_md_file_async(session, md_file, sem, idx, total):
             print(f"   ✅ [{md_file}] API call completed in {duration:.2f}s.")
         except Exception as e:
             print(f"   ❌ [{md_file}] API failed: {e}")
-            return md_file, ""
+            return md_file, {}
 
-        relevance = normalize_relevance(raw)
-        print(f"   📊 [{md_file}] ESG_Relevance={relevance or 'EMPTY'}")
-        return md_file, relevance
+        print(f"   📊 [{md_file}] Ratings={raw}")
+        return md_file, raw
 
 
 async def main_async():
@@ -255,15 +288,15 @@ async def main_async():
 
     unique_md_files = sorted({(r.get(md_field) or "").strip() for r in candidates})
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
-    print(f"[PROMPT]  {PROMPT_FILE_PATH}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[INPUT ]  {INPUT_CSV}")
     print(f"[MD DIR]  {SOURCE_DIR}")
     print(f"[OUTPUT]  {OUTPUT_CSV}")
     print(f"[INFO]    ESG='Yes' rows: {len(candidates)} | unique md files: {len(unique_md_files)}")
+    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
     relevance_map = {}
-    concurrency_limit = int(os.getenv("LOCAL_CONCURRENCY", "16"))
+    concurrency_limit = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(concurrency_limit)
     connector = aiohttp.TCPConnector(limit=concurrency_limit, limit_per_host=concurrency_limit)
 
@@ -277,9 +310,8 @@ async def main_async():
             md_file, relevance = await coro
             relevance_map[md_file] = relevance
 
-    fieldnames_out = list(fieldnames)
-    if "ESG_Relevance" not in fieldnames_out:
-        fieldnames_out.append("ESG_Relevance")
+    rating_cols = list(RATING_PROMPTS.keys())
+    fieldnames_out = [f for f in fieldnames if f not in rating_cols] + rating_cols
 
     print("\n📁 Writing results to CSV...")
     with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
@@ -287,10 +319,12 @@ async def main_async():
         writer.writeheader()
 
         for row in rows:
-            out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
+            out_row = {k: (row.get(k) or "").strip() for k in fieldnames if k in fieldnames_out}
             md_file = (row.get(md_field) or "").strip()
             esg = (row.get(esg_field) or "").strip().lower()
-            out_row["ESG_Relevance"] = relevance_map.get(md_file, "") if esg == "yes" else ""
+            ratings = relevance_map.get(md_file, {}) if esg == "yes" else {}
+            for col in rating_cols:
+                out_row[col] = ratings.get(col, "")
             writer.writerow(out_row)
 
     print(f"\n✅ [DONE] Wrote {len(rows)} rows → {OUTPUT_CSV}")

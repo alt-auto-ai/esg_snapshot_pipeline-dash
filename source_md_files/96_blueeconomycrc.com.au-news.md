@@ -2,8 +2,9 @@
 [Connect Hub](https://connectblueeconomycrc.com.au/login?ec=302&startURL=%2Fs%2F)
 [](https://blueeconomycrc.com.au/)
 [Connect Hub](https://connectblueeconomycrc.com.au/login?ec=302&startURL=%2Fs%2F)
-# Latest News
-Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts by Anneka Ferguson")2025-08-05T12:27:48+10:00
+Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts by Anneka Ferguson")2026-03-06T10:36:24+11:00
+# LATEST
+# News
   * [Enabling a sustainable blue economy in the Bay of Bengal](https://blueeconomycrc.com.au/enabling-sustainable-blue-economy-in-the-bay-of-bengal/) [](https://blueeconomycrc.com.au/enabling-sustainable-blue-economy-in-the-bay-of-bengal/)
 
 
@@ -77,7 +78,7 @@ The Blue Economy Cooperative Research Centre (CRC) is established and supported 
   * [Partners](https://blueeconomycrc.com.au/partners/)
   * [Education](https://blueeconomycrc.com.au/education/)
   * [Privacy Policy](https://blueeconomycrc.com.au/about/privacy-policy/)
-  * [WH&S Policy](https://blueeconomycrc.com.au/wp-content/uploads/2021/06/BECRC-Policy-Work-health-and-safety.pdf)
+  * [WH&S Policy](https://blueeconomycrc.com.au/wp-content/uploads/2021/06/BECRC-Policy-Work-health-and-safety.pdf?x21300)
 
 
   * [Impact Pillars](https://blueeconomycrc.com.au/impact-pillars/)

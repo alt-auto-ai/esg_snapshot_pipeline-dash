@@ -1,17 +1,10 @@
-You
-###  Browser 
-Working
-Melbourne Working
-www.chiefscientist.nsw.gov.au
-###  Host 
-Error
-## What happened?
-The web server reported a bad gateway error.
-## What can I do?
-Please try again in a few minutes.
-Cloudflare Ray ID: **9d7ab01d9b45c78d** • Your IP: Click to reveal 180.181.249.115 • Performance & security by
 A NSW Government website
 # News
+Industry Development
+6 March 2026 
+[NSW Government Gives $20 Million Boost to Innovative Small Business](https://www.chiefscientist.nsw.gov.au/news/nsw-government-gives-$20-million-boost-to-innovative-small-business)
+NSW Government announces successful grant recipients in the Biosciences Fund and RNA Pipeline Grants, and opens new $20 million Emerging Technologies Commercialisation Fund.
+east
 Events
 20 November 2025 
 [World-leading Mathematician Professor Nalini Joshi named NSW Scientist of the Year](https://www.chiefscientist.nsw.gov.au/news/world-leading-mathematician-professor-nalini-joshi-named-nsw-scientist-of-the-year)
@@ -36,9 +29,4 @@ STEM Outreach
 29 August 2025 
 [Inspiring the Next Generation of STEM Professionals](https://www.chiefscientist.nsw.gov.au/news/inspiring-the-next-generation-of-stem-professionals)
 The NSW Government has opened the 2026 Supporting Young Scientists Equity and Access Program (Program), which supports future scientists, technologists, engineers and mathematicians across the state to participate in STEM-related competitions, courses and events.
-east
-Industry Development
-22 July 2025 
-[NSW strengthens biotech leadership with over $23 million of investment in RNA research, training, and commercialisation](https://www.chiefscientist.nsw.gov.au/news/NSW-strengthens-biotech-leadership-with-over-$23-million-of-investment-in-RNA-research,-training,-and-commercialisation)
-NSW today took an important step forward in its healthcare and biotechnology capabilities with the launch of the $17.6 million NSW RNA Research and Training Network.
 east

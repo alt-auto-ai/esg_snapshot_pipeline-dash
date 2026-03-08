@@ -21,8 +21,6 @@ parser = argparse.ArgumentParser(
 group = parser.add_mutually_exclusive_group(required=False)
 group.add_argument("--OAI", action="store_true", help="OpenAI, no web")
 group.add_argument("--OAIW", action="store_true", help="OpenAI, with web")
-group.add_argument("--OLR", action="store_true", help="Ollama reasoning")
-group.add_argument("--OLNR", action="store_true", help="Ollama non-reasoning")
 args = parser.parse_args()
 
 # ✅ Default to OAI
@@ -30,10 +28,6 @@ if args.OAI:
     PROFILE = "OAI"
 elif args.OAIW:
     PROFILE = "OAIW"
-elif args.OLR:
-    PROFILE = "OLR"
-elif args.OLNR:
-    PROFILE = "OLNR"
 else:
     PROFILE = "OAI"
 
@@ -43,7 +37,7 @@ load_dotenv()
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"story_md_files"
+    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
 )
 INPUT_CSV = os.getenv(
     "INPUT_CSV",
@@ -55,9 +49,9 @@ OUTPUT_CSV = os.getenv(
 )
 
 # API config
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 
 # 🔒 Rate limits (per-minute)
 OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))  # Tier-4 default
@@ -69,8 +63,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
         "PROMPT_FILE": get_env(f"{px}_PROMPT_FILE", "5_story_filter_jurisdiction.yaml"),
@@ -82,10 +84,13 @@ def load_profile_config(profile: str):
     return cfg
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 2000
 PROMPT_FILE = CFG["PROMPT_FILE"]
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 
 ALLOWED_JURISDICTIONS = [
     "National",
@@ -138,6 +143,18 @@ def strip_code_fences(s: str):
     m = re.match(r"^```(?:json)?\s*(.*?)\s*```$", s.strip(), re.DOTALL | re.IGNORECASE)
     return m.group(1) if m else s
 
+def extract_responses_text(data):
+    txt = (data.get("output_text") or "").strip()
+    if txt:
+        return txt
+    out = data.get("output") or []
+    chunks = []
+    for item in out:
+        for c in (item.get("content") or []):
+            if c.get("type") in {"output_text", "text"} and c.get("text"):
+                chunks.append(c["text"])
+    return "\n".join(chunks).strip()
+
 # ----------------- Async Calls -----------------
 async def call_openai_async(session, markdown_text, with_web, file_name):
     if not OPENAI_API_KEY:
@@ -149,16 +166,29 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
 
     user_block = render_user_prompt(markdown_text)
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": system_block},
-            {"role": "user", "content": user_block},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-    }
+    if MODEL_SERIES == "gpt5":
+        url = f"{OPENAI_BASE_URL}/responses"
+        payload = {
+            "model": MODEL_NAME,
+            "input": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "reasoning": {"effort": GPT5_REASONING_EFFORT},
+            "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+            "max_output_tokens": MAX_TOKENS,
+        }
+    else:
+        url = f"{OPENAI_BASE_URL}/chat/completions"
+        payload = {
+            "model": MODEL_NAME,
+            "messages": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
+        }
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
@@ -167,23 +197,31 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
     print(f"   📤 [{file_name}] Sending request to OpenAI...")
 
     async with rpm_limiter:  # ✅ global RPM guard
-        async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+        async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
             if resp.status in (429, 500, 502, 503, 504):
                 retry_after = float(resp.headers.get("retry-after", "1"))
                 text = await resp.text()
                 print(f"   ⏳ [{file_name}] HTTP {resp.status}, retrying in {retry_after}s… [{text[:120]}]")
                 await asyncio.sleep(retry_after)
                 async with rpm_limiter:
-                    async with session.post(url, json=payload, headers=headers, timeout=180) as resp2:
+                    async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp2:
                         resp2.raise_for_status()
                         data = await resp2.json()
                         print(f"   📬 [{file_name}] Response received ({len(json.dumps(data))} bytes).")
-                        return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+                        if MODEL_SERIES == "gpt5":
+                            content = extract_responses_text(data)
+                        else:
+                            content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+                        return strip_code_fences((content or "").strip())
 
             resp.raise_for_status()
             data = await resp.json()
             print(f"   📬 [{file_name}] Response received ({len(json.dumps(data))} bytes).")
-            return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+            if MODEL_SERIES == "gpt5":
+                content = extract_responses_text(data)
+            else:
+                content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+            return strip_code_fences((content or "").strip())
 
 def extract_jurisdiction_only(raw):
     """
@@ -278,18 +316,18 @@ async def main_async():
     if not input_rows or not required_cols.issubset(set(fieldnames)):
         raise SystemExit("[INPUT ERROR] CSV must have columns: Date, Title, URL, md_file, ESG_or_not, Story_Type")
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT]  {PROMPT_FILE_PATH}")
     print(f"[INPUT ]  {INPUT_CSV}")
     print(f"[MD DIR]  {SOURCE_DIR}")
     print(f"[OUTPUT]  {OUTPUT_CSV}")
-    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min")
+    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
     # Prepare tasks only for ESG_or_not == 'Yes'
     candidates = [r for r in input_rows if (r.get("ESG_or_not") or "").strip().lower() == "yes"]
     md_list = [r.get("md_file", "").strip() for r in candidates if r.get("md_file")]
 
-    CONCURRENCY_LIMIT = int(os.getenv("LOCAL_CONCURRENCY", "16"))
+    CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
     jurisdiction_map = {}  # md_file -> jurisdiction

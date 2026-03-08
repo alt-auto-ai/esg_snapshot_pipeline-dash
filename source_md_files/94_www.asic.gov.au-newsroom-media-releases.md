@@ -1,4 +1,9 @@
 Media releases 
+  * ### [ASIC files Court action to wind up Liberty Bell Bay after failures to lodge financial reports](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-041mr-asic-files-court-action-to-wind-up-liberty-bell-bay-after-failures-to-lodge-financial-reports/)
+companiesmedia release (26-041MR)
+6 March 2026
+companiesdealing with asicfinancial reporting
+ASIC has filed an application in the Supreme Court of New South Wales to wind up Liberty Bell Bay Pty Ltd following its failures to lodge annual financial reports with ASIC.
   * ### [Federal Court finds two Star Entertainment senior executives breached duties, non-executive directors did not breach duties](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-040mr-federal-court-finds-two-star-entertainment-senior-executives-breached-duties-non-executive-directors-did-not-breach-duties/)
 companiesmedia release (26-040MR)
 5 March 2026
@@ -54,13 +59,13 @@ managed investment schemesmedia release (26-030MR)
 18 February 2026
 managed investment schemes
 Fundhost Limited (Fundhost) has paid $19,800 to comply with an infringement notice issued by ASIC in which ASIC alleged Fundhost, as responsible entity of the Polen Capital Global Growth Fund (Fund), made false or misleading representations about the performance of the Fund.
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC commences new review of advice licensees that use lead generation services](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-029mr-asic-commences-new-review-of-advice-licensees-that-use-lead-generation-services/)
 financial advicemedia release (26-029MR)
 18 February 2026
 financial advicemanaged investment schemessuperannuation
 ASIC has commenced a new review of advice licensees using lead generation services as part of its ongoing program of work to address practices that inappropriately or unnecessarily encourage consumers to switch their superannuation.
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC cancels AFS licence of Superfast AM Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-028mr-asic-cancels-afs-licence-of-superfast-am-pty-ltd/)
 bannings and alertsmedia release (26-028MR)
 17 February 2026

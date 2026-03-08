@@ -109,7 +109,7 @@ const slim = esgRows.map((r, idx) => ({
   URL: r["URL"] || "",
   Story_Type: r["Story_Type"] || "",
   Jurisdiction: r["Jurisdiction"] || "",
-  ESG_Relevance: r["ESG_Relevance"] || "",
+  ESG_Relevance: r["Relevance"] || r["ESG_Relevance"] || "",
   Out1: sanitizeOutput(r["Output 1"]),
   Out2: sanitizeOutput(r["Output 2"]),
   Out3: sanitizeOutput(r["Output 3"]),
@@ -152,11 +152,11 @@ const html = `<!DOCTYPE html>
   *, *::before, *::after { box-sizing: border-box; }
   body {
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
-    background: #f5f5f5; color: #222; margin: 0; padding: 20px 20px 100px;
+    background: #3a3f44; color: #222; margin: 0; padding: 20px 20px 100px;
   }
   .container { max-width: 1100px; margin: 0 auto; }
-  h1 { font-size: 1.6rem; margin-bottom: 4px; }
-  .counter { font-size: 0.95rem; color: #555; margin-bottom: 24px; }
+  h1 { font-size: 1.6rem; margin-bottom: 4px; color: #f1f1f1; }
+  .counter { font-size: 0.95rem; color: #d0d0d0; margin-bottom: 24px; }
   h2.jurisdiction-header {
     font-size: 1.35rem; margin: 32px 0 8px; padding: 8px 12px;
     background: #37474f; color: #fff; border-radius: 6px;
@@ -224,7 +224,7 @@ const html = `<!DOCTYPE html>
 
   .empty-msg { display: none; color: #888; font-style: italic; margin: 40px 0; text-align: center; }
 
-  .aux-section-title { margin: 36px 0 10px; font-size: 1.25rem; }
+  .aux-section-title { margin: 36px 0 10px; font-size: 1.25rem; color: #f1f1f1; }
   .aux-root { margin-bottom: 20px; }
   .aux-card {
     background: #fff; border: 1px solid #ddd; border-radius: 8px;
@@ -352,7 +352,9 @@ function bulletHtml(text) {
 function buildCardBody(s) {
   const st = s.Story_Type;
   const o1 = s.Out1, o2 = s.Out2, o3 = s.Out3, o4 = s.Out4, o5 = s.Out5, o6 = s.Out6;
-  if (![o1,o2,o3,o4,o5,o6].some(Boolean)) return "";
+  const hook = (s.Hook || "").trim();
+  const oneLiner = (s.OneLiner || "").trim();
+  if (![o1,o2,o3,o4,o5,o6,hook,oneLiner].some(Boolean)) return "";
   let h = "";
   switch (st) {
     case "Community, First Nations, and Social Licence Initiatives":
@@ -427,6 +429,8 @@ function buildCardBody(s) {
       // Unknown type — show whatever outputs exist
       [o1,o2,o3,o4,o5,o6].filter(Boolean).forEach(x => { h += pHtml(x); });
   }
+  if (hook) h += '<p><strong>' + esc(hook) + '</strong></p>';
+  if (oneLiner) h += pHtml(oneLiner);
   return h;
 }
 
@@ -710,11 +714,11 @@ function markCard(el) {
 document.addEventListener('mousedown', (e) => {
   if (e.button !== 0) return; // left-click only
   if (e.target.closest('a, button, .ctx-menu')) return;
+  if (e.target.closest('.gen-doc-bar')) return;
   const card = e.target.closest('.story-card, .aux-card');
-  if (!card) return;
   clearDragSelection();
   isDragging = true;
-  markCard(card);
+  if (card) markCard(card);
 });
 
 document.addEventListener('mousemove', (e) => {

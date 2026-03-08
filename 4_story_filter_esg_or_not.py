@@ -44,7 +44,7 @@ load_dotenv()
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"story_md_files"
+    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
 )
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
@@ -56,9 +56,9 @@ INPUT_LINKS_CSV = os.getenv(  # NEW: CSV with Date,Title,URL,md_file
 )  # NEW
 
 # API config
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 
 # 🔒 Rate limits (per-minute)
 OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))  # Tier-4 default
@@ -70,8 +70,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
         "PROMPT_FILE": get_env(f"{px}_PROMPT_FILE", "4_story_filter_esg_or_not.yaml"),
@@ -83,16 +91,21 @@ def load_profile_config(profile: str):
     return cfg
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 2000
 PROMPT_FILE = CFG["PROMPT_FILE"]
 
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
+
 if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
 
 # ----------------- Prompt loading -----------------
-PROMPT_FILE_PATH = r"4_story_filter_esg_or_not.yaml"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROMPT_FILE_PATH = os.path.join(SCRIPT_DIR, PROMPT_FILE)
 
 def load_prompt_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -103,22 +116,8 @@ def load_prompt_yaml(path):
     return system, user_template, hints
 
 SYSTEM_PROMPT, USER_TEMPLATE, PROFILE_HINT = load_prompt_yaml(PROMPT_FILE_PATH)
-
-# 🔧 Minimal-change override: ESG-only (ignore jurisdiction entirely)
-SYSTEM_PROMPT = (
-    SYSTEM_PROMPT
-    + "\n\nOVERRIDE: Ignore any instructions about 'Jurisdiction'. "
-      "Only perform task (1) and return STRICT JSON with exactly one key: "
-      "{\"ESG_or_not\":\"Yes\"|\"No\"}."
-)
 def render_user_prompt(md):
-    return (
-        "---- INPUT MARKDOWN (Begin) ----\n"
-        f"{md}\n"
-        "---- INPUT MARKDOWN (End) ----\n\n"
-        "Return STRICT JSON now with exactly one key:\n"
-        "{ \"ESG_or_not\": \"Yes\" | \"No\" }"
-    )
+    return USER_TEMPLATE.replace("{{markdown}}", md)
 
 # ----------------- Time window (unused) -----------------
 TZ = ZoneInfo("Australia/Melbourne")
@@ -136,6 +135,18 @@ def read_text_file(path):
 def strip_code_fences(s: str):
     m = re.match(r"^```(?:json)?\s*(.*?)\s*```$", s.strip(), re.DOTALL | re.IGNORECASE)
     return m.group(1) if m else s
+
+def extract_responses_text(data):
+    txt = (data.get("output_text") or "").strip()
+    if txt:
+        return txt
+    out = data.get("output") or []
+    chunks = []
+    for item in out:
+        for c in (item.get("content") or []):
+            if c.get("type") in {"output_text", "text"} and c.get("text"):
+                chunks.append(c["text"])
+    return "\n".join(chunks).strip()
 
 # NEW: load mapping (md_file -> {Date, Title, URL, md_file})
 def load_links_mapping(csv_path):
@@ -170,16 +181,29 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
 
     user_block = render_user_prompt(markdown_text)
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": system_block},
-            {"role": "user", "content": user_block},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-    }
+    if MODEL_SERIES == "gpt5":
+        url = f"{OPENAI_BASE_URL}/responses"
+        payload = {
+            "model": MODEL_NAME,
+            "input": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "reasoning": {"effort": GPT5_REASONING_EFFORT},
+            "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+            "max_output_tokens": MAX_TOKENS,
+        }
+    else:
+        url = f"{OPENAI_BASE_URL}/chat/completions"
+        payload = {
+            "model": MODEL_NAME,
+            "messages": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
+        }
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
@@ -188,23 +212,31 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
     print(f"   📤 [{file_name}] Sending request to OpenAI...")
 
     async with rpm_limiter:  # ✅ global RPM guard
-        async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+        async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
             if resp.status in (429, 500, 502, 503, 504):
                 retry_after = float(resp.headers.get("retry-after", "1"))
                 text = await resp.text()
                 print(f"   ⏳ [{file_name}] HTTP {resp.status}, retrying in {retry_after}s… [{text[:120]}]")
                 await asyncio.sleep(retry_after)
                 async with rpm_limiter:
-                    async with session.post(url, json=payload, headers=headers, timeout=180) as resp2:
+                    async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp2:
                         resp2.raise_for_status()
                         data = await resp2.json()
                         print(f"   📬 [{file_name}] Response received ({len(json.dumps(data))} bytes).")
-                        return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+                        if MODEL_SERIES == "gpt5":
+                            content = extract_responses_text(data)
+                        else:
+                            content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+                        return strip_code_fences((content or "").strip())
 
             resp.raise_for_status()
             data = await resp.json()
             print(f"   📬 [{file_name}] Response received ({len(json.dumps(data))} bytes).")
-            return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+            if MODEL_SERIES == "gpt5":
+                content = extract_responses_text(data)
+            else:
+                content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+            return strip_code_fences((content or "").strip())
 
 def extract_esg_only(raw):
     """
@@ -256,31 +288,33 @@ async def main_async():
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
     md_files = sorted(glob.glob(os.path.join(SOURCE_DIR, "*.md")))
-    if not md_files:
-        print("[INFO] No .md files found.")
-        return
 
     # NEW: load mapping once
     links_map = load_links_mapping(INPUT_LINKS_CSV)  # NEW
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT] {PROMPT_FILE_PATH}")
     print(f"[INPUT ] {SOURCE_DIR}")
     print(f"[MAP   ] {INPUT_LINKS_CSV}")  # NEW
     print(f"[OUTPUT] {OUTPUT_CSV}")
-    print(f"[LIMITS] OPENAI_RPM={OPENAI_RPM} req/min")
+    print(f"[LIMITS] OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
-    CONCURRENCY_LIMIT = int(os.getenv("LOCAL_CONCURRENCY", "16"))
+    CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
-    async with aiohttp.ClientSession() as session:
-        tasks = [
-            process_file_async(session, path, sem, idx=i + 1, total=len(md_files))
-            for i, path in enumerate(md_files)
-        ]
-        results = await asyncio.gather(*tasks)
+    rows = []
+    if md_files:
+        async with aiohttp.ClientSession() as session:
+            tasks = [
+                process_file_async(session, path, sem, idx=i + 1, total=len(md_files))
+                for i, path in enumerate(md_files)
+            ]
+            results = await asyncio.gather(*tasks)
+        rows = [r for r in results if r is not None]
+    else:
+        print("[INFO] No .md files found in source directory; rows will default to ESG_or_not='No'.")
 
-    rows = [r for r in results if r is not None]
+    ai_by_md = {r.get("File Name", ""): r.get("ESG_or_not", "") for r in rows if r.get("File Name")}
 
     print("\n📁 Writing results to CSV...")
     with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
@@ -288,18 +322,19 @@ async def main_async():
         fieldnames = ["Date", "Title", "URL", "md_file", "ESG_or_not"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for r in rows:
-            md_file = r.get("File Name", "")
-            meta = links_map.get(md_file, {"Date": "", "Title": "", "URL": "", "md_file": md_file})
+        for md_file, meta in links_map.items():
+            esg_val = ai_by_md.get(md_file, "No")
+            if esg_val not in ("Yes", "No"):
+                esg_val = "No"
             writer.writerow({
                 "Date": meta.get("Date", ""),
                 "Title": meta.get("Title", ""),
                 "URL": meta.get("URL", ""),
                 "md_file": meta.get("md_file", md_file),
-                "ESG_or_not": r.get("ESG_or_not", ""),
+                "ESG_or_not": esg_val,
             })
 
-    print(f"\n✅ [DONE] Wrote {len(rows)} rows from {len(md_files)} files → {OUTPUT_CSV}")
+    print(f"\n✅ [DONE] Wrote {len(links_map)} rows from {len(md_files)} files → {OUTPUT_CSV}")
 
 if __name__ == "__main__":
     asyncio.run(main_async())

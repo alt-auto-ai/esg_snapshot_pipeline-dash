@@ -29,10 +29,3 @@ system: |
   - Do not deduplicate by title unless title+url clearly refer to the same story.
   - If an item has title+url but date is missing in the block, omit it.
 
-user_template: |
-  --- INPUT MARKDOWN (Begin) ---
-  {{markdown}}
-  --- INPUT MARKDOWN (End) ---
-
-  Return JSON now.
-

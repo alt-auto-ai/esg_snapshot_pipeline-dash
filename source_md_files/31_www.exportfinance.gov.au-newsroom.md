@@ -1,4 +1,3 @@
-Newsroom
 # Newsroom
 For all media enquiries, including requests for information, comment, interviews or imagery, please email 
 Filter by

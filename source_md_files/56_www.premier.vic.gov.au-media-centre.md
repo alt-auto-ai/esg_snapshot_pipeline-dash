@@ -3,33 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
+  * 8 Mar 2026
+### [Violence Reduction Unit Deploying In Mernda](https://www.premier.vic.gov.au/violence-reduction-unit-deploying-mernda)
+Incidents like this shock our community and it’s why the Allan Labor Government is taking a no tolerance approach against violent crime through a comb...
+  * 8 Mar 2026
+### [Record-Breaking F1 Hits Full Throttle](https://www.premier.vic.gov.au/record-breaking-f1-hits-full-throttle)
+Labor backs Victoria’s major events calendar, because it boosts our economy and supports almost 300,000 jobs. Minister Dimopoulos today opened the gat...
+  * 7 Mar 2026
+### [More Free Pads And Tampons To Save Time And Money](https://www.premier.vic.gov.au/more-free-pads-and-tampons-save-time-and-money)
+Pads and tampons are a necessity, not a luxury. No one should have to miss out on work, skip class or the sport they love because they can’t afford pe...
+  * 6 Mar 2026
+### [Tones And I Show To Boost Bushfire Recovery Efforts](https://www.premier.vic.gov.au/tones-and-i-show-boost-bushfire-recovery-efforts)
+Labor is backing a bushfire recovery concert in Longwood this weekend to help attract visitors and provide a much needed boost for local businesses. M...
+  * 6 Mar 2026
+### [Cost Of Living Support And A Growing Economy](https://www.premier.vic.gov.au/cost-living-support-and-growing-economy)
+The Allan Labor Government is creating jobs, helping Victorians with the cost of living while investing in the services people rely on. The Mid-Year F...
+  * 6 Mar 2026
+### [Let There Be Light – Bendigo Netball Receives New Lighting](https://www.premier.vic.gov.au/let-there-be-light-bendigo-netball-receives-new-lighting)
+The Labor Government is backing regional communities and supporting local athletes to play the sports they love, with upgraded lighting now complete a...
+  * 6 Mar 2026
+### [Get The Pill At Your Local Chemist Without A Script](https://www.premier.vic.gov.au/get-pill-your-local-chemist-without-script)
+The Allan Labor Government is making it easier to get the Pill at the chemist without a script. From July, women over 18 will be able to access the or...
   * 5 Mar 2026
 ### [Supercars To Rev Up F1 Grand Prix For Years To Come](https://www.premier.vic.gov.au/supercars-rev-f1-grand-prix-years-come)
 Fan favourite Supercars have signed a three-year contract extension locking in the racing category in the Formula 1® Australian Grand Prix program ...
   * 5 Mar 2026
 ### [Delivered: Seven Years of Free TAFE](https://www.premier.vic.gov.au/delivered-seven-years-free-tafe)
 Labor is wishing Free TAFE a happy seventh birthday! Minister Tierney today celebrated the huge success of Free TAFE. Thousands of students are learni...
-  * 5 Mar 2026
-### [Nation-Leading Laws To Keep Children Safe, Families Strong](https://www.premier.vic.gov.au/nation-leading-laws-keep-children-safe-families-strong)
-Labor is making sure children grow up in secure, stable homes and that families have the chance to reunite safely. Two landmark pieces of legislation ...
-  * 5 Mar 2026
-### [Backing Local Councils To Protect Vulnerable Road Users](https://www.premier.vic.gov.au/backing-local-councils-protect-vulnerable-road-users)
-Labor has announced the latest recipients of the Transport Accident Commission (TAC) Local Government Grant Program (LGGP) with a further $2.4 million...
-  * 5 Mar 2026
-### [Victoria Leads The Way As The Education State](https://www.premier.vic.gov.au/victoria-leads-way-education-state)
-New data from the Australian Bureau of Statistics has confirmed Victoria is Australia’s Education State. Deputy Premier and Minister for Education Ben...
-  * 5 Mar 2026
-### [Crackdown On Dodgy Drivers At Grand Prix](https://www.premier.vic.gov.au/crackdown-dodgy-drivers-grand-prix)
-Racegoers heading to the Formula 1 this weekend deserve to feel safe and confident when they take a taxi or rideshare home. That’s why the Allan Labor...
-  * 4 Mar 2026
-### [Stronger Protections For Retirees One Step Closer](https://www.premier.vic.gov.au/stronger-protections-retirees-one-step-closer)
-Older Victorians should be able to retire in comfort and with peace of mind so they can make the most of their golden years. That’s why from 1 May, re...
-  * 4 Mar 2026
-### [Smarter Understanding Of Heavy-Vehicle Movements](https://www.premier.vic.gov.au/smarter-understanding-heavy-vehicle-movements)
-Victoria has wrapped up a trial of real‑time road monitoring technology on the Western Freeway to help keep our bridges and roads strong. The Bridge W...
-  * 4 Mar 2026
-### [Families Save Time Using School Facilities Close To Home](https://www.premier.vic.gov.au/families-save-time-using-school-facilities-close-home)
-The Allan Labor Government is unlocking more school facilities for after-hours community use. This means busy families can enjoy the activities they l...
 
 
 ## Subscribe to our media releases

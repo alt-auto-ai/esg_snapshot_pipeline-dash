@@ -6,9 +6,18 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (663)
+####  News (664)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News announcement
+  * 6 March 2026
+
+
+[First CBAM Certificate price to be published on 7 April](https://taxation-customs.ec.europa.eu/news/first-cbam-certificate-price-be-published-7-april-2026-03-06_en)
+The implementation of the EU’s Carbon Border Adjustment Mechanism (CBAM) reaches a new milestone: the first quarterly price of CBAM certificates will soon be published by the European Commission.
+  * 1 min read
+
+
   * News announcement
   * 3 March 2026
 
@@ -88,15 +97,6 @@ Council Regulation 2025/2614 (quotas) and Council Regulation 2025/2605 (suspensi
 [Large scale EU customs control action shows most third-country e-commerce goods do not follow standards ](https://taxation-customs.ec.europa.eu/news/large-scale-eu-customs-control-action-shows-most-third-country-e-commerce-goods-do-not-follow-2026-01-07_en)
 Customs authorities are on the front line. Customs handle the huge and ever-increasing number of goods bought online and imported directly to consumers into the EU.
   * 3 min read
-
-
-  * News article
-  * 23 December 2025
-
-
-[Reminder: CBAM goes live on 1 January 2026](https://taxation-customs.ec.europa.eu/news/reminder-cbam-goes-live-1-january-2026-2025-12-23_en)
-On 1 January 2026, CBAM rules enter into effect.
-  * 1 min read
 
 
 Share this page 

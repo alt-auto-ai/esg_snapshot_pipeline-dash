@@ -27,7 +27,13 @@ Feb 2026
 We consulted on the design of the Australian Government’s $5 billion Net Zero Fund, which the National Reconstruction Fund will deliver. Details are now available on how it will support Australia’s transition to net... 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 92. Showing results from 1 to 12 of 1098.
+Page 1 of 92. Showing results from 1 to 12 of 1100.
+  * 6 March 2026 
+### [New grant funding open for industry-led research collaborations](https://www.industry.gov.au/news/new-grant-funding-open-industry-led-research-collaborations)
+Apply now for round 27 of the Cooperative Research Centres Program. Applications close 21 April 2026. 
+  * 6 March 2026 
+### [$53 million in grants to help create a critical metal refining industry](https://www.industry.gov.au/news/53-million-grants-help-create-critical-metal-refining-industry)
+The Australian Government will fund a new grant through round 26 of the Cooperative Research Centres (CRC) Program. 
   * 5 March 2026 
 ### [Australia and Canada agree to strengthen cooperation on AI safety](https://www.industry.gov.au/news/australia-and-canada-agree-strengthen-cooperation-ai-safety)
 The 2 countries have signed a memorandum of understanding (MoU) to advance our insight and cooperation on AI safety. 
@@ -58,14 +64,8 @@ Read about our work with international partners to shape the direction of AI pol
   * 20 February 2026 
 ### [$12.7 million to support innovative quantum technology projects](https://www.industry.gov.au/news/127-million-support-innovative-quantum-technology-projects)
 Round 1 stage 2 of the Critical Technologies Challenge Program will fund cutting-edge projects including mine site sensors, data centre cooling and optical imaging projects. 
-  * 19 February 2026 
-### [$3.8 million for AI, biotech, remanufacturing and RNA vaccines in partnership with India](https://www.industry.gov.au/news/38-million-ai-biotech-remanufacturing-and-rna-vaccines-partnership-india)
-We’re funding 5 cutting-edge science research projects through Round 16 of the Australia-India Strategic Research Fund (AISRF). 
-  * 9 February 2026 
-### [New trade standards agreement to strengthen trans-Tasman ties](https://www.industry.gov.au/news/new-trade-standards-agreement-strengthen-trans-tasman-ties)
-Standards Australia and Standards New Zealand are improving trade standards and making it easier to do business across both countries. 
 
 
-Page 1 of 92. Showing results from 1 to 12 of 1098.
-Page 1 of 92. Showing results from 1 to 12 of 1098.
+Page 1 of 92. Showing results from 1 to 12 of 1100.
+Page 1 of 92. Showing results from 1 to 12 of 1100.
 [Back to top](https://www.industry.gov.au/news#skip-links)

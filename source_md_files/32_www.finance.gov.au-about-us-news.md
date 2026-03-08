@@ -1,8 +1,11 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-06/03/2026 
+09/03/2026 
 # Latest News
 ### 2026 
+[ Fri   
+06 Mar   
+2026  **Applications are now open for the 2027 Australian Government Graduate Program** Government Careers, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/applications-are-now-open-2027-australian-government-graduate-program)
 [ Thu   
 05 Mar   
 2026  **Applications for the Finance Graduate Program are open now** Business, Government, Individuals Employment, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/applications-finance-graduate-program-are-open-now)
@@ -91,9 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Fri   
 31 Oct   
 2025  **Annual Statement of Compliance with the Commonwealth Child Safe Framework** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/annual-statement-compliance-commonwealth-child-safe-framework)
-[ Wed   
-29 Oct   
-2025  **2025 Finance Awards** Individuals Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/2025-finance-awards)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

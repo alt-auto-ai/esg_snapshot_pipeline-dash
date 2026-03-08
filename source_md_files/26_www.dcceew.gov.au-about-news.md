@@ -3,6 +3,20 @@
 See our latest news and announcements. Discover more about what we do.
 ## Latest
 [Search all news](https://www.dcceew.gov.au/about/news/all)
+### [Torres Strait prepares for H5 bird flu](https://www.dcceew.gov.au/about/news/torres-strait-prepares-h5-bird-flu)
+  * News
+  * Environment
+
+
+06 March 2026
+More than $1.5 million is supporting the Torres Strait Regional Authority prepare for H5 bird flu. 
+### [Australia and Canada sign first clean energy partnership](https://www.dcceew.gov.au/about/news/australia-canada-sign-first-clean-energy-partnership)
+  * News
+  * Climate change
+
+
+06 March 2026
+Australia and Canada have formalised a new clean energy partnership during Canadian Prime Minister…
 ### [Clean energy advice for First Nations peoples](https://www.dcceew.gov.au/about/news/clean-energy-advice-first-nations-peoples)
   * News
   * Energy
@@ -45,20 +59,6 @@ The Sydney Gay and Lesbian Mardi Gras Parade Route has been added to Australia�
 
 25 February 2026
 This video is designed to support Indigenous Protected Areas (IPAs) that are dedicated.
-### [Nutrafruit: Making healthy products from leftover plums](https://www.dcceew.gov.au/about/news/nutrafruit-making-healthy-products-from-leftover-plums)
-  * Case study
-  * Environment
-
-
-25 February 2026
-Nutrafruit turns imperfect plums into new health foodsNutrafruit is finding new ways to use bruised…
-### [Big fine for export of hazardous e-waste to Singapore](https://www.dcceew.gov.au/about/news/big-fine-export-hazardous-e-waste-singapore)
-  * Media release
-  * Environment
-
-
-25 February 2026
-The Australian Government is cracking down on the illegal export of hazardous waste, fining a…
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

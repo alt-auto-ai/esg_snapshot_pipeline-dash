@@ -52,7 +52,7 @@ Region[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_pub
 Apply filters[Clear all filters](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
 Showing results 1 to 10 of 915 results
 Sort byRelevance Alphabetically A-Z Alphabetically Z-A Date newest first Date oldest first
-### [Celebrate 50 Years of Werrikimbe National Park at Mooraback Cabin | Media release](https://www.environment.nsw.gov.au/news/celebrate-50-years-werrikimbe-national-park-mooraback-cabin)
+### [Celebrate 50 years of Werrikimbe National Park at Mooraback Cabin | Media release](https://www.environment.nsw.gov.au/news/celebrate-50-years-werrikimbe-national-park-mooraback-cabin)
 calendar_today 5 Mar 2026
 A weekend of free festivities at Mooraback Cabin in Werrikimbe National Park, in northern NSW, will mark the 50th anniversary of this World Heritage Listed treasure.
   * Department media release

@@ -1,28 +1,28 @@
 [Skip to content](https://www.premier.tas.gov.au/latest-news#maincontent)
-  * [ New leader, same negativity   
-5 March 2026  In Mr Willie’s first State of the State address, he has simply taken a page out of his failed predecessors' books and delivered a diat...  ](https://www.premier.tas.gov.au/latest-news/2026/march/new-leader,-same-negativity)
-  * [ Building Tasmania to supercharge delivery   
-5 March 2026  Building Tasmania will supercharge the delivery of housing, roads, schools and hospitals for Tasmanians.Minister for Infrastructure and Tran...  ](https://www.premier.tas.gov.au/latest-news/2026/march/building-tasmania-to-supercharge-delivery)
-  * [ Tasmania’s role as Australia’s Antarctic Gateway celebrated with French icebreaker visit   
-5 March 2026  Tasmania’s importance as Australia’s Antarctic gateway has once again been highlighted, as the French icebreaker L’Astrola...  ](https://www.premier.tas.gov.au/latest-news/2026/march/tasmanias-role-as-australias-antarctic-gateway-celebrated-with-french-icebreaker-visit)
-  * [ Interim Redress Scheme for Historical Forced Adoptions now open   
-5 March 2026  The Tasmanian Government’s interim redress scheme for historical forced adoption practices is now open.Recognising that some mothers m...  ](https://www.premier.tas.gov.au/latest-news/2026/march/interim-redress-scheme-for-historical-forced-adoptions-now-open)
-  * [ Labor must outline their tax plan   
-5 March 2026  Labor is scheming about how to tax Tasmanians.The Shadow Treasurer backed by his mentor Aird said it just days ago.They need to come clean a...  ](https://www.premier.tas.gov.au/latest-news/2026/march/labor-must-outline-their-tax-plan)
-  * [ North West Regional Hospital redevelopment reaches next stage   
-4 March 2026  Work to deliver $14.5 million upgrades at the North West Regional Hospital Emergency Department (ED) and ambulance drop off area has reached...  ](https://www.premier.tas.gov.au/latest-news/2026/march/north-west-regional-hospital-redevelopment-reaches-next-stage)
-  * [ Record final demand and nation-leading private investment growth highlight strength of Tasmanian economy   
-4 March 2026  New figures from the Australian Bureau of Statistics show Tasmania’s economy continues to strengthen, with strong private investment a...  ](https://www.premier.tas.gov.au/latest-news/2026/march/record-final-demand-and-nation-leading-private-investment-growth-highlight-strength-of-tasmanian-economy)
-  * [ Legislation tabled to improve protections for long-term caravan park residents   
-3 March 2026  The Rockliff Liberal Government is delivering significant and important reforms for long-term residents in caravan parks, with the introduct...  ](https://www.premier.tas.gov.au/latest-news/2026/march/legislation-tabled-to-improve-protections-for-long-term-caravan-park-residents)
-  * [ Legislation to freeze National Construction Code tabled   
-4 March 2026  The Rockliff Government is delivering on our commitment to freeze changes to the National Construction Code to prevent national r...  ](https://www.premier.tas.gov.au/latest-news/2026/march/legislation-to-freeze-national-construction-code-tabled)
-  * [ State of the State 2026   
-3 March 2026  Check against delivery Speaker, It is with great pleasure that I stand before the House to update members on the State of the State. I am pr...  ](https://www.premier.tas.gov.au/latest-news/2026/march/state-of-the-state-2026)
-  * [ Progress on Kangaroo Bay development welcomed   
-3 March 2026  The Tasmanian Government welcomes Chambroad Australia's latest submission to the Tasmanian Planning Commission.Chambroad's proposed 155-room...  ](https://www.premier.tas.gov.au/latest-news/2026/march/progress-on-kangaroo-bay-development-welcomed)
-  * [ Doctors receive a pay rise   
-3 March 2026  The Tasmanian Government has reached a one-year wage agreement with the Australian Medical Association Tasmania.Premier Jeremy Rockliff said...  ](https://www.premier.tas.gov.au/latest-news/2026/march/doctors-receive-a-pay-rise)
+  * [ Taking action to reform ‘good character’ references   
+9 March 2026  The Tasmanian Government is taking action to ensure our sentencing laws reflect community expectations, with work now underway to stop the i...  ](https://www.premier.tas.gov.au/latest-news/2026/march/taking-action-to-reform-good-character-references)
+  * [ Seven hundred tonnes of gantry coming together   
+8 March 2026  The 700-tonne gantry is being assembled onsite at Berth 3 in Devonport, marking a significant milestone in delivering the infrastructure req...  ](https://www.premier.tas.gov.au/latest-news/2026/march/seven-hundred-tonnes-of-gantry-coming-together)
+  * [ Agriculture Strategy consultation report released   
+8 March 2026  The Tasmanian Government is working with farmers, agribusiness and rural support organisations to develop a new long-term Agriculture Strate...  ](https://www.premier.tas.gov.au/latest-news/2026/march/agriculture-strategy-consultation-report-released)
+  * [ Growing local government collaboration   
+8 March 2026  The Tasmanian Government and the Local Government Association of Tasmania has strengthened their partnership through the signing of a new co...  ](https://www.premier.tas.gov.au/latest-news/2026/march/growing-local-government-collaboration)
+  * [ Granny flats to expand   
+8 March 2026  Work is now underway to amend the Tasmanian Planning Scheme to increase the allowable size of granny flats from 60m2 to 90m2.The Tasmanian G...  ](https://www.premier.tas.gov.au/latest-news/2026/march/granny-flats-to-expand)
+  * [ Long Course Swimming Championships making waves   
+7 March 2026  Tasmania’s next generation of swimming superstars will be on show this weekend.Swimmers aged eight years and older will dive into the ...  ](https://www.premier.tas.gov.au/latest-news/2026/march/long-course-swimming-championships-making-waves)
+  * [ Tasmania’s infrastructure pipeline nearing $40 billion   
+7 March 2026  Tasmania's booming building and construction pipeline is now worth close to $40 billion, up from $30 billion, with significant projects unde...  ](https://www.premier.tas.gov.au/latest-news/2026/march/tasmanias-infrastructure-pipeline-nearing-$40-billion)
+  * [ New Northern Tasmania sport and recreation hub ready to open   
+7 March 2026  Construction on Tasmania’s largest multi-purpose sport and recreation facility has been completed, marking a major milestone for North...  ](https://www.premier.tas.gov.au/latest-news/2026/march/new-northern-tasmania-sport-and-recreation-hub-ready-to-open)
+  * [ Tasmania shines at Australian Tourism Awards   
+7 March 2026  Tasmania’s tourism industry has celebrated a standout night at the Qantas Australian Tourism Awards in Fremantle overnight, bringing h...  ](https://www.premier.tas.gov.au/latest-news/2026/march/tasmania-shines-at-australian-tourism-awards)
+  * [ New proposal on the table for teachers   
+7 March 2026  A fair and affordable Tasmanian Teachers Agreement proposal was provided to the Australian Education Union on Friday.The offer includes a pa...  ](https://www.premier.tas.gov.au/latest-news/2026/march/new-proposal-on-the-table-for-teachers)
+  * [ Help shape Tasmania’s next cat management plan   
+7 March 2026  The Tasmanian Government is calling for community feedback to help shape the next Tasmanian Cat Management Plan.The next Plan will build on ...  ](https://www.premier.tas.gov.au/latest-news/2026/march/help-shape-tasmanias-next-cat-management-plan)
+  * [ Input sought on strategy to protect Tasmania's flora and fauna   
+7 March 2026  Feedback has opened on the draft Threatened Species Strategy, which sets clear direction to protect Tasmania’s unique species and bett...  ](https://www.premier.tas.gov.au/latest-news/2026/march/input-sought-on-strategy-to-protect-tasmanias-flora-and-fauna)
 
 
 [ Previous ](https://www.premier.tas.gov.au/latest-news) 1 [2](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2) [3](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=3) [4](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=4) [5](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=5) [ Next ](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2)

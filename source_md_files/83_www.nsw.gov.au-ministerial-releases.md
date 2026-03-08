@@ -24,53 +24,53 @@ From
 To
 Clear all filters
 Ministerial media release
-5 March 2026
-### [Construction kicks off on massive Lennox Head Public School and preschool upgrade](https://www.nsw.gov.au/ministerial-releases/construction-kicks-off-on-massive-lennox-head-public-school-and-preschool-upgrade)
-The Minns Labor Government is delivering another major school upgrade for regional NSW, with work underway to relocate Lennox Head Public School to a new, expanded site.
+9 March 2026
+### [Funding for Australian-first alliance boosting access to life-saving clinical cancer trials](https://www.nsw.gov.au/ministerial-releases/funding-for-australian-first-alliance-boosting-access-to-life-saving-clinical-cancer-trials)
+The Minns Labor Government is providing a funding boost to an Australian-first alliance that’s fast-tracking cancer patients across NSW onto potentially life-saving early-stage clinical trials.
 Ministerial media release
-5 March 2026
-### [Next stage of $36 million Snowy Mountains Highway safety upgrades getting underway](https://www.nsw.gov.au/ministerial-releases/next-stage-of-36-million-snowy-mountains-highway-safety-upgrades-getting-underway)
-The Albanese and Minns Governments are delivering $36 million in road safety improvements on the Snowy Mountains Highway, with the next stage of works commencing this week.
+9 March 2026
+### [Minns Labor Government to move on stronger protections for retail workers](https://www.nsw.gov.au/ministerial-releases/minns-labor-government-to-move-on-stronger-protections-for-retail-workers)
+The Minns Labor Government will begin targeted consultation with retailers, police, unions and legal stakeholders on measures to better protect retail staff from violence.
 Ministerial media release
-5 March 2026
-### [NSW Women of the Year: Leadership, courage and community shine](https://www.nsw.gov.au/ministerial-releases/nsw-women-of-year-leadership-courage-and-community-shine)
-Four exceptional women and an organisation founded by women have been named as recipients of the NSW Women of the Year Awards 2026.
+9 March 2026
+### [$50 million for building thriving regional communities](https://www.nsw.gov.au/ministerial-releases/50-million-for-building-thriving-regional-communities)
+The Minns Labor Government has announced a new $50 million fund that will deliver regional community connection and build up creative, industry and sporting events that boost economic development and enhance the lifestyle of regional families, workers and businesses.
 Ministerial media release
-5 March 2026
-### [Students out of demountables and into permanent classrooms as major upgrade delivered in Schofields](https://www.nsw.gov.au/ministerial-releases/students-out-of-demountables-and-into-permanent-classrooms-as-major-upgrade-delivered-schofields)
-Hundreds of students have made the move from dozens of ageing demountables into brand new permanent classrooms after the Minns Labor Government delivered a new three-storey building with 24 classrooms as part of a major upgrade to Schofields Public School.
+9 March 2026
+### [Local teens’ ideas create inclusive park in Morisset](https://www.nsw.gov.au/ministerial-releases/local-teens-ideas-create-inclusive-park-morisset)
+The Minns Labor Government is building community spaces where women and girls feel safe and welcome through the Safer Cities program, with Morisset’s Bernie Goodwin Park officially opening.
 Ministerial media release
-5 March 2026
-### [Government moves to make feral pig and deer management bigger and better as nearly 250k pigs culled over past three years](https://www.nsw.gov.au/ministerial-releases/government-moves-to-make-feral-pig-and-deer-management-bigger-and-better-as-nearly-250k-pigs-culled-over-past-three-years)
-The Minns Labor Government has sought a technical review of feral pig and deer management to build on the historic levels of success that have seen almost a quarter of a million pigs culled across NSW in the past three years.
+8 March 2026
+### [Australia’s military women honoured at the Anzac Memorial on the 115th International Women’s Day](https://www.nsw.gov.au/ministerial-releases/australias-military-women-honoured-at-anzac-memorial-on-115th-international-womens-day)
+Female veterans, current serving defence personnel, families and war widows will gather at the Anzac Memorial in Hyde Park Sydney at 10.45am today to mark the 115th anniversary of International Women’s Day.
 Ministerial media release
-5 March 2026
-### [Regional NSW Ambulance staff recognised for outstanding service and bravery](https://www.nsw.gov.au/ministerial-releases/nsw-ambulance-staff-outstanding-service-and-bravery)
-NSW Ambulance staff from across the Illawarra and South Coast have been recognised for their unwavering service, bravery and dedication at a special awards ceremony in Wollongong.
+7 March 2026
+### [Consumers compensated $125,000 after NSW Fair Trading investigators uncover odometer tampering](https://www.nsw.gov.au/ministerial-releases/consumers-compensated-125000-after-nsw-fair-trading-investigators-uncover-odometer-tampering)
+Three people have received Community Corrections Orders and consumers have been awarded more than $125,000 in compensation after NSW Fair Trading uncovered that sellers had wound back the odometers of 10 cars by 2 million kilometres.
 Ministerial media release
-5 March 2026
-### [More than 8,400 visits to Gregory Hills Urgent Care Service](https://www.nsw.gov.au/ministerial-releases/more-than-8400-visits-to-gregory-hills-urgent-care-service)
-The south western Sydney community is benefitting from more timely access to urgent care, with more than 8,400 visits to the Gregory Hills Urgent Care Service (UCS) since the service opened in February 2024.
+6 March 2026
+### [Critical New England Highway corridor transformed with $15.67 million upgrade](https://www.nsw.gov.au/ministerial-releases/critical-new-england-highway-corridor-transformed-1567-million-upgrade)
+A major safety transformation on one of the most important highways in regional NSW is now complete, thanks to a $15.7 million upgrade funded by the Albanese and Minns Labor Governments.
 Ministerial media release
-5 March 2026
-### [A laser focus on rail reliability as hand-held wire check tech is deployed](https://www.nsw.gov.au/ministerial-releases/a-laser-focus-on-rail-reliability-as-hand-held-wire-check-tech-deployed)
-The Minns Labor Government’s rail reliability overhaul has hit a new milestone, with the full deployment of new laser hand-held devices to check overhead wiring thickness during crucial inspections.
+6 March 2026
+### [Funding boost enables delivery of social and affordable homes on the Central Coast](https://www.nsw.gov.au/ministerial-releases/funding-boost-enables-delivery-of-social-and-affordable-homes-on-central-coast)
+Construction has begun on a new housing development in Woy Woy that will deliver 21 much-needed social and affordable homes for the Central Coast.
 Ministerial media release
-5 March 2026
-### [New temporary ambulance station opens at Smeaton Grange](https://www.nsw.gov.au/ministerial-releases/new-temporary-ambulance-station-opens-at-smeaton-grange)
-South west Sydney is benefiting from a temporary ambulance site at Smeaton Grange, which is supporting additional NSW Ambulance staff already on the road in the region.
+6 March 2026
+### [First step for early works on $630 million Fairfield Hospital Redevelopment](https://www.nsw.gov.au/ministerial-releases/first-step-for-early-works-on-630-million-fairfield-hospital-redevelopment)
+The first steps to prepare the site for the $630 million Fairfield Hospital Redevelopment have commenced, bringing the much-anticipated hospital upgrade another step closer.
 Ministerial media release
-4 March 2026
-### [Safer, more accessible transport on track for Canberra and Yass: Designs revealed for station upgrades](https://www.nsw.gov.au/ministerial-releases/safer-more-accessible-transport-on-track-for-canberra-and-yass-designs-revealed-for-station-upgrades)
-The Minns Labor Government is continuing its work to deliver safer, more accessible public transport, with community members invited to have their say on the designs for accessibility upgrades planned for Canberra and Yass Junction train stations.
+6 March 2026
+### [Winners of NAWIC NSW leadership scholarships revealed](https://www.nsw.gov.au/ministerial-releases/winners-of-nawic-nsw-leadership-scholarships-revealed)
+Two incredible women leaders in the construction industry have each been awarded a National Association of Women in Construction NSW (NAWIC NSW) scholarship to further their careers.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 520
   * 521
   * 522
+  * 523
   * keyboard_arrow_right
 
 

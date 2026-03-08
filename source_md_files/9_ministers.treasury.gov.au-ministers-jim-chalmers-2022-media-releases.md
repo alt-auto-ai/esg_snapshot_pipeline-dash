@@ -16,6 +16,9 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Meeting with Canada’s Minister of Finance and National Revenue](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/meeting-canadas-minister-finance-and-national-revenue)
+5 March 2026
+Today I met with Canada’s Minister of Finance and National Revenue, the Honourable François‑Philippe Champagne, to advance our shared commitment to boosting economic resilience, productivity a 
 ### [National Accounts – December quarter 2025](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/national-accounts-december-quarter-2025)
 4 March 2026
 Today’s National Accounts show strong, broad‑based growth and an ongoing recovery in the private sector. 
@@ -73,6 +76,3 @@ New figures from the Australian Bureau of Statistics show both headline and unde
 ### [$38 million in disaster support for North–West Queensland](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/38-million-disaster-support-north-west-queensland)
 6 January 2026
 The Albanese and Crisafulli Governments have today committed an additional $38 million towards large‑scale disaster recovery efforts for flood affected communities across north‑west Queensland 
-### [3 Day Guarantee for early learning begins today](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/three-day-guarantee-early-learning-begins-today)
-5 January 2026
-From today, Australian children are eligible for three days of subsidised early education and care each week under the Albanese Labor Government’s 3 Day Guarantee. 

@@ -22,8 +22,6 @@ parser = argparse.ArgumentParser(
 group = parser.add_mutually_exclusive_group(required=False)
 group.add_argument("--OAI", action="store_true", help="OpenAI, no web")
 group.add_argument("--OAIW", action="store_true", help="OpenAI, with web")
-group.add_argument("--OLR", action="store_true", help="Ollama reasoning")
-group.add_argument("--OLNR", action="store_true", help="Ollama non-reasoning")
 args = parser.parse_args()
 
 # ✅ Default to OAI
@@ -31,10 +29,6 @@ if args.OAI:
     PROFILE = "OAI"
 elif args.OAIW:
     PROFILE = "OAIW"
-elif args.OLR:
-    PROFILE = "OLR"
-elif args.OLNR:
-    PROFILE = "OLNR"
 else:
     PROFILE = "OAI"
 
@@ -44,7 +38,7 @@ load_dotenv()
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"story_md_files"
+    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
 )
 # 🔁 Read from 8_esg_draft.csv (per request)
 INPUT_CSV = os.getenv(
@@ -63,9 +57,9 @@ QUALITY_CHECK_DIR = os.getenv(
 )
 
 # API config
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 
 # 🔒 Rate limits (per-minute)
 OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))
@@ -77,8 +71,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
         # prompt filename is ignored; we use absolute path below as before
@@ -91,10 +93,13 @@ def load_profile_config(profile: str):
     return cfg
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 2000
 PROMPT_FILE = CFG["PROMPT_FILE"]
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 
 if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
@@ -139,6 +144,49 @@ def strip_code_fences(s: str):
     m = re.match(r"^```(?:json|yaml|md|markdown)?\s*(.*?)\s*```$", s.strip(), re.DOTALL | re.IGNORECASE)
     return m.group(1) if m else s
 
+def parse_highlights_payload(raw_content: str):
+    cleaned = strip_code_fences(raw_content or "").strip()
+
+    # 1) Strict JSON object
+    try:
+        obj = json.loads(cleaned)
+        if isinstance(obj, dict):
+            return {
+                "hook": (obj.get("hook") or "").strip(),
+                "one_liner": (obj.get("one_liner") or "").strip(),
+            }
+    except Exception:
+        pass
+
+    # 2) YAML object fallback
+    try:
+        obj = yaml.safe_load(cleaned)
+        if isinstance(obj, dict):
+            return {
+                "hook": (obj.get("hook") or "").strip(),
+                "one_liner": (obj.get("one_liner") or obj.get("one liner") or "").strip(),
+            }
+    except Exception:
+        pass
+
+    # 3) Label-based text fallback (Hook:/One Liner:)
+    hook_match = re.search(r"(?:^|\n)\s*hook\s*:\s*(.+)", cleaned, flags=re.IGNORECASE)
+    one_match = re.search(r"(?:^|\n)\s*one\s*[-_ ]?liner\s*:\s*(.+)", cleaned, flags=re.IGNORECASE)
+    if hook_match or one_match:
+        return {
+            "hook": (hook_match.group(1).strip() if hook_match else ""),
+            "one_liner": (one_match.group(1).strip() if one_match else ""),
+        }
+
+    # 4) Plain lines fallback
+    lines = [ln.strip() for ln in cleaned.splitlines() if ln.strip()]
+    if len(lines) >= 2:
+        return {"hook": lines[0], "one_liner": lines[1]}
+    if len(lines) == 1:
+        return {"hook": lines[0], "one_liner": ""}
+
+    return {"hook": "", "one_liner": ""}
+
 # ----------------- Async Calls -----------------
 # ✅ Structured outputs schema → now just two fields
 STRUCTURED_RESPONSE_FORMAT = {
@@ -168,18 +216,31 @@ async def call_openai_async(session, markdown_text, meta, with_web, file_name):
 
     user_block = render_user_prompt(markdown_text, meta)
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": system_block},
-            {"role": "user", "content": user_block},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-        # 🔑 Ask for structured JSON (strict)
-        "response_format": STRUCTURED_RESPONSE_FORMAT,
-    }
+    if MODEL_SERIES == "gpt5":
+        url = f"{OPENAI_BASE_URL}/responses"
+        payload = {
+            "model": MODEL_NAME,
+            "input": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "reasoning": {"effort": GPT5_REASONING_EFFORT},
+            "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+            "max_output_tokens": MAX_TOKENS,
+        }
+    else:
+        url = f"{OPENAI_BASE_URL}/chat/completions"
+        payload = {
+            "model": MODEL_NAME,
+            "messages": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
+            # 🔑 Ask for structured JSON (strict)
+            "response_format": STRUCTURED_RESPONSE_FORMAT,
+        }
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
@@ -187,26 +248,46 @@ async def call_openai_async(session, markdown_text, meta, with_web, file_name):
 
     print(f"   📤 [{file_name}] Sending request to OpenAI (structured)…")
 
+    def extract_content(data):
+        if MODEL_SERIES == "gpt5":
+            txt = (data.get("output_text") or "").strip()
+            if txt:
+                return txt
+            out = data.get("output") or []
+            chunks = []
+            for item in out:
+                for c in (item.get("content") or []):
+                    if c.get("type") in {"output_text", "text"} and c.get("text"):
+                        chunks.append(c["text"])
+            return "\n".join(chunks).strip()
+        content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
+        if isinstance(content, list):
+            content = "".join(
+                part.get("text", "") if isinstance(part, dict) else str(part)
+                for part in content
+            )
+        return (content or "").strip()
+
     async with rpm_limiter:
-        async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+        async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
             if resp.status in (429, 500, 502, 503, 504):
                 retry_after = float(resp.headers.get("retry-after", "1"))
                 text = await resp.text()
                 print(f"   ⏳ [{file_name}] HTTP {resp.status}, retrying in {retry_after}s… [{text[:120]}]")
                 await asyncio.sleep(retry_after)
                 async with rpm_limiter:
-                    async with session.post(url, json=payload, headers=headers, timeout=180) as resp2:
+                    async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp2:
                         resp2.raise_for_status()
                         data = await resp2.json()
-                        content = data["choices"][0]["message"]["content"].strip()
+                        content = extract_content(data)
                         print(f"   📬 [{file_name}] Structured response received.")
-                        return json.loads(strip_code_fences(content))
+                        return parse_highlights_payload(content)
 
             resp.raise_for_status()
             data = await resp.json()
-            content = data["choices"][0]["message"]["content"].strip()
+            content = extract_content(data)
             print(f"   📬 [{file_name}] Structured response received.")
-            return json.loads(strip_code_fences(content))
+            return parse_highlights_payload(content)
 
 # ----------------- Process one file -----------------
 async def process_file_async(session, row, sem, idx, total):
@@ -264,13 +345,13 @@ async def main_async():
 
     qc_output_path = os.path.join(QUALITY_CHECK_DIR, os.path.basename(OUTPUT_CSV))
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT]  {PROMPT_FILE_PATH}")
     print(f"[INPUT ]  {INPUT_CSV}")
     print(f"[MD DIR]  {SOURCE_DIR}")
     print(f"[OUTPUT]  {OUTPUT_CSV}")
     print(f"[OUTPUT_QC] {qc_output_path}")
-    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min")
+    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
     # Candidates: ESG_or_not == 'Yes' AND target columns empty (so we don't overwrite)
     target_cols = ["Hook", "One Liner"]
@@ -283,7 +364,7 @@ async def main_async():
         if esg_or_not == "yes" and has_md and empties:
             candidates.append(r)
 
-    CONCURRENCY_LIMIT = int(os.getenv("LOCAL_CONCURRENCY", "16"))
+    CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
     results_map = {}  # md_file -> dict of structured fields

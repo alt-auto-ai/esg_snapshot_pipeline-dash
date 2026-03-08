@@ -10,7 +10,9 @@ Filter by theme
 
 
 Filtered by:
-1 - 20 of 1117 media releases
+1 - 20 of 1118 media releases
+06 March 2026
+##  [15 million people employed in December 2025](https://www.abs.gov.au/media-centre/media-releases/15-million-people-employed-december-2025)
 05 March 2026
 ##  [Strong growth in services lifts household spending](https://www.abs.gov.au/media-centre/media-releases/strong-growth-services-lifts-household-spending-0)
 05 March 2026
@@ -49,8 +51,6 @@ Filtered by:
 ##  [Norfolk Islanders invited to participate as preparations begin for the 2026 Census](https://www.abs.gov.au/media-centre/media-releases/norfolk-islanders-invited-participate-preparations-begin-2026-census)
 28 January 2026
 ##  [CPI rose 3.8% in the year to December 2025](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-38-year-december-2025)
-28 January 2026
-##  [ABS ramps up national recruitment for the 2026 Census](https://www.abs.gov.au/media-centre/media-releases/abs-ramps-national-recruitment-2026-census)
 [ Back to top of the page ](https://www.abs.gov.au/media-centre/media-releases "Back to top")
 tiktoksocial-twitterarrow-downarrow-leftarrow-rightarrow-upcav-downcav-rightclosedownloadexternal-linkfeedbackfilemenusearchsign-checksign-infosign-warningsocial-facebooksocial-instagramtriangle-downlinkprintquotes-leftcalendardate-addquestionyoutubelinkedin2sphere
 Feedback

@@ -8,8 +8,16 @@ Location
 metropolitanregional
 Topic
 Bushfire supportEventsFinanceGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStaff managementStarting a businessSustainabilityTourism industry
-2 Mar 2026 
-Grants and programs
+6 Mar 2026 
+Events
+## [​Meet the small businesses heading to the Australian Tourism Awards](https://business.vic.gov.au/news-and-updates/2026/meet-the-small-businesses-heading-to-the-australian-tourism-awards)
+Meet Go Adventure Nagambie and Bendigo Guided Tours as they prepare for the Australian Tourism Awards.
+2026March6
+Events 
+## [Celebrating extraordinary Victorian women](https://business.vic.gov.au/news-and-updates/2026/celebrating-extraordinary-victorian-women)
+Acknowledging the outstanding contributions made by Victorian women.
+2026March2
+Grants and programs 
 ## [A vibrant new chapter for Victoria’s Multicultural Business Precincts](https://business.vic.gov.au/news-and-updates/2026/a-vibrant-new-chapter-for-victorias-multicultural-business-precincts)
 New upgrades bring colour and life to Victoria’s multicultural precincts.
 2026February23
@@ -51,14 +59,6 @@ Grants and programs
 Events 
 ## [Connect, learn and share at WorkSafe’s Health and Safety Month](https://business.vic.gov.au/news-and-updates/2025/worksafe-health-and-safety-month)
 WorkSafe is bringing the latest in health and safety to your doorstep, both face to face and online, as it gears up this year's Health and Safety Month.
-2025September24
-Jobs and employment 
-## [Building Victoria’s digital workforce](https://business.vic.gov.au/news-and-updates/2025/building-victorias-digital-workforce)
-Boosting key workforce skills through a nation-leading program. Over 6,000 Victorians have already accessed the program to help them build digital skills.
-2025September8
-Grants and programs 
-## [New grant and guide to help multicultural business precincts thrive](https://business.vic.gov.au/news-and-updates/2025/new-grant-and-guide-to-help-multicultural-business-precincts-thrive)
-The Multicultural Business Precinct Revitalisation Program and Good Practice Guide will help multicultural business precincts across Victoria grow and thrive.
   * [1](https://business.vic.gov.au/news-and-updates)
   * [2](https://business.vic.gov.au/news-and-updates)
   * [3](https://business.vic.gov.au/news-and-updates)

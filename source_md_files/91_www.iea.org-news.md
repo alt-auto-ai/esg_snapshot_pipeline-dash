@@ -95,10 +95,10 @@ Close Search
     * [ Toggle filter Transport Project Partnership (1) ](https://www.iea.org/news?programme%5B0%5D=transport-project-partnership)
   * TypeChevron down
     * [ Toggle filter News (1226) ](https://www.iea.org/news?type=news)
-    * [ Toggle filter Commentary (343) ](https://www.iea.org/news?type=commentary)
+    * [ Toggle filter Commentary (344) ](https://www.iea.org/news?type=commentary)
     * [ Toggle filter Press release (170) ](https://www.iea.org/news?type=press-release)
   * YearChevron down
-    * [ Toggle filter 2026 (33) ](https://www.iea.org/news?year=2026)
+    * [ Toggle filter 2026 (34) ](https://www.iea.org/news?year=2026)
     * [ Toggle filter 2025 (167) ](https://www.iea.org/news?year=2025)
     * [ Toggle filter 2024 (148) ](https://www.iea.org/news?year=2024)
     * [ Toggle filter 2023 (159) ](https://www.iea.org/news?year=2023)
@@ -116,6 +116,7 @@ Close Search
 
 
 Filter
+[ Commentary  The next wave of LED lighting: Smarter, circular and more efficient 06 March 2026  ](https://www.iea.org/commentaries/the-next-wave-of-led-lighting-smarter-circular-and-more-efficient)
 [ Commentary  Copper prices have hit record highs, but smelters face mounting strategic pressures 02 March 2026  ](https://www.iea.org/commentaries/copper-prices-have-hit-record-highs-but-smelters-face-mounting-strategic-pressures)
 [ News  New podcast episode explores future of energy security with Singapore and Morocco’s energy ministers 26 February 2026  ](https://www.iea.org/news/new-podcast-episode-explores-future-of-energy-security-with-singapore-and-morocco-s-energy-ministers)
 [ Ukraine  Joint Statement in Support of the IEA-Ukraine Collaboration Programme 19 February 2026  ](https://www.iea.org/news/joint-statement-in-support-of-the-iea-ukraine-collaboration-programme)
@@ -139,7 +140,6 @@ Filter
 [ Hydrogen  What it would take to unlock the next phase of hydrogen growth 10 February 2026  ](https://www.iea.org/commentaries/what-it-would-take-to-unlock-the-next-phase-of-hydrogen-growth)
 [ News  Global electricity demand is set to grow strongly to 2030, underscoring need for investments in grids and flexibility 06 February 2026  ](https://www.iea.org/news/global-electricity-demand-is-set-to-grow-strongly-to-2030-underscoring-need-for-investments-in-grids-and-flexibility)
 [ News  New podcast episode examines the surge in energy jobs 05 February 2026  ](https://www.iea.org/news/new-podcast-episode-examines-the-surge-in-energy-jobs)
-[ Critical Minerals  Canada is set to play a leading role in supplying the world with responsibly produced critical minerals 04 February 2026  ](https://www.iea.org/commentaries/canada-is-set-to-play-a-leading-role-in-supplying-the-world-with-responsibly-produced-critical-minerals)
 Previous page Prev
   * 1
   * [2](https://www.iea.org/news?page=2)

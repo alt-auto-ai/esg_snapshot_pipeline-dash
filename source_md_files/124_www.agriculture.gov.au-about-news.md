@@ -24,6 +24,13 @@ Across southern Australia, dry conditions have placed significant pressure on ou
 29 January 2026
 Public consultation on draft Cost Recovery Implementation Statements for the 2026-27 financial year…
 ## Latest
+### [Recognising Australia’s female farmers on International Women’s Day](https://www.agriculture.gov.au/about/news/IWD-2026)
+  * Media release
+  * International
+
+
+08 March 2026
+This year’s International Women’s Day (IWD) occurs in the International Year of the Woman Farmer,…
 ### [Inside the world of DAFF biosecurity detector dog handlers ](https://www.agriculture.gov.au/about/news/inside-work-biosec-detector-dog-handlers)
   * News
   * Biosecurity
@@ -72,13 +79,6 @@ To mark the International Day of Women and Girls in Science, the Department of A
 
 03 February 2026
 With just one month to go until ABARES Outlook 2026, preparations are ramping up for Australia’s…
-### [Indigenous Apprenticeships Program 2026 intake](https://www.agriculture.gov.au/about/news/iap-2026)
-  * News
-  * First Nations
-
-
-02 February 2026
-Applications for the 2026 Indigenous Apprenticeships Program are now open.
 [All news](https://www.agriculture.gov.au/about/news/all)
 ## 
 Stay informed
