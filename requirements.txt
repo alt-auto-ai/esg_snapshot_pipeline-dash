@@ -1,0 +1,11 @@
+aiohttp
+aiolimiter
+beautifulsoup4
+chardet
+crawl4ai
+pandas
+playwright
+python-dateutil
+python-dotenv
+PyYAML
+scikit-learn

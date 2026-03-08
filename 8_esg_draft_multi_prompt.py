@@ -1,0 +1,485 @@
+import os
+import re
+import csv
+import json
+import time
+import chardet
+import argparse
+import yaml
+import asyncio
+import aiohttp
+from datetime import datetime, timedelta
+from dateutil import parser as dateparser
+from zoneinfo import ZoneInfo
+from dotenv import load_dotenv
+from aiolimiter import AsyncLimiter  # ✅ rate limiter
+
+# ----------------- CLI -----------------
+parser = argparse.ArgumentParser(
+    description="For rows with ESG_Relevance='High', generate structured ESG draft (Headline/Points/Explainer) and append columns."
+)
+group = parser.add_mutually_exclusive_group(required=False)
+group.add_argument("--OAI", action="store_true", help="OpenAI, no web")
+group.add_argument("--OAIW", action="store_true", help="OpenAI, with web")
+group.add_argument("--OLR", action="store_true", help="Ollama reasoning")
+group.add_argument("--OLNR", action="store_true", help="Ollama non-reasoning")
+args = parser.parse_args()
+
+# ✅ Default to OAI
+if args.OAI:
+    PROFILE = "OAI"
+elif args.OAIW:
+    PROFILE = "OAIW"
+elif args.OLR:
+    PROFILE = "OLR"
+elif args.OLNR:
+    PROFILE = "OLNR"
+else:
+    PROFILE = "OAI"
+
+# ----------------- ENV -----------------
+load_dotenv()
+
+# Paths
+SOURCE_DIR = os.getenv(
+    "SOURCE_DIR",
+    r"story_md_files"
+)
+# 🔁 Read from 7_ESG_Relevance.csv
+INPUT_CSV = os.getenv(
+    "INPUT_CSV",
+    r"7_esg_relevance.csv"
+)
+# 🆕 Write to 8_esg_draft_multi.csv
+OUTPUT_CSV = os.getenv(
+    "OUTPUT_CSV",
+    r"8_esg_draft_multi.csv"
+)
+# API config
+OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
+
+# 🔒 Rate limits (per-minute)
+OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))
+rpm_limiter = AsyncLimiter(OPENAI_RPM, time_period=60)
+
+# Per-profile configs
+def get_env(name, default=None):
+    return os.getenv(name, default)
+
+def load_profile_config(profile: str):
+    px = profile
+    cfg = {
+        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
+        "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
+        "PROMPT_FILE": get_env(f"{px}_PROMPT_FILE", "8_esg_draft.yaml"),
+    }
+    if cfg["TEMPERATURE"] is not None:
+        cfg["TEMPERATURE"] = float(cfg["TEMPERATURE"])
+    if cfg["MAX_TOKENS"] is not None:
+        cfg["MAX_TOKENS"] = int(float(cfg["MAX_TOKENS"]))
+    return cfg
+
+CFG = load_profile_config(PROFILE)
+MODEL_NAME = CFG["MODEL_NAME"]
+TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
+MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 2000
+PROMPT_FILE = CFG["PROMPT_FILE"]
+
+if not MODEL_NAME:
+    raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
+
+# ----------------- Prompt loading -----------------
+RAW_STORY_TYPE_PROMPT_PATHS = {
+    "Legislative and Statutory Developments": r"8_1_legislative_statutory_dev.yaml",
+    "Parliamentary and Political Proceedings": r"8_2_parliamentory_political.yaml",
+    "Consultation and Policy Design Opportunities": r"8_3_Consultation.yaml",
+    "Funding and Grant Announcements": r"8_4_Grants.yaml",
+    "Infrastructure, Project Approvals, and EPBC Developments": r"8_5_Infrastructure_devs.yaml",
+    "Reports, Data Releases, and Analytical Insights": r"8_6_reports_data_analytics.yaml",
+    "Ministerial, Diplomatic, and International Engagements": r"8_7_ministerial_diplomatic_engagement.yaml",
+    "Corporate and Institutional ESG Actions": r"8_8_corporate_institutional.yaml",
+    "Environmental Protection, Biodiversity, and Nature Policy": r"8_9_enviro_bio_nature.yaml",
+    "State and Local Government Programs": r"8_10_state_local_gov_programs.yaml",
+    "Community, First Nations, and Social Licence Initiatives": r"8_11_community_first_nations.yaml",
+    "Compliance, Oversight, and Enforcement Actions": r"8_12_compliance_oversight_actions.yaml",
+    "Misc": r"8_esg_draft.yaml",
+}
+
+RAW_STORY_TYPE_OUTPUT_COUNTS = {
+    "Community, First Nations, and Social Licence Initiatives": 2,
+    "Environmental Protection, Biodiversity, and Nature Policy": 3,
+    "Infrastructure, Project Approvals, and EPBC Developments": 2,
+    "Reports, Data Releases, and Analytical Insights": 3,
+    "Corporate and Institutional ESG Actions": 3,
+    "Consultation and Policy Design Opportunities": 2,
+    "Legislative and Statutory Developments": 4,
+    "State and Local Government Programs": 2,
+    "Funding and Grant Announcements": 6,
+    "Ministerial, Diplomatic, and International Engagements": 1,
+    "Compliance, Oversight, and Enforcement Actions": 1,
+    "Parliamentary and Political Proceedings": 1,
+    "Misc": 5,
+}
+DEFAULT_OUTPUT_COUNT = 3
+OUTPUT_COLUMN_PREFIX = "Output "
+MAX_OUTPUT_COLUMNS = max(RAW_STORY_TYPE_OUTPUT_COUNTS.values(), default=DEFAULT_OUTPUT_COUNT)
+
+def load_prompt_yaml(path):
+    with open(path, "r", encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    system = data.get("system", "")
+    user_template = data.get("user_template", "{{markdown}}")
+    hints = (data.get("profile_hints") or {}).get(PROFILE, "")
+    return system, user_template, hints
+
+def normalize_story_type(value: str) -> str:
+    if not value:
+        return ""
+    cleaned = value.replace("\r", " ").replace("\n", " ").strip()
+    cleaned = re.sub(r"\s+", " ", cleaned)
+    return cleaned.lower()
+
+STORY_TYPE_PROMPT_FILES = {
+    normalize_story_type(name): path for name, path in RAW_STORY_TYPE_PROMPT_PATHS.items()
+}
+STORY_TYPE_OUTPUT_COUNTS = {
+    normalize_story_type(name): count for name, count in RAW_STORY_TYPE_OUTPUT_COUNTS.items()
+}
+PROMPT_CACHE = {}
+
+def get_prompt_bundle(story_type: str):
+    normalized = normalize_story_type(story_type)
+    if not normalized or normalized not in STORY_TYPE_PROMPT_FILES:
+        raise SystemExit(f"[CONFIG ERROR] No prompt mapping found for Story_Type '{story_type}'. Ensure the CSV uses one of the configured labels.")
+    prompt_path = STORY_TYPE_PROMPT_FILES[normalized]
+    output_count = STORY_TYPE_OUTPUT_COUNTS.get(normalized, DEFAULT_OUTPUT_COUNT)
+    if prompt_path not in PROMPT_CACHE:
+        PROMPT_CACHE[prompt_path] = load_prompt_yaml(prompt_path)
+    system_prompt, user_template, profile_hint = PROMPT_CACHE[prompt_path]
+    return system_prompt, user_template, profile_hint, prompt_path, output_count
+
+def get_required_output_columns(story_type: str):
+    normalized = normalize_story_type(story_type)
+    if not normalized or normalized not in STORY_TYPE_OUTPUT_COUNTS:
+        raise SystemExit(f"[CONFIG ERROR] No output-column mapping found for Story_Type '{story_type}'.")
+    count = STORY_TYPE_OUTPUT_COUNTS.get(normalized, DEFAULT_OUTPUT_COUNT)
+    count = max(1, min(count, MAX_OUTPUT_COLUMNS))
+    return [f"{OUTPUT_COLUMN_PREFIX}{i}" for i in range(1, count + 1)]
+
+ALL_OUTPUT_COLUMNS = [f"{OUTPUT_COLUMN_PREFIX}{i}" for i in range(1, MAX_OUTPUT_COLUMNS + 1)]
+
+# Render prompt with the markdown file contents and optional metadata
+TZ = ZoneInfo("Australia/Melbourne")
+def render_user_prompt(md, meta: dict, user_template: str):
+    t = user_template
+    # Support both tags
+    t = t.replace("{{markdown}}", md)
+    t = t.replace("{{story_text}}", md)
+    # Optional helpful context
+    t = t.replace("{{context}}", (meta.get("ESG_Summary") or "").strip())
+    t = t.replace("{{jurisdiction}}", (meta.get("Jurisdiction") or "").strip())
+    t = t.replace("{{story_type}}", (meta.get("Story_Type") or "").strip())
+    t = t.replace("{{priority_angle}}", "")
+    t = t.replace("{{today}}", datetime.now(TZ).strftime("%d %B %Y"))
+    # Leave any other Jinja-like defaults as literal text (harmless)
+    return t
+
+# ----------------- Helpers -----------------
+def read_text_file(path):
+    with open(path, "rb") as f:
+        raw = f.read()
+    enc = chardet.detect(raw).get("encoding") or "utf-8"
+    return raw.decode(enc, errors="replace")
+
+def strip_code_fences(s: str):
+    m = re.match(r"^```(?:json|yaml|md|markdown)?\s*(.*?)\s*```$", s.strip(), re.DOTALL | re.IGNORECASE)
+    return m.group(1) if m else s
+
+# ----------------- Async Calls -----------------
+def build_response_format(expected_outputs: int):
+    expected_outputs = max(1, min(expected_outputs, MAX_OUTPUT_COLUMNS))
+    return {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "esg_story_outputs",
+            "strict": True,
+            "schema": {
+                "type": "object",
+                "additionalProperties": False,
+                "properties": {
+                    "outputs": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                        "minItems": expected_outputs,
+                        "maxItems": expected_outputs
+                    }
+                },
+                "required": ["outputs"]
+            }
+        }
+    }
+
+def _coerce_outputs(obj):
+    def _string_blocks(text: str):
+        text = text.strip()
+        if not text:
+            return []
+        blocks = [blk.strip() for blk in re.split(r"\n\s*\n", text) if blk.strip()]
+        if len(blocks) > 1:
+            return blocks
+        return [line.strip() for line in text.splitlines() if line.strip()]
+
+    if isinstance(obj, dict):
+        raw = obj.get("outputs")
+        if isinstance(raw, list):
+            return [str(item).strip() for item in raw if str(item).strip()]
+        if isinstance(raw, str):
+            return _string_blocks(raw)
+        # If dict without outputs, flatten all values
+        values = []
+        for value in obj.values():
+            if isinstance(value, list):
+                values.extend(str(item).strip() for item in value if str(item).strip())
+            elif isinstance(value, str):
+                values.extend(_string_blocks(value))
+            else:
+                values.append(str(value).strip())
+        return [v for v in values if v]
+    if isinstance(obj, list):
+        return [str(item).strip() for item in obj if str(item).strip()]
+    if isinstance(obj, str):
+        return _string_blocks(obj)
+    return [str(obj).strip()]
+
+async def extract_structured_payload(response, file_name):
+    data = await response.json()
+    content = data["choices"][0]["message"]["content"]
+    if isinstance(content, list):
+        content = "".join(
+            part.get("text", "") if isinstance(part, dict) else str(part)
+            for part in content
+        )
+    content = (content or "").strip()
+    print(f"   📬 [{file_name}] Structured response received.")
+    cleaned = strip_code_fences(content)
+    try:
+        obj = json.loads(cleaned)
+        outputs = _coerce_outputs(obj)
+        return {"outputs": outputs}
+    except json.JSONDecodeError as e:
+        print(f"   ⚠️ [{file_name}] JSON parse failed ({e}); falling back to line split.")
+        try:
+            obj = yaml.safe_load(cleaned)
+            if obj is not None:
+                outputs = _coerce_outputs(obj)
+                return {"outputs": outputs}
+        except yaml.YAMLError as ye:
+            print(f"   ⚠️ [{file_name}] YAML parse failed ({ye}); using raw text fallback.")
+        outputs = _coerce_outputs(cleaned)
+        return {"outputs": outputs}
+
+async def call_openai_async(session, markdown_text, meta, with_web, file_name, system_prompt, user_template, profile_hint, expected_outputs):
+    if not OPENAI_API_KEY:
+        raise RuntimeError("OPENAI_API_KEY is missing")
+
+    system_block = system_prompt + ("\n\n" + profile_hint if profile_hint else "")
+    if with_web:
+        system_block += "\n\nNOTE: Web search not enabled."
+
+    user_block = render_user_prompt(markdown_text, meta, user_template)
+
+    url = f"{OPENAI_BASE_URL}/chat/completions"
+    payload = {
+        "model": MODEL_NAME,
+        "messages": [
+            {"role": "system", "content": system_block},
+            {"role": "user", "content": user_block},
+        ],
+        "temperature": TEMPERATURE,
+        "max_tokens": MAX_TOKENS,
+        # 🔑 Ask for structured JSON (strict)
+        "response_format": build_response_format(expected_outputs),
+    }
+    headers = {
+        "Authorization": f"Bearer {OPENAI_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    print(f"   📤 [{file_name}] Sending request to OpenAI (structured)…")
+
+    max_attempts = 3
+    attempt = 0
+    last_error = None
+    while attempt < max_attempts:
+        attempt += 1
+        try:
+            async with rpm_limiter:
+                async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+                    if resp.status in (429, 500, 502, 503, 504):
+                        retry_after = float(resp.headers.get("retry-after", "1"))
+                        text = await resp.text()
+                        print(f"   ⏳ [{file_name}] HTTP {resp.status} (attempt {attempt}/{max_attempts}), retrying in {retry_after}s… [{text[:120]}]")
+                        await asyncio.sleep(retry_after)
+                        continue
+                    resp.raise_for_status()
+                    return await extract_structured_payload(resp, file_name)
+        except Exception as exc:
+            last_error = exc
+            if attempt < max_attempts:
+                wait = min(5, 1 + attempt)
+                print(f"   ⚠️ [{file_name}] Attempt {attempt}/{max_attempts} failed: {exc}. Retrying in {wait}s…")
+                await asyncio.sleep(wait)
+            else:
+                print(f"   ❌ [{file_name}] Failed after {max_attempts} attempts: {exc}")
+                raise
+    raise last_error if last_error else RuntimeError("Unknown error without exception")
+
+# ----------------- Process one file -----------------
+async def process_file_async(session, row, sem, idx, total):
+    async with sem:
+        md_file = (row.get("md_file") or "").strip()
+        print(f"\n➡️  [{idx}/{total}] Starting: {md_file}")
+        md_path = os.path.join(SOURCE_DIR, md_file)
+        if not os.path.exists(md_path):
+            print(f"   ❌ [{md_file}] File not found at {md_path}")
+            return {"md_file": md_file, "outputs": [], "expected": 0}
+
+        md_text = read_text_file(md_path)
+        print(f"   📄 [{md_file}] File loaded ({len(md_text)} chars).")
+
+        story_type_raw = row.get("Story_Type", "")
+        system_prompt, user_template, profile_hint, prompt_path, expected_outputs = get_prompt_bundle(story_type_raw)
+        if story_type_raw:
+            print(f"   🧭 [{md_file}] Story type '{story_type_raw.strip()}' → {prompt_path} (expect {expected_outputs} outputs)")
+        else:
+            print(f"   🧭 [{md_file}] Story type missing, using default prompt {prompt_path} (default {expected_outputs} outputs)")
+
+        meta = {
+            "Jurisdiction": row.get("Jurisdiction", ""),
+            "ESG_Summary": row.get("ESG_Summary", ""),
+            "Story_Type": story_type_raw,
+        }
+
+        try:
+            start_time = time.time()
+            obj = await call_openai_async(
+                session,
+                md_text,
+                meta,
+                with_web=(PROFILE == "OAIW"),
+                file_name=md_file,
+                system_prompt=system_prompt,
+                user_template=user_template,
+                profile_hint=profile_hint,
+                expected_outputs=expected_outputs,
+            )
+            duration = time.time() - start_time
+            print(f"   ✅ [{md_file}] API call completed in {duration:.2f}s.")
+        except Exception as e:
+            print(f"   ❌ [{md_file}] API failed: {e}")
+            return {"md_file": md_file, "outputs": [], "expected": expected_outputs}
+
+        # Validate & coerce result
+        outputs = obj.get("outputs") if isinstance(obj, dict) else []
+        if not isinstance(outputs, list):
+            outputs = []
+        outputs = [(o or "").strip() for o in outputs][:expected_outputs]
+        if len(outputs) < expected_outputs:
+            outputs.extend([""] * (expected_outputs - len(outputs)))
+            print(f"   ⚠️ [{md_file}] Expected {expected_outputs} outputs but received fewer; padded with blanks.")
+
+        print(f"   📝 [{md_file}] Parsed outputs count={len(outputs)}.")
+        return {"md_file": md_file, "outputs": outputs, "expected": expected_outputs}
+
+# ----------------- Main Async -----------------
+async def main_async():
+    output_dir = os.path.dirname(OUTPUT_CSV)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+
+    # Read input CSV: Date,Title,URL,md_file,ESG_or_not,Jurisdiction,ESG_Summary,ESG_Relevance
+    if not os.path.exists(INPUT_CSV):
+        raise SystemExit(f"[INPUT ERROR] Not found: {INPUT_CSV}")
+
+    with open(INPUT_CSV, "r", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        fieldnames = reader.fieldnames or []
+        input_rows = [row for row in reader]
+
+    required_cols = {"Date", "Title", "URL", "md_file", "ESG_or_not", "Story_Type"}
+    if not input_rows or not required_cols.issubset(set(fieldnames)):
+        raise SystemExit("[INPUT ERROR] CSV must include: Date, Title, URL, md_file, ESG_or_not, Story_Type")
+
+    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROMPTS] Story type mappings: {len(STORY_TYPE_PROMPT_FILES)}")
+    print(f"[INPUT ]  {INPUT_CSV}")
+    print(f"[MD DIR]  {SOURCE_DIR}")
+    print(f"[OUTPUT]  {OUTPUT_CSV}")
+    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min")
+
+    # Candidates: ESG_or_not == 'Yes' AND required columns empty (so we don't overwrite)
+    candidates = []
+    for r in input_rows:
+        esg_or_not = (r.get("ESG_or_not") or "").strip().lower()
+        if esg_or_not != "yes":
+            continue
+        has_md = bool((r.get("md_file") or "").strip())
+        required_cols_row = get_required_output_columns(r.get("Story_Type"))
+        # Check if at least one target is empty (so reruns can fill missing bits)
+        empties = any(not (r.get(col) or "").strip() for col in required_cols_row)
+        if has_md and empties:
+            candidates.append(r)
+
+    CONCURRENCY_LIMIT = int(os.getenv("LOCAL_CONCURRENCY", "16"))
+    sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
+
+    results_map = {}  # md_file -> dict of structured fields
+    async with aiohttp.ClientSession() as session:
+        tasks = [
+            process_file_async(session, row, sem, idx=i + 1, total=len(candidates))
+            for i, row in enumerate(candidates)
+        ]
+        if tasks:
+            results = await asyncio.gather(*tasks)
+            for r in results:
+                results_map[r["md_file"]] = r
+        else:
+            print("[INFO] No rows to draft (ESG_or_not != 'Yes' or outputs already filled).")
+
+    # Merge back: write ALL original columns + structured columns (append if missing)
+    print("\n📁 Writing results to CSV...")
+    fieldnames_out = list(fieldnames)
+    for col in ALL_OUTPUT_COLUMNS:
+        if col not in fieldnames_out:
+            fieldnames_out.append(col)
+
+    with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames_out)
+        writer.writeheader()
+        for row in input_rows:
+            md_file = (row.get("md_file") or "").strip()
+            esg_or_not = (row.get("ESG_or_not") or "").strip().lower()
+            out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
+
+            # Ensure all output columns exist on the row
+            for col in ALL_OUTPUT_COLUMNS:
+                out_row[col] = (out_row.get(col) or "").strip()
+
+            required_cols_row = get_required_output_columns(row.get("Story_Type")) if esg_or_not == "yes" else []
+
+            if md_file in results_map and esg_or_not == "yes":
+                structured = results_map[md_file]
+                outputs = structured.get("outputs", [])
+                for idx, col in enumerate(required_cols_row):
+                    if idx < len(outputs) and not out_row[col]:
+                        out_row[col] = outputs[idx]
+
+            writer.writerow(out_row)
+
+    print(f"\n✅ [DONE] Wrote {len(input_rows)} rows → {OUTPUT_CSV}")
+
+if __name__ == "__main__":
+    asyncio.run(main_async())

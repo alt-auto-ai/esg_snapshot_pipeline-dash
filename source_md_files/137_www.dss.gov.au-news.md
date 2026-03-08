@@ -1,0 +1,193 @@
+[ Skip to main content ](https://www.dss.gov.au/news#main-content "Skip to main content")
+# News
+Latest news and headlines from the Department of Social Services. 
+Menu 
+## Launch of First Nations national plan to end family, domestic and sexual violence
+10 February 2026 
+Our Ways – Strong Ways – Our Voices aims to create a future where Aboriginal and Torres Strait Islander women, children and families live free from violence. 
+  * [ Read more ](https://www.dss.gov.au/news/launch-first-nations-national-plan-end-family-domestic-and-sexual-violence)
+
+
+## All news
+Filter
+Showing 1 to 12 of 123 results
+News 5 February 2026
+###  [ New Bill to support the rights of Aboriginal and Torres Strait Islander children and young people ](https://www.dss.gov.au/news/new-bill-support-rights-aboriginal-and-torres-strait-islander-children-and-young-people)
+The Hon Tanya Plibersek is proud to introduce the National Commission for Aboriginal and Torres Strait Islander Children and Young People Bill 2026 (the Bill). 
+News 2 February 2026
+###  [ Have your say in the National Family and Domestic Violence and Sexual Violence Workforce Survey ](https://www.dss.gov.au/news/have-your-say-national-family-and-domestic-violence-and-sexual-violence-workforce-survey)
+Take part in the survey between 2 February and 28 February 2026. 
+News 23 January 2026
+###  [ Scam alert – GrantConnect and the Community Grants Hub ](https://www.dss.gov.au/news/scam-alert-grantconnect-and-community-grants-hub)
+Be wary of emails pretending to be GrantConnect and the Community Grants Hub. 
+News 3 December 2025
+###  [ Recognising International Day of People with Disability ](https://www.dss.gov.au/news/recognising-international-day-people-disability)
+Promoting community awareness, understanding and acceptance of people with disability. 
+News 26 November 2025
+###  [ A statement from the Secretary: Progression of amendments to correct an anomaly in child support legislation ](https://www.dss.gov.au/news/statement-secretary-progression-amendments-correct-anomaly-child-support-legislation)
+We are changing child support legislation so the parents who provide the most care for their child get the support they need. 
+News 25 November 2025
+###  [ International Day for the Elimination of Violence Against Women 2025 ](https://www.dss.gov.au/news/international-day-elimination-violence-against-women-2025)
+This day marks the start of the UN’s 16 Days of Activism for the Elimination of Violence Against Women 2025. 
+News 3 November 2025
+###  [ A new approach to programs for families and children ](https://www.dss.gov.au/news/new-approach-programs-families-and-children)
+Consultations are now open on proposed reforms to supports and services for families, children and young people. 
+News 3 November 2025
+###  [ More people will find meaningful work with Inclusive Employment Australia ](https://www.dss.gov.au/news/more-people-will-find-meaningful-work-inclusive-employment-australia-0)
+Announcing the new Inclusive Employment Australia program. 
+News 20 October 2025
+###  [ The DSS website is a finalist! ](https://www.dss.gov.au/news/dss-website-finalist)
+The Department of Social Services website is a finalist in the 2025 Australian Access Awards. 
+News 17 October 2025
+###  [ Children’s Week 2025 ](https://www.dss.gov.au/news/childrens-week-2025)
+It’s Children’s Week! A week to recognise the importance of safety and wellbeing in a child’s life. 
+News 5 September 2025
+###  [ It’s National Child Protection Week ](https://www.dss.gov.au/news/its-national-child-protection-week)
+National Child Protection Week 2025 will focus on what we can do to prevent child abuse. 
+News 1 September 2025
+###  [ Women’s Health Week 2025 ](https://www.dss.gov.au/news/womens-health-week-2025)
+We can’t separate women’s safety from women’s health. 
+####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
+Visit our contact us page. 
+####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)
+The Ministers' Media Centre is where all speeches, transcripts and media releases from our Ministers are published. 
+  * [ Print ](https://www.dss.gov.au/news)
+  * [ Share ](https://www.dss.gov.au/news)
+Share this page: 
+https://www.dss.gov.au/news 
+Copy shareable link  Close 
+
+
+## Was this page helpful?
+Yes  No 
+Thank you for providing feedback. Help us improve by [telling us what you think](https://www.dss.gov.au/contact-us/enquiries-and-feedback). 
+DSS150 | Permalink: www.dss.gov.au/node/150
+Last modified 22 January 2025.
+[ Back to top ](https://www.dss.gov.au/news#top)
+Close 
+  * [ ](https://www.dss.gov.au/)
+  * [ ](https://www.dss.gov.au/our-work)
+Close 
+    * [ Community support ](https://www.dss.gov.au/our-work/community-support)
+Close 
+      * [ Community growth ](https://www.dss.gov.au/our-work/community-support/community-growth)
+Close 
+        * [ Income Management ](https://www.dss.gov.au/income-management)
+        * [ Financial counselling ](https://www.dss.gov.au/financial-counselling)
+        * [ Loans and savings ](https://www.dss.gov.au/loans-and-savings)
+        * [ Social impact investing ](https://www.dss.gov.au/social-impact-investing)
+        * [ Supporting community change ](https://www.dss.gov.au/supporting-community-change)
+        * [ Stronger Places, Stronger People ](https://www.dss.gov.au/stronger-places-stronger-people)
+        * [ Supporting people in financial crises ](https://www.dss.gov.au/supporting-people-financial-crises)
+      * [ Older Australians ](https://www.dss.gov.au/older-australians)
+      * [ Community connections ](https://www.dss.gov.au/our-work/community-support/community-connections)
+Close 
+        * [ Strengthening the Community Sector ](https://www.dss.gov.au/strengthening-community-sector)
+        * [ Charities and not-for profit support ](https://www.dss.gov.au/charities-and-not-profit-support)
+        * [ Strong and Resilient Communities Activity ](https://www.dss.gov.au/strong-and-resilient-communities-activity)
+        * [ Volunteering initiatives ](https://www.dss.gov.au/volunteering-initiatives)
+        * [ Improving digital skills for older Australians ](https://www.dss.gov.au/improving-digital-skills-older-australians)
+        * [ Aboriginal and Torres Strait Islanders ](https://www.dss.gov.au/aboriginal-and-torres-strait-islanders)
+      * [ Social security ](https://www.dss.gov.au/our-work/community-support/social-security)
+Close 
+        * [ Income support payments ](https://www.dss.gov.au/income-support-payments)
+        * [ Australia’s approach to social investment ](https://www.dss.gov.au/australias-approach-social-investment)
+        * [ Try, Test and Learn ](https://www.dss.gov.au/try-test-and-learn)
+        * [ International Social Security Agreements ](https://www.dss.gov.au/international-social-security-agreements)
+      * [ Gambling ](https://www.dss.gov.au/gambling)
+      * [ Emergency support ](https://www.dss.gov.au/emergency-support)
+    * [ Families and children ](https://www.dss.gov.au/our-work/families-and-children)
+Close 
+      * [ Family support services ](https://www.dss.gov.au/family-support-services)
+      * [ Children ](https://www.dss.gov.au/our-work/families-and-children/children)
+Close 
+        * [ Early childhood ](https://www.dss.gov.au/early-childhood)
+        * [ Early Years Strategy ](https://www.dss.gov.au/early-years-strategy)
+        * [ Towards adulthood ](https://www.dss.gov.au/towards-adulthood)
+        * [ Intercountry adoption ](https://www.dss.gov.au/intercountry-adoption)
+      * [ Parenting payments and benefits ](https://www.dss.gov.au/our-work/families-and-children/parenting-payments-and-benefits)
+Close 
+        * [ Paid parental leave ](https://www.dss.gov.au/paid-parental-leave)
+        * [ Child support ](https://www.dss.gov.au/child-support)
+      * [ Families and Children Activity ](https://www.dss.gov.au/families-and-children-activity)
+      * [ Help and support for parenting and children ](https://www.dss.gov.au/help-and-support-parenting-and-children)
+    * [ Ending violence and abuse ](https://www.dss.gov.au/our-work/ending-violence-and-abuse)
+Close 
+      * [ First Nations national plan to end family, domestic and sexual violence ](https://www.dss.gov.au/first-nations-national-plan-end-family-domestic-and-sexual-violence)
+      * [ Child protection ](https://www.dss.gov.au/child-protection)
+      * [ Safety programs, prevention and evidence ](https://www.dss.gov.au/safety-programs-prevention-and-evidence)
+      * [ Sexual consent ](https://www.dss.gov.au/sexual-consent)
+      * [ Help and support ](https://www.dss.gov.au/help-and-support-ending-violence)
+      * [ National Plan to End Violence against Women and Children ](https://www.dss.gov.au/national-plan-end-violence-against-women-and-children)
+      * [ Supporting survivors ](https://www.dss.gov.au/our-work/ending-violence-and-abuse/supporting-survivors)
+Close 
+        * [ National Redress Scheme ](https://www.dss.gov.au/national-redress-scheme)
+        * [ Forced adoption ](https://www.dss.gov.au/forced-adoption)
+        * [ Human trafficking and slavery ](https://www.dss.gov.au/human-trafficking-and-slavery)
+        * [ Forgotten Australians and Former Child Migrants ](https://www.dss.gov.au/forgotten-australians-and-former-child-migrants)
+        * [ National Memorial for Victims and Survivors of Institutional Child Sexual Abuse ](https://www.dss.gov.au/national-memorial-victims-and-survivors-institutional-child-sexual-abuse)
+        * [ Assistance for the Bali bombing ](https://www.dss.gov.au/assistance-bali-bombing)
+    * [ Housing support ](https://www.dss.gov.au/our-work/housing-support)
+Close 
+      * [ National Rental Affordability Scheme ](https://www.dss.gov.au/national-rental-affordability-scheme)
+      * [ Home Equity Access Scheme ](https://www.dss.gov.au/home-equity-access-scheme)
+    * [ Work and study ](https://www.dss.gov.au/our-work/work-and-study)
+Close 
+      * [ Disability employment ](https://www.dss.gov.au/our-work/work-and-study/disability-employment)
+Close 
+        * [ Inclusive Employment Australia ](https://www.dss.gov.au/inclusive-employment-australia)
+        * [ Disability employment support programs ](https://www.dss.gov.au/disability-employment-support-programs)
+        * [ Disability Employment Services ](https://www.dss.gov.au/disability-employment-services)
+        * [ Disability employment reforms ](https://www.dss.gov.au/disability-employment-reforms)
+        * [ Disability Employment Strategy ](https://www.dss.gov.au/disability-employment-strategy)
+      * [ Support for people looking for work ](https://www.dss.gov.au/support-people-looking-work)
+      * [ Support for students and apprentices ](https://www.dss.gov.au/support-students-and-apprentices)
+      * [ Approval of Masters courses for education providers ](https://www.dss.gov.au/approval-masters-courses-education-providers)
+      * [ Deductible Gift Recipient Status for marriage education programs ](https://www.dss.gov.au/deductible-gift-recipient-status-marriage-education-programs)
+      * [ Mental health support ](https://www.dss.gov.au/mental-health-support)
+  * [ ](https://www.dss.gov.au/about-us)
+Close 
+    * [ Who we are ](https://www.dss.gov.au/who-we-are)
+    * [ What we do ](https://www.dss.gov.au/about-us/what-we-do)
+Close 
+      * [ Grant processes ](https://www.dss.gov.au/grant-processes)
+      * [ Legislation we administer ](https://www.dss.gov.au/legislation-we-administer)
+      * [ Responses to Government inquiries ](https://www.dss.gov.au/responses-government-inquiries)
+      * [ Long-term research ](https://www.dss.gov.au/long-term-research)
+      * [ Campaign certification ](https://www.dss.gov.au/campaign-certification)
+    * [ Corporate reporting ](https://www.dss.gov.au/about-us/corporate-reporting)
+Close 
+      * [ Budget and Additional Estimates Statements ](https://www.dss.gov.au/budget-and-additional-estimates-statements)
+      * [ Senate orders and legal services directions ](https://www.dss.gov.au/senate-orders-and-legal-services-directions)
+      * [ Corporate plans ](https://www.dss.gov.au/corporate-plans)
+      * [ Annual reports ](https://www.dss.gov.au/annual-reports)
+      * [ Registers ](https://www.dss.gov.au/registers)
+      * [ Closing the Gap ](https://www.dss.gov.au/closing-gap)
+      * [ Departmental operational information ](https://www.dss.gov.au/departmental-operational-information)
+      * [ Commonwealth Child Safe Framework Annual Statement ](https://www.dss.gov.au/commonwealth-child-safe-framework-annual-statement)
+      * [ Independent capability review ](https://www.dss.gov.au/independent-capability-review)
+    * [ Doing business with us ](https://www.dss.gov.au/doing-business-us)
+    * [ Work with us ](https://www.dss.gov.au/about-us/work-us)
+Close 
+      * [ Careers and employment ](https://www.dss.gov.au/careers-and-employment)
+      * [ Graduate program ](https://www.dss.gov.au/graduate-program)
+      * [ Ability Apprenticeships ](https://www.dss.gov.au/ability-apprenticeships-program)
+    * [ Committees, panels and groups ](https://www.dss.gov.au/about-us/committees-panels-and-groups)
+Close 
+      * [ Committees and panels ](https://www.dss.gov.au/committees-and-panels)
+      * [ Councils ](https://www.dss.gov.au/councils)
+      * [ Groups ](https://www.dss.gov.au/groups)
+    * [ Access to information ](https://www.dss.gov.au/access-information)
+    * [ Contact us ](https://www.dss.gov.au/contact-us)
+    * [ Using our website ](https://www.dss.gov.au/using-our-website)
+  * [ ](https://www.dss.gov.au/news)
+
+
+  * [ Ministers (Opens external website)](https://ministers.dss.gov.au/)
+  * [ Accessibility ](https://www.dss.gov.au/using-our-website/accessibility)
+
+
+  * [ Ministers (Opens external website)](https://ministers.dss.gov.au/)
+  * [ Accessibility ](https://www.dss.gov.au/using-our-website/accessibility)
+
+

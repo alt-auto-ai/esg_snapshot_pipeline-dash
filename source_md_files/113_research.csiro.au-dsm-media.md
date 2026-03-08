@@ -1,0 +1,17 @@
+  * [CSIRO.au](https://www.csiro.au/)
+
+
+# Media
+## [Media Statement: Scientists set global benchmark for environmental oversight of potential deep-sea mining ](https://www.csiro.au/en/news/All/News/2025/July/Scientists-set-global-benchmark-for-environmental-oversight-of-potential-deep-sea-mining)
+Published on 3 July 2025
+Read a statement from the consortium members.
+## [Setting the standard: Science helps deep-sea mining decision-makers assess environmental risks and viability ](https://www.csiro.au/en/news/All/Articles/2025/July/Science-helps-deep-sea-mining-decision-makers-assess-environmental-risks-and-viability)
+Published on 3 July 2025
+Read CSIRO’s blog article about the research.
+## [CSIRO article: Assessing impacts of deep-sea mining ](https://www.csiro.au/en/news/All/Articles/2022/November/assessing-impacts-of-deep-sea-mining)
+Published on 29 November 2022.
+CSIRO is leading a consortium of organisations to highlight any potential impacts of a deep-sea mining proposal.
+## Media contact details
+CSIRO Media Team
+P: 1800 555 005
+E: media@csiro.au

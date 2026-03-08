@@ -1,0 +1,47 @@
+[Skip to content](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases#main)
+  * [Home](https://www.cmtedd.act.gov.au/open_government)
+  * [Open Government](https://www.cmtedd.act.gov.au/open_government)
+  * [Inform](https://www.cmtedd.act.gov.au/open_government/inform)
+  * ACT Government Media Releases
+
+
+# ACT Government Media Releases
+* * *
+## Latest media releases
+  * [Media releases issued by Ministers](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/latest_minister_media_releases "Latest media releases issued by Ministers")
+  * [Media releases issued by Directorates](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/latest_directorate_media_releases "Latest media releases issued by Directorates")
+  * [Subscribe to a media release RSS feed](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/all_media_release_rss_feeds "Media release RSS feeds")
+
+
+## Minister issued media releases
+Andrew Barr, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/barr "View media releases issued by Andrew Barr, MLA")  
+---|---  
+Yvette Berry, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/yvette-berry-mla-media-releases "View media releases issued by Yvette Berry, MLA")  
+Rachel Stephen-Smith, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/rachel-stephen-smith-mla-media-releases "View media releases issued by Rachel Stephen-Smith, MLA")  
+Chris Steel, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/chris-steel-mla-media-releases "View media releases issued by Chris Steel, MLA")  
+Tara Cheyne, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/cheyne "View media releases issued by Tara Cheyne, MLA")  
+Suzanne Orr, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/suzanne-orr-mla-media-releases "View media releases issued by Suzanne Orr, MLA")  
+Michael Pettersson, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/michael-pettersson-mla-media-releases "View media releases issued by Michael Pettersson, MLA")  
+Marisa Paterson, MLA  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/marisa-paterson-mla-media-releases "View media releases issued by Marisa Paterson, MLA")  
+## **Directorate issued media releases**
+Access Canberra  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/access-canberra "View media releases issued by Access Canberra")  
+---|---  
+Treasury  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/td "View media releases issued by Treasury")  
+Canberra Health Services  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/chs "View media releases issued by CHS")  
+City and Environment  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/ce "View media releases issued by CE")  
+City Renewal Authority  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/act-city-renewal-authority-media-releases "View media releases issued by CRA")  
+Digital Canberra  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/dc "View media releases issued by DC")  
+Education Directorate  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/etd "View media releases issued by Education")  
+Health and Community Services  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/hcs "View media releases issued by HCS")  
+Infrastructure Canberra  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/infrastructure-canberra "View media releases issued by EPSDD")  
+Justice and Community Safety Directorate  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/jacsd "View media releases issued by JACS")  
+Suburban Land Agency  |  [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/act-suburban-land-agency-media-releases "View media releases issued by SLA")  
+WorkSafe ACT  | [View media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/worksafe-act "View media releases issued by WorkSafe ACT")  
+## Former ministers, directorates and agencies
+  * [Former ministers media releases](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/past-ministers-media-releases)
+  * [ACT Health](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/hd)
+  * [Environment, Planning and Sustainable Development Directorate](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/esdd)
+  * [Transport Canberra and City Services](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/act-transport-canberra-and-city-services-media-releases)
+  * [Land Development Agency](https://www.cmtedd.act.gov.au/open_government/inform/act_government_media_releases/lda)
+
+

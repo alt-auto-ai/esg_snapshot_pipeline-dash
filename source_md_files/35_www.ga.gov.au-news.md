@@ -1,0 +1,428 @@
+[Skip to content](https://www.ga.gov.au/news#content)
+#  News & events  Latest news and events 
+  * Highlighting major work, news and events
+  * Media enquiries: 1800 882 035
+  * Email: 
+
+
+##  Quick links 
+  * [Public talks ](https://www.ga.gov.au/news/publictalks)
+  * [Subscribe ](https://communication.ga.gov.au/link/id/zzzz677d1577572fd087P/page.html?prompt=1&)
+  * [Contact us ](https://www.ga.gov.au/contact-us)
+
+
+[Home](https://www.ga.gov.au/home) [Geoscience Australia](https://www.ga.gov.au) > [News](https://www.ga.gov.au/news) News & events 
+Filter
+##  Filter 
+###  Type 
+  * Events 
+  * Features 
+  * Media release 
+  * News 
+
+
+###  Topic 
+  * Earthquakes 
+  * Positioning 
+  * Resourcing Australia’s Prosperity 
+  * Exploring for the Future 
+
+
+###  2026 Distinguished Geoscience Australia Lectures and Public Talk Series has arrived! 
+**3 March 2026**
+Our Public Talks are back for 2026! This year, we’re going bigger, bolder and more inspiring than ever. Every fortnight, we’re bringing you conversations that explore the latest Earth science.
+[ 2026 Distinguished Geoscience Australia Lectures and Public Talk Series has arrived! Learn more](https://www.ga.gov.au/news/2026-distinguished-geoscience-australia-lectures-and-public-talk-series-has-arrived!)
+###  Release of Australia’s Identified Mineral Resources (AIMR) 2025 report 
+**2 March 2026**
+As home to some of the largest Mineral Resources of many of the world’s critical minerals, Australia is well-placed to support global demand, according to Geoscience Australia’s recently published 2025 edition of Australia’s Identified Mineral Resources 2025 (AIMR).
+[ Release of Australia’s Identified Mineral Resources (AIMR) 2025 report Learn more](https://www.ga.gov.au/news/release-of-australias-identified-mineral-resources-2025-aimr-report)
+###  Mineral potential assessment reveals new areas for likely unconformity-related rare earth element discoveries 
+**3 February 2026**
+Geoscience Australia has unveiled new research that reshapes Australia’s understanding of where unconformity-related rare earth element (REE) deposits may be found, revealing previously unrecognised regions with strong potential for future discovery.
+[ Mineral potential assessment reveals new areas for likely unconformity-related rare earth element discoveries Learn more](https://www.ga.gov.au/news/mineral-potential-assessment-reveals-new-areas-for-likely-unconformity-related-rare-earth-element-discoveries)
+###  Positioning Australia expands capabilities with Ginan V4 release 
+**17 December 2025**
+Geoscience Australia today announced the release of Ginan V4, the latest version of its home-grown, open-source toolkit for precise point positioning.
+[ Positioning Australia expands capabilities with Ginan V4 release Learn more](https://www.ga.gov.au/news/positioning-australia-expands-capabilities-with-ginan-v4-release)
+###  Australia and Papua New Guinea: A century of scientific partnership 
+**10 December 2025**
+As Papua New Guinea celebrates 50 years of independence, it’s a great opportunity to look back at the much longer scientific story that we share with our northern neighbour.
+[ Australia and Papua New Guinea: A century of scientific partnership Learn more](https://www.ga.gov.au/news/australia-and-papua-new-guinea-a-century-of-scientific-partnership)
+###  Geoscience Australia’s deepest stratigraphic drilling campaign unlocking the secrets of the Adavale Basin 
+**10 December 2025**
+Geoscience Australia have completed the single deepest drilling campaign in modern organisational history.
+[ Geoscience Australia’s deepest stratigraphic drilling campaign unlocking the secrets of the Adavale Basin Learn more](https://www.ga.gov.au/news/geoscience-australias-deepest-stratigraphic-drilling-campaign-unlocking-the-secrets-of-the-adavale-basin)
+###  Dr Verity Normington in new book celebrating Rebel Girls in STEM with disabilities and chronic illness 
+**17 November 2025**
+A new book highlighting women changing the world through science, technology, engineering and mathematics (STEM) features Geoscience Australia geoscientist and a chronic illness and STEM advocate, Dr Verity Normington.
+[ Dr Verity Normington in new book celebrating Rebel Girls in STEM with disabilities and chronic illness Learn more](https://www.ga.gov.au/news/dr-verity-normington-in-new-book-celebrating-rebel-girls-in-stem-with-disabilities-and-chronic-illness)
+###  Australia’s Energy Commodity Resources publication reinforces Australia’s position as a global leader 
+**23 October 2025**
+Geoscience Australia’s latest edition of Australia’s Energy Commodity Resources (AECR) publication reinforces Australia’s position as a global leader in energy resources, production and exports.
+[ Australia’s Energy Commodity Resources publication reinforces Australia’s position as a global leader Learn more](https://www.ga.gov.au/news/australias-energy-commodity-resources-publication-reinforces-australias-position-as-a-global-leader)
+###  Sharing marine science expertise with our neighbours 
+**8 September 2025**
+Australia and Indonesia work together to grow marine data capacity
+[ Sharing marine science expertise with our neighbours Learn more](https://www.ga.gov.au/news/sharing-marine-science-expertise-with-our-neighbours)
+###  Resourcing Australia’s Prosperity – what to expect in the first 10 years 
+**5 September 2025**
+Geoscience Australia have showcased their planned projects for the first 10 years (2024-2034) of the Resourcing Australia’s Prosperity initiative.
+[ Resourcing Australia’s Prosperity – what to expect in the first 10 years  Learn more](https://www.ga.gov.au/news/rap-what-to-expect-in-the-first-10-years)
+###  Magnitude 5.6 earthquake near Kilkivan, QLD 
+**21 August 2025**
+A magnitude 5.6 earthquake hit south eastern Queensland at 9.49 AM on Saturday 16 August, near the town of Kilkivan and around 40 kilometres west of Gympie.
+[ Magnitude 5.6 earthquake near Kilkivan, QLD Learn more](https://www.ga.gov.au/news/earthquake-near-kilkivan)
+###  A summer of Antarctic Geoscience 
+**7 August 2025**
+As Australia shivers in the winter, it’s a good time to look back over a successful summer of Earth science in the Antarctic.
+[ A summer of Antarctic Geoscience Learn more](https://www.ga.gov.au/news/a-summer-of-antarctic-geoscience)
+###  Resourcing Australia’s Prosperity – the first 10 years 
+**5 August 2025**
+Join us online, Tuesday 26 August, 11:30am – 1:00pm AEST, to hear more about what's planned under the 4 components for the first 10 years of Resourcing Australia’s Prosperity.
+[ Resourcing Australia’s Prosperity – the first 10 years Learn more](https://www.ga.gov.au/news/resourcing-australias-prosperity-the-first-10-years)
+###  Earth Science Week 
+**24 July 2025**
+Geoscience Australia has something for everyone this Earth Science Week, held from Sunday 12 to Saturday 18 October 2025. Register your own event, find one near you or check out our digital supporter toolkit.
+[ Earth Science Week Learn more](https://www.ga.gov.au/news/earth-science-week)
+###  National Science Week 
+**24 July 2025**
+National Science Week is Australia’s annual celebration of science and technology. Held from Saturday 9 to Sunday 17 August 2025.
+[ National Science Week Learn more](https://www.ga.gov.au/news/national-science-week)
+###  Geoscience Australia receives international recognition for geospatial excellence 
+**17 July 2025**
+Geoscience Australia has earned international recognition for geospatial excellence, receiving a Special Achievement in GIS Award for the development and delivery of the Digital Atlas of Australia.
+[ Geoscience Australia receives international recognition for geospatial excellence Learn more](https://www.ga.gov.au/news/geoscience-australia-receives-international-recognition-for-geospatial-excellence)
+###  Magnitude 4.6 earthquake near Singleton, NSW 
+**23 April 2025**
+A magnitude 4.6 earthquake hit the New South Wales Hunter region at 2.55 AM on Wednesday 23 April near Singleton.
+[ Magnitude 4.6 earthquake near Singleton, NSW  Learn more](https://www.ga.gov.au/news/magnitude-4.6-earthquake-near-singleton-nsw)
+###  Public Talks at Geoscience Australia 
+**25 March 2025**
+Our Public Talks are back, and we are thrilled to welcome you to the 2025 series. These talks, held fortnightly on Wednesdays at 11am can be joined in person at our Canberra headquarters or live online and will include seven Distinguished Geoscience Australia Lectures (DGALs) over the year.
+[ Public Talks at Geoscience Australia Learn more](https://www.ga.gov.au/news/public-talks-at-geoscience-australia)
+###  Australia takes world leading role in global critical minerals supply 
+**7 March 2025**
+Australia is home to some of the largest resources of the world’s critical minerals. Geoscience Australia’s annual stocktake report of these mineral resources has been released in the 2024 edition of Australia’s Identified Mineral Resources (AIMR).
+[ Australia takes world leading role in global critical minerals supply Learn more](https://www.ga.gov.au/news/australia-takes-world-leading-role-in-global-critical-minerals-supply)
+###  Supporting gender equity through improved talent attraction 
+**20 February 2025**
+Geoscience Australia has been awarded a 4th Science in Australia Gender Equity (SAGE) Cygnet Award for supporting gender equity through improved talent attraction, demonstrating its commitment to sustainable gender equity, and a diverse and inclusive workplace culture.
+[ Supporting gender equity through improved talent attraction Learn more](https://www.ga.gov.au/news/supporting-gender-equity-through-improved-talent-attraction)
+###  International Day of Women and Girls in Science 
+**11 February 2025**
+Today on International Day of Women and Girls in Science, Geoscience Australia is celebrating the diverse range of talent found right here in our backyard.
+[ International Day of Women and Girls in Science Learn more](https://www.ga.gov.au/news/international-day-of-women-and-girls-in-science)
+###  Geoscience Australia's Principal Advisor Maritime Mark Alcock named in 2025 Australia Day Honours list 
+**28 January 2025**
+Geoscience Australia Principal Advisor Maritime Mark Alcock has been awarded a Public Service Medal (PSM) for his service to the community through international leadership in maritime affairs.
+[ Geoscience Australia's Principal Advisor Maritime Mark Alcock named in 2025 Australia Day Honours list Learn more](https://www.ga.gov.au/news/principal-advisor-maritime-mark-alcock-named-in-2025-australia-day-honours-list)
+###  New Chief Executive for Geoscience Australia 
+**24 January 2025**
+Geoscience Australia welcomes the news today, from Minister for Resources and Northern Australia, the Hon Madeleine King MP, announcing Ms Melissa Harris as the new Chief Executive Officer of the organisation.
+[ New Chief Executive for Geoscience Australia Learn more](https://www.ga.gov.au/news/new-chief-executive-for-geoscience-australia)
+###  New clean energy resource discovered under our feet 
+**17 January 2025**
+A new report from Geoscience Australia, in collaboration with the Geological Survey of New South Wales, has found elevated levels of natural hydrogen and helium in locations throughout New South Wales.
+[ New clean energy resource discovered under our feet Learn more](https://www.ga.gov.au/news/new-clean-energy-resource-discovered-under-our-feet)
+###  New science sheds light on Australia’s potential risk for earthquakes 
+**17 December 2024**
+Geoscience Australia has released the first update to the National Seismic Hazard Assessment since 2018, identifying Darwin and the eastern highlands through into Latrobe Valley as areas where there is a higher risk of strong ground shaking.
+[ New science sheds light on Australia’s potential risk for earthquakes Learn more](https://www.ga.gov.au/news/new-science-sheds-light-on-australias-potential-risk-for-earthquakes)
+###  Seabed mapping on a global scale: New international agreement 
+**30 October 2024**
+Geoscience Australia is contributing to global action on seabed mapping by signing a Memorandum of Understanding with The Nippon Foundation-GEBCO Seabed 2030; the first Australian Government organisation to do so.
+[ Seabed mapping on a global scale: New international agreement Learn more](https://www.ga.gov.au/news/seabed-mapping-on-a-global-scale)
+###  Sentinel-2C launch 
+**17 October 2024**
+Successful satellite launch aids informed decision making.
+[ Sentinel-2C launch Learn more](https://www.ga.gov.au/news/sentinel-2c-launch)
+###  Earth Science Week 2024 
+**11 October 2024**
+Discover how Earth science is everywhere this Earth Science Week.
+[ Earth Science Week 2024 Learn more](https://www.ga.gov.au/news/earth-science-week-2024)
+###  GeoInsight wins Good Design Australia Award for Design Strategy 
+**24 September 2024**
+Geoscience Australia’s new region-based spatial exploration tool GeoInsight has won a Good Design Award for Design Strategy at the 2024 Australian Good Design Awards ceremony.
+[ GeoInsight wins Good Design Australia Award for Design Strategy Learn more](https://www.ga.gov.au/news/geoinsight-wins-good-design-australia-award-for-design-strategy)
+###  Prime Minister visit to Geoscience Australia 
+**18 September 2024**
+Prime Minister Anthony Albanese breaks ground as the first sitting prime minister to visit Geoscience Australia.
+[ Prime Minister visit to Geoscience Australia Learn more](https://www.ga.gov.au/news/prime-minister-visit-to-geoscience-australia)
+###  Dr James Johnson announces retirement 
+**17 September 2024**
+Dr James Johnson has announced his retirement as Chief Executive Officer (CEO) of Geoscience Australia.
+[ Dr James Johnson announces retirement Learn more](https://www.ga.gov.au/news/dr-james-johnson-announces-retirement)
+###  New insights into Australia’s unknown potential for high-purity quartz resources 
+**26 August 2024**
+A new paper published in the Australian Earth Sciences Journal by Geoscience Australia has established a baseline understanding of Australia’s potential for High Purity Quartz (HPQ) resources, an area that has been significantly under-reported.
+[ New insights into Australia’s unknown potential for high-purity quartz resources Learn more](https://www.ga.gov.au/news/new-insights-into-australias-unknown-potential-for-high-purity-quartz-resources)
+###  Magnitude 4.7 earthquake in Upper Hunter, NSW 
+**23 August 2024**
+The Upper Hunter region has been rocked by a magnitude 4.7 earthquake at 12:01 PM on Friday 23 August near the town of Denman, near Muswellbrook, NSW.
+[ Magnitude 4.7 earthquake in Upper Hunter, NSW Learn more](https://www.ga.gov.au/news/magnitude-4.7-earthquake-in-upper-hunter-nsw)
+###  Transformational geoscience - Exploring for the Future final publication released 
+**16 August 2024**
+As the Exploring for the Future program officially concludes, over 750 attendees connected online across 4 days to delve deeper into the science of the transformational 8-year program.
+[ Transformational geoscience - Exploring for the Future final publication released Learn more](https://www.ga.gov.au/news/transformational-geoscience-exploring-for-the-future-final-publication-released)
+###  Geoscience Australia inspires future Earth scientists at GSG STEM Expo 
+**16 August 2024**
+This Thursday, during National Science Week, the Government Scientists Group (GSG) and its members transformed the Great Hall at Parliament House into the GSG STEM Expo.
+[ Geoscience Australia inspires future Earth scientists at GSG STEM Expo Learn more](https://www.ga.gov.au/news/geoscience-australia-inspires-future-earth-scientists-at-gsg-stem-expo)
+###  Continental mapping uncovers Australia’s hidden geology 
+**14 August 2024**
+A new map has been released by Geoscience Australia, showing a layered view of Australia’s surface and subsurface geology by progressively stripping away geological layers up to 1 billion years old.
+[ Continental mapping uncovers Australia’s hidden geology Learn more](https://www.ga.gov.au/news/continental-mapping-uncovers-australias-hidden-geology)
+###  Landmark geoscience program lays the groundwork for a future made in Australia 
+**13 August 2024**
+Geoscience Australia’s Exploring for the Future program has officially concluded, celebrating its success with an online Showcase starting today, and a publication that summarises its results, achievements and impacts.
+[ Landmark geoscience program lays the groundwork for a future made in Australia Learn more](https://www.ga.gov.au/news/landmark-geoscience-program-lays-the-groundwork-for-a-future-made-in-australia)
+###  Australia joins Landsat Next satellite program 
+**6 August 2024**
+Australia has formally joined the United States-led Landsat Next satellite program, cementing an enduring partnership and building on nearly half a century of collaboration in satellite land imaging.
+[ Australia joins Landsat Next satellite program Learn more](https://www.ga.gov.au/news/australia-joins-landsat-next-satellite-program)
+###  Critical Minerals Mapping Initiative database updated to over 25,000 samples 
+**1 August 2024**
+A major update has been delivered to the Critical Minerals in Ores database and portal, increasing the available online high quality multielement geochemistry of mineralised ore samples from 7,300 to over 25,000.
+[ Critical Minerals Mapping Initiative database updated to over 25,000 samples Learn more](https://www.ga.gov.au/news/critical-minerals-mapping-initiative-database-updated-to-over-25000-samples)
+###  Landsat informing better wetland management in Australia and Africa 
+**24 July 2024**
+Learning from the past to plan for a better future: Supporting nature-based climate change solutions through Earth observation.
+[ Landsat informing better wetland management in Australia and Africa Learn more](https://www.ga.gov.au/news/landsat-informing-better-wetland-management-in-australia-and-africa)
+###  Geoscience Australia welcomes new Chief of Place and Communities Division 
+**12 June 2024**
+Geoscience Australia is pleased to announce the appointment of Maree Wilson as the new Chief of Place and Communities Division.
+[ Geoscience Australia welcomes new Chief of Place and Communities Division Learn more](https://www.ga.gov.au/news/geoscience-australia-welcomes-new-chief-of-place-and-communities-division)
+###  Geoscience Australia informing improved cyclone preparation on the Gold Coast 
+**19 June 2024**
+When Geoscience Australia produced the latest scientific advice about the risks and potential impacts of severe wind in Southern Queensland, the City of Gold Coast picked up the ball and ran with it.
+[ Geoscience Australia informing improved cyclone preparation on the Gold Coast Learn more](https://www.ga.gov.au/news/geoscience-australia-informing-improved-cyclone-preparation-on-the-gold-coast)
+###  Minister King launches the Digital Atlas of Australia 
+**28 May 2024**
+The Australian Government has released an innovative online platform that will change how essential national data is accessed and used, helping us make better decisions for Australia's future.
+[ Minister King launches the Digital Atlas of Australia Learn more](https://www.ga.gov.au/news/minister-king-launches-the-digital-atlas-of-australia)
+###  Investments to map Australian resources that will power our future prosperity 
+**17 May 2024**
+As part of the 2024-25 May Budget, the Australian Government announced it will fund Geoscience Australia to accelerate the discovery of critical minerals, ground water and other resources necessary for the net zero transition.
+[ Investments to map Australian resources that will power our future prosperity Learn more](https://www.ga.gov.au/news/investments-to-map-australian-resources-that-will-power-our-future-prosperity)
+###  Satellite imagery to help aerial firefighters find usable watersources 
+**20 May 2024**
+Upgraded Digital Earth Australia (DEA) Waterbodies to form part of new decision support tools.
+[ Satellite imagery to help aerial firefighters find usable watersources Learn more](https://www.ga.gov.au/news/satellite-imagery-to-help-aerial-firefighters-find-usable-watersources)
+###  Generational investment in Australia's resources to deliver a Future Made in Australia 
+**8 May 2024**
+The Albanese Government will deliver a generational investment to find new deposits of minerals and sources of energy to help build a Future Made in Australia, as part of a big focus on resources in next week’s Budget.
+[ Generational investment in Australia's resources to deliver a Future Made in Australia Learn more](https://www.ga.gov.au/news/generational-investment-in-australias-resources-to-deliver-a-future-made-in-australia)
+###  SouthPAN upgrade delivers improved positioning services to users 
+**6 May 2024**
+Geoscience Australia’s satellite-based augmentation system, SouthPAN, has reached a new milestone, elevating services to a reliable 99.5% accurate service availability, up from 95% previously.
+[ SouthPAN upgrade delivers improved positioning services to users Learn more](https://www.ga.gov.au/news/southpan-upgrade-delivers-improved-positioning-services-to-users)
+###  Minister King explores the new Rocks That Shape Australia exhibition 
+**3 April 2024**
+Minister for Resources and Minister for Northern Australia Madeleine King has visited the Rocks That Shape Australia exhibition at Geoscience Australia.
+[ Minister King explores the new Rocks That Shape Australia exhibition Learn more](https://www.ga.gov.au/news/minister-king-explores-the-new-rocks-that-shape-australia-exhibition)
+###  Earthquake information for media outlets 
+**8 September 2025**
+In the event of a significant earthquake, Geoscience Australia will provide up-to-date information for the public and media outlets in a timely manner.
+[ Earthquake information for media outlets Learn more](https://www.ga.gov.au/news/earthquake-information-for-media-outlets)
+###  Landsat helping to address food security challenges in Africa 
+**26 March 2024**
+Learning from the past and planning for the future. Using Earth observation products and tools in the fight to achieve global food security.
+[ Landsat helping to address food security challenges in Africa Learn more](https://www.ga.gov.au/news/landsat-helping-to-address-food-security-challenges-in-africa)
+###  Resilience to the shake: science protecting older buildings against earthquakes 
+**27 March 2024**
+If an earthquake hits, how stable is your home or business? What can you do to make it safer and help it to survive a shake?
+[ Resilience to the shake: science protecting older buildings against earthquakes Learn more](https://www.ga.gov.au/news/resilience-to-the-shake)
+###  Australia to join US satellite program in Landsat 2030 International Partnerships Initiative 
+**22 March 2024**
+The Australian Government has agreed to join Landsat Next, the pioneering satellite program led by NASA and the US Geological Survey.
+[ Australia to join US satellite program in Landsat 2030 International Partnerships Initiative Learn more](https://www.ga.gov.au/news/australia-to-join-us-satellite-program-in-landsat-2030-international-partnerships-initiative)
+###  EFTF 2024 Showcase 
+**22 March 2024**
+Geoscience Australia will hold the final Exploring for the Future online public Showcase during the week of 12 August 2024, marking the conclusion of the 8-year program and celebrating its enduring legacy. Everyone is welcome!
+[ EFTF 2024 Showcase Learn more](https://www.ga.gov.au/news/2024-showcase)
+###  New report shows Australia’s critical minerals are leading the way 
+**20 March 2024**
+Australia is a leading supplier of the minerals the world needs to reach net zero according to the latest Australia’s Identified Mineral Resources (AIMR) report.
+[ New report shows Australia’s critical minerals are leading the way Learn more](https://www.ga.gov.au/news/new-report-shows-australias-critical-minerals-are-leading-the-way)
+###  Floodwater cuts through dry Channel Country 
+**8 March 2024**
+The channels are always changing on the way to Kati Thanda-Lake Eyre in South Australia where recent heavy rains have seen flood plains filled in central Australia.
+[ Floodwater cuts through dry Channel Country Learn more](https://www.ga.gov.au/news/floodwater-cuts-through-dry-channel-country)
+###  Unlocking insights on Australia’s people and economy 
+**20 December 2023**
+Explore location data on Australia's population and economy from the Australian Bureau of Statistics in the Digital Atlas.
+[ Unlocking insights on Australia’s people and economy Learn more](https://www.ga.gov.au/news/unlocking-insights-on-australias-people-and-economy)
+###  Caring for Country: Geoscience Australia strengthens ties with First Nations rangers 
+**19 December 2023**
+First Nations’ peoples hold the original knowledge of our land and sea. By linking their Caring for Country activities with Geoscience Australia’s Earth science data and knowledge, we can work together to achieve better outcomes to create a holistic view of our nation.
+[ Caring for Country: Geoscience Australia strengthens ties with First Nations rangers Learn more](https://www.ga.gov.au/news/caring-for-country-geoscience-australia-strengthens-ties-with-first-nations-rangers)
+###  New satellite dish puts Australia in prime position 
+**4 December 2023**
+A ceremony today at Uralla in regional New South Wales marked the completion of the construction of the first of four satellite dishes being delivered under the Southern Positioning Augmentation Network (SouthPAN) program.
+[ New satellite dish puts Australia in prime position  Learn more](https://www.ga.gov.au/news/new-satellite-dish-puts-australia-in-prime-position)
+###  New scientific drilling results suggest potential major mineral prospectivity in western NSW regions 
+**30 November 2023**
+New results from a far-western New South Wales stratigraphic drilling campaign, conducted between March and June 2023, have shown the region’s potential to host new mineral resources, including gold, copper and nickel, as well as the critical minerals vital for Australia’s low emissions future.
+[ New scientific drilling results suggest potential major mineral prospectivity in western NSW regions Learn more](https://www.ga.gov.au/news/new-scientific-drilling-results-suggest-potential-major-mineral-prospectivity-in-western-nsw-regions)
+###  Geoscience Australia and ASNO sign 5-year MOU for the provision of nuclear explosion monitoring services 
+**23 November 2023**
+The Australian Safeguards and Non-Proliferation Office (ASNO) and Geoscience Australia have entered a 5-year arrangement to extend their partnership on monitoring for nuclear explosions globally under the Comprehensive Nuclear-Test-Ban Treaty (CTBT).
+[ Geoscience Australia and ASNO sign 5-year MOU for the provision of nuclear explosion monitoring services Learn more](https://www.ga.gov.au/news/geoscience-australia-and-asno)
+###  Landsat supporting greater international water security 
+**17 November 2023**
+Looking to the past to protect the future: Landsat-based Earth observation products and tools informing water security initiatives around the world.
+[ Landsat supporting greater international water security Learn more](https://www.ga.gov.au/news/landsat-supporting-greater-international-water-security)
+###  Geoscience Australia on the world stage of Earth Observation 
+**15 November 2023**
+Australia has endorsed a post-2025 strategy that will provide a clear vision for the Earth Observation community to work together to address climate change, natural disasters and food security.
+[ Geoscience Australia on the world stage of Earth Observation Learn more](https://www.ga.gov.au/news/geoscience-australia-on-the-world-stage-of-earth-observation)
+###  Eureka Prize-winning map pinpoints Australia’s renewable potential 
+**6 November 2023**
+Companies looking at green hydrogen or steel projects in regional Australia will have access to a free online tool to speed investment decisions.
+[ Eureka Prize-winning map pinpoints Australia’s renewable potential Learn more](https://www.ga.gov.au/news/eureka-prize-winning-map-pinpoints-australias-renewable-potential)
+###  Retrofitting Melbourne’s buildings to withstand earthquakes 
+**13 June 2025**
+Cost-effective mitigation strategy development for building-related earthquake risk.
+[ Retrofitting Melbourne’s buildings to withstand earthquakes Learn more](https://www.ga.gov.au/news/retrofitting-melbournes-buildings-to-withstand-earthquakes)
+###  Assessing the resilience of ageing buildings against earthquake hazards 
+**1 July 2021**
+How our collaborations and science improved the safety of communities in York, Western Australia.
+[ Assessing the resilience of ageing buildings against earthquake hazards Learn more](https://www.ga.gov.au/news/assessing-the-resilience-of-ageing-buildings-against-earthquake-hazards)
+###  Recent seismic activity in Australia 
+**25 October 2023**
+Australians in parts of Victoria, New South Wales and the Northern Territory may have felt the earth move beneath their feet over the past several days, after a seismically active period across the country.
+[ Recent seismic activity in Australia Learn more](https://www.ga.gov.au/news/seismic-activity-in-australia)
+###  Mapping Australia’s heavy minerals in world-first 
+**25 October 2023**
+The Australian Government’s Exploring for the Future program is continuing to deliver for the resources industry with the release of a new tool to support the discovery of minerals critical to the net zero transformation.
+[ Mapping Australia’s heavy minerals in world-first Learn more](https://www.ga.gov.au/news/mapping-australias-heavy-minerals-in-world-first)
+###  New seabed maps give sneak peek at what lies beneath 
+**16 October 2023**
+More than 1,500 individual seabed surveys have been combined to give sectors such as marine park management and offshore renewable industries - as well as storm surge modellers - a more comprehensive snapshot of what lies at the bottom of our oceans.
+[ New seabed maps give sneak peek at what lies beneath Learn more](https://www.ga.gov.au/news/new-seabed-maps-give-sneak-peek-at-what-lies-beneath)
+###  Mapping Australia's groundwater 
+**10 October 2023**
+The Australian Government is working to secure Australia's future water resources through a first of its kind stock take of the nation’s underground water reservoirs.
+[ Mapping Australia's groundwater Learn more](https://www.ga.gov.au/news/mapping-australias-groundwater)
+###  Using the power of Landsat and Digital Earth tools to understand coastlines in Australia and Africa 
+**28 September 2023**
+How leading-edge Landsat based Earth observation products and tools are helping us to understand Africa’s and Australia’s coastlines.
+[ Using the power of Landsat and Digital Earth tools to understand coastlines in Australia and Africa Learn more](https://www.ga.gov.au/news/Using-the-power-of-Landsat-and-Digital-Earth-tools-to-understand-coastlines-in-Australia-and-Africa)
+###  Precise positioning a huge boost to Australian economy: report 
+**21 September 2023**
+Government investment in precise positioning infrastructure will have injected an additional half a billion dollars into the economy by 30 June 2038, according to a new report commissioned by Geoscience Australia.
+[ Precise positioning a huge boost to Australian economy: report Learn more](https://www.ga.gov.au/news/precise-positioning-a-huge-boost-to-australian-economy-report)
+###  Geoscience Australia leads Australian delegation at UN-GGIM 
+**15 September 2023**
+Geoscience Australia recently led the Australian delegation to the 13th session of the United Nations Committee of Experts on Global Geospatial Information Management.
+[ Geoscience Australia leads Australian delegation at UN-GGIM Learn more](https://www.ga.gov.au/news/geoscience-australia-leads-australian-delegation-at-un-ggim)
+###  Ginan brings greater enhancements to precise positioning with version 2 release 
+**13 September 2023**
+Ginan, a home-grown suite of open-source tools that is used to analyse GNSS data in real-time has been given a boost with enhancements to provide users with real-time processing of observations from all the GNSS constellations without differencing or combining the data.
+[ Ginan brings greater enhancements to precise positioning with version 2 release Learn more](https://www.ga.gov.au/news/ginan-brings-greater-enhancements-to-precise-positioning-with-version-2-release)
+###  Trusted Environmental and Geological Information Program repository to support sustainable future 
+**5 September 2023**
+A new repository of geological and environmental data for key basin regions in Queensland and South Australia will help safeguard the environment while securing Australia’s low-emissions future.
+[ Trusted Environmental and Geological Information Program repository to support sustainable future Learn more](https://www.ga.gov.au/news/trusted-environmental-and-geological-information-program-repository-to-support-sustainable-future)
+###  The Economic Fairways Mapper wins coveted Eureka Prize for Innovative Research in Sustainability 
+**25 August 2023**
+The Economic Fairways Mapper research team, a Monash University and Geoscience Australia partnership, has won the Eureka Prize for Innovative Research in Sustainability announced at the 2023 Australia Museum Eureka Awards ceremony last night.
+[ The Economic Fairways Mapper wins coveted Eureka Prize for Innovative Research in Sustainability Learn more](https://www.ga.gov.au/news/the-economic-fairways-mapper-wins-coveted-eureka-prize-for-innovative-research-in-sustainability)
+###  Government geoscience data and analysis supports $76b of added value to the economy: report 
+**18 August 2023**
+The work of Geoscience Australia and state and territory geological surveys is key to Australia’s drive to become a global renewable energy superpower, according to a new report by Deloitte Access Economics.
+[ Government geoscience data and analysis supports $76b of added value to the economy: report Learn more](https://www.ga.gov.au/news/government-geoscience-data-and-analysis-supports-$76b-of-added-value-to-the-economy-report)
+###  Geoscience Australia first in nation to receive three Cygnet Awards for action on workplace inclusion 
+**17 August 2023**
+Geoscience Australia has become the first Australian organisation to be presented with three prestigious Science in Australia Gender Equity (SAGE) Cygnet Awards, in recognition of its commitment to embed genuine and sustainable gender equity, and a diverse and inclusive workplace culture.
+[ Geoscience Australia first in nation to receive three Cygnet Awards for action on workplace inclusion Learn more](https://www.ga.gov.au/news/geoscience-australia-first-in-nation-to-receive-three-cygnet-awards-for-action-on-workplace-inclusion)
+###  Antarctic geoscience: building a picture of the frozen continent 
+**17 August 2023**
+Scientists have unveiled the latest additions to Geoscience Australia’s Antarctic collection following an expedition to the icy waters of East Antarctica earlier this year.
+[ Antarctic geoscience: building a picture of the frozen continent Learn more](https://www.ga.gov.au/news/antarctic-geoscience-building-a-picture-of-the-frozen-continent)
+###  Discovering the hidden geology of a buried basin 
+**3 August 2023**
+The longest deep-crustal seismic survey ever conducted by Geoscience Australia has been completed in central-western Queensland.
+[ Discovering the hidden geology of a buried basin Learn more](https://www.ga.gov.au/news/discovering-the-hidden-geology-of-a-buried-basin)
+###  Using Earth observation to address climate change in South-East Asia 
+**25 July 2023**
+An initiative led by CSIRO and Geoscience Australia has supported Australian and South-East Asian scientists, students and innovators to build market interest for products and services that use Earth observation to address the impacts of climate change across South-East Asia.
+[ Using Earth observation to address climate change in South-East Asia Learn more](https://www.ga.gov.au/news/using-earth-observation-to-address-climate-change-in-south-east-asia)
+###  A true partnership to improve position, navigation and timing services in Australia 
+**17 July 2023**
+What do precision agriculture, weather predictions and synchronising financial transactions all have in common?
+[ A true partnership to improve position, navigation and timing services in Australia Learn more](https://www.ga.gov.au/news/a-true-partnership-to-improve-position-navigation-and-timing-services-in-australia)
+###  Introducing the Digital Atlas: Unlocking the Power of Location-Based Data 
+**18 July 2023**
+In an exciting step forward in how we access and use location data, the Digital Atlas of Australia beta was released to the public on 30 June 2023.
+[ Introducing the Digital Atlas: Unlocking the Power of Location-Based Data Learn more](https://www.ga.gov.au/news/introducing-the-digital-atlas-unlocking-the-power-of-location-based-data)
+###  Australia retains energy export world leader status 
+**30 June 2023**
+Geoscience Australia’s most recent stocktake of the nation’s energy resources has reinforced Australia’s importance in the global energy supply chain.
+[ Australia retains energy export world leader status Learn more](https://www.ga.gov.au/news/australia-retains-energy-export-world-leader-status)
+###  Yarragadee: the ‘geodetic supersite’ in the West Australian desert 
+**14 June 2023**
+Out in the West Australian desert at Yarragadee Geodetic Observatory station, Geoscience Australia scientists are shooting high-powered lasers at satellites flying thousands of kilometres overhead.
+[ Yarragadee: the ‘geodetic supersite’ in the West Australian desert Learn more](https://www.ga.gov.au/news/yarragadee-the-geodetic-supersite-in-the-west-australian-desert)
+###  New phase of disaster resilience program to strengthen community safety in PNG 
+**9 June 2023**
+Australia has extended its Technical Disaster Risk Reduction Program by a further three years to support the Government of Papua New Guinea to monitor, detect and respond to natural hazards and keep communities safe.
+[ New phase of disaster resilience program to strengthen community safety in PNG Learn more](https://www.ga.gov.au/news/new-phase-of-disaster-resilience-program-to-strengthen-community-safety-in-png)
+###  Melbourne residents woken by 3.8 magnitude earthquake 
+**1 June 2023**
+More than 20,000 people in Sunbury, Victoria have reported feeling a magnitude 3.8 earthquake late last night.
+[ Melbourne residents woken by 3.8 magnitude earthquake Learn more](https://www.ga.gov.au/news/melbourne-residents-woken-by-3.8-magnitude-earthquake)
+###  Australia & New Zealand sign major contract with Inmarsat for new SouthPAN satellite service 
+**25 May 2023**
+Every major industry across Australia and New Zealand, from transport and construction to resources and agriculture, will gain positioning and navigation benefits from the Southern Positioning Augmentation Network’s (SouthPAN) new satellite service.
+[ Australia & New Zealand sign major contract with Inmarsat for new SouthPAN satellite service Learn more](https://www.ga.gov.au/news/australia-and-new-zealand-sign-major-contract-with-inmarsat-for-new-southpan-satellite-service)
+###  SouthPAN early Open Services are live 
+**27 September 2022**
+Industry can now access the benefits of accurate and reliable positioning services from the Southern Positioning Augmentation Network (SouthPAN), with early Open Services live as of 26 September 2022.
+[ SouthPAN early Open Services are live Learn more](https://www.ga.gov.au/news/southpan-early-open-services-are-live)
+###  Advancing our understanding of the Great Artesian Basin 
+**22 December 2022**
+The Great Artesian Basin (GAB) is Australia's most significant hydrogeological system.
+[ Advancing our understanding of the Great Artesian Basin Learn more](https://www.ga.gov.au/news/advancing-our-understanding-of-the-great-artesian-basin)
+###  Data Driven Discoveries initiative to shed new light on resource potential 
+**1 December 2021**
+Geoscience Australia will re-examine decades-old seismic data as part of a new initiative to identify opportunities for energy, minerals and groundwater in a key underexplored basin.
+[ Data Driven Discoveries initiative to shed new light on resource potential  Learn more](https://www.ga.gov.au/news/data-driven-discoveries-initiative-to-shed-new-light-on-resource-potential)
+###  Satellite imagery reveals three decades of coastal change 
+**14 April 2021**
+The evolution of Australia’s coastlines can now be seen in unprecedented scale and detail, via a new tool developed by Geoscience Australia’s Digital Earth Australia (DEA) program.
+[ Satellite imagery reveals three decades of coastal change Learn more](https://www.ga.gov.au/news/digital-earth-australia-coastlines-tool)
+###  Preparing for the unexpected — Knowing when, where, and the impact of tropical cyclones 
+**1 December 2020**
+With the return of La Niña to Australia, it’s more important than ever for emergency managers and communities to be better prepared for severe weather.
+[ Preparing for the unexpected — Knowing when, where, and the impact of tropical cyclones  Learn more](https://www.ga.gov.au/news/preparing-for-the-unexpected)
+###  How the world’s largest earthquake made waves in Australia 
+**22 May 2020**
+Tsunami in Australia are rare, yet when they do occur, they pose a serious risk to our large coastal population. Looking at past events helps us understand how tsunami might impact Australia in the future.
+[ How the world’s largest earthquake made waves in Australia Learn more](https://www.ga.gov.au/news/how-the-worlds-largest-earthquake-made-waves-in-australia)
+###  The beauty of Earth observations – art that informs our modern world 
+**20 December 2019**
+We have been observing the Earth and its processes for centuries to understand the world around us and how it’s changing.
+[ The beauty of Earth observations – art that informs our modern world  Learn more](https://www.ga.gov.au/news/the-beauty-of-earth-observations)
+###  Gravity: More than meets the eye 
+**25 October 2019**
+Ever opted to take the stairs over the lift for the sake of additional exercise? You’ll be pleased to know that on reaching the top, you’ll appear to weigh an average 100 mg less than what you did at the bottom!
+[ Gravity: More than meets the eye Learn more](https://www.ga.gov.au/news/gravity-more-than-meets-the-eye)
+##  Join our community 
+###  Can't find what you're looking for? 
+Try our news archive. 
+[ View archive](https://www.ga.gov.au/news/news-archive%20)
+
+
+###  Get in touch 
+Have a question about Geoscience Australia or need help with using our data?  
+Email us at   
+or call 1800 800 173. 
+[ Get in touch](https://www.ga.gov.au/contact-us%20)
+
+
+###  Stay informed 
+Subscribe to some of Geoscience Australia's program newsletters to receive regular updates on, new data releases, publications, latest industry research and events. 
+[ Stay informed](https://communication.ga.gov.au/link/id/zzzz677d1577572fd087P/page.html?prompt=1&)
+
+

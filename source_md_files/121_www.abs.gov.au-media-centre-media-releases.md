@@ -1,0 +1,56 @@
+[Skip to main content](https://www.abs.gov.au/media-centre/media-releases#start-main-content)
+# Media releases
+Filter by theme
+  * Economy
+  * Labour
+  * Industry
+  * People
+  * Health
+  * Environment
+
+
+Filtered by:
+1 - 20 of 1117 media releases
+05 March 2026
+##  [Strong growth in services lifts household spending](https://www.abs.gov.au/media-centre/media-releases/strong-growth-services-lifts-household-spending-0)
+05 March 2026
+##  [Independent schools drive rise in enrolments](https://www.abs.gov.au/media-centre/media-releases/independent-schools-drive-rise-enrolments)
+04 March 2026
+##  [Australian economy grew 0.8% in the December quarter](https://www.abs.gov.au/media-centre/media-releases/australian-economy-grew-08-december-quarter)
+03 March 2026
+##  [Total approvals fall in January](https://www.abs.gov.au/media-centre/media-releases/total-approvals-fall-january)
+03 March 2026
+##  [Current account deficit widens](https://www.abs.gov.au/media-centre/media-releases/current-account-deficit-widens)
+02 March 2026
+##  [Winter crops recover with 20% rise in value for 2024-25](https://www.abs.gov.au/media-centre/media-releases/winter-crops-recover-20-rise-value-2024-25)
+27 February 2026
+##  [New insights for addressing childhood disadvantage](https://www.abs.gov.au/media-centre/media-releases/new-insights-addressing-childhood-disadvantage)
+26 February 2026
+##  [Annual average weekly earnings growth slowed in November](https://www.abs.gov.au/media-centre/media-releases/annual-average-weekly-earnings-growth-slowed-november)
+26 February 2026
+##  [New capital expenditure rises 0.4 per cent](https://www.abs.gov.au/media-centre/media-releases/new-capital-expenditure-rises-04-cent)
+25 February 2026
+##  [CPI rose 3.8% in the year to January 2026](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-38-year-january-2026)
+25 February 2026
+##  [Annual growth in total wages paid steady over two years](https://www.abs.gov.au/media-centre/media-releases/annual-growth-total-wages-paid-steady-over-two-years)
+19 February 2026
+##  [Unemployment rate remains at 4.1%](https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-remains-41)
+18 February 2026
+##  [Wages rise 0.8% for the quarter and 3.4% over the year](https://www.abs.gov.au/media-centre/media-releases/wages-rise-08-quarter-and-34-over-year)
+11 February 2026
+##  [First home buyer loans rise by 6.8 per cent](https://www.abs.gov.au/media-centre/media-releases/first-home-buyer-loans-rise-68-cent)
+09 February 2026
+##  [Household spending down 0.4% in December](https://www.abs.gov.au/media-centre/media-releases/household-spending-down-04-december)
+04 February 2026
+##  [Living costs increase across all household types](https://www.abs.gov.au/media-centre/media-releases/living-costs-increase-across-all-household-types)
+03 February 2026
+##  [Total dwelling approvals fall in December](https://www.abs.gov.au/media-centre/media-releases/total-dwelling-approvals-fall-december)
+28 January 2026
+##  [Norfolk Islanders invited to participate as preparations begin for the 2026 Census](https://www.abs.gov.au/media-centre/media-releases/norfolk-islanders-invited-participate-preparations-begin-2026-census)
+28 January 2026
+##  [CPI rose 3.8% in the year to December 2025](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-38-year-december-2025)
+28 January 2026
+##  [ABS ramps up national recruitment for the 2026 Census](https://www.abs.gov.au/media-centre/media-releases/abs-ramps-national-recruitment-2026-census)
+[ Back to top of the page ](https://www.abs.gov.au/media-centre/media-releases "Back to top")
+tiktoksocial-twitterarrow-downarrow-leftarrow-rightarrow-upcav-downcav-rightclosedownloadexternal-linkfeedbackfilemenusearchsign-checksign-infosign-warningsocial-facebooksocial-instagramtriangle-downlinkprintquotes-leftcalendardate-addquestionyoutubelinkedin2sphere
+Feedback

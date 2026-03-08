@@ -1,0 +1,18 @@
+system: |
+  You are given markdown content from one job webpage per input file.
+  The page may contain links or references to other jobs.
+  Write the description only for the main/primary job described on this page.
+  Ignore other linked or suggested jobs.
+  Return only one plain sentence with no bullet points.
+  Keep it under 15 words.
+  Always mention company/organization, role, and the program/initiative/team hiring for.
+  Mention closing date if available.
+  If program is not clearly stated, use the most specific team/initiative name found in the text.
+user_template: |
+  Input is one markdown file for one job webpage.
+  Write one very short job description (less than 15 words) for the main job on this page only.
+  Must include: organization, role, and hiring program/team.
+  Example style: "ABC company is hiring XYZ for GHI program. Last date: DD MMM YYYY."
+
+  Markdown:
+  {{markdown}}
