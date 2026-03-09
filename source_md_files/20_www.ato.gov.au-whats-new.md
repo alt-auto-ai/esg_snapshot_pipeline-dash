@@ -11,7 +11,7 @@ To
   * Compliance (1)
   * Employer information (2)
   * GST, Excise and indirect taxes (1)
-  * General (10)
+  * General (9)
   * Income tax (1)
   * Large business (2)
   * Lodging and paying (1)
@@ -22,7 +22,7 @@ To
   * Payday Super (1)
   * Reporting and obligations (1)
   * Super (1)
-  * Superannuation (4)
+  * Superannuation (5)
   * System and processes (2)
   * Tax time and reporting (1)
 
@@ -36,7 +36,7 @@ To
   * Compliance (1)
   * Employer information (2)
   * GST, Excise and indirect taxes (1)
-  * General (10)
+  * General (9)
   * Income tax (1)
   * Large business (2)
   * Lodging and paying (1)
@@ -47,7 +47,7 @@ To
   * Payday Super (1)
   * Reporting and obligations (1)
   * Super (1)
-  * Superannuation (4)
+  * Superannuation (5)
   * System and processes (2)
   * Tax time and reporting (1)
 
@@ -62,6 +62,9 @@ The clock is ticking – actions you can take now to get Payday Super ready.
 ## [Late payment offset will no longer be available](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/late-payment-offset-will-no-longer-be-available)
 The last time your business can use the late payment offset (LPO) is for the quarter ending 31 March 2026.
 6 March 2026
+## [SBSCH users must download their records before 30 June](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/sbsch-users-must-download-their-records-before-30-june)
+Your clients won’t be able to log in, submit instructions or view any records after 11:59 pm AEST on 30 June 2026.
+5 March 2026
 ## [Public country-by-country reporting lodgment instructions available](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/public-country-by-country-reporting-lodgment-instructions-available)
 We've now finalised instructions to lodge the Public CBC report.
 5 March 2026
@@ -79,8 +82,5 @@ Find out if your hobby or side hustle activities means you're in business.
 4 March 2026
 ## [Is your TPAR overdue? Lodge now to avoid penalties](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/is-your-tpar-overdue-lodge-now-to-avoid-penalties)
 Penalties apply to businesses who don't lodge their Taxable payments annual report or submit a non-lodgment advice form.
-4 March 2026
-## [Accessing your super early may be illegal](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/accessing-your-super-early-may-be-illegal)
-Know when you can (and when you can't) access your super early.
 4 March 2026
 Report webpage issue

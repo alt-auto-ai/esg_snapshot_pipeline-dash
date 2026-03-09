@@ -3,6 +3,9 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
+  * 9 Mar 2026
+### [Fast-Tracking Hundreds Of New Homes In A Sweet Location](https://www.premier.vic.gov.au/fast-tracking-hundreds-new-homes-sweet-location)
+Labor’s streamlined planning pathway has fast-tracked hundreds of new homes at the former Cadbury building site. Minister for Planning Sonya Kilkenny ...
   * 8 Mar 2026
 ### [Violence Reduction Unit Deploying In Mernda](https://www.premier.vic.gov.au/violence-reduction-unit-deploying-mernda)
 Incidents like this shock our community and it’s why the Allan Labor Government is taking a no tolerance approach against violent crime through a comb...
@@ -27,9 +30,6 @@ The Allan Labor Government is making it easier to get the Pill at the chemist wi
   * 5 Mar 2026
 ### [Supercars To Rev Up F1 Grand Prix For Years To Come](https://www.premier.vic.gov.au/supercars-rev-f1-grand-prix-years-come)
 Fan favourite Supercars have signed a three-year contract extension locking in the racing category in the Formula 1® Australian Grand Prix program ...
-  * 5 Mar 2026
-### [Delivered: Seven Years of Free TAFE](https://www.premier.vic.gov.au/delivered-seven-years-free-tafe)
-Labor is wishing Free TAFE a happy seventh birthday! Minister Tierney today celebrated the huge success of Free TAFE. Thousands of students are learni...
 
 
 ## Subscribe to our media releases

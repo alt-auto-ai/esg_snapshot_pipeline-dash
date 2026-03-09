@@ -66,37 +66,7 @@ IUCN Members adopt 20-year Vision and four-year Programme for the Union
 13 October 2025 - IUCN Members have voted to adopt a new 20-year Strategic Vision and four-year Programme 
 13 Oct 2025
 [ IUCN Members adopt 20-year Vision and four-year Programme for the Union ](https://iucncongress2025.org/newsroom/all-news/iucn-members-adopt-20-year-vision-and-four-year-programme-union "IUCN Members adopt 20-year Vision and four-year Programme for the Union ")
-Press release 
-Arcadia grant improves open access to conservation knowledge 
-Abu Dhabi, United Arab Emirates, 13 October 2025 (IUCN) – Over 1,500 historical IUCN publications are now available… 
-13 Oct 2025
-[ Arcadia grant improves open access to conservation knowledge ](https://iucncongress2025.org/newsroom/all-news/arcadia-grant-improves-open-access-conservation-knowledge-strengthening-iucn "Arcadia grant improves open access to conservation knowledge by strengthening the IUCN Library ")
-Press release 
-Panama to host next World Protected and Conserved Areas Congress in 2027 
-Abu Dhabi, UAE, 12th October 2025 (IUCN World Conservation Congress) – IUCN has announced that Panamá will host the… 
-12 Oct 2025
-[ Panama to host next World Protected and Conserved Areas Congress in 2027 ](https://iucncongress2025.org/newsroom/all-news/panama-host-next-world-protected-and-conserved-areas-congress-2027 "Panama to host next World Protected and Conserved Areas Congress in 2027")
-Press release 
-From forests to coral reefs: conservation excellence takes centre stage at the Green List Awards 
-Abu Dhabi, United Arab Emirates, 12 October 2025 – In a night of celebration, recognition, and renewed global… 
-12 Oct 2025
-[ From forests to coral reefs: conservation excellence takes centre stage at the Green List Awards ](https://iucncongress2025.org/newsroom/all-news/forests-coral-reefs-conservation-excellence-takes-centre-stage-green-list-awards "From forests to coral reefs: conservation excellence takes centre stage at the Green List Awards")
-Press release 
-International Ranger Awardees honoured at the 2025 IUCN World Conservation Congress 
-Abu Dhabi, UAE, 11 October 2025, (IUCN World Conservation Congress) – The IUCN World Commission on Protected Areas … 
-11 Oct 2025
-[ International Ranger Awardees honoured at the 2025 IUCN World Conservation Congress ](https://iucncongress2025.org/newsroom/all-news/international-ranger-awardees-honoured-2025-iucn-world-conservation-congress "International Ranger Awardees honoured at the 2025 IUCN World Conservation Congress")
-News 
-Global Conservation Leaders Gather at the IUCN World Conservation Congress 
-Abu Dhabi, 10 October 2025 - H.E. Razan Khalifa Al Mubarak, President of the International Union for Conservation of… 
-11 Oct 2025
-[ Global Conservation Leaders Gather at the IUCN World Conservation Congress ](https://iucncongress2025.org/newsroom/all-news/global-conservation-leaders-gather-iucn-world-conservation-congress-abu-dhabi "Global Conservation Leaders Gather at the IUCN World Conservation Congress in Abu Dhabi for “Nature’s Promise for Climate and People” Dialogue Ahead of COP30")
-Press release 
-Escalating climate threats, invasive alien species and pathogens leave natural World Heritage at risk 
-Abu Dhabi, UAE, 11th October 2025, (IUCN World Conservation Congress) – Climate change is now threatening 43% of… 
-11 Oct 2025
-[ Escalating climate threats, invasive alien species and pathogens leave natural World Heritage at risk ](https://iucncongress2025.org/newsroom/all-news/escalating-climate-threats-invasive-alien-species-and-pathogens-leave-natural "Escalating climate threats, invasive alien species and pathogens leave natural World Heritage at risk")
-  * [Load more articles](https://iucncongress2025.org/newsroom/all-news?page=3 "Load more items")
+  * [Load more articles](https://iucncongress2025.org/newsroom/all-news?page=2 "Load more items")
 
 
 We use a selection of our own and third-party cookies on the pages of this website: Essential cookies, which are required in order to use the website; functional cookies, which provide better easy of use when using the website; performance cookies, which we use to generate aggregated data on website use and statistics; and marketing cookies, which are used to display relevant content and advertising. If you choose "ACCEPT ALL", you consent to the use of all cookies. You can accept and reject individual cookie types and revoke your consent for the future at any time at "Settings".

@@ -59,6 +59,7 @@ QUALITY_CHECK_DIR = os.getenv(
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")
 OPENAI_RPM = int(os.getenv("OPENAI_RPM", "10000"))
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 MAX_RETRIES = int(os.getenv("OPENAI_MAX_RETRIES", "3"))
 BASE_BACKOFF = float(os.getenv("OPENAI_BACKOFF_SECONDS", "1.0"))
 
@@ -71,8 +72,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
     }
@@ -84,9 +93,12 @@ def load_profile_config(profile: str):
 
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 400
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 PROMPT_FILE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "9.4_events_desc_prompt.yaml")
 
 if not MODEL_NAME:
@@ -124,16 +136,29 @@ async def call_openai_async(session: aiohttp.ClientSession, markdown_text: str, 
     if not OPENAI_API_KEY:
         raise RuntimeError("OPENAI_API_KEY is missing")
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": render_user_prompt(markdown_text)},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-    }
+    if MODEL_SERIES == "gpt5":
+        url = f"{OPENAI_BASE_URL}/responses"
+        payload = {
+            "model": MODEL_NAME,
+            "input": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": render_user_prompt(markdown_text)},
+            ],
+            "reasoning": {"effort": GPT5_REASONING_EFFORT},
+            "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+            "max_output_tokens": MAX_TOKENS,
+        }
+    else:
+        url = f"{OPENAI_BASE_URL}/chat/completions"
+        payload = {
+            "model": MODEL_NAME,
+            "messages": [
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": render_user_prompt(markdown_text)},
+            ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
+        }
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
@@ -143,7 +168,8 @@ async def call_openai_async(session: aiohttp.ClientSession, markdown_text: str, 
         print(f"   📤 [{file_name}] Sending request... (attempt {attempt}/{MAX_RETRIES})")
         try:
             async with rpm_limiter:
-                async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+                async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
+                    
                     body_text = await resp.text()
                     if resp.status in (429, 500, 502, 503, 504):
                         if attempt < MAX_RETRIES:
@@ -152,7 +178,18 @@ async def call_openai_async(session: aiohttp.ClientSession, markdown_text: str, 
                         resp.raise_for_status()
                     resp.raise_for_status()
                     data = json.loads(body_text)
-                    return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+                    if MODEL_SERIES == "gpt5":
+                        text_out = (data.get("output_text") or "").strip()
+                        if not text_out:
+                            chunks = []
+                            for item in (data.get("output") or []):
+                                for c in (item.get("content") or []):
+                                    if c.get("type") in {"output_text", "text"} and c.get("text"):
+                                        chunks.append(c["text"])
+                            text_out = "\n".join(chunks).strip()
+                    else:
+                        text_out = ((data.get("choices") or [{}])[0].get("message", {}).get("content", "") or "").strip()
+                    return strip_code_fences(text_out)
         except (aiohttp.ClientError, asyncio.TimeoutError) as e:
             if attempt < MAX_RETRIES:
                 print(f"   ⚠️  [{file_name}] {e}. Retrying...")
@@ -210,16 +247,16 @@ async def main_async():
     if not has_md_ref:
         raise SystemExit("[INPUT ERROR] Input CSV must contain one of: md_file, FileName, filename")
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT]  {PROMPT_FILE_PATH}")
     print(f"[INPUT ]  {INPUT_CSV}")
     print(f"[MD DIR]  {SOURCE_DIR}")
     print(f"[OUTPUT]  {OUTPUT_CSV}")
     qc_output_path = os.path.join(QUALITY_CHECK_DIR, os.path.basename(OUTPUT_CSV))
     print(f"[OUTPUT_QC] {qc_output_path}")
-    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | RETRIES={MAX_RETRIES}")
+    print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s | RETRIES={MAX_RETRIES}")
 
-    concurrency = int(os.getenv("LOCAL_CONCURRENCY", "12"))
+    concurrency = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "12")))
     sem = asyncio.Semaphore(concurrency)
 
     description_by_md: dict[str, str] = {}

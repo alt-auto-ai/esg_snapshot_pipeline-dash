@@ -5,47 +5,38 @@ Filters
 ## Filters
 Reset
 Languages
-English(26)French(5)
+English(23)French(4)
 Other languages
 Event types
-Conference(7)Forum(6)Webinar(6)Workshop(5)Publication launch(1)Roundtable(1)
+Conference(7)Forum(6)Webinar(5)Workshop(4)Roundtable(1)
 Event format
-Hybrid(6)In-person(3)Virtual(1)
+Hybrid(5)In-person(3)Virtual(1)
 Event date
-Past events(737)Current events(31)Future events(26)
+Past events(739)Current events(32)Future events(23)
 Topics
-Regional, rural and urban development(5)Environment(4)Climate change(2)Finance and investment(2)Science, technology and innovation(1)Trade(1)Development(1)
+Regional, rural and urban development(4)Environment(4)Climate change(2)Finance and investment(2)Science, technology and innovation(1)Trade(1)Development(1)
 Policy issues Policy sub-issues Programmes Networks OECD Directorates
 Show results
 ## Filters
 Reset
 Languages
-English(26)French(5)
+English(23)French(4)
 Other languages
 Event types
-Conference(7)Forum(6)Webinar(6)Workshop(5)Publication launch(1)Roundtable(1)
+Conference(7)Forum(6)Webinar(5)Workshop(4)Roundtable(1)
 Event format
-Hybrid(6)In-person(3)Virtual(1)
+Hybrid(5)In-person(3)Virtual(1)
 Event date
-Past events(737)Current events(31)Future events(26)
+Past events(739)Current events(32)Future events(23)
 Topics
-Regional, rural and urban development(5)Environment(4)Climate change(2)Finance and investment(2)Science, technology and innovation(1)Trade(1)Development(1)
+Regional, rural and urban development(4)Environment(4)Climate change(2)Finance and investment(2)Science, technology and innovation(1)Trade(1)Development(1)
 Policy issues Policy sub-issues Programmes Networks OECD Directorates
-## 26 results
+## 23 results
 Order byMost relevant Most recent Oldest A-Z Z-A
   * List view
   * Grid view
 
 
-  * [Impact of Natural Hazards on Hazardous Installations (Natech): Understanding vulnerability and managing risks](https://www.oecd.org/en/events/2026/03/impact-natural-hazards-on-hazardous-installations-understanding-vulnerability-and-managing-risks.html)
-Webinar6 March 2026
-Join our webinar on 6 March from 13.00 to 14.30 CET where we will present key messages from “Managing Risks from Natural Hazards to Hazardous Installations (Natech): A Guide for Senior Leaders in Industry and Public Authorities”, developed jointly by the OECD, the European Commission Joint Research Centre and the UNECE. The webinar will also share...
-  * [Policies for research software in the age of artificial intelligence](https://www.oecd.org/en/events/2026/03/access-to-research-software-opportunities-and-challenges.html)
-Workshop6-7 March 2026
-Stakeholders from academia, government, and the private sector will convene to explore policy options to support access to research software as a key enabler towards advancing open science.
-  * [Enhancing regional access - Launch of the Recommendations Report, Action Plan and Implementation Roadmap](https://www.oecd.org/en/events/2026/03/enhancing-regional-access-launch-of-the-recommendations-report-action-plan-and-implementation-roadmap.html)
-Publication launch9 March 2026
-As part of the TSI project “Enhancing regional access to and performance in EU initiatives and funds”, the OECD conducted intermediary workshops and discussions between November 2025 and February 2026 in the Brussels-Capital Region (Belgium), Silesia (Poland), Thuringia (Germany), and Wallonia (Belgium), and produced a recommendation report,...
   * [Advancing a Just Green Transition in Cities](https://www.oecd.org/en/events/2026/03/advancing-a-just-green-transition-in-cities.html)
 Webinar10-11 March 2026
 Cities are at the forefront of the transition towards carbon neutrality, translating international and national climate commitments onto concrete action on the ground. As places where energy use, mobility, buildings and economic activity concentrate, cities play a decisive role in reducing greenhouse gas emissions and accelerating climate action....
@@ -67,6 +58,15 @@ A short, high-level description of the event, approx. 150-200 characters.
   * [Indigenous data sovereignty: The future of evidence-based policy in Australia and New Zealand](https://www.oecd.org/en/events/2026/03/indigenous-data-sovereignty-the-future-of-evidence-based-policy-in-australia-and-new-zealand.html)
 Webinar20 March 2026
 This event explores Indigenous data sovereignty and its implications for the future of evidence-based policy making for Indigenous communities in Australia and New Zealand.
+  * [2026 OECD Global Anti-Corruption & Integrity Forum](https://www.oecd.org/en/events/2026/03/2026-oecd-global-anti-corruption--integrity-forum.html)
+Forum23-27 March 2026
+The judicious use of public and private resources has never been more important to competitiveness and resilient growth. The 2026 OECD Global Anti-Corruption & Integrity Forum will explore how integrity and anti-corruption efforts, which have been traditionally seen as safeguards, can also serve as engines for performance, resilience and...
+  * [2026 International Conference on AI in Work, Innovation, Productivity and Skills](https://www.oecd.org/en/events/2026/03/2026-international-conference-on-ai-in-work-innovation-productivity-and-skills.html)
+Conference30 March - 1 April 2026
+Featuring 10 live sessions, the fifth OECD international conference on AI in Work, Innovation, Productivity and Skills (AI-WIPS) will take place over three days from 30 March to 1 April 2026. The conference will gather leading voices from policy, business, academia and civil society to examine the impact of AI on employment, skills, productivity,...
+  * [2026 Conference on Investment Treaties](https://www.oecd.org/en/events/2026/03/2026-conference-on-investment-treaties.html)
+Conference30 March 2026
+The 2026 edition of the OECD Conference on Investment Treaties will take place on 30 March 2026 in Paris and online.
 
 
   *   * 1

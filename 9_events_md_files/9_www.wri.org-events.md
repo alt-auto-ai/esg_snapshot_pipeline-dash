@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#b2828e14-361c-4ba4-9890-dba3f9ff5e7b)
+[Storage Preferences](https://www.wri.org/events#87af668d-62e8-4086-97dc-3322d996f78f)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -67,7 +67,7 @@ Filters
   * French [French ](https://www.wri.org/events)
 
 
-6 Resources for 
+7 Resources for 
 [Cities](https://www.wri.org/cities)
 Event 
 March 10 -11, 2026
@@ -92,6 +92,11 @@ Event
 March 19, 2026
 ###  [Global Nature Watch: AI-Powered Insights for Nature in Africa—and Beyond](https://hub.wri.org/global-nature-watch-ai-powered-insights-nature-africa-and-beyond?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
 [Register](https://hub.wri.org/global-nature-watch-ai-powered-insights-nature-africa-and-beyond#register)
+[Energy](https://www.wri.org/energy)
+Event 
+March 26, 2026
+###  [Siting Utility-Scale Renewables for Community Benefit: What’s Working, Where, and Why](https://hub.wri.org/siting-utility-scale-renewables-community-benefit-whats-working-where-and-why?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/siting-utility-scale-renewables-community-benefit-whats-working-where-and-why#register)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026

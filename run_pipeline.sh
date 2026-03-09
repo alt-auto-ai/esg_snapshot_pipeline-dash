@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-TOTAL=27
+TOTAL=26
 STEP=0
 PIPELINE_START=$(date +%s)
 
@@ -49,9 +49,8 @@ run_step python 3.1_story_md_cleaning.py
 run_step python 4_story_filter_esg_or_not.py
 run_step python 4.1_story_type.py
 run_step python 5_story_filter_jurisdiction.py
-run_step python 6_esg_summary.py
 run_step python 7_esg_relevance.py
-run_step python 8_esg_draft.py
+run_step python 7.1_esg_relevance_score.py
 run_step python 8_esg_draft_multi_prompt.py
 run_step python 8.1_esg_highlights.py
 run_step python 9_delete_event_mds.py

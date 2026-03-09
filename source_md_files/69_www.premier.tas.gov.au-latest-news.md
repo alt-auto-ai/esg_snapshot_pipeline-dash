@@ -1,4 +1,8 @@
 [Skip to content](https://www.premier.tas.gov.au/latest-news#maincontent)
+  * [ Next steps for Wild Fallow Deer Management   
+9 March 2026  The Tasmanian Government has released the summary report of recent public submissions on the wild fallow Deer Management Policy Review 2025....  ](https://www.premier.tas.gov.au/latest-news/2026/march/next-steps-for-wild-fallow-deer-management)
+  * [ Helping Tasmanians to be work-ready   
+9 March 2026  Two grant programs are now open to help Tasmanians build the literacy and numeracy skills needed to thrive at work.Minister for Skills and J...  ](https://www.premier.tas.gov.au/latest-news/2026/march/helping-tasmanians-to-be-work-ready-)
   * [ Taking action to reform ‘good character’ references   
 9 March 2026  The Tasmanian Government is taking action to ensure our sentencing laws reflect community expectations, with work now underway to stop the i...  ](https://www.premier.tas.gov.au/latest-news/2026/march/taking-action-to-reform-good-character-references)
   * [ Seven hundred tonnes of gantry coming together   
@@ -19,10 +23,6 @@
 7 March 2026  Tasmania’s tourism industry has celebrated a standout night at the Qantas Australian Tourism Awards in Fremantle overnight, bringing h...  ](https://www.premier.tas.gov.au/latest-news/2026/march/tasmania-shines-at-australian-tourism-awards)
   * [ New proposal on the table for teachers   
 7 March 2026  A fair and affordable Tasmanian Teachers Agreement proposal was provided to the Australian Education Union on Friday.The offer includes a pa...  ](https://www.premier.tas.gov.au/latest-news/2026/march/new-proposal-on-the-table-for-teachers)
-  * [ Help shape Tasmania’s next cat management plan   
-7 March 2026  The Tasmanian Government is calling for community feedback to help shape the next Tasmanian Cat Management Plan.The next Plan will build on ...  ](https://www.premier.tas.gov.au/latest-news/2026/march/help-shape-tasmanias-next-cat-management-plan)
-  * [ Input sought on strategy to protect Tasmania's flora and fauna   
-7 March 2026  Feedback has opened on the draft Threatened Species Strategy, which sets clear direction to protect Tasmania’s unique species and bett...  ](https://www.premier.tas.gov.au/latest-news/2026/march/input-sought-on-strategy-to-protect-tasmanias-flora-and-fauna)
 
 
 [ Previous ](https://www.premier.tas.gov.au/latest-news) 1 [2](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2) [3](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=3) [4](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=4) [5](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=5) [ Next ](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2)

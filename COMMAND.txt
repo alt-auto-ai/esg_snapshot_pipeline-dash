@@ -115,6 +115,9 @@ docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pip
 
 
 
+cd /home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED
+docker build -t esg-snapshot-pipeline:latest .
+docker images esg-snapshot-pipeline:latest
 
 
 docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline

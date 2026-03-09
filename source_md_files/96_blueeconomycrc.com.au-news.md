@@ -35,6 +35,36 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 ## [Derwent Kelp Research Trial Research Trial Wrap Community Event](https://blueeconomycrc.com.au/derwent-kelp-research-trial-research-trial-wrap-community-event/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-18T14:00:07+11:00November 26th, 2025|
+  * [New PhD Opportunity: Co-located hydrogen production with offshore wind](https://blueeconomycrc.com.au/phd-colocated-hydrogen-offshore-wind/) [](https://blueeconomycrc.com.au/phd-colocated-hydrogen-offshore-wind/)
+
+
+## [New PhD Opportunity: Co-located hydrogen production with offshore wind](https://blueeconomycrc.com.au/phd-colocated-hydrogen-offshore-wind/)
+[Tegan Chilli Frog](https://blueeconomycrc.com.au/author/tegan-chilli-frog/ "Posts by Tegan Chilli Frog")2025-11-24T14:13:20+11:00November 24th, 2025|
+  * [2025 – 2029 Strategic Plan Unveiled](https://blueeconomycrc.com.au/2025-2029-strategic-plan-unveiled/) [](https://blueeconomycrc.com.au/2025-2029-strategic-plan-unveiled/)
+
+
+## [2025 – 2029 Strategic Plan Unveiled](https://blueeconomycrc.com.au/2025-2029-strategic-plan-unveiled/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-11-19T13:12:04+11:00November 19th, 2025|
+  * [Join our Team: Director, Blue Policy and Planning](https://blueeconomycrc.com.au/join-our-team-director-blue-policy-and-planning/) [](https://blueeconomycrc.com.au/join-our-team-director-blue-policy-and-planning/)
+
+
+## [Join our Team: Director, Blue Policy and Planning](https://blueeconomycrc.com.au/join-our-team-director-blue-policy-and-planning/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-11-18T08:04:00+11:00November 17th, 2025|
+  * [A Wealth of Experience Joins our Blue Economy CRC Board](https://blueeconomycrc.com.au/wealth-of-experience-joins-becrc-board/) [](https://blueeconomycrc.com.au/wealth-of-experience-joins-becrc-board/)
+
+
+## [A Wealth of Experience Joins our Blue Economy CRC Board](https://blueeconomycrc.com.au/wealth-of-experience-joins-becrc-board/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-10-30T19:55:56+11:00October 30th, 2025|
+  * [2024 – 2025 Annual Report Release](https://blueeconomycrc.com.au/2024-2025-annual-report-release/) [](https://blueeconomycrc.com.au/2024-2025-annual-report-release/)
+
+
+## [2024 – 2025 Annual Report Release](https://blueeconomycrc.com.au/2024-2025-annual-report-release/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-10-29T08:19:32+11:00October 29th, 2025|
+  * [October Quarterly Highlights](https://blueeconomycrc.com.au/october-quarterly-highlights/) [](https://blueeconomycrc.com.au/october-quarterly-highlights/)
+
+
+## [October Quarterly Highlights](https://blueeconomycrc.com.au/october-quarterly-highlights/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-10-20T11:20:09+11:00October 20th, 2025|
 _Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 NEWSLETTERS
@@ -68,7 +98,6 @@ NEWSLETTERS
 
 ## [December 2024 Quarterly Update](https://blueeconomycrc.com.au/december-2024-quarterly-update/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-03-31T12:18:18+11:00
-_Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 # LEARN MORE
 Join our mailing list to keep up-to-date with latest updates.

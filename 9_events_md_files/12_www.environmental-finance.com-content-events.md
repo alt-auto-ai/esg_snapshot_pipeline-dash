@@ -1,6 +1,6 @@
 # Events
 ### Featured Events
-[ ◉ Live now Natural Capital Investment EMEA 2026  ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2026/)
+[ 5 March 2026 Natural Capital Investment EMEA 2026  ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2026/)
 [ 23 April 2026, 8:45 AM Sustainable Debt EMEA 2026  ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2026/)
 ### Highlights
 ### [Environmental Finance Sustainable Loans Insight 2025 Sustainable Loans Insight is now available to download ](https://www.environmental-finance.com/content/events/content/downloads/environmental-finance-sustainable-loans-insight-2025.html)
@@ -9,7 +9,6 @@
 ### [Gulf Transition and Sustainable Finance 2025 - Conference report The report is free to download ](https://www.environmental-finance.com/content/events/content/downloads/gulf-transition-and-sustainable-finance-2025-conference-report.html)
 ### Upcoming Conferences
 [](https://www.environmental-finance.com/content/events/)
-[ ◉ Live now Natural Capital Investment EMEA 2026 Exploring the integral role that Natural Capital investment can play in building climate resilience. **London, UK**. ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2026/)
 [ 23 April 2026, 8:45 AM Sustainable Debt EMEA 2026 The original event for GSSS bond and loan issuers and investors. **London, UK** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2026/)
 [ 28 April 2026, 8:15 AM Gulf Transition & Sustainable Finance 2026 The original event for GSSS bond and loan issuers and investors. **Dubai**. ](https://www.environmental-finance.com/content/events/content/events/gulf-transition-and-sustainable-finance-2026/)
 [ 23 June 2026, 8:30 AM Sustainable Debt Asia 2026 The original event for GSSS bond and loan issuers and investors. **Singapore** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-asia-2026/)
@@ -18,9 +17,10 @@
 ### Upcoming Webinars
 [More](https://www.environmental-finance.com/content/events/content/webinars/)
 [ 12 March 2026, 3:00 PM GMT Sustainable Bond Insights: What's next for the sustainable bond market? Join us for a data-driven discussion on issuance trends, investor demand, regulation, and the outlook for sustainable bonds, as well as a presentation featuring exclusive insights from the Sustainable Bond Insights Report 2026. ](https://www.environmental-finance.com/content/events/content/webinars/sustainable-bond-insights-whats-next-for-the-sustainable-bond-market.html)
-[ 24 March 2026, 1:00 PM GMT Pioneering Transition Bonds: Scaling Climate Finance in Emerging Markets Join _Environmental Finance_ and IFC for the fifth in a series of transition finance webinars where we will discuss QNB Türkiye's first-of-its-kind transition bond. ](https://www.environmental-finance.com/content/events/content/webinars/pioneering-transition-bonds-scaling-climate-finance-in-emerging-markets.html)
+[ 24 March 2026, 1:00 PM GMT Pioneering Transition Bonds: Scaling Climate Finance in Emerging Markets Join _Environmental Finance_ and IFC for the fifth in a series of transition finance webinars where we will discuss QNB Türkiye's first-of-its-kind transition bond. ](https://www.environmental-finance.com/content/events/content/webinars/transforming-tomorrow-empowering-emerging-markets-through-transition-finance/pioneering-transition-bonds-scaling-climate-finance-in-emerging-markets.html)
 ### Past Conferences
 arrow_back_ios 
+  * [ 5 March 2026 Natural Capital Investment EMEA 2026 Exploring the integral role that Natural Capital investment can play in building climate resilience. **London, UK**. ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2026/)
   * [ 13 October 2025 The Future of ESG Data EMEA Exploring the future of ESG data: identifying decision-useful data for investments, navigating ongoing regulatory changes, and keeping up with technological innovations shaping the field. **London, UK** ](https://www.environmental-finance.com/content/events/content/events/the-future-of-esg-data-emea/)
   * [ 18 September 2025 Sustainable Debt Americas 2025 The original event for GSSS bond issuers and investors. **New York, USA** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-americas-2025/)
   * [ 26 June 2025 Sustainable Debt Asia 2025 The original event for GSSS bond issuers and investors ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-asia-2025/)
@@ -28,7 +28,6 @@ arrow_back_ios
   * [ 13 May 2025, 8:50 AM ET, New York Natural Capital Investment Americas 2025 Exploring the integral role that Natural Capital investment can play in building climate resilience ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-americas-2025/)
   * [ 30 April 2025, 8:45 AM UAE, Abu Dhabi Gulf Transition & Sustainable Finance 2025 The original event for GSSS bond issuers and investors ](https://www.environmental-finance.com/content/events/content/events/gulf-transition-and-sustainable-finance-2025/)
   * [ 3 April 2024, London Sustainable Debt EMEA 2025 The original event for GSSS bond issuers and investors ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2025/)
-  * [ 4 March 2025, London Natural Capital Investment EMEA 2025 Exploring the integral role that Natural Capital investment can play in building climate resilience ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2025/)
 
 
 arrow_forward_ios 
@@ -64,12 +63,12 @@ arrow_back_ios
 arrow_forward_ios 
 more_horiz
 ### Articles
-[ 05 March 2026 EU nature credits work 'is cause for optimism for future of market' An expert group to advise the European Commission on designing an EU market for nature credits is cause for "optimism" that a dedicated framework can allay fears linked to greenwashing, according to Qarlbo Biodiversity ](https://www.environmental-finance.com/content/events/content/news/eu-nature-credits-work-is-cause-for-optimism-for-future-of-market.html)
-[ 05 March 2026 NBIM calls for improvements on nature target setting Companies are struggling on nature target-setting and transition data, making it difficult for investors to make informed investment decisions, attendees at the Natural Capital Investment EMEA conference heard. ](https://www.environmental-finance.com/content/events/content/news/nbim-calls-for-improvements-on-nature-target-setting.html)
-[ 03 March 2026 Natural Capital Investment EMEA conference returns on Thursday Environmental Finance's Natural Capital Investment EMEA conference returns to London on Thursday. ](https://www.environmental-finance.com/content/events/content/news/natural-capital-investment-emea-conference-returns-on-thursday.html)
-[ 26 February 2026 Winners of Environmental Market Rankings 2026 revealed The industry's leading brokers, traders and intermediaries have been revealed in this year's Environmental Market Rankings, which are published today. ](https://www.environmental-finance.com/content/events/content/news/winners-of-environmental-market-rankings-2026-revealed.html)
-[ 06 February 2026 Natural Capital Investment EMEA 2026: early bird ends today Register now and save 20% ](https://www.environmental-finance.com/content/events/content/news/natural-capital-investment-emea-2026-early-bird-ends-today.html)
-[ 30 January 2026 Webinar: Sustainability no longer a marginal topic for real estate The asset class brings its own challenges when it comes to assessing sustainability impacts. Rob Langston reports ](https://www.environmental-finance.com/content/events/content/analysis/webinar-sustainability-no-longer-a-marginal-topic-for-real-estate.html)
+[ 06 March 2026 Regenerative agriculture 'rife with greenwashing', says Scottish Widows Regenerative agriculture remains challenging for investors, due to high greenwashing risks and replicability challenges, Scottish Widows told an Environmental Finance conference.  ](https://www.environmental-finance.com/content/events/content/news/regenerative-agriculture-rife-with-greenwashing-says-scottish-widows.html)
+[ 06 March 2026 Getting nature reporting metrics 'right' is important but unlikely to drive investment Work on nature reporting standards may help investors better align their portfolios, but is unlikely to drive capital flows on its own, attendees at an Environmental Finance conference heard. ](https://www.environmental-finance.com/content/events/content/news/getting-nature-reporting-metrics-right-is-important-but-unlikely-to-drive-investment.html)
+[ 06 March 2026 France Valley: European forestry 'acting differently to other asset classes' Preliminary findings from a study by France Valley has found that European forests are uncorrelated to other asset classes.  ](https://www.environmental-finance.com/content/events/content/news/france-valley-european-forestry-acting-differently-to-other-asset-classes.html)
+[ 06 March 2026 Forestry investors want reports to show impact and common language Institutional investors are pushing forestry and timber managers to show impact and report in a common language that everybody can understand, an Environmental Finance conference heard. ](https://www.environmental-finance.com/content/events/content/news/forestry-investors-want-reports-to-show-impact-and-common-language.html)
+[ 06 March 2026 Nature-related geospatial data is having its 'ChatGPT moment' Geospatial data and modelling technology is "going through its 'ChatGPT moment'", with significant implications for natural capital data, an Environmental Finance event heard.  ](https://www.environmental-finance.com/content/events/content/news/nature-related-geospatial-data-is-having-its-chatgpt-moment.html)
+[ 05 March 2026 Natural Capital enters new phase Natural Capital is moving into a new phase of consolidation and opportunity-seeking, an Environmental Finance conference has heard.  ](https://www.environmental-finance.com/content/events/content/analysis/natural-capital-investment-emea-2026-conference-round-up.html)
 ### Cookies on Environmental Finance
 This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. [Find out more here](https://www.environmental-finance.com/content/events/policy/cookie-policy.html)
 Accept 

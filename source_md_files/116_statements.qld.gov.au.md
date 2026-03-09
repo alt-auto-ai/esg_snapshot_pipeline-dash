@@ -2,6 +2,9 @@
   * [Search](https://statements.qld.gov.au/?Search=True)
 
 
+Today at 09:16 AM
+[Driving Forward Generational Infrastructure on the Sunshine Coast ](https://statements.qld.gov.au/statements/104648)
+Rubber is hitting the road on generational transpo...
 Yesterday at 04:32 PM
 [Singapore and India trade mission to deliver for Queensland](https://statements.qld.gov.au/statements/104649)
 The Crisafulli Government is delivering new opport...
@@ -35,9 +38,6 @@ A major infrastructure milestone has been reached ...
 Fri 06 Mar 26 at 10:24 AM
 [Inaugural Quantum Challenge makes big impact ](https://statements.qld.gov.au/statements/104641)
 The Crisafulli Government is launching the inaugur...
-Fri 06 Mar 26 at 09:30 AM
-[Empowering Councils Bill passed to deliver better outcomes for Queenslanders ](https://statements.qld.gov.au/statements/104633)
-The Crisafulli Government has delivered on a key e...
   * [2](https://statements.qld.gov.au/?pageIndex=2)
   * [3](https://statements.qld.gov.au/?pageIndex=3)
   * [4](https://statements.qld.gov.au/?pageIndex=4)

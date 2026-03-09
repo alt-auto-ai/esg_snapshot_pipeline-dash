@@ -13,271 +13,252 @@ Clear All
 (1)
 Next week
 Clear All
+  * Mon, 16 Mar, 5:00 pm
+Docklands · Mott MacDonald
+From $0.00
+CIOB Oceania
+296 followers
+_Save this event: Sustainability as a Delivery Discipline – Not an Add-On_ _Save this event: Sustainability as a Delivery Discipline – Not an Add-On_
+Mon, 16 Mar, 5:00 pm
+Docklands · Mott MacDonald
+From $0.00
+_Save this event: Sustainability as a Delivery Discipline – Not an Add-On_ _Save this event: Sustainability as a Delivery Discipline – Not an Add-On_
   * Sales Ended
-Wednesday at 9:00 AM
-Newcastle NSW · Regus Newcastle, NSW
-From $543.44
+Thu, 19 Mar, 9:00 am
+Townsville City · Regus Northtown
+From $533.91
 MG Aussie
-251 followers
-_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Newcastle_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Newcastle_
+260 followers
+_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Townsville_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Townsville_
 Sales Ended
-Wednesday at 9:00 AM
-Newcastle NSW · Regus Newcastle, NSW
-From $543.44
-_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Newcastle_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Newcastle_
+Thu, 19 Mar, 9:00 am
+Townsville City · Regus Northtown
+From $533.91
+_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Townsville_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Townsville_
 View 3 similar results
-  * [](https://www.eventbrite.com.au/e/sustainable-cooking-cheese-please-tickets-1910572607099?aff=ebdssbdestsearch)
-### [Sustainable cooking - cheese please](https://www.eventbrite.com.au/e/sustainable-cooking-cheese-please-tickets-1910572607099?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Golden Grove · Harpers Field Community Hub (Wellbeing Hub)
-From $15.00
-City of Tea Tree Gully
-6.4k followers
-_Save this event: Sustainable cooking - cheese please_ _Save this event: Sustainable cooking - cheese please_
-[](https://www.eventbrite.com.au/e/sustainable-cooking-cheese-please-tickets-1910572607099?aff=ebdssbdestsearch)
-### [Sustainable cooking - cheese please](https://www.eventbrite.com.au/e/sustainable-cooking-cheese-please-tickets-1910572607099?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Golden Grove · Harpers Field Community Hub (Wellbeing Hub)
-From $15.00
-_Save this event: Sustainable cooking - cheese please_ _Save this event: Sustainable cooking - cheese please_
-  * [](https://www.eventbrite.com.au/e/green-dreams-why-technology-cant-save-the-world-tickets-1980532131921?aff=ebdssbdestsearch)
-### [Green Dreams: Why Technology Can’t Save the World](https://www.eventbrite.com.au/e/green-dreams-why-technology-cant-save-the-world-tickets-1980532131921?aff=ebdssbdestsearch)
-Wed, 11 Mar, 6:00 pm
-Camperdown · Chau Chak Wing Museum
+  * [](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
+### [What is a Carbon Footprint and How to Reduce It](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
+Mon, 16 Mar, 6:00 pm
+Subiaco · Evelyn H Parker Library
 Free
-Events | Chau Chak Wing Museum
-2.1k followers
-_Save this event: Green Dreams: Why Technology Can’t Save the World_ _Save this event: Green Dreams: Why Technology Can’t Save the World_
-[](https://www.eventbrite.com.au/e/green-dreams-why-technology-cant-save-the-world-tickets-1980532131921?aff=ebdssbdestsearch)
-### [Green Dreams: Why Technology Can’t Save the World](https://www.eventbrite.com.au/e/green-dreams-why-technology-cant-save-the-world-tickets-1980532131921?aff=ebdssbdestsearch)
-Wed, 11 Mar, 6:00 pm
-Camperdown · Chau Chak Wing Museum
+Subiaco Library
+2k followers
+_Save this event: What is a Carbon Footprint and How to Reduce It_ _Save this event: What is a Carbon Footprint and How to Reduce It_
+[](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
+### [What is a Carbon Footprint and How to Reduce It](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
+Mon, 16 Mar, 6:00 pm
+Subiaco · Evelyn H Parker Library
 Free
-_Save this event: Green Dreams: Why Technology Can’t Save the World_ _Save this event: Green Dreams: Why Technology Can’t Save the World_
+_Save this event: What is a Carbon Footprint and How to Reduce It_ _Save this event: What is a Carbon Footprint and How to Reduce It_
   * Sales Ended
-Monday at 9:00 AM
-Balmain · Regus Balmain
-From $492.61
+Wed, 18 Mar, 9:00 am
+Canberra · Regus - Canberra, Gateway Business Center
+From $563.56
 MG Aussie
-251 followers
-_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_
+260 followers
+_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Canberra_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Canberra_
 Sales Ended
-Monday at 9:00 AM
-Balmain · Regus Balmain
-From $492.61
-_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_
+Wed, 18 Mar, 9:00 am
+Canberra · Regus - Canberra, Gateway Business Center
+From $563.56
+_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Canberra_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Canberra_
 View 3 similar results
-  * Sold Out
-[](https://www.eventbrite.com.au/e/low-waste-bathrooms-beauty-tickets-1982339139730?aff=ebdssbdestsearch)
-### [Low-waste bathrooms & beauty](https://www.eventbrite.com.au/e/low-waste-bathrooms-beauty-tickets-1982339139730?aff=ebdssbdestsearch)
-Sat, 14 Mar, 9:30 am
-Maylands · Maylands Public Library
+  * [](https://www.eventbrite.com.au/e/zero-waste-autumn-kitchen-tickets-1981398186313?aff=ebdssbdestsearch)
+### [Zero-Waste Autumn Kitchen](https://www.eventbrite.com.au/e/zero-waste-autumn-kitchen-tickets-1981398186313?aff=ebdssbdestsearch)
+Sat, 21 Mar, 12:30 pm
+Payneham · Payneham Community Centre
+From $5.00
+One Planet Market
+196 followers
+_Save this event: Zero-Waste Autumn Kitchen_ _Save this event: Zero-Waste Autumn Kitchen_
+[](https://www.eventbrite.com.au/e/zero-waste-autumn-kitchen-tickets-1981398186313?aff=ebdssbdestsearch)
+### [Zero-Waste Autumn Kitchen](https://www.eventbrite.com.au/e/zero-waste-autumn-kitchen-tickets-1981398186313?aff=ebdssbdestsearch)
+Sat, 21 Mar, 12:30 pm
+Payneham · Payneham Community Centre
+From $5.00
+_Save this event: Zero-Waste Autumn Kitchen_ _Save this event: Zero-Waste Autumn Kitchen_
+  * Sales Ended
+Tue, 17 Mar, 9:00 am
+Surfers Paradise · Regus Surfers Paradise
+From $506.38
+MG Aussie
+260 followers
+_Save this event: Building Sustainable & ESG-Driven Organizations: 1 Day Course in Gold Coast_ _Save this event: Building Sustainable & ESG-Driven Organizations: 1 Day Course in Gold Coast_
+Sales Ended
+Tue, 17 Mar, 9:00 am
+Surfers Paradise · Regus Surfers Paradise
+From $506.38
+_Save this event: Building Sustainable & ESG-Driven Organizations: 1 Day Course in Gold Coast_ _Save this event: Building Sustainable & ESG-Driven Organizations: 1 Day Course in Gold Coast_
+View 2 similar results
+  * Thu, 19 Mar, 9:00 am
+Pialligo · Regus - Canberra, Gateway Business Center
+From $614.39
+MG Aussie
+260 followers
+_Save this event: Turn Everyday Waste into Art & Utility – 1 Day Training, Canberra_ _Save this event: Turn Everyday Waste into Art & Utility – 1 Day Training, Canberra_
+Thu, 19 Mar, 9:00 am
+Pialligo · Regus - Canberra, Gateway Business Center
+From $614.39
+_Save this event: Turn Everyday Waste into Art & Utility – 1 Day Training, Canberra_ _Save this event: Turn Everyday Waste into Art & Utility – 1 Day Training, Canberra_
+  * [](https://www.eventbrite.com.au/e/permaculture-in-practice-a-year-of-skills-sustainability-with-kym-ormond-tickets-1406854572899?aff=ebdssbdestsearch)
+### [Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond](https://www.eventbrite.com.au/e/permaculture-in-practice-a-year-of-skills-sustainability-with-kym-ormond-tickets-1406854572899?aff=ebdssbdestsearch)
+Sun, 15 Mar, 10:30 am
+Smithfield Plains · The Precinct
+From $0.00
+City of Playford - Wellbeing Hub
+1.9k followers
+_Save this event: Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond_ _Save this event: Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond_
+[](https://www.eventbrite.com.au/e/permaculture-in-practice-a-year-of-skills-sustainability-with-kym-ormond-tickets-1406854572899?aff=ebdssbdestsearch)
+### [Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond](https://www.eventbrite.com.au/e/permaculture-in-practice-a-year-of-skills-sustainability-with-kym-ormond-tickets-1406854572899?aff=ebdssbdestsearch)
+Sun, 15 Mar, 10:30 am
+Smithfield Plains · The Precinct
+From $0.00
+_Save this event: Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond_ _Save this event: Permaculture in Practice: A Year of Skills & Sustainability with Kym Ormond_
+  * Tue, 17 Mar, 5:30 pm
+Haymarket · level 3/727 George St
+From $11.90
+Juntos Marketing
+_Save this event: Beyond the pay slip - Supporting employee financial wellbeing_ _Save this event: Beyond the pay slip - Supporting employee financial wellbeing_
+Tue, 17 Mar, 5:30 pm
+Haymarket · level 3/727 George St
+From $11.90
+_Save this event: Beyond the pay slip - Supporting employee financial wellbeing_ _Save this event: Beyond the pay slip - Supporting employee financial wellbeing_
+  * [](https://www.eventbrite.com.au/e/towards-zero-waste-events-glenbrook-tickets-1982328453768?aff=ebdssbdestsearch)
+### [Towards Zero Waste Events - Glenbrook](https://www.eventbrite.com.au/e/towards-zero-waste-events-glenbrook-tickets-1982328453768?aff=ebdssbdestsearch)
+Sat, 21 Mar, 10:30 am
+Glenbrook · Glenbrook Rotary Markets
 Free
-City of Bayswater Community Programs
-2.7k followers
-_Save this event: Low-waste bathrooms & beauty_ _Save this event: Low-waste bathrooms & beauty_
-Sold Out
-[](https://www.eventbrite.com.au/e/low-waste-bathrooms-beauty-tickets-1982339139730?aff=ebdssbdestsearch)
-### [Low-waste bathrooms & beauty](https://www.eventbrite.com.au/e/low-waste-bathrooms-beauty-tickets-1982339139730?aff=ebdssbdestsearch)
-Sat, 14 Mar, 9:30 am
-Maylands · Maylands Public Library
+Blue Mountains City Council
+358 followers
+_Save this event: Towards Zero Waste Events - Glenbrook_ _Save this event: Towards Zero Waste Events - Glenbrook_
+[](https://www.eventbrite.com.au/e/towards-zero-waste-events-glenbrook-tickets-1982328453768?aff=ebdssbdestsearch)
+### [Towards Zero Waste Events - Glenbrook](https://www.eventbrite.com.au/e/towards-zero-waste-events-glenbrook-tickets-1982328453768?aff=ebdssbdestsearch)
+Sat, 21 Mar, 10:30 am
+Glenbrook · Glenbrook Rotary Markets
 Free
-_Save this event: Low-waste bathrooms & beauty_ _Save this event: Low-waste bathrooms & beauty_
-  * [](https://www.eventbrite.com.au/e/recycle-right-understanding-the-circular-economy-tickets-1983230994291?aff=ebdssbdestsearch)
-### [Recycle Right: Understanding the Circular Economy](https://www.eventbrite.com.au/e/recycle-right-understanding-the-circular-economy-tickets-1983230994291?aff=ebdssbdestsearch)
-Wednesday at 11:00 AM
-Ashburton · Alamein Neighbourhood & Learning Centre
+_Save this event: Towards Zero Waste Events - Glenbrook_ _Save this event: Towards Zero Waste Events - Glenbrook_
+  * Wed, 18 Mar, 10:00 am
+Loganholme · 38/17 Cairns St
 Free
-_Save this event: Recycle Right: Understanding the Circular Economy_ _Save this event: Recycle Right: Understanding the Circular Economy_
-[](https://www.eventbrite.com.au/e/recycle-right-understanding-the-circular-economy-tickets-1983230994291?aff=ebdssbdestsearch)
-### [Recycle Right: Understanding the Circular Economy](https://www.eventbrite.com.au/e/recycle-right-understanding-the-circular-economy-tickets-1983230994291?aff=ebdssbdestsearch)
-Wednesday at 11:00 AM
-Ashburton · Alamein Neighbourhood & Learning Centre
+_Save this event: Logan Disability Coalition_ _Save this event: Logan Disability Coalition_
+Wed, 18 Mar, 10:00 am
+Loganholme · 38/17 Cairns St
 Free
-_Save this event: Recycle Right: Understanding the Circular Economy_ _Save this event: Recycle Right: Understanding the Circular Economy_
-  * [](https://www.eventbrite.com.au/e/icrr-seminar-prof-daniel-nyberg-tickets-1982475278926?aff=ebdssbdestsearch)
-### [ICRR Seminar: Prof. Daniel Nyberg](https://www.eventbrite.com.au/e/icrr-seminar-prof-daniel-nyberg-tickets-1982475278926?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-Kensington · UNSW Business Lounge, lvl 6, West Wing, UNSW Business School (E12)
-Free
-UNSW Institute for Climate Risk & Response
-154 followers
-_Save this event: ICRR Seminar: Prof. Daniel Nyberg_ _Save this event: ICRR Seminar: Prof. Daniel Nyberg_
-[](https://www.eventbrite.com.au/e/icrr-seminar-prof-daniel-nyberg-tickets-1982475278926?aff=ebdssbdestsearch)
-### [ICRR Seminar: Prof. Daniel Nyberg](https://www.eventbrite.com.au/e/icrr-seminar-prof-daniel-nyberg-tickets-1982475278926?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-Kensington · UNSW Business Lounge, lvl 6, West Wing, UNSW Business School (E12)
-Free
-_Save this event: ICRR Seminar: Prof. Daniel Nyberg_ _Save this event: ICRR Seminar: Prof. Daniel Nyberg_
-  * [](https://www.eventbrite.com.au/e/women-in-bim-conference-2026-brisbane-australia-tickets-1653313177219?aff=ebdssbdestsearch)
-### [Women in BIM Conference 2026 - Brisbane, Australia](https://www.eventbrite.com.au/e/women-in-bim-conference-2026-brisbane-australia-tickets-1653313177219?aff=ebdssbdestsearch)
-Thu, 12 Mar, 8:15 am
-Brisbane City · Rivershed
-From $150.00
-Women in BIM
-443 followers
-_Save this event: Women in BIM Conference 2026 - Brisbane, Australia_ _Save this event: Women in BIM Conference 2026 - Brisbane, Australia_
-[](https://www.eventbrite.com.au/e/women-in-bim-conference-2026-brisbane-australia-tickets-1653313177219?aff=ebdssbdestsearch)
-### [Women in BIM Conference 2026 - Brisbane, Australia](https://www.eventbrite.com.au/e/women-in-bim-conference-2026-brisbane-australia-tickets-1653313177219?aff=ebdssbdestsearch)
-Thu, 12 Mar, 8:15 am
-Brisbane City · Rivershed
-From $150.00
-_Save this event: Women in BIM Conference 2026 - Brisbane, Australia_ _Save this event: Women in BIM Conference 2026 - Brisbane, Australia_
-  * Tuesday at 4:00 PM
-Melbourne · 2 Lonsdale St
-From $54.26
-WiE Melbourne
-25 followers
-_Save this event: Women in Energy – International Women’s Day Event 2026:__Save this event: Women in Energy – International Women’s Day Event 2026:_
-Tuesday at 4:00 PM
-Melbourne · 2 Lonsdale St
-From $54.26
-_Save this event: Women in Energy – International Women’s Day Event 2026:__Save this event: Women in Energy – International Women’s Day Event 2026:_
-  * [](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1963621093550?aff=ebdssbdestsearch)
-### [Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1963621093550?aff=ebdssbdestsearch)
-Wed, 11 Mar, 6:00 pm
-Melbourne · Intrepid Travel
+_Save this event: Logan Disability Coalition_ _Save this event: Logan Disability Coalition_
+  * [](https://www.eventbrite.com.au/e/building-resilience-workshop-wellbeing-for-business-owners-tickets-1977007874773?aff=ebdssbdestsearch)
+### [Building Resilience Workshop: Wellbeing for Business Owners](https://www.eventbrite.com.au/e/building-resilience-workshop-wellbeing-for-business-owners-tickets-1977007874773?aff=ebdssbdestsearch)
+Tue, 17 Mar, 9:30 am
+Warrnambool · Warrnambool Library
+From $22.26
+Warrnambool City Council
+167 followers
+_Save this event: Building Resilience Workshop: Wellbeing for Business Owners_ _Save this event: Building Resilience Workshop: Wellbeing for Business Owners_
+[](https://www.eventbrite.com.au/e/building-resilience-workshop-wellbeing-for-business-owners-tickets-1977007874773?aff=ebdssbdestsearch)
+### [Building Resilience Workshop: Wellbeing for Business Owners](https://www.eventbrite.com.au/e/building-resilience-workshop-wellbeing-for-business-owners-tickets-1977007874773?aff=ebdssbdestsearch)
+Tue, 17 Mar, 9:30 am
+Warrnambool · Warrnambool Library
+From $22.26
+_Save this event: Building Resilience Workshop: Wellbeing for Business Owners_ _Save this event: Building Resilience Workshop: Wellbeing for Business Owners_
+  * [](https://www.eventbrite.com.au/e/workshop-making-quick-pickles-tickets-1980349824635?aff=ebdssbdestsearch)
+### [Workshop: Making Quick Pickles](https://www.eventbrite.com.au/e/workshop-making-quick-pickles-tickets-1980349824635?aff=ebdssbdestsearch)
+Mon, 16 Mar, 1:00 pm
+Melton South · Melton South Community Centre
+From $6.61
+We Love Aintree - Eat Grow Garden
+77 followers
+_Save this event: Workshop: Making Quick Pickles_ _Save this event: Workshop: Making Quick Pickles_
+[](https://www.eventbrite.com.au/e/workshop-making-quick-pickles-tickets-1980349824635?aff=ebdssbdestsearch)
+### [Workshop: Making Quick Pickles](https://www.eventbrite.com.au/e/workshop-making-quick-pickles-tickets-1980349824635?aff=ebdssbdestsearch)
+Mon, 16 Mar, 1:00 pm
+Melton South · Melton South Community Centre
+From $6.61
+_Save this event: Workshop: Making Quick Pickles_ _Save this event: Workshop: Making Quick Pickles_
+  * Tue, 17 Mar, 2:00 pm
+Essendon Fields · Modscape + Modbotics | VIC Office and Factory
+From $0.00
+CIOB Oceania
+296 followers
+_Save this event: CIOB Modscape + Modbotics Facility Tour-(President/CEO Australia) Melbourne_ _Save this event: CIOB Modscape + Modbotics Facility Tour-(President/CEO Australia) Melbourne_
+Tue, 17 Mar, 2:00 pm
+Essendon Fields · Modscape + Modbotics | VIC Office and Factory
+From $0.00
+_Save this event: CIOB Modscape + Modbotics Facility Tour-(President/CEO Australia) Melbourne_ _Save this event: CIOB Modscape + Modbotics Facility Tour-(President/CEO Australia) Melbourne_
+  * [](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1943835677839?aff=ebdssbdestsearch)
+### [Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1943835677839?aff=ebdssbdestsearch)
+Wed, 18 Mar, 6:00 pm
+Darlinghurst · Burdekin Hotel
 From $27.50
 _Save this event: Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint_ _Save this event: Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint_
-[](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1963621093550?aff=ebdssbdestsearch)
-### [Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1963621093550?aff=ebdssbdestsearch)
-Wed, 11 Mar, 6:00 pm
-Melbourne · Intrepid Travel
+[](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1943835677839?aff=ebdssbdestsearch)
+### [Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint](https://www.eventbrite.com.au/e/follow-your-dot-surviving-a-kidnapping-plane-crash-life-at-gunpoint-tickets-1943835677839?aff=ebdssbdestsearch)
+Wed, 18 Mar, 6:00 pm
+Darlinghurst · Burdekin Hotel
 From $27.50
 _Save this event: Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint_ _Save this event: Follow Your Dot – Surviving a Kidnapping, Plane Crash & Life at Gunpoint_
-  * [](https://www.eventbrite.com.au/e/energy-event-tickets-1983419916362?aff=ebdssbdestsearch)
-### [Energy Event](https://www.eventbrite.com.au/e/energy-event-tickets-1983419916362?aff=ebdssbdestsearch)
-Thu, 12 Mar, 5:30 pm
-North Wollongong · UOW Science Space
-From $5.00
-_Save this event: Energy Event_ _Save this event: Energy Event_
-[](https://www.eventbrite.com.au/e/energy-event-tickets-1983419916362?aff=ebdssbdestsearch)
-### [Energy Event](https://www.eventbrite.com.au/e/energy-event-tickets-1983419916362?aff=ebdssbdestsearch)
-Thu, 12 Mar, 5:30 pm
-North Wollongong · UOW Science Space
-From $5.00
-_Save this event: Energy Event_ _Save this event: Energy Event_
-  * [](https://www.eventbrite.com.au/e/bne-connectahk-smart-city-infrastructure-tickets-1982254476500?aff=ebdssbdestsearch)
-### [BNE | Connect@AHK: Smart City & Infrastructure](https://www.eventbrite.com.au/e/bne-connectahk-smart-city-infrastructure-tickets-1982254476500?aff=ebdssbdestsearch)
-Thu, 12 Mar, 5:30 pm
-Fortitude Valley · Launch Event Space at The Precinct
-From $0.00
-German-Australian Chamber of Industry and Commerce
-270 followers
-_Save this event: BNE | Connect@AHK: Smart City & Infrastructure_ _Save this event: BNE | Connect@AHK: Smart City & Infrastructure_
-[](https://www.eventbrite.com.au/e/bne-connectahk-smart-city-infrastructure-tickets-1982254476500?aff=ebdssbdestsearch)
-### [BNE | Connect@AHK: Smart City & Infrastructure](https://www.eventbrite.com.au/e/bne-connectahk-smart-city-infrastructure-tickets-1982254476500?aff=ebdssbdestsearch)
-Thu, 12 Mar, 5:30 pm
-Fortitude Valley · Launch Event Space at The Precinct
-From $0.00
-_Save this event: BNE | Connect@AHK: Smart City & Infrastructure_ _Save this event: BNE | Connect@AHK: Smart City & Infrastructure_
-  * Sales Ended
-Sat, 14 Mar, 9:00 am
-Lismore · For more information on venue address, reach out to "eventbrite@mgaussie.com"
-From $458.73
-MG Aussie
-251 followers
-_Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_ _Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_
-Sales Ended
-Sat, 14 Mar, 9:00 am
-Lismore · For more information on venue address, reach out to "eventbrite@mgaussie.com"
-From $458.73
-_Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_ _Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_
+  * [](https://www.eventbrite.com.au/e/rethink-waste-in-the-kitchen-at-burnie-library-tickets-1981059079034?aff=ebdssbdestsearch)
+### [ReThink Waste in the Kitchen at Burnie Library](https://www.eventbrite.com.au/e/rethink-waste-in-the-kitchen-at-burnie-library-tickets-1981059079034?aff=ebdssbdestsearch)
+Thu, 19 Mar, 12:00 pm
+Burnie · Burnie Library
+Free
+Burnie Library
+375 followers
+_Save this event: ReThink Waste in the Kitchen at Burnie Library_ _Save this event: ReThink Waste in the Kitchen at Burnie Library_
+[](https://www.eventbrite.com.au/e/rethink-waste-in-the-kitchen-at-burnie-library-tickets-1981059079034?aff=ebdssbdestsearch)
+### [ReThink Waste in the Kitchen at Burnie Library](https://www.eventbrite.com.au/e/rethink-waste-in-the-kitchen-at-burnie-library-tickets-1981059079034?aff=ebdssbdestsearch)
+Thu, 19 Mar, 12:00 pm
+Burnie · Burnie Library
+Free
+_Save this event: ReThink Waste in the Kitchen at Burnie Library_ _Save this event: ReThink Waste in the Kitchen at Burnie Library_
   * [](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
 ### [Yin Yoga and Sound Healing](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
-Monday at 6:30 PM
+Mon, 16 Mar, 6:30 pm
 Tamarama · Tamarama SLSC
 From $27.78
 Kaja Troa
-68 followers
+69 followers
 _Save this event: Yin Yoga and Sound Healing_ _Save this event: Yin Yoga and Sound Healing_
 [](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
 ### [Yin Yoga and Sound Healing](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
-Monday at 6:30 PM
+Mon, 16 Mar, 6:30 pm
 Tamarama · Tamarama SLSC
 From $27.78
 _Save this event: Yin Yoga and Sound Healing_ _Save this event: Yin Yoga and Sound Healing_
-  * Sales Ended
-Fri, 13 Mar, 9:00 am
-Newcastle · Regus Newcastle, NSW
-From $487.33
-MG Aussie
-251 followers
-_Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Newcastle_ _Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Newcastle_
-Sales Ended
-Fri, 13 Mar, 9:00 am
-Newcastle · Regus Newcastle, NSW
-From $487.33
-_Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Newcastle_ _Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Newcastle_
+  * [](https://www.eventbrite.com.au/e/agricultural-opportunities-in-zimbabwe-tickets-1984284482302?aff=ebdssbdestsearch)
+### [Agricultural Opportunities in Zimbabwe](https://www.eventbrite.com.au/e/agricultural-opportunities-in-zimbabwe-tickets-1984284482302?aff=ebdssbdestsearch)
+Wed, 18 Mar, 5:00 pm
+Melbourne · 121 Exhibition Street
+From $35.00
+Australia Africa Chamber of Commerce
+_Save this event: Agricultural Opportunities in Zimbabwe_ _Save this event: Agricultural Opportunities in Zimbabwe_
+[](https://www.eventbrite.com.au/e/agricultural-opportunities-in-zimbabwe-tickets-1984284482302?aff=ebdssbdestsearch)
+### [Agricultural Opportunities in Zimbabwe](https://www.eventbrite.com.au/e/agricultural-opportunities-in-zimbabwe-tickets-1984284482302?aff=ebdssbdestsearch)
+Wed, 18 Mar, 5:00 pm
+Melbourne · 121 Exhibition Street
+From $35.00
+_Save this event: Agricultural Opportunities in Zimbabwe_ _Save this event: Agricultural Opportunities in Zimbabwe_
+  * [](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+Mon, 16 Mar, 9:00 am
+Melbourne · Melbourne
+Free
+_Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_ _Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_
+[](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+Mon, 16 Mar, 9:00 am
+Melbourne · Melbourne
+Free
+_Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_ _Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_
 View 5 similar results
-  * [](https://www.eventbrite.com.au/e/detox-your-home-coburg-registration-1978212677370?aff=ebdssbdestsearch)
-### [Detox Your Home – Coburg](https://www.eventbrite.com.au/e/detox-your-home-coburg-registration-1978212677370?aff=ebdssbdestsearch)
-Sunday at 9:00 AM
-Coburg · Merri-bek City Council - Merri-bek Civic Centre (enter via Urquhart Street)
-Free
-Sustainability Victoria - Detox Your Home
-2.6k followers
-_Save this event: Detox Your Home – Coburg_ _Save this event: Detox Your Home – Coburg_
-[](https://www.eventbrite.com.au/e/detox-your-home-coburg-registration-1978212677370?aff=ebdssbdestsearch)
-### [Detox Your Home – Coburg](https://www.eventbrite.com.au/e/detox-your-home-coburg-registration-1978212677370?aff=ebdssbdestsearch)
-Sunday at 9:00 AM
-Coburg · Merri-bek City Council - Merri-bek Civic Centre (enter via Urquhart Street)
-Free
-_Save this event: Detox Your Home – Coburg_ _Save this event: Detox Your Home – Coburg_
-  * [](https://www.eventbrite.com.au/e/housing-from-the-last-four-years-to-the-next-tickets-1983938002973?aff=ebdssbdestsearch)
-### [Housing: From the last four years to the next](https://www.eventbrite.com.au/e/housing-from-the-last-four-years-to-the-next-tickets-1983938002973?aff=ebdssbdestsearch)
-Thu, 12 Mar, 4:30 pm
-Adelaide · Mâché Coworking
-From $0.00
-Urban Future Exchange
-44 followers
-_Save this event: Housing: From the last four years to the next_ _Save this event: Housing: From the last four years to the next_
-[](https://www.eventbrite.com.au/e/housing-from-the-last-four-years-to-the-next-tickets-1983938002973?aff=ebdssbdestsearch)
-### [Housing: From the last four years to the next](https://www.eventbrite.com.au/e/housing-from-the-last-four-years-to-the-next-tickets-1983938002973?aff=ebdssbdestsearch)
-Thu, 12 Mar, 4:30 pm
-Adelaide · Mâché Coworking
-From $0.00
-_Save this event: Housing: From the last four years to the next_ _Save this event: Housing: From the last four years to the next_
-  * [](https://www.eventbrite.com.au/e/2026-international-womens-day-celebration-tamworth-tickets-1982831184449?aff=ebdssbdestsearch)
-### [2026 International Women's Day Celebration Tamworth](https://www.eventbrite.com.au/e/2026-international-womens-day-celebration-tamworth-tickets-1982831184449?aff=ebdssbdestsearch)
-Sunday at 2:00 PM
-Taminda · Tamworth Jockey Club
-From $35.00
-The Zonta Club of Tamworth Inc.
-13 followers
-_Save this event: 2026 International Women's Day Celebration Tamworth_ _Save this event: 2026 International Women's Day Celebration Tamworth_
-[](https://www.eventbrite.com.au/e/2026-international-womens-day-celebration-tamworth-tickets-1982831184449?aff=ebdssbdestsearch)
-### [2026 International Women's Day Celebration Tamworth](https://www.eventbrite.com.au/e/2026-international-womens-day-celebration-tamworth-tickets-1982831184449?aff=ebdssbdestsearch)
-Sunday at 2:00 PM
-Taminda · Tamworth Jockey Club
-From $35.00
-_Save this event: 2026 International Women's Day Celebration Tamworth_ _Save this event: 2026 International Women's Day Celebration Tamworth_
-  * [](https://www.eventbrite.com.au/e/90-day-planning-boost-your-business-workshop-your-ideal-client-journey-tickets-1978954763971?aff=ebdssbdestsearch)
-### [90 day Planning Boost Your Business Workshop: Your Ideal Client Journey](https://www.eventbrite.com.au/e/90-day-planning-boost-your-business-workshop-your-ideal-client-journey-tickets-1978954763971?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Bentley · The Hub, Bentley Technology Park
-From $0.00
-_Save this event: 90 day Planning Boost Your Business Workshop: Your Ideal Client Journey_ _Save this event: 90 day Planning Boost Your Business Workshop: Your Ideal Client Journey_
-[](https://www.eventbrite.com.au/e/90-day-planning-boost-your-business-workshop-your-ideal-client-journey-tickets-1978954763971?aff=ebdssbdestsearch)
-### [90 day Planning Boost Your Business Workshop: Your Ideal Client Journey](https://www.eventbrite.com.au/e/90-day-planning-boost-your-business-workshop-your-ideal-client-journey-tickets-1978954763971?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Bentley · The Hub, Bentley Technology Park
-From $0.00
-_Save this event: 90 day Planning Boost Your Business Workshop: Your Ideal Client Journey_ _Save this event: 90 day Planning Boost Your Business Workshop: Your Ideal Client Journey_
-  * [](https://www.eventbrite.com.au/e/mbs-education-for-general-practice-workshop-brisbane-2026-tickets-1974528027483?aff=ebdssbdestsearch)
-### [MBS Education for General Practice Workshop - BRISBANE 2026](https://www.eventbrite.com.au/e/mbs-education-for-general-practice-workshop-brisbane-2026-tickets-1974528027483?aff=ebdssbdestsearch)
-Sat, 14 Mar, 8:00 am
-Brisbane City · InterContinental Brisbane by IHG
-From $1,418.67
-Business for Doctors
-2.3k followers
-_Save this event: MBS Education for General Practice Workshop - BRISBANE 2026_ _Save this event: MBS Education for General Practice Workshop - BRISBANE 2026_
-[](https://www.eventbrite.com.au/e/mbs-education-for-general-practice-workshop-brisbane-2026-tickets-1974528027483?aff=ebdssbdestsearch)
-### [MBS Education for General Practice Workshop - BRISBANE 2026](https://www.eventbrite.com.au/e/mbs-education-for-general-practice-workshop-brisbane-2026-tickets-1974528027483?aff=ebdssbdestsearch)
-Sat, 14 Mar, 8:00 am
-Brisbane City · InterContinental Brisbane by IHG
-From $1,418.67
-_Save this event: MBS Education for General Practice Workshop - BRISBANE 2026_ _Save this event: MBS Education for General Practice Workshop - BRISBANE 2026_
+  * Fri, 20 Mar, 9:00 am
+Hobart · For more information on venue address, reach out to"eventbrite@mgaussie.com"
+From $582.62
+MG Aussie
+260 followers
+_Save this event: Advanced FMCG Skills & Certification Preparation – 1 Day Training, Hobart_ _Save this event: Advanced FMCG Skills & Certification Preparation – 1 Day Training, Hobart_
+Fri, 20 Mar, 9:00 am
+Hobart · For more information on venue address, reach out to"eventbrite@mgaussie.com"
+From $582.62
+_Save this event: Advanced FMCG Skills & Certification Preparation – 1 Day Training, Hobart_ _Save this event: Advanced FMCG Skills & Certification Preparation – 1 Day Training, Hobart_
 
 
 View map
@@ -292,20 +273,20 @@ View map
 [Things to do in Wayville](https://www.eventbrite.com.au/ttd/australia--wayville/)[](https://www.eventbrite.com.au/ttd/australia--wayville/)
 [Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
 [Things to do in Symonston](https://www.eventbrite.com.au/ttd/australia--symonston/)[](https://www.eventbrite.com.au/ttd/australia--symonston/)
-[Things to do in Darwin City](https://www.eventbrite.com.au/ttd/australia--darwin-city/)[](https://www.eventbrite.com.au/ttd/australia--darwin-city/)
 [Things to do in Fortitude Valley](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)[](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)
+[Things to do in Darwin City](https://www.eventbrite.com.au/ttd/australia--darwin-city/)[](https://www.eventbrite.com.au/ttd/australia--darwin-city/)
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Live music](https://www.eventbrite.com.au/d/australia/live-music/)
 ### [2. Event](https://www.eventbrite.com.au/d/australia/event/)
 ### [3. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
 ### [4. Dating](https://www.eventbrite.com.au/d/australia/dating/)
-### [5. Hotshots](https://www.eventbrite.com.au/d/australia/hotshots/)
-### [6. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [5. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [6. Hotshots](https://www.eventbrite.com.au/d/australia/hotshots/)
 ### [7. Rave party](https://www.eventbrite.com.au/d/australia/rave-party/)
-### [8. Tickets](https://www.eventbrite.com.au/d/australia/tickets/)
+### [8. Brisbane](https://www.eventbrite.com.au/d/australia/brisbane/)
 ### [9. Ai](https://www.eventbrite.com.au/d/australia/ai/)
-### [10. Brisbane](https://www.eventbrite.com.au/d/australia/brisbane/)
-### [11. Food events](https://www.eventbrite.com.au/d/australia/food-events/)
-### [12. Lantern festival](https://www.eventbrite.com.au/d/australia/lantern-festival/)
+### [10. Lantern festival](https://www.eventbrite.com.au/d/australia/lantern-festival/)
+### [11. Tickets](https://www.eventbrite.com.au/d/australia/tickets/)
+### [12. Australia](https://www.eventbrite.com.au/d/australia/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)

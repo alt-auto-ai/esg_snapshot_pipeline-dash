@@ -11,7 +11,6 @@ Two power-packed days. Visionary keynotes. Dynamic discussions. Future-focused i
 * * *
 ### All events
 [ Tue 24 Feb event Brisbane, NSW 5:15pm AEST Brisbane Directors Briefing: Strengthening Family Business Through Independence ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001042.html)
-[ Wed 04 Mar event MELBOURNE, VIC 5:15pm AEDT Melbourne Directors Briefing: Governing through Risk Regulation ](https://www.aicd.com.au/events/all-events/vic/EVNT-001080.html)
 [ Tue 10 Mar event Sydney, NSW 9:00am AEDT Australian Governance Summit 2026 AICD ](https://www.aicd.com.au/events/all-events/nsw/EV169069.html)
 [ Tue 17 Mar event Newcastle, NSW 5:15pm AEDT Hunter Directors Briefing: Cultivating Ethical Culture in the Boardroom ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001053.html)
 [ Tue 17 Mar event Brisbane, QLD 5:15pm AEST Brisbane Directors Briefing: Boardroom Culture Organisational Impact ](https://www.aicd.com.au/events/all-events/qld/EVNT-001059.html)
@@ -20,6 +19,7 @@ Two power-packed days. Visionary keynotes. Dynamic discussions. Future-focused i
 [ Thu 19 Mar event MELBOURNE, VIC 5:15pm AEDT Melbourne Board Seeking Directors for the Not-for-Profit Sector ](https://www.aicd.com.au/events/all-events/vic/EVNT-001060.html)
 [ Tue 24 Mar event TOWNSVILLE, QLD 5:15pm AEST Townsville Directors Briefing: Inside The Boardroom Solving Boardroom Dysfunction ](https://www.aicd.com.au/events/all-events/qld/EVNT-001068.html)
 [ Wed 25 Mar event SYDNEY, NSW 5:15pm AEDT Sydney Directors Briefing: How Boards Can Prepare for Crisis and Major Deals ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001079.html)
+[ Thu 26 Mar event Brisbane, QLD 11:30am AEST QLD Fellows Lunch ](https://www.aicd.com.au/events/all-events/qld/EVNT-001063.html)
 No current events match your criteria. Please try again. 
 Australia's leading magazine for directors. 
 How to blast past barriers to transformation 

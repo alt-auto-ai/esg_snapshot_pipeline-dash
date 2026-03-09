@@ -13,11 +13,26 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 69 Jobs Found
+#### 72 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 Australian Prudential Regulatory AuthorityProductivity CommissionCommonwealth Scientific and Industrial Research Organisation (CSIRO)Department of Climate Change, Energy, the Environment and Water (DCCEEW)Australian Renewable Energy AgencyClimate Change AuthorityDepartment of Industry, Science and Resources (DISR)Department of Infrastructure, Transport, Regional Development, Communications, Sport and the ArtsAustralian Competition and Consumer CommissionClean Energy RegulatorDepartment of the TreasuryWorkplace Gender Equality AgencyFull-Time
+Posted: 09/03/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Bowali Visitor Centre Coordinator](https://www.apsjobs.gov.au/s/job-details?title=bowali-visitor-centre-coordinator&Id=a05OY00000MdB5NYAV)
+$88,834 to $96,829
+Posted: 09/03/2026
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+### [APS6 - Policy Officer, Norfolk Island Service Arrangements](https://www.apsjobs.gov.au/s/job-details?title=aps6-policy-officer-norfolk-island-service-arrangements&Id=a05OY00000MbwegYAB)
+$95,501 to $114,201
+Posted: 09/03/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Bowali Visitor Centre Coordinator - Affirmative measure (Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=bowali-visitor-centre-coordinator-affirmative-measure-indigenous-&Id=a05OY00000MbWYwYAN)
+$88,834 to $96,829
+Posted: 09/03/2026
+Department of Industry, Science and Resources (DISR)
+### [Head of Division, Business Grants Hub](https://www.apsjobs.gov.au/s/job-details?title=head-of-division-business-grants-hub&Id=a05OY00000MYHszYAH)
 Posted: 06/03/2026
 Australian Competition and Consumer Commission
 ### [Assistant Director, Recruitment, Capability and Planning](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-recruitment-capability-and-planning&Id=a05OY00000MbxR3YAJ)
@@ -62,21 +77,6 @@ Posted: 06/03/2026
 Department of Industry, Science and Resources (DISR)
 ### [Senior Legal Counsel](https://www.apsjobs.gov.au/s/job-details?title=senior-legal-counsel&Id=a05OY00000MSLeLYAX)
 $122,235 to $146,491
-Posted: 05/03/2026
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [APS4 - Recruitment Adviser, People Branch](https://www.apsjobs.gov.au/s/job-details?title=aps4-recruitment-adviser-people-branch&Id=a05OY00000MYadtYAD)
-$77,294 to $83,994
-Posted: 05/03/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Director - Electricity Division](https://www.apsjobs.gov.au/s/job-details?title=director-electricity-division&Id=a05OY00000MXcwJYAT)
-$146,942 to $170,725
-Posted: 05/03/2026
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [General Counsel / Assistant Secretary, Public Law](https://www.apsjobs.gov.au/s/job-details?title=general-counsel-assistant-secretary-public-law&Id=a05OY00000MWKgTYAX)
-Posted: 05/03/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Senior Cultural Heritage Officer](https://www.apsjobs.gov.au/s/job-details?title=senior-cultural-heritage-officer&Id=a05OY00000MVeyzYAD)
-$99,734 to $112,044
 Load More
 Loading
 Job Search | APS Jobs

@@ -13,11 +13,18 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 15 Jobs Found
+#### 14 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 SustainabilityFull-Time
+Posted: 09/03/2026
+Defence Housing Australia
+### [Chief Information Officer](https://www.apsjobs.gov.au/s/job-details?title=chief-information-officer&Id=a05OY00000MeT9tYAF)
+Posted: 09/03/2026
+National Library of Australia
+### [EL2 - Director, Strategy and Architecture](https://www.apsjobs.gov.au/s/job-details?title=el2-director-strategy-and-architecture&Id=a05OY00000Md25JYAR)
+$145,442 to $172,779
 Posted: 06/03/2026
 Department of Climate Change, Energy, the Environment and Water (DCCEEW)
 ### [Assistant Director, Systems Administration and Configuration (TechnologyOne)](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-systems-administration-and-configuration-technologyone-&Id=a05OY00000MYXXxYAP)
@@ -42,10 +49,6 @@ Posted: 02/03/2026
 Australian Digital Health Agency
 ### [Graduate Program](https://www.apsjobs.gov.au/s/job-details?title=graduate-program&Id=a05OY00000MKp89YAD)
 $84,492 to $84,492
-Posted: 27/02/2026
-Department of Defence
-### [Senior Officer Reviews- Workforce Project Support Officer](https://www.apsjobs.gov.au/s/job-details?title=senior-officer-reviews-workforce-project-support-officer&Id=a05OY00000MFrqYYAT)
-$99,733 to $112,431
 Posted: 26/02/2026
 Australian Communications and Media Authority
 ### [Assistant Manager, Finance Business Partner (EL 1) and Finance Business Partner (APS 6)](https://www.apsjobs.gov.au/s/job-details?title=assistant-manager-finance-business-partner-el-1-and-finance-business-partner-aps-6-&Id=a05OY00000MITGdYAP)
@@ -59,16 +62,9 @@ Museum of Australian Democracy - Old Parliament House
 ### [Deputy Director](https://www.apsjobs.gov.au/s/job-details?title=deputy-director&Id=a05OY00000M7gqfYAB)
 $220,052 to $236,180
 Posted: 23/02/2026
-Bureau of Meteorology
-### [Technology Portfolio Manager – Data, Digital and Applications Projects](https://www.apsjobs.gov.au/s/job-details?title=technology-portfolio-manager-data-digital-and-applications-projects&Id=a05OY00000M6x5ZYAR)
-$160,063 to $170,882
-Posted: 23/02/2026
 Director of Public Prosecutions
 ### [Commonwealth Solicitor for Public Prosecutions (CSPP)](https://www.apsjobs.gov.au/s/job-details?title=commonwealth-solicitor-for-public-prosecutions-cspp-&Id=a05OY00000M4idhYAB)
 $344,120 to $445,137
-Posted: 23/02/2026
-Defence Housing Australia
-### [General Manager Strategy & Engagement](https://www.apsjobs.gov.au/s/job-details?title=general-manager-strategy-engagement&Id=a05OY00000M2ByoYAF)
 Posted: 23/02/2026
 Department of Agriculture, Fisheries and Forestry
 ### [Property Services Officer](https://www.apsjobs.gov.au/s/job-details?title=property-services-officer&Id=a05OY00000M1jCyYAJ)

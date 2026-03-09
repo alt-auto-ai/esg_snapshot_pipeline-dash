@@ -64,8 +64,16 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
+    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    if model_series not in ("gpt5", "gpt4"):
+        model_series = "gpt5"
+    if model_series == "gpt4":
+        model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
+    else:
+        model_name = get_env(f"{px}_MODEL_NAME_GPT5") or get_env(f"{px}_MODEL_NAME")
     cfg = {
-        "MODEL_NAME": get_env(f"{px}_MODEL_NAME"),
+        "MODEL_SERIES": model_series,
+        "MODEL_NAME": model_name,
         "TEMPERATURE": get_env(f"{px}_TEMPERATURE"),
         "MAX_TOKENS": get_env(f"{px}_MAX_TOKENS"),
     }
@@ -76,9 +84,13 @@ def load_profile_config(profile: str):
     return cfg
 
 CFG = load_profile_config(PROFILE)
+MODEL_SERIES = CFG["MODEL_SERIES"]
 MODEL_NAME = CFG["MODEL_NAME"]
 TEMPERATURE = CFG["TEMPERATURE"] if CFG["TEMPERATURE"] is not None else 0.0
 MAX_TOKENS = CFG["MAX_TOKENS"] if CFG["MAX_TOKENS"] is not None else 2000
+GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip().lower()
+GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
+OPENAI_TIMEOUT_SECONDS = int(os.getenv("OPENAI_TIMEOUT_SECONDS", "180"))
 PROMPT_FILE = "10.1_job_extraction.yaml"
 
 if not MODEL_NAME:
@@ -139,16 +151,29 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
 
     user_block = render_user_prompt(markdown_text)
 
-    url = f"{OPENAI_BASE_URL}/chat/completions"
-    payload = {
-        "model": MODEL_NAME,
-        "messages": [
-            {"role": "system", "content": system_block},
-            {"role": "user", "content": user_block},
-        ],
-        "temperature": TEMPERATURE,
-        "max_tokens": MAX_TOKENS,
-    }
+    if MODEL_SERIES == "gpt5":
+        url = f"{OPENAI_BASE_URL}/responses"
+        payload = {
+            "model": MODEL_NAME,
+            "input": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "reasoning": {"effort": GPT5_REASONING_EFFORT},
+            "text": {"verbosity": GPT5_TEXT_VERBOSITY},
+            "max_output_tokens": MAX_TOKENS,
+        }
+    else:
+        url = f"{OPENAI_BASE_URL}/chat/completions"
+        payload = {
+            "model": MODEL_NAME,
+            "messages": [
+                {"role": "system", "content": system_block},
+                {"role": "user", "content": user_block},
+            ],
+            "temperature": TEMPERATURE,
+            "max_tokens": MAX_TOKENS,
+        }
     headers = {
         "Authorization": f"Bearer {OPENAI_API_KEY}",
         "Content-Type": "application/json",
@@ -159,7 +184,7 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
         print(f"   📤 [{file_name}] Sending request to OpenAI... (attempt {attempt}/{MAX_RETRIES})")
         try:
             async with rpm_limiter:
-                async with session.post(url, json=payload, headers=headers, timeout=180) as resp:
+                async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
                     text = await resp.text()
                     if resp.status in (429, 500, 502, 503, 504):
                         # Retryable server or rate errors
@@ -179,7 +204,18 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
                     resp.raise_for_status()
                     data = json.loads(text)
                     print(f"   📬 [{file_name}] Response received ({len(text)} bytes).")
-                    return strip_code_fences(data["choices"][0]["message"]["content"].strip())
+                    if MODEL_SERIES == "gpt5":
+                        content = (data.get("output_text") or "").strip()
+                        if not content:
+                            chunks = []
+                            for item in (data.get("output") or []):
+                                for c in (item.get("content") or []):
+                                    if c.get("type") in {"output_text", "text"} and c.get("text"):
+                                        chunks.append(c["text"])
+                            content = "\n".join(chunks).strip()
+                    else:
+                        content = ((data.get("choices") or [{}])[0].get("message", {}).get("content", "") or "").strip()
+                    return strip_code_fences(content)
 
         except (aiohttp.ClientError, asyncio.TimeoutError) as e:
             # Network hiccup: retry if possible
@@ -244,12 +280,12 @@ async def main_async():
         print("[INFO] No .md files found.")
         return
 
-    print(f"[PROFILE] {PROFILE} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
+    print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[WINDOW] Start: {start_date.isoformat()}  End: {end_date.isoformat()} (AU/Melbourne)")
     print(f"[INFO] Processing {len(md_files)} files concurrently...")
     print(f"[LIMITS] OPENAI_RPM={OPENAI_RPM} req/min | RETRIES={MAX_RETRIES}")
 
-    CONCURRENCY_LIMIT = int(os.getenv("LOCAL_CONCURRENCY", "16"))  # local worker pool
+    CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))  # local worker pool
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
     # 🔧 Connection pool tuned to concurrency (important for high throughput)
@@ -281,6 +317,17 @@ async def main_async():
                 continue
             seen_urls.add(it["url"])
             rows.append({"Date": n_date.isoformat(), "Title": it["title"], "URL": it["url"]})
+
+    # Final safeguard: de-duplicate output rows by URL
+    unique_rows = []
+    seen_output_urls = set()
+    for row in rows:
+        url = (row.get("URL") or "").strip()
+        if not url or url in seen_output_urls:
+            continue
+        seen_output_urls.add(url)
+        unique_rows.append(row)
+    rows = unique_rows
 
     print("\n📁 Writing results to CSV...")
     with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:

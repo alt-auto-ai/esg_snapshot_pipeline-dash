@@ -1,4 +1,3 @@
-Events
 [ ](https://www.erm.com/ "ERM Logo")
 [About](https://www.erm.com/about/)
 [ Our Company ](https://www.erm.com/about/company/)
