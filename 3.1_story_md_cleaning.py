@@ -117,8 +117,14 @@ def remove_urls_from_remaining_files(folder, removed_files, output_folder):
                 content = file.read()
             cleaned = strip_urls_from_text(content)
             out_path = os.path.join(output_folder, os.path.basename(path))
-            with open(out_path, "w", encoding="utf-8") as file:
-                file.write(cleaned)
+            try:
+                with open(out_path, "w", encoding="utf-8") as file:
+                    file.write(cleaned)
+            except PermissionError:
+                if os.path.exists(out_path):
+                    os.remove(out_path)
+                with open(out_path, "w", encoding="utf-8") as file:
+                    file.write(cleaned)
             print(f"[✂] Wrote cleaned markdown: {os.path.basename(out_path)}")
         except Exception as e:
             print(f"[!] Failed to clean URLs in {path}: {e}")

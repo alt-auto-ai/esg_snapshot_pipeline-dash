@@ -47,7 +47,7 @@ INPUT_CSV = os.getenv(
 # 🆕 Write to 8_esg_draft_multi.csv
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"7_esg_relevance.csv"
+    r"8_esg_draft_multi.csv"
 )
 # API config
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -494,6 +494,7 @@ async def main_async():
             md_file = (row.get("md_file") or "").strip()
             esg_or_not = (row.get("ESG_or_not") or "").strip().lower()
             out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
+            out_row["ESG_or_not"] = (row.get("ESG_or_not") or "").strip()
 
             # Ensure all output columns exist on the row
             for col in ALL_OUTPUT_COLUMNS:

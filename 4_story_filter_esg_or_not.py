@@ -168,6 +168,7 @@ def load_links_mapping(csv_path):
                     "Title": (row.get("Title") or "").strip(),
                     "URL": (row.get("URL") or "").strip(),
                     "md_file": md,
+                    "ESG_or_not": (row.get("ESG_or_not") or "").strip(),
                 }
     return mapping
 # ----------------- Async Calls -----------------
@@ -287,10 +288,26 @@ async def main_async():
     output_dir = os.path.dirname(OUTPUT_CSV)
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
-    md_files = sorted(glob.glob(os.path.join(SOURCE_DIR, "*.md")))
 
     # NEW: load mapping once
     links_map = load_links_mapping(INPUT_LINKS_CSV)  # NEW
+
+    # Build API candidate files strictly from links CSV rows that have an existing .md file
+    candidate_paths = []
+    missing_md_in_links = []
+    premarked_no = 0
+    for md_file, meta in links_map.items():
+        if (meta.get("ESG_or_not") or "").strip().lower() == "no":
+            premarked_no += 1
+            continue
+        md_path = os.path.join(SOURCE_DIR, md_file)
+        if os.path.exists(md_path):
+            candidate_paths.append(md_path)
+        else:
+            missing_md_in_links.append(md_file)
+
+    # Keep deterministic order for repeatable runs
+    candidate_paths = sorted(candidate_paths)
 
     print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT] {PROMPT_FILE_PATH}")
@@ -298,21 +315,25 @@ async def main_async():
     print(f"[MAP   ] {INPUT_LINKS_CSV}")  # NEW
     print(f"[OUTPUT] {OUTPUT_CSV}")
     print(f"[LIMITS] OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
+    if premarked_no:
+        print(f"[INFO] {premarked_no} rows pre-marked ESG_or_not='No' and excluded from API calls.")
+    if missing_md_in_links:
+        print(f"[INFO] {len(missing_md_in_links)} mapped .md files are missing and will be set to ESG_or_not='No' before API calls.")
 
     CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
 
     rows = []
-    if md_files:
+    if candidate_paths:
         async with aiohttp.ClientSession() as session:
             tasks = [
-                process_file_async(session, path, sem, idx=i + 1, total=len(md_files))
-                for i, path in enumerate(md_files)
+                process_file_async(session, path, sem, idx=i + 1, total=len(candidate_paths))
+                for i, path in enumerate(candidate_paths)
             ]
             results = await asyncio.gather(*tasks)
         rows = [r for r in results if r is not None]
     else:
-        print("[INFO] No .md files found in source directory; rows will default to ESG_or_not='No'.")
+        print("[INFO] No mapped .md files found in source directory; rows will default to ESG_or_not='No'.")
 
     ai_by_md = {r.get("File Name", ""): r.get("ESG_or_not", "") for r in rows if r.get("File Name")}
 
@@ -323,7 +344,11 @@ async def main_async():
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for md_file, meta in links_map.items():
-            esg_val = ai_by_md.get(md_file, "No")
+            existing_esg = (meta.get("ESG_or_not") or "").strip()
+            if existing_esg in ("Yes", "No"):
+                esg_val = existing_esg if existing_esg == "No" else ai_by_md.get(md_file, "No")
+            else:
+                esg_val = ai_by_md.get(md_file, "No")
             if esg_val not in ("Yes", "No"):
                 esg_val = "No"
             writer.writerow({
@@ -334,7 +359,7 @@ async def main_async():
                 "ESG_or_not": esg_val,
             })
 
-    print(f"\n✅ [DONE] Wrote {len(links_map)} rows from {len(md_files)} files → {OUTPUT_CSV}")
+    print(f"\n✅ [DONE] Wrote {len(links_map)} rows from {len(candidate_paths)} mapped files → {OUTPUT_CSV}")
 
 if __name__ == "__main__":
     asyncio.run(main_async())

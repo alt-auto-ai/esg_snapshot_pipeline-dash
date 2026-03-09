@@ -7,10 +7,24 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const INPUT_CSV = path.resolve(__dirname, "..", "Quality_Check", "8.1_esg_highlights_multi.csv");
+const INPUT_CSV_QC = path.resolve(__dirname, "..", "Quality_Check", "8.1_esg_highlights_multi.csv");
+const INPUT_CSV_ROOT = path.resolve(__dirname, "..", "8.1_esg_highlights_multi.csv");
 const INPUT_EVENTS_CSV = path.resolve(__dirname, "..", "Quality_Check", "9.4_events_all_data.csv");
 const INPUT_JOBS_CSV = path.resolve(__dirname, "..", "Quality_Check", "11_job_all_data.csv");
 const OUTPUT_HTML = path.resolve(__dirname, "index.html");
+
+function pickLatestFile(preferredPath, fallbackPath) {
+  const preferredExists = fs.existsSync(preferredPath);
+  const fallbackExists = fs.existsSync(fallbackPath);
+  if (!preferredExists && !fallbackExists) return preferredPath;
+  if (preferredExists && !fallbackExists) return preferredPath;
+  if (!preferredExists && fallbackExists) return fallbackPath;
+  const preferredMtime = fs.statSync(preferredPath).mtimeMs;
+  const fallbackMtime = fs.statSync(fallbackPath).mtimeMs;
+  return fallbackMtime > preferredMtime ? fallbackPath : preferredPath;
+}
+
+const INPUT_CSV = pickLatestFile(INPUT_CSV_QC, INPUT_CSV_ROOT);
 
 /* ====== CSV Parser (from html_gen_text_blocks_multi.mjs) ====== */
 function parseCSV(text) {
@@ -69,6 +83,24 @@ console.log(`[dashboard] Parsed ${jobsRows.length} job rows`);
 const esgRows = allRows.filter((r) => (r["ESG_or_not"] || "").trim() === "Yes");
 console.log(`[dashboard] Filtered to ${esgRows.length} ESG=Yes rows`);
 
+const COL = {
+  DATE: "Date",
+  TITLE: "Title",
+  URL: "URL",
+  STORY_TYPE: "Story_Type",
+  JURISDICTION: "Jurisdiction",
+  RELEVANCE: "Relevance",
+  ESG_RELEVANCE: "ESG_Relevance",
+  OUTPUT_1: "Output 1",
+  OUTPUT_2: "Output 2",
+  OUTPUT_3: "Output 3",
+  OUTPUT_4: "Output 4",
+  OUTPUT_5: "Output 5",
+  OUTPUT_6: "Output 6",
+  HOOK: "Hook",
+  ONE_LINER: "One Liner",
+};
+
 /* Sanitize malformed Output fields (AI artefacts) */
 function sanitizeOutput(val) {
   if (!val) return "";
@@ -104,20 +136,20 @@ function sanitizeOutput(val) {
 // Slim down the data we embed — only the columns the dashboard needs
 const slim = esgRows.map((r, idx) => ({
   id: idx,
-  Date: r["Date"] || "",
-  Title: r["Title"] || "",
-  URL: r["URL"] || "",
-  Story_Type: r["Story_Type"] || "",
-  Jurisdiction: r["Jurisdiction"] || "",
-  ESG_Relevance: r["Relevance"] || r["ESG_Relevance"] || "",
-  Out1: sanitizeOutput(r["Output 1"]),
-  Out2: sanitizeOutput(r["Output 2"]),
-  Out3: sanitizeOutput(r["Output 3"]),
-  Out4: sanitizeOutput(r["Output 4"]),
-  Out5: sanitizeOutput(r["Output 5"]),
-  Out6: sanitizeOutput(r["Output 6"]),
-  Hook: r["Hook"] || "",
-  OneLiner: r["One Liner"] || "",
+  Date: r[COL.DATE] || "",
+  Title: r[COL.TITLE] || "",
+  URL: r[COL.URL] || "",
+  Story_Type: r[COL.STORY_TYPE] || "",
+  Jurisdiction: r[COL.JURISDICTION] || "",
+  ESG_Relevance: r[COL.RELEVANCE] || r[COL.ESG_RELEVANCE] || "",
+  Out1: sanitizeOutput(r[COL.OUTPUT_1]),
+  Out2: sanitizeOutput(r[COL.OUTPUT_2]),
+  Out3: sanitizeOutput(r[COL.OUTPUT_3]),
+  Out4: sanitizeOutput(r[COL.OUTPUT_4]),
+  Out5: sanitizeOutput(r[COL.OUTPUT_5]),
+  Out6: sanitizeOutput(r[COL.OUTPUT_6]),
+  Hook: sanitizeOutput(r[COL.HOOK] || ""),
+  OneLiner: sanitizeOutput(r[COL.ONE_LINER] || ""),
 }));
 
 const eventsData = eventsRows.map((r, idx) => ({
@@ -429,8 +461,11 @@ function buildCardBody(s) {
       // Unknown type — show whatever outputs exist
       [o1,o2,o3,o4,o5,o6].filter(Boolean).forEach(x => { h += pHtml(x); });
   }
-  if (hook) h += '<p><strong>' + esc(hook) + '</strong></p>';
-  if (oneLiner) h += pHtml(oneLiner);
+  if (hook || oneLiner) {
+    const hookPart = hook ? '<strong>' + esc(hook) + '</strong>' : '';
+    const oneLinerPart = oneLiner ? esc(oneLiner) : '';
+    h += '<p>' + [hookPart, oneLinerPart].filter(Boolean).join(' ') + '</p>';
+  }
   return h;
 }
 

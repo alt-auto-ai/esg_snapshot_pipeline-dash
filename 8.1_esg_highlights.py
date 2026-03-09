@@ -36,15 +36,8 @@ else:
 load_dotenv()
 
 # Paths
-SOURCE_DIR = os.getenv(
-    "SOURCE_DIR",
-    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
-)
-# 🔁 Read from 8_esg_draft.csv (per request)
-INPUT_CSV = os.getenv(
-    "INPUT_CSV",
-    r"8_esg_draft_multi.csv"
-)
+SOURCE_DIR = r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
+INPUT_CSV = r"8_esg_draft_multi.csv"
 # 🆕 Write to 8.1_esg_highlights.csv (per request)
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
@@ -71,8 +64,11 @@ def get_env(name, default=None):
 
 def load_profile_config(profile: str):
     px = profile
-    model_series = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
-    if model_series not in ("gpt5", "gpt4"):
+    model_series_raw = os.getenv("OPENAI_MODEL_SERIES", "gpt5").strip().lower()
+    model_series_norm = model_series_raw.replace("-", "").replace("_", "").replace(" ", "")
+    if model_series_norm == "gpt4":
+        model_series = "gpt4"
+    else:
         model_series = "gpt5"
     if model_series == "gpt4":
         model_name = get_env(f"{px}_MODEL_NAME_GPT4") or get_env(f"{px}_MODEL_NAME")
@@ -394,6 +390,7 @@ async def main_async():
             md_file = (row.get("md_file") or "").strip()
             esg_or_not = (row.get("ESG_or_not") or "").strip().lower()
             out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
+            out_row["ESG_or_not"] = (row.get("ESG_or_not") or "").strip()
 
             if md_file in results_map and esg_or_not == "yes":
                 # Only fill empty cells to avoid overwriting manual edits on reruns
