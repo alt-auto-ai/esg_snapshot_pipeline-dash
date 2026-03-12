@@ -16,6 +16,15 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Fair go for consumers at the bowser](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/fair-go-consumers-bowser)
+11 March 2026
+The Albanese Government is taking action to help consumers get a fair go at the petrol pump, with more scrutiny and surveillance of the fuel sector, bigger penalties for misconduct, and action to s 
+### [The government’s super reforms pass the parliament](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/governments-super-reforms-pass-parliament)
+10 March 2026
+The Albanese Government has passed important superannuation reforms to help low income workers and make the super system fairer from top to bottom. 
+### [Government another step closer to delivering super reforms](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/government-another-step-closer-delivering-super-reforms)
+10 March 2026
+The Albanese Government is another step closer to delivering its superannuation reforms.These changes will help low income workers and make the super system fairer from top to bottom. 
 ### [Meeting with Canada’s Minister of Finance and National Revenue](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/meeting-canadas-minister-finance-and-national-revenue)
 5 March 2026
 Today I met with Canada’s Minister of Finance and National Revenue, the Honourable François‑Philippe Champagne, to advance our shared commitment to boosting economic resilience, productivity a 
@@ -67,12 +76,3 @@ The OECD’s survey on Australia released today highlights the recovery in our e
 ### [Critical minerals the focus of G7+ ministers meetings in the US](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/critical-minerals-focus-g7-ministers-meetings-us)
 11 January 2026
 Today I will travel to the United States for a series of meetings with international counterparts about critical minerals and the global economy. 
-### [2025 Population statement released](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/2025-population-statement-released)
-9 January 2026
-Today I have released the Centre for Population’s 2025 Population Statement which provides updated and comprehensive data on Australia’s population. 
-### [Inflation lower in November](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/inflation-lower-november)
-7 January 2026
-New figures from the Australian Bureau of Statistics show both headline and underlying inflation fell in annual terms in November. 
-### [$38 million in disaster support for North–West Queensland](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/38-million-disaster-support-north-west-queensland)
-6 January 2026
-The Albanese and Crisafulli Governments have today committed an additional $38 million towards large‑scale disaster recovery efforts for flood affected communities across north‑west Queensland 

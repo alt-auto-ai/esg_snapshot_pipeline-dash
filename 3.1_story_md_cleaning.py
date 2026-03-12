@@ -2,12 +2,14 @@ import os
 import re
 import glob
 import shutil
+import csv
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # -------- CONFIG --------
 FOLDER = r"story_md_files"
 OUTPUT_FOLDER = r"source_md_files_cleaned"
+CSV_FILE = r"3_story_file_name_links.csv"
 THRESHOLD = 0.8  # similarity threshold (80%)
 
 # -------- STEP 1: READ ALL FILES --------
@@ -52,12 +54,14 @@ def find_duplicates(contents, threshold):
 
 # -------- STEP 3: REMOVE DUPLICATES --------
 def remove_files(file_list):
+    removed = []
     for f in file_list:
         try:
-            os.remove(f)
-            print(f"[🗑] Removed: {os.path.basename(f)}")
+            print(f"[↷] Skipped duplicate from cleaned output (kept in source): {os.path.basename(f)}")
+            removed.append(os.path.basename(f))
         except Exception as e:
-            print(f"[!] Failed to remove {f}: {e}")
+            print(f"[!] Failed to mark duplicate {f}: {e}")
+    return removed
 
 # -------- STEP 4: STRIP URLS AND NAV NOTATIONS --------
 URL_PATTERN = re.compile(r"(https?://[^\s]+|www\.[^\s]+)", re.IGNORECASE)
@@ -130,17 +134,75 @@ def remove_urls_from_remaining_files(folder, removed_files, output_folder):
             print(f"[!] Failed to clean URLs in {path}: {e}")
 
 def remove_blank_markdown_files(folder):
-    removed = 0
+    removed = []
     for path in glob.glob(os.path.join(folder, "*.md")):
         try:
             with open(path, "r", encoding="utf-8", errors="ignore") as file:
                 if file.read().strip() == "":
                     os.remove(path)
-                    removed += 1
+                    removed.append(os.path.basename(path))
                     print(f"[🗑] Removed blank file: {os.path.basename(path)}")
         except Exception as e:
             print(f"[!] Failed to check/remove blank file {path}: {e}")
-    print(f"[INFO] Blank .md files removed from {folder}: {removed}")
+    print(f"[INFO] Blank .md files removed from {folder}: {len(removed)}")
+    return removed
+
+def update_story_file_links(csv_path, deleted_md_files):
+    if not deleted_md_files:
+        print("[INFO] No deleted files to update in CSV.")
+        return
+
+    deleted_set = set(deleted_md_files)
+    updated_count = 0
+    rows = []
+
+    with open(csv_path, "r", encoding="utf-8", newline="") as file:
+        reader = csv.DictReader(file)
+        fieldnames = reader.fieldnames
+        for row in reader:
+            if row.get("md_file") in deleted_set:
+                row["md_file"] = "CLEANED"
+                updated_count += 1
+            rows.append(row)
+
+    with open(csv_path, "w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"[INFO] Updated {updated_count} row(s) in {os.path.basename(csv_path)} with CLEANED.")
+
+def prepend_story_url_to_cleaned_files(csv_path, output_folder):
+    md_to_url = {}
+    with open(csv_path, "r", encoding="utf-8", newline="") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            md_file = (row.get("md_file") or "").strip()
+            url = (row.get("URL") or "").strip()
+            if md_file.endswith(".md") and url:
+                md_to_url[md_file] = url
+
+    updated = 0
+    for path in glob.glob(os.path.join(output_folder, "*.md")):
+        md_name = os.path.basename(path)
+        url = md_to_url.get(md_name)
+        if not url:
+            continue
+        try:
+            with open(path, "r", encoding="utf-8", errors="ignore") as file:
+                content = file.read()
+            prefix = f"Story's url: {url}\n\n"
+            if content.startswith("Story's url:"):
+                body = content.split("\n\n", 1)[1] if "\n\n" in content else ""
+                new_content = prefix + body
+            else:
+                new_content = prefix + content
+            with open(path, "w", encoding="utf-8") as file:
+                file.write(new_content)
+            updated += 1
+        except Exception as e:
+            print(f"[!] Failed to prepend URL in {md_name}: {e}")
+    print(f"[INFO] Prepended story URL in {updated} cleaned markdown file(s).")
 
 # -------- MAIN --------
 if __name__ == "__main__":
@@ -148,7 +210,14 @@ if __name__ == "__main__":
     print(f"Found {len(contents)} markdown files.")
     duplicates = find_duplicates(contents, THRESHOLD)
     print(f"\nTotal duplicates to remove: {len(duplicates)}")
-    remove_files(duplicates)
+    deleted_duplicates = remove_files(duplicates)
     remove_urls_from_remaining_files(FOLDER, duplicates, OUTPUT_FOLDER)
-    remove_blank_markdown_files(OUTPUT_FOLDER)
+    deleted_blank_cleaned = remove_blank_markdown_files(OUTPUT_FOLDER)
+    all_deleted = deleted_duplicates + deleted_blank_cleaned
+    if all_deleted:
+        print(f"[INFO] Deleted files: {', '.join(all_deleted)}")
+    else:
+        print("[INFO] No files were deleted.")
+    update_story_file_links(CSV_FILE, all_deleted)
+    prepend_story_url_to_cleaned_files(CSV_FILE, OUTPUT_FOLDER)
     print("\n✅ Duplicate removal complete; remaining files cleaned of URLs and specified markdown notations.")

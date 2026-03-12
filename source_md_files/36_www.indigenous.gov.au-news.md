@@ -13,6 +13,7 @@ Close menu
 [ **Back to** Home ](https://www.indigenous.gov.au/)
 # News
 ## News list
+### [​​Applications open for Australian Taxation Office Evergreen Program 12 March 2026 ​​The ATO Evergreen Program applications for 2026 are now open – supporting employment pathways for Aboriginal and Torres Strait Islander people​.  ](https://www.indigenous.gov.au/news/applications-open-australian-taxation-office-evergreen-program)
 ### [​​REAL Program launches supporting transitions from the justice system 02 March 2026 ​​The REAL Program supports First Nations people leaving the justice system to reconnect with community and build pathways to employment and learning through culturally informed, community-led support initiatives.  ](https://www.indigenous.gov.au/news/real-program-launches-supporting-transitions-from-justice-system)
 ### [​Create new jobs through the Remote Jobs and Economic Development program 19 February 2026 ​​Grants to create new jobs in remote areas are now open – giving communities the opportunity to have their say in what roles are needed.  ](https://www.indigenous.gov.au/news/create-new-jobs-through-remote-jobs-and-economic-development-program)
 ### [Closing the Gap report release 12 February 2026 The Australian Government has released the 2025 Closing the Gap Annual Report and the 2026 Implementation Plan. These documents show what has been achieved in partnership with First Nations communities, and what the Government will focus on next.  ](https://www.indigenous.gov.au/news/closing-gap-report-release)
@@ -21,7 +22,6 @@ Close menu
 ### [National NAIDOC 2026 Awards nominations and poster competition now open! 25 January 2026 National NAIDOC Week will be held from 5-12 July.  ](https://www.indigenous.gov.au/news/national-naidoc-2026-awards-nominations-and-poster-competition-now-open)
 ### [NAIDOC 2026 Local Grants – now open! 20 January 2026 Apply now to help your community celebrate NAIDOC Week between 5 and 12 July 2026.  ](https://www.indigenous.gov.au/news/naidoc-2026-local-grants-now-open)
 ### [Nominate now for the 2026 Prime Ministers Prize for Aboriginal and Torres Strait Islander Knowledge Systems 26 November 2025 Register to attend the webinar that can help you nominate someone.  ](https://www.indigenous.gov.au/news/nominate-now-2026-prime-ministers-prize-aboriginal-and-torres-strait-islander-knowledge)
-### [Grants for Remote Community Laundries Project 25 November 2025 Remote First Nations communities will soon have easier access to laundry facilities thanks to a new $11.4 million Australian Government initiative.  ](https://www.indigenous.gov.au/news/grants-remote-community-laundries-project)
 Page 1 of 50 
 ## ACKNOWLEDGEMENT OF COUNTRY
 The Australian Government acknowledges the Traditional Owners of Country throughout Australia and acknowledges their continuing connection to land, waters and community. We pay our respects to the people, the cultures and the Elders past and present.

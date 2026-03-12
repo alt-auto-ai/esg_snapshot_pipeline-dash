@@ -90,4 +90,3 @@ With both the Australian Security and Investments Commission (ASIC) and the Aust
 [Apply for membership](https://unglobalcompact.org.au/join-us/)
 ## Join us today
 [Apply for membership](https://unglobalcompact.org.au/join-us/)
-May we use cookies to track your activities? We take your privacy very seriously. Please see our privacy policy for details and any questions.[Yes](https://unglobalcompact.org.au/upcoming-events/?gad_campaignid=22013822561) [No](https://unglobalcompact.org.au/upcoming-events/?gad_campaignid=22013822561)

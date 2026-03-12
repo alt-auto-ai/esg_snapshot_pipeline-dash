@@ -1,6 +1,15 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
+### [Statement on David Littleproud](https://www.pm.gov.au/media/statement-david-littleproud)
+Tuesday 10 March 2026
+Media release
+### [Press conference - Parliament House, Canberra](https://www.pm.gov.au/media/press-conference-parliament-house-canberra-46)
+Tuesday 10 March 2026
+Transcript
+### [Australia to provide defensive military assistance to Gulf](https://www.pm.gov.au/media/australia-provide-defensive-military-assistance-gulf)
+Tuesday 10 March 2026
+Media release
 ### [Television interview - Sky Newsday](https://www.pm.gov.au/media/television-interview-sky-newsday-0)
 Friday 6 March 2026
 Transcript
@@ -27,13 +36,4 @@ Monday 2 March 2026
 Transcript
 ### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-28)
 Sunday 1 March 2026
-Transcript
-### [Statement on Iran](https://www.pm.gov.au/media/statement-iran)
-Saturday 28 February 2026
-Media statement
-### [Doorstop - Werribee](https://www.pm.gov.au/media/doorstop-werribee)
-Thursday 26 February 2026
-Transcript
-### [Q&A Herald Sun Future Victoria Forum](https://www.pm.gov.au/media/qa-herald-sun-future-victoria-forum)
-Wednesday 25 February 2026
 Transcript

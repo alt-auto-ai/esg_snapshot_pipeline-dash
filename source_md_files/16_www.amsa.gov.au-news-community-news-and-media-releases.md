@@ -21,28 +21,28 @@ Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/amsa-
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/exemption-31-update-fishing-operations-new-approval-required)
 ### [Help shape fire safety standards for domestic commercial vessels  Published 24/11/2025 Consultation is now open on proposed changes to the National Standard for Commercial Vessels (NSCV…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/help-shape-fire-safety-standards-domestic-commercial-vessels)
-### [Have your say on proposed changes to fire safety regulations for vessels Published 17/11/2025 AMSA is seeking feedback on proposed updates to Marine Orders 15 and 49 to align with international…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/have-your-say-proposed-changes-fire-safety-regulations)
 ### [Out now: Safety lessons learned from a marine incident investigation Published 14/11/2025 In our latest safety lesson, we examine key learnings from a marine incident investigation where a…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/out-now-safety-lessons-learned-marine-incident-investigation)
 ### [Marine incident report: July - September 2025 Published 14/11/2025 Between July and September 2025, we received 263 marine incident reports involving domestic…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/marine-incident-report-july-september-2025)
-### [Help improve welfare services for seafarers in Australian ports Published 01/10/2025 Tell us about your experience with shore-based welfare services and help improve support for…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/help-improve-welfare-services-seafarers-australian-ports)
 ### [myAMSA NOW OPEN – Apply online for your near coastal ticket Published 29/09/2025 myAMSA is here!  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/myamsa-now-open)
 ### [Out now: Maritime Safety Awareness Bulletin — cargo securing of containers Published 26/09/2025 The latest edition of the Maritime Safety Awareness Bulletin highlights the critical importance of…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/out-now-maritime-safety-awareness-bulletin-cargo-securing)
 ### [Have your say - draft standards on electrical installations now open for public comment Published 23/09/2025 Standards Australia is seeking feedback on 2 draft standards for electrical installations in…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/have-your-say-draft-standards-electrical-installations-now)
-### [Revised marine orders 16 and 19 to commence 1 September 2025 Published 01/09/2025 Find out what’s changed and how updated vessel tonnage and load line rules support safer maritime…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/revised-marine-orders-16-and-19-commence-1-september-2025)
 ### [Updated standard for wheelhouse visibility, escape, accommodation, and personal safety Published 01/09/2025 On 1 September 2025 the updated edition of the National Standard for Commercial Vessels (NSCV) Part…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/updated-standard-wheelhouse-visibility-escape-accommodation)
+### [Revised marine orders 16 and 19 to commence 1 September 2025 Published 01/09/2025 Find out what’s changed and how updated vessel tonnage and load line rules support safer maritime…  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/revised-marine-orders-16-and-19-commence-1-september-2025)
 ### [June 2025 marine incident report Published 05/08/2025 There were 82 reported marine incidents reported involving domestic commercial vessels in June.  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/june-2025-marine-incident-report)
 ### [2025-26 National Compliance Plan out now Published 30/07/2025 Learn how AMSA is targeting key risks in safety, welfare, and pollution prevention in our annual…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/2025-26-national-compliance-plan-out-now)
+### [Improving international shipping waste management at Australian ports  Published 29/07/2025 A joint trial has helped shape new approaches to recycling waste from visiting ships.   
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/improving-international-shipping-waste-management-australian)
+### [May 2025 marine incident report Published 17/07/2025 There were 104 reported marine incidents reported involving domestic commercial vessels in May.  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/may-2025-marine-incident-report)
 ### [January 2024 marine incident report and monthly safety lesson Published 27/02/2024 There were 111 reported incidents involving domestic commercial vessels in January.  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/january-2024-marine-incident-report-and-monthly-safety)
 ### [AMSA encourages maritime careers at expo Published 20/03/2024 On 13 March we attended the Australian Maritime College (AMC) Careers Expo in Launceston.  
@@ -55,10 +55,10 @@ Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/out-n
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/new-marine-notice-reduction-underwater-noise)
 ### [New global garbage record book requirements  Published 24/04/2024 From 1 May 2024, Australian vessels of 100 gross tonnage or above on international voyages must…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/new-global-garbage-record-book-requirements)
-### [Fisher invents 'Kool' alternative to polystyrene cold-chain packaging Published 30/04/2024 In a small town in Far North Queensland, a local fisher and his wife have made a breakthrough in…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/fisher-invents-kool-alternative-polystyrene-cold-chain)
 ### [March 2024 marine incident report and monthly safety lesson Published 30/04/2024 There were 105 reported incidents involving domestic commercial vessels in March.  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/march-2024-marine-incident-report-and-monthly-safety-lesson)
+### [Fisher invents 'Kool' alternative to polystyrene cold-chain packaging Published 30/04/2024 In a small town in Far North Queensland, a local fisher and his wife have made a breakthrough in…  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/fisher-invents-kool-alternative-polystyrene-cold-chain)
 ### [Digitalisation of the maritime industry Published 13/05/2024 We support digital transformation for a safer, more efficient and sustainable maritime industry.   
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/digitalisation-maritime-industry)
 ### [Work underway to boost recycling options for foreign ships at Australian ports Published 15/05/2024 AMSA is collaborating on a trial providing more recycling options for visiting foreign ships.  

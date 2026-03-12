@@ -222,13 +222,6 @@ Get in touch with us or find an expert.
 [Getting to our events](https://iceds.anu.edu.au/news-events/events/getting-our-events)
 Check out our calendar of events and participate in our seminars and public lectures.
 ##  Upcoming events 
-[](https://iceds.anu.edu.au/news-events/events/antarctica-ice-shapes-our-world)
-11
-Mar
-2026
-### [Antarctica: The Ice That Shapes Our World »](https://iceds.anu.edu.au/news-events/events/antarctica-ice-shapes-our-world)
-11am 11 March
-Antarctica plays a critical role in regulating global sea level, deep ocean circulation and Earth’s climate. Yet this remote continent is rapidly changing. What happens in Antarctica will shape coastlines, ecosystems and communities worldwide.
 [](https://iceds.anu.edu.au/news-events/events/climate-obstruction-global-assessment-book-launch)
 25
 Mar
@@ -246,6 +239,12 @@ Launch of Climate Obstruction: A Global Assessment
   * [2017](https://iceds.anu.edu.au/news-events/events#tabs-0-container-7)
 
 
+11
+Mar
+2026
+### [Antarctica: The Ice That Shapes Our World »](https://iceds.anu.edu.au/news-events/events/antarctica-ice-shapes-our-world)
+11am 11 March 2026
+Antarctica plays a critical role in regulating global sea level, deep ocean circulation and Earth’s climate. Yet this remote continent is rapidly changing. What happens in Antarctica will shape coastlines, ecosystems and communities worldwide.
 12
 Feb
 2026
@@ -300,12 +299,6 @@ Mar
 ### [ICEDS lunch and learn - media and policy engagement »](https://iceds.anu.edu.au/news-events/events/iceds-lunch-and-learn-media-and-policy-engagement)
 12pm 18 March 2025
 An opportunity for ANU ICEDS members to find out about how they can engage with media and policymakers in the lead-up to the 2025 Australian election.
-13
-Feb
-2025
-### [ANU Climate Update 2025: If not now, when? »](https://iceds.anu.edu.au/news-events/events/anu-climate-update-2025-if-not-now-when)
-5pm 13 February 2025
-Please join Professor Mark Howden as he delivers his last Climate Update as ICEDS Director. Mark will present an overview based on the very latest research and data detailing how our climate is changing and how we are responding to these changes in Australia and around the world. 
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/events?page=1 "Go to page 2")

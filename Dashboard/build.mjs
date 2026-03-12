@@ -133,6 +133,11 @@ function sanitizeOutput(val) {
   return s.trim();
 }
 
+function normalizeJurisdictionLabel(value) {
+  const v = (value || "").trim();
+  return v === "National" ? "Australian National Scope" : v;
+}
+
 // Slim down the data we embed — only the columns the dashboard needs
 const slim = esgRows.map((r, idx) => ({
   id: idx,
@@ -140,7 +145,7 @@ const slim = esgRows.map((r, idx) => ({
   Title: r[COL.TITLE] || "",
   URL: r[COL.URL] || "",
   Story_Type: r[COL.STORY_TYPE] || "",
-  Jurisdiction: r[COL.JURISDICTION] || "",
+  Jurisdiction: normalizeJurisdictionLabel(r[COL.JURISDICTION] || ""),
   ESG_Relevance: r[COL.RELEVANCE] || r[COL.ESG_RELEVANCE] || "",
   Out1: sanitizeOutput(r[COL.OUTPUT_1]),
   Out2: sanitizeOutput(r[COL.OUTPUT_2]),
@@ -337,7 +342,7 @@ function darkenColor(hex, factor) {
 
 /* ====== Jurisdiction order ====== */
 const JURIS_ORDER = [
-  "National","NSW","Victoria","Queensland","Northern Territory",
+  "Australian National Scope","NSW","Victoria","Queensland","Northern Territory",
   "Western Australia","South Australia","Tasmania",
   "Australian Capital Territory","International"
 ];

@@ -6,7 +6,7 @@
 #
 # Writes selectors back by adding a single 'URL_selector' column next to the 'URL' column.
 #
-# Also writes a CSV mapping (Date, Title, URL) -> md filename or 'crawl_failure'.
+# Also writes a CSV mapping (Date, Title, URL) -> md filename or 'FAILED'.
 #
 # Requirements:
 #   pip install crawl4ai beautifulsoup4
@@ -170,6 +170,19 @@ def save_markdown(output_dir: str, filename: str, markdown: str):
 
 def append_failure_log(path: str, url: str, error: str):
     write_csv(path, ["url", "error"], [(url, error)])
+
+def reset_run_outputs():
+    files_to_reset = [
+        FAIL_LOG,
+        INVALID_LOG,
+        NORMALIZED_MAP_LOG,
+        SELECTOR_LOG,
+        CSV_WITH_SELECTORS_PATH,
+        STORY_FILENAME_LINKS,
+    ]
+    for path in files_to_reset:
+        if os.path.exists(path):
+            os.remove(path)
 
 # =========================
 # CrawlerRunConfig builders (version-tolerant)
@@ -338,7 +351,7 @@ async def extract_page(
     """
     Phase 2 per-URL extraction with retry and 2s wait before crawl.
     Uses the CLEAN filtering profile from your example.
-    Returns (url, filename_or_'crawl_failure').
+    Returns (url, filename_or_'FAILED').
     """
     cfg = build_extraction_config(css_selector=css_selector, delay_ms=EXTRACTION_DELAY_MS)
 
@@ -362,16 +375,16 @@ async def extract_page(
         else:
             print(f"[✗] Failed: {url} - {result.error_message}")
             append_failure_log(fail_log, url, result.error_message or "unknown")
-            return url, "crawl_failure"  # NEW
+            return url, "FAILED"  # NEW
     except Exception as e:
         print(f"[✗] Exception: {url} - {e}")
         append_failure_log(fail_log, url, str(e))
-        return url, "crawl_failure"  # NEW
+        return url, "FAILED"  # NEW
 
 async def extraction_phase(urls: List[str], selectors: Dict[str, Optional[str]], browser_config: BrowserConfig) -> Dict[str, str]:  # NEW return mapping
     """
     Phase 2: extract markdown with the guessed selectors (clean filter profile).
-    Returns mapping: normalized_url -> filename_or_'crawl_failure'
+    Returns mapping: normalized_url -> filename_or_'FAILED'
     """
     sem = asyncio.Semaphore(MAX_CONCURRENT)
     results: List[Tuple[str, str]] = []  # NEW
@@ -421,7 +434,7 @@ def write_augmented_csv_with_selectors(input_csv_path: str, output_csv_path: str
 # NEW: write story_file_name_links.csv
 def write_story_filename_links(input_csv_path: str, output_csv_path: str, url_to_file: Dict[str, str]):
     """
-    Reads Date, Title, URL from input and writes md filename (or 'crawl_failure')
+    Reads Date, Title, URL from input and writes md filename (or 'FAILED')
     using normalized URL lookup in url_to_file.
     """
     rows_out: List[Tuple[str, str, str, str]] = []
@@ -448,7 +461,7 @@ def write_story_filename_links(input_csv_path: str, output_csv_path: str, url_to
             title = (row.get(title_col) or "").strip()
             url_raw = (row.get(url_col) or "").strip()
             norm = normalize_url(url_raw)
-            md_file = url_to_file.get(norm, "crawl_failure") if norm else "crawl_failure"
+            md_file = url_to_file.get(norm, "FAILED") if norm else "FAILED"
             rows_out.append((date, title, url_raw, md_file))
 
     # Write once with headers (overwrite to ensure a clean file)
@@ -466,6 +479,8 @@ def write_story_filename_links(input_csv_path: str, output_csv_path: str, url_to
 # Entry point
 # =========================
 async def main():
+    reset_run_outputs()
+
     urls, invalids, norm_map = read_urls_from_csv(CSV_PATH)
     total_rows = sum(1 for _ in open(CSV_PATH, "r", encoding="utf-8-sig"))
     print(f"Input rows (including header/blank): {total_rows}")
@@ -476,9 +491,9 @@ async def main():
     write_csv(NORMALIZED_MAP_LOG, ["original", "normalized"], norm_map)
 
     if not urls:
-        # Still emit the mapping CSV marking all as crawl_failure if there were rows
+        # Still emit the mapping CSV marking all as FAILED if there were rows
         try:
-            write_story_filename_links(CSV_PATH, STORY_FILENAME_LINKS, {})  # everything becomes crawl_failure
+            write_story_filename_links(CSV_PATH, STORY_FILENAME_LINKS, {})  # everything becomes FAILED
         except Exception:
             pass
         print("No URLs found in CSV.")

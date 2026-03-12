@@ -3,7 +3,7 @@
 # Newsroom
 ### [Prosecution of Naveed Akram ](https://www.cdpp.gov.au/prosecution-naveed-akram)  
 ---  
-**Last updated: Tuesday 17 February 2026**  
+**Last updated: Tuesday 10 March 2026**  
 On 17 December 2025, the NSW Joint Counter Terrorism Team (JCTT) (comprising the New South Wales Police Force, the Australian Federal Police, the Australian Security Intelligence Organisation and the NSW Crime Commission) formally referred the prosecution of charges against Naveed Akram (the defendant) to the Office of the Director of Public Prosecutions (Cth) (CDPP).  
 ### [Prosecution of Liam Alexander Hall](https://www.cdpp.gov.au/prosecution-liam-alexander-hall)  
 ---  

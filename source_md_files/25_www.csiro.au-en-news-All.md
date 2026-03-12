@@ -1,7 +1,7 @@
 Blog icon
 # All news and articles
 Contact 
-12 of 1073 results (sorted by date)
+12 of 1074 results (sorted by date)
 Clear filters
 Search news
 Dates
@@ -14,6 +14,9 @@ News Types
 
 Apply filter
 ##  Filtering by: 
+  * [ News Release 10 March 2026 4 min read Australia-India partnership takes step closer to green steel through world-first use of ag waste in steelmaking Researchers from CSIRO and the Indian Institute of Science have proven the approach can work at commercial scale, with wider adoption having the potential to halve emissions from steelmaking in India.  ](https://www.csiro.au/en/news/All/News/2026/March/World-first-use-of-ag-waste-in-steelmaking)
+Related Tags
+    * [ Minerals ](https://www.csiro.au/en/news/All?articletags={2442AC8C-6448-4775-B85A-389FE5C735A6}|Minerals)
   * [ News Release 3 March 2026 4 min read CSIRO backs Australian startups tackling some of humanity's biggest challenges CSIRO’s ON Accelerate helps researchers turn ideas into real‑world impact by providing the skills, networks and industry engagement needed to progress their innovation journey.  ](https://www.csiro.au/en/news/All/News/2026/March/On-Accelerate-program)
   * [ News Release 27 February 2026 2 min read CSIRO partners with AMRF Connect on advanced manufacturing program Innovate to Grow: Advanced Manufacturing is a free program helping small-to-medium enterprises refine their business case, build industry collaborations and gain access to research expertise.  ](https://www.csiro.au/en/news/All/News/2026/February/Innovate-to-Grow-Advanced-Manufacturing)
 Related Tags
@@ -58,9 +61,6 @@ Related Tags
     * [ Total wellbeing diet ](https://www.csiro.au/en/news/All?articletags={A89F7574-0541-4D4A-A086-303EB0D1F2E1}|Total%20wellbeing%20diet)
     * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
     * [ Health and wellbeing ](https://www.csiro.au/en/news/All?articletags={022BBFB6-2C6E-41FE-BC9A-BBD50D65C296}|Health%20and%20wellbeing)
-  * [ News Release 17 December 2025 4 min read Consultation opens on the draft GenCost 2025 2026 Report The draft report includes new open-source modelling and system insights on Australia’s 2030 and 2050 electricity generation mix and related costs.  ](https://www.csiro.au/en/news/All/News/2025/December/Consultation-opens-on-the-draft-GenCost-2025-2026-Report)
-Related Tags
-    * [ Energy ](https://www.csiro.au/en/news/All?articletags={88F8DBC0-2ED7-46BB-BC62-864A3F77A807}|Energy)
 
 
 There is no news match your search term.

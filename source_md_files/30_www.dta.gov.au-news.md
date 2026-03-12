@@ -13,7 +13,19 @@ Articles
 Updates
 Search
 Filter by Topic- Any - Artificial Intelligence Assurance Australian Government Architecture Benefits Management BuyICT Contestability Corporate Data and Digital Government Strategy Digital and ICT procurement Digital Experience Policy Digital Investment Plans Digital Leadership Digital Marketplace Digital Service Standard Enterprise Resource Planning Industry Engagement International Engagement Investment Oversight Framework Major Digital Projects Report Policy, Guidance, Standards Strategic Planning Whole-of-Government Arrangements Workforce Planning Archived
-Displaying 1 - 10 of 348
+Displaying 1 - 10 of 350
+Media release
+12
+Mar 2026
+## [Strengthening Australia’s digital capability: New EVP launched](https://www.dta.gov.au/media-releases/strengthening-australias-digital-capability-new-evp-launched)
+The DTA, in collaboration with the APS Digital Profession, has released a new Employee Value Proposition. This delivers a key commitment under the APS Data, Digital, and Cyber Workforce Plan and reinforces the government's priority to build a modern, capable and resilient digital workforce. 
+[Workforce Planning](https://www.dta.gov.au/taxonomy/term/40)
+Media release
+11
+Mar 2026
+## [New guidance to support AI project success](https://www.dta.gov.au/media-releases/new-guidance-support-ai-project-success)
+Agencies are increasingly progressing from AI proof-of-concepts to scaled implementation. We have released new guidance that supports this transition by setting clear expectations for how AI can be scaled responsibly. 
+[Artificial Intelligence](https://www.dta.gov.au/taxonomy/term/33)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
 Article
 26
 Feb 2026
@@ -61,17 +73,5 @@ Article
 Dec 2025
 ## [E-Leaders meet with Australian industry reps to wrap up OECD visit](https://www.dta.gov.au/articles/e-leaders-meet-australian-industry-reps-wrap-oecd-visit)
 Final day of the OECD E-Leaders Meeting 2025 sees delegates knowledge sharing with Australia’s digital associations and members
-[International Engagement](https://www.dta.gov.au/taxonomy/term/32)
-Updates
-23
-Dec 2025
-## [DSUP consultation extended to February 2026](https://www.dta.gov.au/updates/dsup-consultation-extended-february-2026)
-The DTA has extended our Digital Seller Underperformance Policy consultation to 9 February 2026.
-[Assurance](https://www.dta.gov.au/taxonomy/term/48)[Digital and ICT procurement](https://www.dta.gov.au/taxonomy/term/44)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)[Industry Engagement](https://www.dta.gov.au/taxonomy/term/41)
-Article
-19
-Dec 2025
-## [Australia earns global A-rank and Top 5 spot in digital transformation](https://www.dta.gov.au/articles/australia-earns-global-rank-and-top-5-spot-digital-transformation)
-The World Bank has recognised Australia with an A-grade and a global top 5 rank with a score of 98.5% on their 2025 GovTech Maturity Index
 [International Engagement](https://www.dta.gov.au/taxonomy/term/32)
 [Return focus to the top of the page](https://www.dta.gov.au/news#top)

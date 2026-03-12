@@ -1,6 +1,12 @@
 [ Skip to main content ](https://minister.dcceew.gov.au/bowen/media-releases#main-content)
 # Media releases
 ### March 2026 
+## [Securing more fuel for Australia's regions](https://minister.dcceew.gov.au/bowen/media-releases/securing-more-fuel-australias-regions)
+12 March 2026
+The Government’s focus is ensuring our fuel gets to where it needs to go.
+## [Joint media release: Fair go for consumers at the bowser](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-fair-go-consumers-bowser)
+11 March 2026
+The Albanese Government is taking action to help consumers get a fair go at the petrol pump, with more scrutiny and surveillance of the fuel sector, bigger penalties for misconduct, and action to shore up fuel supply.
 ## [Joint media release: Canberra's third community battery powers up](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-canberras-third-community-battery-powers)
 3 March 2026
 The Albanese Labor Government is driving down energy costs and boosting grid reliability for Canberrans by switching on the latest community battery in the territory’s inner north .
@@ -26,9 +32,3 @@ The Albanese Labor Government’s Cheaper Home Batteries program has sparked a b
 ## [Joint media release: Consultation open to boost Australia's clean energy industry](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-consultation-open-boost-australias-clean-energy-industry)
 9 February 2026
 Businesses from across clean energy manufacturing supply chains are being invited to help shape the future of wind and transmission tower manufacturing in Australia. 
-## [Joint media release: $321m investment in Australia's heavy industry future](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-321m-investment-australias-heavy-industry-future)
-5 February 2026
-The Albanese Government is building a Future Made in Australia, helping heavy industry lower energy bills and take advantage of emerging technology with up to $321 million in funding now available through the second round of the Powering the Regions Fund.
-## [Joint media release: Net zero fund's $5 billion of world-leading decarbonisation finance](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-net-zero-funds-5-billion-world-leading-decarbonisation-finance)
-4 February 2026
-The Albanese Labor Government is backing Australian industry with some of the most competitive decarbonisation finance in the world.

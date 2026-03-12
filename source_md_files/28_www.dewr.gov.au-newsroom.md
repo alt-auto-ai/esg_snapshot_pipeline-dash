@@ -1,6 +1,7 @@
 [ Skip to main content ](https://www.dewr.gov.au/newsroom#main-content)
 #  Newsroom 
-### [ Building Women’s Careers marks one year of impact across Australia 2 March 2026 ](https://www.dewr.gov.au/newsroom/articles/building-womens-careers-marks-one-year-impact-across-australia)
+### [ Finding her power: Rosemary’s journey to a brighter future 10 March 2026 ](https://www.dewr.gov.au/newsroom/articles/finding-her-power-rosemarys-journey-brighter-future)
+  * ### [ Building Women’s Careers marks one year of impact across Australia 2 March 2026 ](https://www.dewr.gov.au/newsroom/articles/building-womens-careers-marks-one-year-impact-across-australia)
   * ### [ REAL Program launches to support First Nations people to transition out of the justice system 25 February 2026 ](https://www.dewr.gov.au/newsroom/articles/real-program-launches-support-first-nations-people-transition-out-justice-system)
   * ### [ Two new TAFE Centres of Excellence announced for Victoria 24 February 2026 ](https://www.dewr.gov.au/newsroom/articles/two-new-tafe-centres-excellence-announced-victoria)
   * ### [ Stitching Pride in every design: Jayd’s business journey 23 February 2026 ](https://www.dewr.gov.au/newsroom/articles/stitching-pride-every-design-jayds-business-journey)
@@ -24,7 +25,6 @@
   * ### [ First Nations engagement in the transition to net zero 31 October 2025 ](https://www.dewr.gov.au/newsroom/articles/first-nations-engagement-transition-net-zero)
   * ### [ From tragedy to triumph: VET enabled career transformation 24 October 2025 ](https://www.dewr.gov.au/newsroom/articles/tragedy-triumph-vet-enabled-career-transformation)
   * ### [ Australian Training Awards 2025 finalists announced 23 October 2025 ](https://www.dewr.gov.au/newsroom/articles/australian-training-awards-2025-finalists-announced)
-  * ### [ Building Foundational Skills through SEE Workplace-Based Training Projects  26 September 2025 ](https://www.dewr.gov.au/newsroom/articles/building-foundational-skills-through-see-workplacebased-training-projects)
 
 
 Back to top

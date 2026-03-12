@@ -8,20 +8,22 @@ Search
 From
 To
 #### Topic
+  * Business preparedness (1)
   * Compliance (1)
   * Employer information (2)
   * GST, Excise and indirect taxes (1)
   * General (9)
   * Income tax (1)
+  * International (1)
   * Large business (2)
   * Lodging and paying (1)
-  * Lodgment and payment (2)
+  * Lodgment and payment (4)
   * Lodgment and reporting (3)
   * New legislation (4)
   * New legislation and policy (2)
   * Payday Super (1)
+  * Public advice and guidance (1)
   * Reporting and obligations (1)
-  * Super (1)
   * Superannuation (5)
   * System and processes (2)
   * Tax time and reporting (1)
@@ -33,54 +35,56 @@ Show 83 results
 From
 To
 #### Topic
+  * Business preparedness (1)
   * Compliance (1)
   * Employer information (2)
   * GST, Excise and indirect taxes (1)
   * General (9)
   * Income tax (1)
+  * International (1)
   * Large business (2)
   * Lodging and paying (1)
-  * Lodgment and payment (2)
+  * Lodgment and payment (4)
   * Lodgment and reporting (3)
   * New legislation (4)
   * New legislation and policy (2)
   * Payday Super (1)
+  * Public advice and guidance (1)
   * Reporting and obligations (1)
-  * Super (1)
   * Superannuation (5)
   * System and processes (2)
   * Tax time and reporting (1)
 
 
 Show 83 results
-## [Top 3 questions before requesting lodgment deferrals](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/top-3-questions-before-requesting-lodgment-deferrals)
-Ask yourself these questions before you apply for lodgment deferrals.
-9 March 2026
-## [The countdown is on for Payday Super!](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/the-countdown-is-on-for-payday-super)
-The clock is ticking – actions you can take now to get Payday Super ready.
-6 March 2026
-## [Late payment offset will no longer be available](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/late-payment-offset-will-no-longer-be-available)
-The last time your business can use the late payment offset (LPO) is for the quarter ending 31 March 2026.
-6 March 2026
-## [SBSCH users must download their records before 30 June](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/sbsch-users-must-download-their-records-before-30-june)
-Your clients won’t be able to log in, submit instructions or view any records after 11:59 pm AEST on 30 June 2026.
-5 March 2026
-## [Public country-by-country reporting lodgment instructions available](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/public-country-by-country-reporting-lodgment-instructions-available)
-We've now finalised instructions to lodge the Public CBC report.
-5 March 2026
-## [About the Register of Foreign Ownership of Australian Assets](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/about-the-register-of-foreign-ownership-of-australian-assets)
-How the Register of Foreign Ownership of Australian Assets operates.
-5 March 2026
-## [Register of Foreign Ownership of Australian Assets 2024–25 Report](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/register-of-foreign-ownership-of-australian-assets/register-of-foreign-ownership-of-australian-assets-reports/register-of-foreign-ownership-of-australian-assets-2024-25-report)
-The 2024–25 annual report of the Register of Foreign Ownership of Australian Assets.
-5 March 2026
-## [ATO consultation report](https://www.ato.gov.au/about-ato/consultation/ato-consultation-report)
-Monthly report on ATO consultation activities.
-5 March 2026
-## [Turning a hobby into income? You might be in business](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/turning-a-hobby-into-income-you-might-be-in-business)
-Find out if your hobby or side hustle activities means you're in business.
-4 March 2026
-## [Is your TPAR overdue? Lodge now to avoid penalties](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/is-your-tpar-overdue-lodge-now-to-avoid-penalties)
-Penalties apply to businesses who don't lodge their Taxable payments annual report or submit a non-lodgment advice form.
-4 March 2026
+## [Pillar Two: updated guidance and April information session](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/pillar-two-updated-guidance-and-april-information-session)
+Read about the latest Pillar Two updates and join us in April, to hear from the experts about the latest developments.
+12 March 2026
+## [Mining and petroleum: final taxation ruling TR 2017/1](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/mining-and-petroleum-final-taxation-ruling-tr-2017-1)
+We've published our final guidance setting out our view on deductions for mining and petroleum exploration expenditure.
+12 March 2026
+## [Lodging, paying and other obligations for Pillar Two](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/multinationals/global-and-domestic-minimum-tax/lodging-paying-and-other-obligations-for-pillar-two)
+Pillar Two obligations, including returns, payment and key dates.
+12 March 2026
+## [Superannuation changes industry roadmap](https://www.ato.gov.au/tax-and-super-professionals/for-superannuation-professionals/apra-regulated-funds/apra-funds-services-systems-and-support/superannuation-changes-indsutry-roadmap)
+Use the roadmap to understand the changes impacting the super industry.
+12 March 2026
+## [Specific issues for Pillar Two](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/multinationals/global-and-domestic-minimum-tax/specific-issues-for-pillar-two)
+Specific issues identified by stakeholders via consultation and other channels not covered in other Pillar Two content.
+12 March 2026
+## [Tax consolidated group lodgments for Pillar Two](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/multinationals/global-and-domestic-minimum-tax/pillar-two-interactions-with-consolidation/tax-consolidated-group-lodgments-for-pillar-two)
+How Pillar Two lodgment obligations apply to tax consolidated groups.
+12 March 2026
+## [Pillar Two interactions with other provisions](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/multinationals/global-and-domestic-minimum-tax/pillar-two-interactions-with-other-provisions)
+Pillar Two interactions with Australia's existing corporate tax system.
+12 March 2026
+## [When and how the Pillar Two rules apply](https://www.ato.gov.au/businesses-and-organisations/international-tax-for-business/in-detail/multinationals/global-and-domestic-minimum-tax/when-and-how-the-pillar-two-rules-apply)
+Work out how the Pillar Two global and domestic minimum tax rules work and when and who they apply to.
+12 March 2026
+## [Providing work vehicles or other perks to staff?](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/providing-work-vehicles-or-other-perks-to-staff)
+Learn about recent fringe benefits tax (FBT) changes and focus areas so you can meet your obligations this FBT tax time.
+10 March 2026
+## [How we're engaging with new businesses](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/how-we-re-engaging-with-new-businesses)
+Helping new business owners navigate their first 18 months with confidence.
+10 March 2026
 Report webpage issue

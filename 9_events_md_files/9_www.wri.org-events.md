@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#87af668d-62e8-4086-97dc-3322d996f78f)
+[Storage Preferences](https://www.wri.org/events#f25180e0-4f15-4835-b94b-84dbaf82f5bf)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -67,11 +67,7 @@ Filters
   * French [French ](https://www.wri.org/events)
 
 
-7 Resources for 
-[Cities](https://www.wri.org/cities)
-Event 
-March 10 -11, 2026
-###  [Transforming Transportation 2026: Powering Jobs and Growth](https://hub.wri.org/events/2026/3/transforming-transportation-2026-powering-jobs-and-growth?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+6 Resources for 
 [Cities](https://www.wri.org/cities)
 Event 
 March 12, 2026
@@ -79,9 +75,8 @@ March 12, 2026
 [Cities](https://www.wri.org/cities)
 [Rwanda](https://www.wri.org/resources/region/africa-8911/country/rwanda-9818)
 Event 
-March 12, 2026
+Past Event March 12, 2026
 ###  [Scaling Green Infrastructure for a Resilient Rwanda](https://hub.wri.org/scaling-green-infrastructure-resilient-rwanda?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/scaling-green-infrastructure-resilient-rwanda#register)
 [Cities](https://www.wri.org/cities)
 Event 
 March 17, 2026
@@ -95,8 +90,8 @@ March 19, 2026
 [Energy](https://www.wri.org/energy)
 Event 
 March 26, 2026
-###  [Siting Utility-Scale Renewables for Community Benefit: What’s Working, Where, and Why](https://hub.wri.org/siting-utility-scale-renewables-community-benefit-whats-working-where-and-why?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/siting-utility-scale-renewables-community-benefit-whats-working-where-and-why#register)
+###  [Building Local Capacity for Clean Energy Siting: What's Working and Why](https://hub.wri.org/building-local-capacity-clean-energy-siting-whats-working-and-why?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/building-local-capacity-clean-energy-siting-whats-working-and-why#register)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026

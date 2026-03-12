@@ -5,14 +5,14 @@ Search
 ## View our upcoming events
 Select type
   * Conference7
-  * Other Events12
+  * Other Events13
   * Professional Development11
 
 Show more
 Select location
   * Darwin1
   * NSW5
-  * QLD7
+  * QLD8
   * SA2
   * Sydney1
   * TAS1
@@ -22,7 +22,7 @@ Select location
 
 Show more
 Select format
-  * Face to face20
+  * Face to face21
   * Virtual10
 
 Show more
@@ -50,11 +50,11 @@ Gold Coast Members & Friends Coffee Catch-up
   8. Thu09Apr
 QLD Regional Virtual Discussion Group
 [Find out more](https://www.governanceinstitute.com.au/events/e10240-qld-regional-virtual-discussion-group/)
-  9. Tue21Apr
+  9. Wed15Apr
+Brisbane Members & Friends Coffee Catch-up
+[Find out more](https://www.governanceinstitute.com.au/events/e10251-brisbane-members-friends-coffee-catch-up/)
+  10. Tue21Apr
 SA Roundtable: AASB S2 - Lessons from the first wave of mandatory climate statements
 [Find out more](https://www.governanceinstitute.com.au/events/e10438-sa-roundtable-aasb-s2-lessons-from-the-first-wave-of-mandatory-climate-statements/)
-  10. Thu23Apr
-WA Roundtable: AASB S2 - Lessons from the first wave of mandatory climate statements
-[Find out more](https://www.governanceinstitute.com.au/events/e10439-wa-roundtable-aasb-s2-lessons-from-the-first-wave-of-mandatory-climate-statements/)
 
 

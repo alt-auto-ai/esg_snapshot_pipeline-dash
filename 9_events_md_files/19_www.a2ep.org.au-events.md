@@ -4,12 +4,13 @@ Upcoming events
 ## UPCOMING EVENTS
 Here you will find all of our upcoming webinars and in-person events. To receive alerts on our upcoming events and stay up-to-date on all our industry news, 
 ## [WEBINAR | 11 March: XaaS - heat, cooling and energy service models for businesses](https://www.a2ep.org.au/post/webinar-11-march-xaas-heat-cooling-and-energy-service-models-for-businesses)
+## [EVENT | 12 March: Renewable Heat Adoption Challenge](https://www.a2ep.org.au/post/event-12-march-renewable-heat-adoption-challenge)
 ## [WEBINAR | 18 March: How eTES can support businesses & its Australian market potential](https://www.a2ep.org.au/post/webinar-18-march-how-etes-can-support-businesses-its-australian-market-potential)
 ## [EVENT | 19 March: A2EP Member Update + networking drinks - Sydney](https://www.a2ep.org.au/post/event-19-march-a2ep-member-update-networking-drinks-sydney)
 ## [EVENT | 23 April: A2EP Member Update + networking drinks - Brisbane & online](https://www.a2ep.org.au/post/event-23-april-a2ep-member-update-networking-drinks-brisbane-online)
 Recordings
 ## RECORDINGS & PAST EVENTS
-## [WEBINAR | 3 March: ‘Next gen’ PPAs for large C&I energy buyers: demand flex & thermal storage](https://www.a2ep.org.au/post/webinar-3-march-next-gen-ppas-for-large-c-i-energy-buyers-demand-flex-thermal-storage)
+## [RECORDING | 3 March: ‘Next gen’ PPAs for large C&I energy buyers: demand flex & thermal storage](https://www.a2ep.org.au/post/webinar-3-march-next-gen-ppas-for-large-c-i-energy-buyers-demand-flex-thermal-storage)
 ## [EVENT | 19 February: A2EP Member Update + networking drinks - Melbourne & online](https://www.a2ep.org.au/post/event-19-february-a2ep-member-update-networking-drinks-melbourne)
 ## [RECORDING: New tools for modelling renewable heat solutions](https://www.a2ep.org.au/post/webinar-17-february-renewable-heat-modelling-tools)
 ## [Highlights from A2EP's Decarbonising Commercial Buildings program launch in Sydney](https://www.a2ep.org.au/post/highlights-from-a2ep-s-commercial-buildings-program-launch-in-sydney)

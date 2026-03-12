@@ -148,29 +148,28 @@ def extract_responses_text(data):
                 chunks.append(c["text"])
     return "\n".join(chunks).strip()
 
-# NEW: load mapping (md_file -> {Date, Title, URL, md_file})
-def load_links_mapping(csv_path):
-    mapping = {}
+# NEW: load rows in-order from links CSV
+def load_links_rows(csv_path):
+    rows = []
     if not os.path.exists(csv_path):
         print(f"[WARN] INPUT_LINKS_CSV not found: {csv_path}")
-        return mapping
+        return rows
     with open(csv_path, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         required = {"Date", "Title", "URL", "md_file"}
         if not reader.fieldnames or not required.issubset(set(reader.fieldnames)):
             print("[WARN] INPUT_LINKS_CSV missing required columns: Date, Title, URL, md_file")
-            return mapping
+            return rows
         for row in reader:
             md = (row.get("md_file") or "").strip()
-            if md:
-                mapping[md] = {
-                    "Date": (row.get("Date") or "").strip(),
-                    "Title": (row.get("Title") or "").strip(),
-                    "URL": (row.get("URL") or "").strip(),
-                    "md_file": md,
-                    "ESG_or_not": (row.get("ESG_or_not") or "").strip(),
-                }
-    return mapping
+            rows.append({
+                "Date": (row.get("Date") or "").strip(),
+                "Title": (row.get("Title") or "").strip(),
+                "URL": (row.get("URL") or "").strip(),
+                "md_file": md,
+                "ESG_or_not": (row.get("ESG_or_not") or "").strip(),
+            })
+    return rows
 # ----------------- Async Calls -----------------
 async def call_openai_async(session, markdown_text, with_web, file_name):
     if not OPENAI_API_KEY:
@@ -244,14 +243,28 @@ def extract_esg_only(raw):
     Expecting a JSON object like:
       { "ESG_or_not": "Yes" | "No" }
     """
-    try:
-        data = json.loads(raw)
-        if isinstance(data, dict):
-            esg = (data.get("ESG_or_not") or "").strip()
-            if esg in ("Yes", "No"):
-                return {"ESG_or_not": esg}
-    except:
-        pass
+    text = (raw or "").strip()
+    candidates = [text]
+
+    fenced = re.search(r"```(?:json)?\s*(.*?)\s*```", text, re.DOTALL | re.IGNORECASE)
+    if fenced and fenced.group(1):
+        candidates.append(fenced.group(1).strip())
+
+    obj = re.search(r"\{[\s\S]*?\}", text)
+    if obj and obj.group(0):
+        candidates.append(obj.group(0).strip())
+
+    for cand in candidates:
+        try:
+            data = json.loads(cand)
+            if isinstance(data, dict):
+                esg = (data.get("ESG_or_not") or "").strip().lower()
+                if esg == "yes":
+                    return {"ESG_or_not": "Yes"}
+                if esg == "no":
+                    return {"ESG_or_not": "No"}
+        except:
+            continue
     return None
 
 # ----------------- Process one file -----------------
@@ -289,16 +302,17 @@ async def main_async():
     if output_dir:
         os.makedirs(output_dir, exist_ok=True)
 
-    # NEW: load mapping once
-    links_map = load_links_mapping(INPUT_LINKS_CSV)  # NEW
+    # NEW: load rows once (preserve original CSV order)
+    links_rows = load_links_rows(INPUT_LINKS_CSV)
 
     # Build API candidate files strictly from links CSV rows that have an existing .md file
     candidate_paths = []
     missing_md_in_links = []
-    premarked_no = 0
-    for md_file, meta in links_map.items():
-        if (meta.get("ESG_or_not") or "").strip().lower() == "no":
-            premarked_no += 1
+    skipped_cleaned = 0
+    for meta in links_rows:
+        md_file = (meta.get("md_file") or "").strip()
+        if not md_file or md_file.upper() == "CLEANED":
+            skipped_cleaned += 1
             continue
         md_path = os.path.join(SOURCE_DIR, md_file)
         if os.path.exists(md_path):
@@ -306,8 +320,7 @@ async def main_async():
         else:
             missing_md_in_links.append(md_file)
 
-    # Keep deterministic order for repeatable runs
-    candidate_paths = sorted(candidate_paths)
+    missing_md_set = set(missing_md_in_links)
 
     print(f"[PROFILE] {PROFILE} | SERIES={MODEL_SERIES} | MODEL={MODEL_NAME} | TEMP={TEMPERATURE} | MAX_TOKENS={MAX_TOKENS}")
     print(f"[PROMPT] {PROMPT_FILE_PATH}")
@@ -315,10 +328,10 @@ async def main_async():
     print(f"[MAP   ] {INPUT_LINKS_CSV}")  # NEW
     print(f"[OUTPUT] {OUTPUT_CSV}")
     print(f"[LIMITS] OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
-    if premarked_no:
-        print(f"[INFO] {premarked_no} rows pre-marked ESG_or_not='No' and excluded from API calls.")
+    if skipped_cleaned:
+        print(f"[INFO] {skipped_cleaned} rows marked md_file='CLEANED' and excluded from API calls.")
     if missing_md_in_links:
-        print(f"[INFO] {len(missing_md_in_links)} mapped .md files are missing and will be set to ESG_or_not='No' before API calls.")
+        print(f"[INFO] {len(missing_md_in_links)} mapped .md files are missing and will be set to ESG_or_not='NO FILE'.")
 
     CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
     sem = asyncio.Semaphore(CONCURRENCY_LIMIT)
@@ -343,14 +356,16 @@ async def main_async():
         fieldnames = ["Date", "Title", "URL", "md_file", "ESG_or_not"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for md_file, meta in links_map.items():
-            existing_esg = (meta.get("ESG_or_not") or "").strip()
-            if existing_esg in ("Yes", "No"):
-                esg_val = existing_esg if existing_esg == "No" else ai_by_md.get(md_file, "No")
+        for meta in links_rows:
+            md_file = (meta.get("md_file") or "").strip()
+            if not md_file or md_file.upper() == "CLEANED":
+                esg_val = "NO FILE"
+            elif md_file in missing_md_set:
+                esg_val = "NO FILE"
             else:
                 esg_val = ai_by_md.get(md_file, "No")
-            if esg_val not in ("Yes", "No"):
-                esg_val = "No"
+                if esg_val not in ("Yes", "No", "NO FILE"):
+                    esg_val = "No"
             writer.writerow({
                 "Date": meta.get("Date", ""),
                 "Title": meta.get("Title", ""),
@@ -359,7 +374,7 @@ async def main_async():
                 "ESG_or_not": esg_val,
             })
 
-    print(f"\n✅ [DONE] Wrote {len(links_map)} rows from {len(candidate_paths)} mapped files → {OUTPUT_CSV}")
+    print(f"\n✅ [DONE] Wrote {len(links_rows)} rows from {len(candidate_paths)} mapped files → {OUTPUT_CSV}")
 
 if __name__ == "__main__":
     asyncio.run(main_async())

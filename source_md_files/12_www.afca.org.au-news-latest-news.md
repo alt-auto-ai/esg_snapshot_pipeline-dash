@@ -1,6 +1,12 @@
 [ Skip to main content ](https://www.afca.org.au/news/latest-news#main-content)
 #  Latest news
 ### Year published
+12  MAR 26 
+##### [AFCA publishes updated Rules and Operational Guidelines](https://www.afca.org.au/news/latest-news/afca-publishes-updated-rules-and-operational-guidelines)
+AFCA has published its updated Rules and Operational Guidelines (OGs), which come into effect on 12 March 2026 following extensive consultation with industry, consumer groups, paid representatives and other stakeholders, and subsequent ASIC approval. 
+10  MAR 26 
+##### [New proximate cause e-learning module on AFCA website](https://www.afca.org.au/news/latest-news/new-proximate-cause-e-learning-module-on-afca-website)
+AFCA has published a new e-learning module that provides insight into AFCA’s processes for complaints that include proximate cause as an issue. 
 03  MAR 26 
 ##### [Update on response to Shield and First Guardian collapse, including AFCA membership of financial firms in liquidation](https://www.afca.org.au/news/latest-news/update-on-response-to-shield-and-first-guardian-collapse-including-afca-membership-of-financial-firms-in-liquidation)
 The Australian Financial Complaints Authority (AFCA) has decided that no financial firm known to be involved in the collapse of the Shield and First Guardian Master Funds will be expelled from AFCA at this time. 
@@ -31,12 +37,6 @@ AFCA has published a new short video from Shail Singh, Lead Ombudsman Investment
 16  JAN 26 
 ##### [AFCA publishes video update explaining the MWL Financial Services lead decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-mwl-financial-services-lead-decision)
 AFCA has published a short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the MWL Financial Services lead decision.
-16  JAN 26 
-##### [Former ASIC Commissioner Sean Hughes appointed Chair of the Banking Code Compliance Committee](https://www.afca.org.au/news/latest-news/former-asic-commissioner-sean-hughes-appointed-chair-of-the-banking-code-compliance-committee)
-The Australian Financial Complaints Authority and the Australian Banking Association have jointly appointed former ASIC Commissioner Sean Hughes as the next Chair of the Banking Code Compliance Committee. 
-19  DEC 25 
-##### [AFCA publishes video update and Lead Decisions on Shield and First Guardian complaints](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-and-lead-decisions-on-shield-and-first-guardian-complaints)
-AFCA has published a new video update from Shail Singh, Lead Ombudsman Investments and Advice, explaining how we are progressing financial advice complaints relating to the collapse of the Shield and First Guardian Master Funds. 
 ## Live Chat
 Minimize window
 View our chat service terms and conditions

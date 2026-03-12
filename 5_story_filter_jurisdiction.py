@@ -18,18 +18,10 @@ from aiolimiter import AsyncLimiter  # ✅ rate limiter
 parser = argparse.ArgumentParser(
     description="For rows with ESG_or_not='Yes', classify Jurisdiction and write adjacent column."
 )
-group = parser.add_mutually_exclusive_group(required=False)
-group.add_argument("--OAI", action="store_true", help="OpenAI, no web")
-group.add_argument("--OAIW", action="store_true", help="OpenAI, with web")
 args = parser.parse_args()
 
-# ✅ Default to OAI
-if args.OAI:
-    PROFILE = "OAI"
-elif args.OAIW:
-    PROFILE = "OAIW"
-else:
-    PROFILE = "OAI"
+# ✅ OAI-only
+PROFILE = "OAI"
 
 # ----------------- ENV -----------------
 load_dotenv()
@@ -93,7 +85,7 @@ GPT5_REASONING_EFFORT = (get_env("OAI_REASONING_EFFORT", "low") or "low").strip(
 GPT5_TEXT_VERBOSITY = (get_env("OAI_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 
 ALLOWED_JURISDICTIONS = [
-    "National",
+    "Australian National Scope",
     "Queensland",
     "NSW",
     "Victoria",
@@ -154,6 +146,34 @@ def extract_responses_text(data):
             if c.get("type") in {"output_text", "text"} and c.get("text"):
                 chunks.append(c["text"])
     return "\n".join(chunks).strip()
+
+def infer_jurisdiction_hint_from_markdown(markdown_text: str):
+    if not markdown_text:
+        return None
+    m = re.search(r"^Story's url:\s*(\S+)", markdown_text, re.IGNORECASE | re.MULTILINE)
+    if not m:
+        return None
+    url = m.group(1).strip().lower()
+
+    state_patterns = [
+        ("Victoria", ["vic.gov.au", "/vic/", "victoria"]),
+        ("NSW", ["nsw.gov.au", "/nsw/", "new-south-wales"]),
+        ("Queensland", ["qld.gov.au", "/qld/", "queensland"]),
+        ("Tasmania", ["tas.gov.au", "/tas/", "tasmania"]),
+        ("Northern Territory", ["nt.gov.au", "/nt/", "northern-territory"]),
+        ("Western Australia", ["wa.gov.au", "/wa/", "western-australia"]),
+        ("South Australia", ["sa.gov.au", "/sa/", "south-australia"]),
+        ("Australian Capital Territory", ["act.gov.au", "/act/", "australian-capital-territory"]),
+    ]
+
+    for label, hints in state_patterns:
+        if any(h in url for h in hints):
+            return label
+
+    if ".gov.au" in url:
+        return "Australian National Scope"
+
+    return "International"
 
 # ----------------- Async Calls -----------------
 async def call_openai_async(session, markdown_text, with_web, file_name):
@@ -223,13 +243,13 @@ async def call_openai_async(session, markdown_text, with_web, file_name):
                 content = (data.get("choices") or [{}])[0].get("message", {}).get("content", "")
             return strip_code_fences((content or "").strip())
 
-def extract_jurisdiction_only(raw):
+def extract_jurisdiction_only(raw, url_hint=None):
     """
     Expecting JSON object:
       { "Jurisdiction": "<one-of-allowed-values>" }
     """
     if not raw:
-        return {"Jurisdiction": "International"}
+        return {"Jurisdiction": url_hint or "International"}
 
     cleaned_raw = strip_code_fences(raw).strip()
 
@@ -239,9 +259,12 @@ def extract_jurisdiction_only(raw):
         value_clean = value.strip().strip("\"'`")
         if not value_clean:
             return None
+        value_lower = value_clean.lower()
+        if value_lower in {"national", "australian national", "australian national scope", "australia national"}:
+            return "Australian National Scope"
         if value_clean in ALLOWED_JURISDICTIONS:
             return value_clean
-        return ALLOWED_JURISDICTIONS_LOWER.get(value_clean.lower())
+        return ALLOWED_JURISDICTIONS_LOWER.get(value_lower)
 
     try:
         data = json.loads(cleaned_raw)
@@ -262,7 +285,7 @@ def extract_jurisdiction_only(raw):
         if label.lower() in lower_raw:
             return {"Jurisdiction": label}
 
-    return {"Jurisdiction": "International"}
+    return {"Jurisdiction": url_hint or "International"}
 
 # ----------------- Process one file -----------------
 async def process_file_async(session, md_file, sem, idx, total):
@@ -274,11 +297,12 @@ async def process_file_async(session, md_file, sem, idx, total):
             return {"md_file": md_file, "Jurisdiction": ""}
 
         md_text = read_text_file(md_path)
+        url_hint = infer_jurisdiction_hint_from_markdown(md_text)
         print(f"   📄 [{md_file}] File loaded ({len(md_text)} chars).")
 
         try:
             start_time = time.time()
-            raw = await call_openai_async(session, md_text, with_web=(PROFILE == "OAIW"), file_name=md_file)
+            raw = await call_openai_async(session, md_text, with_web=False, file_name=md_file)
             duration = time.time() - start_time
             print(f"   ✅ [{md_file}] API call completed in {duration:.2f}s.")
         except Exception as e:
@@ -288,7 +312,7 @@ async def process_file_async(session, md_file, sem, idx, total):
         if not raw.strip().startswith("{"):
             print(f"   ⚠️ [{md_file}] Non-JSON-object response snippet:\n{raw[:300]}")
 
-        item = extract_jurisdiction_only(raw)
+        item = extract_jurisdiction_only(raw, url_hint=url_hint)
         if item is None:
             print(f"   ⚠️ [{md_file}] Could not parse Jurisdiction JSON. Using fallback 'International'.")
             item = {"Jurisdiction": "International"}

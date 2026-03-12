@@ -3,6 +3,27 @@
 See our latest news and announcements. Discover more about what we do.
 ## Latest
 [Search all news](https://www.dcceew.gov.au/about/news/all)
+### [Restoring wetlands to protect shorebirds](https://www.dcceew.gov.au/about/news/restoring-wetlands-protect-shorebirds)
+  * News
+  * Water
+
+
+12 March 2026
+The Shorebird and Wetland Habitat program is helping to restore wetlands in South Australia.
+### [IWC seeks research on offshore renewables and whales](https://www.dcceew.gov.au/about/news/iwc-seeks-research-offshore-renewables-whales)
+  * News
+  * Environment
+
+
+10 March 2026
+The International Whaling Commission (IWC) is seeking research proposals to help understand how…
+### [In focus: National Groundwater Awareness Week](https://www.dcceew.gov.au/about/news/in-focus-national-groundwater-awareness-week)
+  * News
+  * Water
+
+
+10 March 2026
+Exploring groundwater – what and where is it, and how it can be treated for use.
 ### [Torres Strait prepares for H5 bird flu](https://www.dcceew.gov.au/about/news/torres-strait-prepares-h5-bird-flu)
   * News
   * Environment
@@ -38,27 +59,6 @@ Our Saving Native Species program is supporting threatened native plants from ex
 
 02 March 2026
 Consultation has opened on the National Hydrogen Regulatory Guidebook: Pipelines.
-### [Fiji and Tuvalu chosen to host pre-COP](https://www.dcceew.gov.au/about/news/fiji-tuvalu-chosen-host-pre-cop)
-  * News
-  * Climate change
-
-
-26 February 2026
-The Pacific Islands Forum have announced that Fiji and Tuvalu will host the pre-COP climate events…
-### [Mardi Gras parade route heritage listed](https://www.dcceew.gov.au/about/news/mardi-gras-parade-route-heritage-listed)
-  * Video
-  * Heritage
-
-
-26 February 2026
-The Sydney Gay and Lesbian Mardi Gras Parade Route has been added to Australia’s National Heritage…
-### [Guide 1: Setting SMART goals (Dedicated IPAs)](https://www.dcceew.gov.au/about/news/guide-1-dedicated-ipa-setting-smart-goals)
-  * Video
-  * Environment
-
-
-25 February 2026
-This video is designed to support Indigenous Protected Areas (IPAs) that are dedicated.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

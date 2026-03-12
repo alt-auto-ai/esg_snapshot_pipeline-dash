@@ -1,3 +1,4 @@
+Press Alt+1 for screen-reader mode, Alt+0 to cancel
 # Upcoming Events
 View all locations Sydney Melbourne Brisbane Perth Adelaide Hobart Online
 16 Mar   
@@ -89,3 +90,4 @@ With both the Australian Security and Investments Commission (ASIC) and the Aust
 [Apply for membership](https://unglobalcompact.org.au/join-us/)
 ## Join us today
 [Apply for membership](https://unglobalcompact.org.au/join-us/)
+May we use cookies to track your activities? We take your privacy very seriously. Please see our privacy policy for details and any questions.[Yes](https://unglobalcompact.org.au/upcoming-events/) [No](https://unglobalcompact.org.au/upcoming-events/)

@@ -177,7 +177,7 @@ async def main():
     )
 
     # Read URLs from CSV
-    df = pd.read_csv('0_source_link.csv')
+    df = pd.read_csv('0_source_link.csv', usecols=[0], engine='python')
     urls = df.iloc[:, 0].tolist()  # Get first column
     total_urls = len(urls)
     failures = []  # List to track failures

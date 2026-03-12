@@ -4,6 +4,13 @@ Last updated 5 September 2024
 Stay up to date on the latest news from the Clean Energy Regulator.
 You can also browse our [media releases](https://cer.gov.au/news-and-media/media-centre/media-releases "Media releases").
 ## All news
+RET
+Compliance
+News
+#### Phenix Trading’s registration permanently suspended
+10 March 2026
+We have permanently suspended Phenix Trading from the SRES. They can no longer create renewable energy certificates. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/march/phenix-tradings-registration-permanently-suspended)
 Corporate
 News
 #### Identity verification made simpler for scheme participants
@@ -58,13 +65,4 @@ News
 10 December 2025
 Version 56 of the register of solar water heaters is now available, listing eligible models for small-scale technology certificates. 
 [ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2025/december/register-solar-water-heaters-version-56-now-available)
-ACCU
-Markets
-Emissions reduction
-Biodiversity
-News
-#### Fixed delivery exit arrangement is now permanent
-03 December 2025
-Sellers with fixed delivery carbon abatement contracts can opt for a permanent exit arrangement as of 1 July 2026. We will email eligible sellers about how to submit an expression of interest 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2025/december/fixed-delivery-exit-arrangement-now-permanent)
 ## Was this page helpful?

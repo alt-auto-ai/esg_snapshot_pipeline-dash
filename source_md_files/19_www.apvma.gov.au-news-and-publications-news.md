@@ -1,7 +1,9 @@
 [ Skip to main content ](https://www.apvma.gov.au/news-and-publications/news#main-content "Skip to main content")
+The APVMA [Online Services Portal(Opens in a new tab/window)](https://portal.apvma.gov.au/) will have limited functionality from 7 pm to 9 pm (AEDT) Tuesday 17 March 2026 due to planned maintenance. Labels will not be visible on pubCRIS during this time.
 # News
 Subscribe to receive 
 ### 2026 
+  * [APVMA certifies that second generation anticoagulant rodenticides should be restricted chemical products](https://www.apvma.gov.au/news-and-publications/news/apvma-certifies-second-generation-anticoagulant-rodenticides-should-be-restricted-chemical-products) - 10 March 2026
   * [APVMA suspends permit for florfenicol](https://www.apvma.gov.au/news-and-publications/news/apvma-suspends-permit-florfenicol) - 5 March 2026
   * [APVMA releases its Regulatory Posture Statement](https://www.apvma.gov.au/news-and-publications/news/apvma-releases-its-regulatory-posture-statement) - 25 February 2026
   * [Don’t miss: EPAC2026, 19 – 20 February in Melbourne](https://www.apvma.gov.au/news-and-publications/news/dont-miss-epac2026) - 20 January 2026

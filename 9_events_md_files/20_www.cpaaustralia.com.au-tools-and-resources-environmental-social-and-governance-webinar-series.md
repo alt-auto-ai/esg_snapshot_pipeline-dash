@@ -85,4 +85,3 @@ checkbox label label
 checkbox label label
 checkbox label label
 Apply changes
-Live Chat

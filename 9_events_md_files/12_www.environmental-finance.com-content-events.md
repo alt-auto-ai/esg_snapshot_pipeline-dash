@@ -1,22 +1,21 @@
 # Events
 ### Featured Events
-[ 5 March 2026 Natural Capital Investment EMEA 2026  ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-emea-2026/)
 [ 23 April 2026, 8:45 AM Sustainable Debt EMEA 2026  ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2026/)
+[ 23 June 2026, 8:30 AM Sustainable Debt & Transition Finance Asia 2026  ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-asia-2026/)
 ### Highlights
+### [Sustainable Bonds Insight 2026 Fill out the form below to download for free _Environmental Finance_ 's Sustainable Bonds Insight 2026 - the 12th edition of the annual report. ](https://www.environmental-finance.com/content/events/content/downloads/sustainable-bonds-insight-2026.html)
 ### [Environmental Finance Sustainable Loans Insight 2025 Sustainable Loans Insight is now available to download ](https://www.environmental-finance.com/content/events/content/downloads/environmental-finance-sustainable-loans-insight-2025.html)
 ### [Sustainability Data America 2025 - Conference report The _Environmental Finance_ editorial team has published a number of articles from the event, which can be accessed by downloading this free report. ](https://www.environmental-finance.com/content/events/content/downloads/sustainability-data-america-2025-conference-report.html)
 ### [Natural Capital Investment Americas 2025 - Conference report _Environmental Finance_ welcomed over 160 attendees to its third annual Natural Capital Investment Americas conference in New York this May. Download the free report.  ](https://www.environmental-finance.com/content/events/content/downloads/natural-capital-investment-americas-2025-conference-report.html)
-### [Gulf Transition and Sustainable Finance 2025 - Conference report The report is free to download ](https://www.environmental-finance.com/content/events/content/downloads/gulf-transition-and-sustainable-finance-2025-conference-report.html)
 ### Upcoming Conferences
 [](https://www.environmental-finance.com/content/events/)
 [ 23 April 2026, 8:45 AM Sustainable Debt EMEA 2026 The original event for GSSS bond and loan issuers and investors. **London, UK** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2026/)
 [ 28 April 2026, 8:15 AM Gulf Transition & Sustainable Finance 2026 The original event for GSSS bond and loan issuers and investors. **Dubai**. ](https://www.environmental-finance.com/content/events/content/events/gulf-transition-and-sustainable-finance-2026/)
-[ 23 June 2026, 8:30 AM Sustainable Debt Asia 2026 The original event for GSSS bond and loan issuers and investors. **Singapore** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-asia-2026/)
+[ 23 June 2026, 8:30 AM Sustainable Debt & Transition Finance Asia 2026 The original event for GSSS bond and loan issuers and investors. **Singapore** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-asia-2026/)
 [ 15 September 2026, 9:00 AM Natural Capital Investment Americas 2026 Exploring the integral role that Natural Capital investment can play in building climate resilience. **New York, USA**. ](https://www.environmental-finance.com/content/events/content/events/natural-capital-investment-americas-2026/)
 [ 7 October 2026, 8:15 AM The Future of ESG Data EMEA 2026 Join us in **London** to gain insight into the growing sustainability data industry and understand the key factors shaping its future. ](https://www.environmental-finance.com/content/events/content/events/the-future-of-esg-data-emea-2026/)
 ### Upcoming Webinars
 [More](https://www.environmental-finance.com/content/events/content/webinars/)
-[ 12 March 2026, 3:00 PM GMT Sustainable Bond Insights: What's next for the sustainable bond market? Join us for a data-driven discussion on issuance trends, investor demand, regulation, and the outlook for sustainable bonds, as well as a presentation featuring exclusive insights from the Sustainable Bond Insights Report 2026. ](https://www.environmental-finance.com/content/events/content/webinars/sustainable-bond-insights-whats-next-for-the-sustainable-bond-market.html)
 [ 24 March 2026, 1:00 PM GMT Pioneering Transition Bonds: Scaling Climate Finance in Emerging Markets Join _Environmental Finance_ and IFC for the fifth in a series of transition finance webinars where we will discuss QNB Türkiye's first-of-its-kind transition bond. ](https://www.environmental-finance.com/content/events/content/webinars/transforming-tomorrow-empowering-emerging-markets-through-transition-finance/pioneering-transition-bonds-scaling-climate-finance-in-emerging-markets.html)
 ### Past Conferences
 arrow_back_ios 
@@ -35,6 +34,7 @@ more_horiz
 ### On-demand Webinars
 [More](https://www.environmental-finance.com/content/events/content/webinars/)
 arrow_back_ios 
+  * [ On-demand Sustainable Bond Insights: What's next for the sustainable bond market? Join us for a data-driven discussion on issuance trends, investor demand, regulation, and the outlook for sustainable bonds, as well as a presentation featuring exclusive insights from the Sustainable Bond Insights Report 2026. ](https://www.environmental-finance.com/content/events/content/webinars/sustainable-bond-insights-whats-next-for-the-sustainable-bond-market.html)
   * [ On-demand Sustainable Debt Round up: Q4 2025 & European Green Bond label deep dive Join us for insights into 2025 sustainable bond issuance and on the trends to watch in 2026.  ](https://www.environmental-finance.com/content/events/content/webinars/environmental-finance-datas-2025-sustainable-debt-webinar-series/sustainable-debt-round-up-q4-2025-and-european-green-bond-label-deep-dive.html)
   * [ On-demand The Green Alpha advantage: differentiating real estate through ESG investment This free-to-attend webinar will look at how ESG capital expenditure in real estate moves beyond meeting the minimum requirements and becomes a true differentiator for asset managers and asset owners alike. ](https://www.environmental-finance.com/content/events/content/webinars/the-green-alpha-advantage-differentiating-real-estate-through-esg-investment.html)
   * [ On-demand Top sustainable investment themes for 2026 Join ISS STOXX experts for a forward-looking webinar exploring the most critical sustainable finance themes expected to influence markets, portfolios, and corporate performance in the year ahead. ](https://www.environmental-finance.com/content/events/content/webinars/top-sustainable-investment-themes-for-2026.html)
@@ -42,7 +42,6 @@ arrow_back_ios
   * [ On-demand Climate Intelligence for Real Asset Investors: Data and the tools required for managing risk, resilience & strategy Join ISS STOXX and _Environmental Finance_ for an insightful webinar exploring the evolving challenges facing Real Asset Investors. ](https://www.environmental-finance.com/content/events/content/webinars/climate-intelligence-for-real-asset-investors-data-and-the-tools-required-for-managing-risk-resilience-and-strategy.html)
   * [ On-demand Sustainable Debt Round up: Q3 2025 Join us for insights on the rapidly growing green bond market and a summary of the market in quarter three of 2025. ](https://www.environmental-finance.com/content/events/content/webinars/environmental-finance-datas-2025-sustainable-debt-webinar-series/sustainable-debt-round-up-q3-2025.html)
   * [ On-demand Beyond ESG: shaping the next era of sustainable finance This webinar explores what comes after ESG as we know it, and how businesses can position themselves for resilience and long term value creation.  ](https://www.environmental-finance.com/content/events/content/webinars/beyond-esg-shaping-the-next-era-of-sustainable-finance.html)
-  * [ On-demand Data-driven impact: Unlocking the power of sustainable bond markets This webinar, run in partnership with Luxembourg Green Exchange, will explore how issuers and investors are harnessing impact reporting, regulatory frameworks, and benchmark alignment to drive transparency, credibility, and capital flows toward a low-carbon, sustainable future. ](https://www.environmental-finance.com/content/events/content/webinars/data-driven-impact-unlocking-the-power-of-sustainable-bond-markets.html)
 
 
 arrow_forward_ios 

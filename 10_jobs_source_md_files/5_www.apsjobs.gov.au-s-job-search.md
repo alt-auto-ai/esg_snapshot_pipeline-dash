@@ -13,11 +13,35 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 14 Jobs Found
+#### 16 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 SustainabilityFull-Time
+Posted: 13/03/2026
+Australian Federal Police
+### [Secretariat Director - Asia/Pacific Group](https://www.apsjobs.gov.au/s/job-details?title=secretariat-director-asia-pacific-group&Id=a05OY00000MqoX7YAJ)
+$175,089 to $231,035
+Posted: 12/03/2026
+Department of Agriculture, Fisheries and Forestry
+### [Senior Rehabilitation Advisor](https://www.apsjobs.gov.au/s/job-details?title=senior-rehabilitation-advisor&Id=a05OY00000MlOBtYAN)
+$99,734 to $112,044
+Posted: 12/03/2026
+Department of Agriculture, Fisheries and Forestry
+### [Senior Rehabilitation Advisor (Affirmative measure - Disability employment)](https://www.apsjobs.gov.au/s/job-details?title=senior-rehabilitation-advisor-affirmative-measure-disability-employment-&Id=a05OY00000Ml5dtYAB)
+$99,734 to $112,044
+Posted: 12/03/2026
+Department of Agriculture, Fisheries and Forestry
+### [Senior Internal Auditor](https://www.apsjobs.gov.au/s/job-details?title=senior-internal-auditor&Id=a05OY00000MkrKnYAJ)
+$99,734 to $112,044
+Posted: 11/03/2026
+Department of Agriculture, Fisheries and Forestry
+### [Senior Investigator](https://www.apsjobs.gov.au/s/job-details?title=senior-investigator&Id=a05OY00000MlkvZYAR)
+$95,438 to $108,360
+Posted: 11/03/2026
+Bureau of Meteorology
+### [Change Management Lead](https://www.apsjobs.gov.au/s/job-details?title=change-management-lead&Id=a05OY00000MkifiYAB)
+$121,756 to $132,713
 Posted: 09/03/2026
 Defence Housing Australia
 ### [Chief Information Officer](https://www.apsjobs.gov.au/s/job-details?title=chief-information-officer&Id=a05OY00000MeT9tYAF)
@@ -39,7 +63,7 @@ High Speed Rail Authority
 $144,716 to $162,627
 Posted: 03/03/2026
 Department of Defence
-### [2027 Defence Graduate Development Program - Engineering Pathway](https://www.apsjobs.gov.au/s/job-details?title=2027-defence-graduate-development-program-engineering-pathway&Id=a05OY00000MNu9kYAD)
+### [2027 Defence Graduate Program - Engineering Pathway](https://www.apsjobs.gov.au/s/job-details?title=2027-defence-graduate-program-engineering-pathway&Id=a05OY00000MNu9kYAD)
 $81,868 to $81,868
 Posted: 02/03/2026
 Great Barrier Reef Marine Park Authority
@@ -49,29 +73,10 @@ Posted: 02/03/2026
 Australian Digital Health Agency
 ### [Graduate Program](https://www.apsjobs.gov.au/s/job-details?title=graduate-program&Id=a05OY00000MKp89YAD)
 $84,492 to $84,492
-Posted: 26/02/2026
-Australian Communications and Media Authority
-### [Assistant Manager, Finance Business Partner (EL 1) and Finance Business Partner (APS 6)](https://www.apsjobs.gov.au/s/job-details?title=assistant-manager-finance-business-partner-el-1-and-finance-business-partner-aps-6-&Id=a05OY00000MITGdYAP)
-$99,734 to $134,116
-Posted: 26/02/2026
-Department of Parliamentary Services
-### [Manager Security Operations](https://www.apsjobs.gov.au/s/job-details?title=manager-security-operations&Id=a05OY00000MHtmbYAD)
-$101,168 to $113,706
-Posted: 23/02/2026
-Museum of Australian Democracy - Old Parliament House
-### [Deputy Director](https://www.apsjobs.gov.au/s/job-details?title=deputy-director&Id=a05OY00000M7gqfYAB)
-$220,052 to $236,180
 Posted: 23/02/2026
 Director of Public Prosecutions
 ### [Commonwealth Solicitor for Public Prosecutions (CSPP)](https://www.apsjobs.gov.au/s/job-details?title=commonwealth-solicitor-for-public-prosecutions-cspp-&Id=a05OY00000M4idhYAB)
 $344,120 to $445,137
-Posted: 23/02/2026
-Department of Agriculture, Fisheries and Forestry
-### [Property Services Officer](https://www.apsjobs.gov.au/s/job-details?title=property-services-officer&Id=a05OY00000M1jCyYAJ)
-$77,728 to $84,619
-Posted: 01/07/2025
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [Temporary Employment Register - 2025/26](https://www.apsjobs.gov.au/s/job-details?title=temporary-employment-register-2025-26&Id=a05OY00000E0p2VYAR)
-$55,639 to $173,095
+Load More
 Loading
 Job Search | APS Jobs

@@ -27,7 +27,13 @@ Feb 2026
 We consulted on the design of the Australian Government’s $5 billion Net Zero Fund, which the National Reconstruction Fund will deliver. Details are now available on how it will support Australia’s transition to net... 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 92. Showing results from 1 to 12 of 1100.
+Page 1 of 92. Showing results from 1 to 12 of 1102.
+  * 11 March 2026  National Measurement Institute 
+### [Legislative instruments under the National Measurement Act for remake and sunsetting](https://www.industry.gov.au/news/legislative-instruments-under-national-measurement-act-remake-and-sunsetting)
+The National Measurement Institute (NMI) will make minor updates to a suite of legislative instruments and allow others to sunset following a review and consultation. Changes will come into effect on or before 1 April. 
+  * 11 March 2026 
+### [$66 million to boost robotics and automation for industry](https://www.industry.gov.au/news/66-million-boost-robotics-and-automation-industry)
+Round 18 Cooperative Research Centres Projects (CRC-P) grants will support 27 new projects including developing robotics and automation for industry. 
   * 6 March 2026 
 ### [New grant funding open for industry-led research collaborations](https://www.industry.gov.au/news/new-grant-funding-open-industry-led-research-collaborations)
 Apply now for round 27 of the Cooperative Research Centres Program. Applications close 21 April 2026. 
@@ -58,14 +64,8 @@ The Australian Government's Industry Growth Program awards more funding for inno
   * 24 February 2026  Industry Innovation and Science Australia 
 ### [New paper tackles issues facing Australia’s medium-sized enterprises (MSEs)](https://www.industry.gov.au/news/new-paper-tackles-issues-facing-australias-medium-sized-enterprises-mses)
 Industry Innovation and Science Australia (IISA) has released a paper exploring how policy and industry can better support the ‘missing middle’ to increase innovation and competitiveness. 
-  * 23 February 2026 
-### [Australia endorses India AI Impact Summit Declaration](https://www.industry.gov.au/news/australia-endorses-india-ai-impact-summit-declaration)
-Read about our work with international partners to shape the direction of AI policy, safety and governance globally. 
-  * 20 February 2026 
-### [$12.7 million to support innovative quantum technology projects](https://www.industry.gov.au/news/127-million-support-innovative-quantum-technology-projects)
-Round 1 stage 2 of the Critical Technologies Challenge Program will fund cutting-edge projects including mine site sensors, data centre cooling and optical imaging projects. 
 
 
-Page 1 of 92. Showing results from 1 to 12 of 1100.
-Page 1 of 92. Showing results from 1 to 12 of 1100.
+Page 1 of 92. Showing results from 1 to 12 of 1102.
+Page 1 of 92. Showing results from 1 to 12 of 1102.
 [Back to top](https://www.industry.gov.au/news#skip-links)

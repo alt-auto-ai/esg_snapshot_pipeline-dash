@@ -1,0 +1,30 @@
+  * [Skip to content](https://www.energymining.sa.gov.au/home/news#main)
+  * [Skip to navigation](https://www.energymining.sa.gov.au/home/news#main-navigation)
+
+
+# News
+* * *
+## Latest news
+* * *
+  * [ News South Australia rockets up the charts as a global mining destination  ...  02/03/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-rockets-up-the-charts-as-a-global-mining-destination)
+  * [ News Public warning notice for gas hose used in vehicle drawer cookers  ...  26/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/public-warning-notice-for-gas-hose-used-in-vehicle-drawer-cookers)
+  * [ News South Australia powers up vast new renewable energy opportunities  ...  24/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-powers-up-vast-new-renewable-energy-opportunities)
+  * [ News Gas security grants to shore up supply  ...  20/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/gas-security-grants-to-shore-up-supply)
+  * [ News New opportunities in the pipeline  ...  20/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/new-opportunities-in-the-pipeline)
+  * [ News Cementing a solid footing for green industry  ...  14/01/26 ](https://www.energymining.sa.gov.au/home/news/latest/cementing-a-solid-footing-for-green-industry)
+  * [ News $3 billion copper record charges up SA resource exports  ...  14/01/26 ](https://www.energymining.sa.gov.au/home/news/latest/$3-billion-copper-record-charges-up-sa-resource-exports)
+
+
+### In this section
+  * [News archive](https://www.energymining.sa.gov.au/home/news/archive)
+
+
+### Related information
+  * [MESA Journal](https://www.energymining.sa.gov.au/industry/geological-survey/mesa-journal)
+
+
+* * *
+  
+Energy & Mining  
+https://www.energymining.sa.gov.au/home/news  
+Mar 13, 2026 3:31 am 
