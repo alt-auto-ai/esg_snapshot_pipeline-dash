@@ -1006,9 +1006,7 @@ function generateDoc() {
     for (const id of rightEvents) {
       const ev = EVENTS_BY_ID.get(id);
       if (!ev) continue;
-      if (ev.Title) md += '**' + ev.Title + '**\\n\\n';
       if (ev.Event_Description) md += ev.Event_Description + '\\n\\n';
-      if (ev.URL) md += ev.URL + '\\n\\n';
       md += '---\\n\\n';
     }
   }
@@ -1019,9 +1017,7 @@ function generateDoc() {
     for (const id of rightJobs) {
       const jb = JOBS_BY_ID.get(id);
       if (!jb) continue;
-      if (jb.Title) md += '**' + jb.Title + '**\\n\\n';
       if (jb.Job_Description) md += jb.Job_Description + '\\n\\n';
-      if (jb.URL) md += jb.URL + '\\n\\n';
       md += '---\\n\\n';
     }
   }

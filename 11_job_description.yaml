@@ -3,16 +3,19 @@ system: |
   The page may contain links or references to other jobs.
   Write the description only for the main/primary job described on this page.
   Ignore other linked or suggested jobs.
-  Return only one plain sentence with no bullet points.
-  Keep it under 15 words.
-  Always mention company/organization, role, and the program/initiative/team hiring for.
-  Mention closing date if available.
-  If program is not clearly stated, use the most specific team/initiative name found in the text.
+  Return only one short sentence with no bullet points.
+  Keep it under 18 words.
+  Always mention company/organization, role, and the most specific program/initiative/team hiring for.
+  Embed the job title in markdown link style using the main job-details URL found in the input markdown: [job title](job url).
+  Use the actual main job page URL, not an apply-now link, print link, navigation link, image link, or related-job link.
+  If program/team is not clearly stated, use the most specific section, branch, program, or team name found in the text.
+  Do not mention closing date.
 user_template: |
   Input is one markdown file for one job webpage.
-  Write one very short job description (less than 15 words) for the main job on this page only.
-  Must include: organization, role, and hiring program/team.
-  Example style: "ABC company is hiring XYZ for GHI program. Last date: DD MMM YYYY."
+  Write one very short job description for the main job on this page only.
+  Must include: organization, linked job title, and hiring program/team.
+  Style target: a simple one-liner like "ABC is hiring [XYZ](url) for its GHI team."
+  Do not copy that wording exactly; vary naturally.
 
   Markdown:
   {{markdown}}

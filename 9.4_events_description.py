@@ -39,10 +39,7 @@ else:
 # ----------------- ENV -----------------
 load_dotenv()
 
-INPUT_CSV = os.getenv(
-    "INPUT_CSV",
-    r"9.3_events_links.csv",
-)
+INPUT_CSV = r"9.3_events_links.csv"
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
     r"9.2_events_page_mds",
@@ -116,8 +113,13 @@ def load_prompt_yaml(path: str):
 SYSTEM_PROMPT, USER_TEMPLATE = load_prompt_yaml(PROMPT_FILE_PATH)
 
 
-def render_user_prompt(markdown_text: str) -> str:
-    return USER_TEMPLATE.replace("{{markdown}}", markdown_text)
+def render_user_prompt(title: str, url: str, markdown_text: str) -> str:
+    return (
+        USER_TEMPLATE
+        .replace("{{title}}", title)
+        .replace("{{url}}", url)
+        .replace("{{markdown}}", markdown_text)
+    )
 
 
 def read_text_file(path: str) -> str:
@@ -132,29 +134,29 @@ def strip_code_fences(text: str) -> str:
     return m.group(1) if m else text
 
 
-async def call_openai_async(session: aiohttp.ClientSession, markdown_text: str, file_name: str) -> str:
+async def call_openai_async(session: aiohttp.ClientSession, title: str, event_url: str, markdown_text: str, file_name: str) -> str:
     if not OPENAI_API_KEY:
         raise RuntimeError("OPENAI_API_KEY is missing")
 
     if MODEL_SERIES == "gpt5":
-        url = f"{OPENAI_BASE_URL}/responses"
+        api_url = f"{OPENAI_BASE_URL}/responses"
         payload = {
             "model": MODEL_NAME,
             "input": [
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": render_user_prompt(markdown_text)},
+                {"role": "user", "content": render_user_prompt(title, event_url, markdown_text)},
             ],
             "reasoning": {"effort": GPT5_REASONING_EFFORT},
             "text": {"verbosity": GPT5_TEXT_VERBOSITY},
             "max_output_tokens": MAX_TOKENS,
         }
     else:
-        url = f"{OPENAI_BASE_URL}/chat/completions"
+        api_url = f"{OPENAI_BASE_URL}/chat/completions"
         payload = {
             "model": MODEL_NAME,
             "messages": [
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": render_user_prompt(markdown_text)},
+                {"role": "user", "content": render_user_prompt(title, event_url, markdown_text)},
             ],
             "temperature": TEMPERATURE,
             "max_tokens": MAX_TOKENS,
@@ -168,7 +170,7 @@ async def call_openai_async(session: aiohttp.ClientSession, markdown_text: str, 
         print(f"   📤 [{file_name}] Sending request... (attempt {attempt}/{MAX_RETRIES})")
         try:
             async with rpm_limiter:
-                async with session.post(url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
+                async with session.post(api_url, json=payload, headers=headers, timeout=OPENAI_TIMEOUT_SECONDS) as resp:
                     
                     body_text = await resp.text()
                     if resp.status in (429, 500, 502, 503, 504):
@@ -206,6 +208,8 @@ def pick_md_filename(row: dict) -> str:
 
 async def process_row_async(session: aiohttp.ClientSession, row: dict, sem: asyncio.Semaphore, idx: int, total: int) -> tuple[str, str]:
     md_file = pick_md_filename(row)
+    title = (row.get("Title") or "").strip()
+    url = (row.get("URL") or row.get("Url") or row.get("url") or "").strip()
     async with sem:
         print(f"\n➡️  [{idx}/{total}] Starting: {md_file or '(missing md file)'}")
         if not md_file:
@@ -223,7 +227,7 @@ async def process_row_async(session: aiohttp.ClientSession, row: dict, sem: asyn
 
         try:
             start = time.time()
-            desc = await call_openai_async(session, md_text, md_file)
+            desc = await call_openai_async(session, title, url, md_text, md_file)
             print(f"   ✅ [{md_file}] Done in {time.time() - start:.2f}s")
             return md_file, desc.strip()
         except Exception as e:

@@ -184,6 +184,17 @@ def save_markdown(output_dir: str, filename: str, markdown: str):
     with open(path, "w", encoding="utf-8") as f:
         f.write(markdown)
 
+
+def clear_existing_markdown_files(output_dir: str):
+    path = Path(output_dir)
+    if not path.exists():
+        return
+    for md_file in path.glob("*.md"):
+        try:
+            md_file.unlink()
+        except Exception as e:
+            print(f"[CLEANUP WARN] Could not remove {md_file}: {e}")
+
 def append_failure_log(path: str, url: str, error: str):
     write_csv(path, ["url", "error"], [(url, error)])
 
@@ -486,6 +497,8 @@ async def main():
     print(f"Input rows (including header/blank): {total_rows}")
     print(f"Parsed URLs (not deduped): {len(urls)}")
     print(f"Invalid/unnormalized URL-like values: {len(invalids)}")
+
+    clear_existing_markdown_files(OUTPUT_DIR)
 
     write_csv(INVALID_LOG, ["raw_value", "reason"], invalids)
     write_csv(NORMALIZED_MAP_LOG, ["original", "normalized"], norm_map)
