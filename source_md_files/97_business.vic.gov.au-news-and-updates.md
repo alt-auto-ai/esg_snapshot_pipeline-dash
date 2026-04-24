@@ -8,8 +8,20 @@ Location
 metropolitanregional
 Topic
 Bushfire supportEventsFinanceGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStaff managementStarting a businessSustainabilityTourism industry
-6 Mar 2026 
-Events
+22 Apr 2026 
+Marketing
+## [Navigating the world of intellectual property](https://business.vic.gov.au/news-and-updates/2026/navigating-the-world-of-intellectual-property)
+World Intellectual Property Day – ready, set, innovate.
+2026March24
+Events 
+## [​​Discover Regional Victoria: 3 communities to visit this Easter​ ](https://business.vic.gov.au/news-and-updates/2026/discover-regional-victoria-3-communities-to-visit-this-easter)
+3 communities and businesses worth the trip this Easter.
+2026March20
+Events 
+## [Melbourne tops Time Out’s list of best cities in the world](https://business.vic.gov.au/news-and-updates/2026/melbourne-tops-time-outs-list-of-best-cities-in-the-world)
+For the first time ever, an Australian city has topped Time Out's annual ranking of the world's 50 best cities.
+2026March6
+Events 
 ## [​Meet the small businesses heading to the Australian Tourism Awards](https://business.vic.gov.au/news-and-updates/2026/meet-the-small-businesses-heading-to-the-australian-tourism-awards)
 Meet Go Adventure Nagambie and Bendigo Guided Tours as they prepare for the Australian Tourism Awards.
 2026March6
@@ -48,17 +60,6 @@ From broomstick creators to cauldron makers, here are 3 businesses that are taki
 Risk and resilience 
 ## [Cyber Month 2025: building a cyber safe culture](https://business.vic.gov.au/news-and-updates/2025/cyber-month-2025-building-a-cyber-safe-culture)
 How safe is your small business from a $47,400 cyber attack?
-2025October8
-Bushfire support 
-## [Act now to make your business resilient](https://business.vic.gov.au/news-and-updates/2025/act-now-to-make-your-business-resilient)
-Now is the time to plan and prepare. Building resilience into your business operation can make all the difference if disaster strikes.
-2025October7
-Grants and programs 
-## [Business support for Porepunkah and Alpine Shire](https://business.vic.gov.au/news-and-updates/2025/business-support-for-porepunkah-and-alpine-shire)
-2025September24
-Events 
-## [Connect, learn and share at WorkSafe’s Health and Safety Month](https://business.vic.gov.au/news-and-updates/2025/worksafe-health-and-safety-month)
-WorkSafe is bringing the latest in health and safety to your doorstep, both face to face and online, as it gears up this year's Health and Safety Month.
   * [1](https://business.vic.gov.au/news-and-updates)
   * [2](https://business.vic.gov.au/news-and-updates)
   * [3](https://business.vic.gov.au/news-and-updates)

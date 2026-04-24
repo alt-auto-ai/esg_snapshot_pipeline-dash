@@ -1,6 +1,11 @@
 A NSW Government website
 # News
 Industry Development
+21 April 2026 
+[Historic catalyst for NSW healthcare as $96 million RNA Research and Manufacturing Facility opens to support new therapeutic innovations](https://www.chiefscientist.nsw.gov.au/news/historic-catalyst-for-nsw-healthcare-as-$96-million-rna-research-and-manufacturing-facility-opens-to-support-new-therapeutic-innovations)
+Minister for Innovation, Science and Technology Anoulack Chanthivong has officially opened the new world-class facility, which will develop lifesaving human and animal treatments.
+east
+Industry Development
 6 March 2026 
 [NSW Government Gives $20 Million Boost to Innovative Small Business](https://www.chiefscientist.nsw.gov.au/news/nsw-government-gives-$20-million-boost-to-innovative-small-business)
 NSW Government announces successful grant recipients in the Biosciences Fund and RNA Pipeline Grants, and opens new $20 million Emerging Technologies Commercialisation Fund.
@@ -24,9 +29,4 @@ News
 24 September 2025 
 [NSW Government Signs MoU with Singapore to Strengthen Cooperation across Research and Innovation](https://www.chiefscientist.nsw.gov.au/news/nsw-government-signs-mou-with-singapore-to-strengthen-cooperation-across-research-and-advanced-manufacturing)
 NSW Government signs MoU with Singapore in areas of complementary high tech capabilities.
-east
-STEM Outreach
-29 August 2025 
-[Inspiring the Next Generation of STEM Professionals](https://www.chiefscientist.nsw.gov.au/news/inspiring-the-next-generation-of-stem-professionals)
-The NSW Government has opened the 2026 Supporting Young Scientists Equity and Access Program (Program), which supports future scientists, technologists, engineers and mathematicians across the state to participate in STEM-related competitions, courses and events.
 east

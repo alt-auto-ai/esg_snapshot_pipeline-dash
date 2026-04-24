@@ -222,13 +222,7 @@ Get in touch with us or find an expert.
 [Getting to our events](https://iceds.anu.edu.au/news-events/events/getting-our-events)
 Check out our calendar of events and participate in our seminars and public lectures.
 ##  Upcoming events 
-[](https://iceds.anu.edu.au/news-events/events/climate-obstruction-global-assessment-book-launch)
-25
-Mar
-2026
-### [Climate Obstruction: A Global Assessment. Book launch »](https://iceds.anu.edu.au/news-events/events/climate-obstruction-global-assessment-book-launch)
-3pm 25 March
-Launch of Climate Obstruction: A Global Assessment
+_No events are currently scheduled._
 ## Past events
   * [2023](https://iceds.anu.edu.au/news-events/events#tabs-0-container-1)
   * [2022](https://iceds.anu.edu.au/news-events/events#tabs-0-container-2)
@@ -239,6 +233,18 @@ Launch of Climate Obstruction: A Global Assessment
   * [2017](https://iceds.anu.edu.au/news-events/events#tabs-0-container-7)
 
 
+16
+Apr
+2026
+### [Activist-Academic Alliances for Gender and Climate Justice: Project Launch and Opening Dialogue »](https://iceds.anu.edu.au/news-events/events/activist-academic-alliances-gender-and-climate-justice-project-launch-and-opening)
+5.30pm 16 April 2026
+This event which will launch the project and provide an opening dialogue toward the significance of building Activist-Academic Alliances for Gender and Climate Justice.
+25
+Mar
+2026
+### [Climate Obstruction: A Global Assessment. Book launch »](https://iceds.anu.edu.au/news-events/events/climate-obstruction-global-assessment-book-launch)
+3pm 25 March 2026
+Launch of Climate Obstruction: A Global Assessment
 11
 Mar
 2026
@@ -287,18 +293,6 @@ Sep
 ### [ANU Disaster Solutions Update 2025: Of droughts and flooding rains. Policy for prevention. »](https://iceds.anu.edu.au/news-events/events/anu-disaster-solutions-update-2025-droughts-and-flooding-rains-policy-prevention)
 9.30am 11 September 2025
 Australia has been known for decades as the land “of droughts and flooding rains”, but as the frequency and severity of droughts and floods increasingly impact lives and livelihoods, we consider how policymakers at all levels we can respond to this worsening situation with available policy tools?
-10
-Apr
-2025
-### [Launch: Regional Energy Transitions in Australia: From Impossible to Possible. »](https://iceds.anu.edu.au/news-events/events/launch-regional-energy-transitions-australia-impossible-possible)
-5pm 10 April 2025
-Please join us for the launch of the new book “Regional Energy Transitions in Australia: From Impossible to Possible” at ANU on Thursday, April 10.
-18
-Mar
-2025
-### [ICEDS lunch and learn - media and policy engagement »](https://iceds.anu.edu.au/news-events/events/iceds-lunch-and-learn-media-and-policy-engagement)
-12pm 18 March 2025
-An opportunity for ANU ICEDS members to find out about how they can engage with media and policymakers in the lead-up to the 2025 Australian election.
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/events?page=1 "Go to page 2")

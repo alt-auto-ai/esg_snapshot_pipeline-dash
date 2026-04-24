@@ -1,6 +1,30 @@
 [ Skip to main content ](https://www.pmc.gov.au/news#main-content)
 #  News
 Stay up-to-date on the latest departmental and ministerial developments through our news stories, social media updates and the Ministers' pages.
+Australian Honours System
+### [Australian Bravery Decorations - Bondi Junction 2024 - Honours List](https://www.pmc.gov.au/news/australian-bravery-decorations-bondi-junction-2024-honours-list)
+Monday 13 April 2026
+Fuel Supply Taskforce
+### [National Fuel Security Plan ](https://www.pmc.gov.au/news/national-fuel-security-plan)
+Wednesday 1 April 2026
+Behavioural economics
+### [Understanding Australians’ air travel attitudes and experiences](https://www.pmc.gov.au/news/understanding-australians-air-travel-attitudes-and-experiences)
+Wednesday 1 April 2026
+International engagement
+### [Visit to Australia by the President of the European Commission](https://www.pmc.gov.au/news/visit-australia-president-european-commission)
+Friday 27 March 2026
+Graduate program
+### [Kickstart your career at the centre of government](https://www.pmc.gov.au/news/kickstart-your-career-centre-government)
+Thursday 26 March 2026
+International engagement
+### [Visit to Australia by Their Majesties The King and Queen of Denmark](https://www.pmc.gov.au/news/visit-australia-their-majesties-king-and-queen-denmark)
+Tuesday 24 March 2026
+Office for Women
+### [Advancing global gender equality](https://www.pmc.gov.au/news/advancing-global-gender-equality)
+Thursday 19 March 2026
+Office for Women
+### [National plan for Aboriginal and Torres Strait Islander women and children to live free from violence](https://www.pmc.gov.au/news/national-plan-aboriginal-and-torres-strait-islander-women-and-children-live-free-violence)
+Monday 16 March 2026
 Accountability and reporting
 ### [PM&C Capability Review Action Plan](https://www.pmc.gov.au/news/pmc-capability-review-action-plan)
 Thursday 12 March 2026
@@ -13,27 +37,3 @@ Tuesday 10 March 2026
 National Strategy to Achieve Gender Equality
 ### [Status of Women Report Card](https://www.pmc.gov.au/news/status-women-report-card)
 Friday 6 March 2026
-Office for Women
-### [Gender Balance on Government Boards – 2024–25 Annual Report](https://www.pmc.gov.au/news/gender-balance-government-boards-2024-25-annual-report)
-Friday 6 February 2026
-International engagement
-### [Timor-Leste visit](https://www.pmc.gov.au/news/timor-leste-visit)
-Thursday 5 February 2026
-Secretary
-### [IPAA Commencement Address](https://www.pmc.gov.au/news/ipaa-commencement-address)
-Friday 30 January 2026
-Honoured Australians
-### [Congratulations to the Australia Day 2026 Honours List recipients](https://www.pmc.gov.au/news/congratulations-australia-day-2026-honours-list-recipients)
-Tuesday 27 January 2026
-Government
-### [National Day of Mourning for the victims of the Bondi Beach terrorist attack](https://www.pmc.gov.au/news/national-day-mourning-victims-bondi-beach-terrorist-attack)
-Monday 19 January 2026
-Accountability and reporting
-### [PM&C 2025 Capability Review](https://www.pmc.gov.au/news/pmc-2025-capability-review)
-Thursday 15 January 2026
-Protocol and international visits
-### [State Funeral Service for the Honourable Ron Boswell AO](https://www.pmc.gov.au/news/state-funeral-service-honourable-ron-boswell-ao)
-Monday 12 January 2026
-Protocol and international visits
-### [State Memorial Service for the Honourable Nick Bolkus](https://www.pmc.gov.au/news/state-memorial-service-honourable-nick-bolkus)
-Thursday 8 January 2026

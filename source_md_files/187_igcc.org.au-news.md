@@ -1,3 +1,4 @@
+A solid offline-first setup does not require expensive software. 
 [Skip to content](https://igcc.org.au/news/#content)
 News
 Media releases and updates for members and our broader community.
@@ -5,6 +6,14 @@ Media releases and updates for members and our broader community.
 Media releases and updates for members and our broader community.
 ## Filter by:
 ## Or search by:
+###  [ Supercharging Australia’s Future: IGCC’s Policy Priorities ](https://igcc.org.au/supercharging-australias-future-igccs-policy-priorities/)
+31 March 2026
+Mobilising capital for clean energy, industry and climate resilience. 
+[Agriculture & Aquaculture](https://igcc.org.au/topic/agriculture-and-aquaculture/)[Australia](https://igcc.org.au/market/australia/)[Buildings & Infrasctructure](https://igcc.org.au/topic/buildings-and-infrastructure/)[Climate Solutions & Tech](https://igcc.org.au/topic/climate-solutions-and-climate-tech/)[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy](https://igcc.org.au/topic/energy/)[Just Transition](https://igcc.org.au/topic/just-transition/)[Manufacturing](https://igcc.org.au/topic/manufacturing/)[Physical Risk, Adaptation & Resilience](https://igcc.org.au/topic/physical-impacts-resilience/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ We’re Hiring: Methane Engagement and Policy Advisor ](https://igcc.org.au/were-hiring-special-policy-advisor-methane-initiative/)
+13 March 2026
+This newly created role will be responsible for implementing IGCC’s Asia Pacific methane initiative with the execution of high-priority projects and engagements focused on methane. 
+[Corporate Engagement](https://igcc.org.au/workstream/corporate-engagement/)[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy](https://igcc.org.au/topic/energy/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)
 ###  [ IGCC’s 2030 Strategy: A Clear Plan For This Decade ](https://igcc.org.au/igcc-2030-strategy/)
 19 February 2026
 The Investor Group on Climate Change (IGCC) has released its Strategy to 2030. It sets out how we will help accelerate progress toward a climate-resilient economy that is on track, by 2030, for net zero emissions in 2050. 
@@ -85,3 +94,35 @@ Australia’s first National Climate Risk Assessment and Adaptation Plan set a n
 18 September 2025
 It's policies that will get us to the top end of the government's range. 
 [Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ National Climate Risk Assessment is Much Needed Bad News ](https://igcc.org.au/national-climate-risk-assessment-is-much-needed-bad-news/)
+15 September 2025
+IGCC's response to the release of the National Climate Risk Assessment and National Adaptation Plan 
+[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Private: Physical Risk & Resilience](https://igcc.org.au/?post_type=working_group&p=581)
+###  [ Media Release: NSW Climate Minister Penny Sharpe to Address IGCC Summit 2025 ](https://igcc.org.au/media-release-nsw-climate-minister-penny-sharpe-to-address-igcc-summit-2025/)
+3 September 2025
+The Hon. Penny Sharpe, NSW Minister for Climate Change, Energy, the Environment and Heritage, will join the lineup for the highly anticipated IGCC Summit 2025: Decoding the Transition, taking place on 16–17 October at Illumina, Sydney. Tickets are on sale now. 
+[Australia](https://igcc.org.au/market/australia/)[Corporate Engagement](https://igcc.org.au/workstream/corporate-engagement/)[Corporate Engagement Working Group](https://igcc.org.au/working_group/corporate-engagement/)[Investor Group on Climate Change](https://igcc.org.au/topic/investor-group-on-climate-change/)[Investor Practice](https://igcc.org.au/workstream/investor-practice/)[Investor Practice Working Group](https://igcc.org.au/working_group/investor-practice/)[New Zealand](https://igcc.org.au/market/new-zealand/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ The State of Net Zero Investing in New Zealand ](https://igcc.org.au/the-state-of-net-zero-investing-in-new-zealand/)
+2 September 2025
+Investors strengthen climate commitments, but action still lags opportunity. 
+[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Investor Practice](https://igcc.org.au/workstream/investor-practice/)[New Zealand](https://igcc.org.au/market/new-zealand/)
+###  [ OpEd: A Strong Climate Target Will Pay Off ](https://igcc.org.au/oped-a-strong-climate-target-will-pay-off/)
+27 August 2025
+An OpEd we published in The Australian Financial Review. 
+[Energy Transition Working Group](https://igcc.org.au/working_group/energy-transition/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ Submission: Gas Market Reforms must prioritise future-proofed export industries and domestic consumers ](https://igcc.org.au/submission-gas-market-reforms-must-prioritise-future-proofed-export-industries-and-domestic-consumers/)
+19 August 2025
+The Gas Market Review is an opportunity for government to bed down the decarbonisation agenda in key policies, prioritising decarbonisation of Australian exports and providing domestic consumers lower-cost gas, as renewable alternatives are being developed at scale. 
+[Australia](https://igcc.org.au/market/australia/)[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy](https://igcc.org.au/topic/energy/)[Energy Transition Working Group](https://igcc.org.au/working_group/energy-transition/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)
+###  [ Submission: Future-proofing economic reforms must consider green growth industries ](https://igcc.org.au/submission-future-proofing-economic-reforms-must-consider-green-growth-industries/)
+19 August 2025
+The smooth transition to a net zero economy addresses all three of the Reform's priority areas. Green industries are future-proofed, and acting on opportunities to accelerate the transition now will secure economic resilience for Australia, sooner. 
+[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy](https://igcc.org.au/topic/energy/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ Our Agenda for The Economic Reform Roundtable ](https://igcc.org.au/our-agenda-for-economic-reform-roundtable/)
+18 August 2025
+Six broad areas to ensure climate action pays off. 
+[Australia](https://igcc.org.au/market/australia/)[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy](https://igcc.org.au/topic/energy/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+###  [ Submission: Guarantee of origin should align with international best practice ](https://igcc.org.au/submission-guarantee-of-origin-should-align-with-international-best-practice/)
+22 July 2025
+Getting the Renewable Guarantee of Origin Scheme right is critical for market integrity, international alignment, and the ability for investors to meet enhanced climate commitments in their portfolios. 
+[Australia](https://igcc.org.au/market/australia/)[Energy](https://igcc.org.au/topic/energy/)[Energy Transition Working Group](https://igcc.org.au/working_group/energy-transition/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)

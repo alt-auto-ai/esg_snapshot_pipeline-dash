@@ -43,7 +43,7 @@ WORKDIR /app
 # 8_esg_draft_multi_prompt.py, 8.1_esg_highlights.py, Dashboard/build.mjs
 COPY . .
 
-# ── Make pipeline runner executable ─────────────────────────────────────
-RUN chmod +x /app/run_pipeline.sh
+# ── Make pipeline runners executable ────────────────────────────────────
+RUN chmod +x /app/run_pipeline.sh /app/run_docker_pipeline.sh
 
 CMD ["/app/run_pipeline.sh"]

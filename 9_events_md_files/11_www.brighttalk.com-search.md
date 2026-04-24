@@ -1,60 +1,63 @@
 # Search results
 * * *
-[](https://www.brighttalk.com/webcast/13051/662585?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Sustainability Webinar: Proxy Voting Season Preview…
-Yu-Ting Fu, David Patt, Nicole Lantigua & Coen Kleinegris
-Welcome to our Sustainability Webinar: Proxy Voting Season Preview,  
-where our global corporate governance specialists will discuss emerging  
-trends and key themes shaping the 2026 proxy voting season. This ses……
-2 days ago| 32 mins
+[](https://www.brighttalk.com/webcast/19313/665334?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Q1 2026- ABN AMRO Parnassus US ESG Equities…
+Todd C. Ahlsten, Chief Investment Officer and Andrew Choi, Portfolio Manager & Senior Research Analyst
+quarterly review…
+16 hours ago| 30 mins
+[](https://www.brighttalk.com/webcast/14001/664580?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Climate risk across public and private markets: Can one  
+framework work?…
+Responsible Investor in partnership with Climate X
+Asset managers increasingly allocate capital across public and private  
+markets, yet climate risk is still often assessed within asset-class silos. As  
+firms aim to build unified frameworks, differences in data, decision timel……
+17 hours ago| 58 mins
+[](https://www.brighttalk.com/webcast/17701/663114?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Spring progress report 2026: Achievements and lessons  
+learned…
+The PRI
+Join us for the launch of the inaugural progress report for Spring — the  
+PRI’s collaborative stewardship initiative on nature. Marking the first 18  
+months of the initiative, this webinar will present key insights on engag……
+2 days ago| 61 mins
+[](https://www.brighttalk.com/webcast/19313/665917?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Q1 2026 review - ABN AMRO Boston Common Emerging  
+Markets ESG Equities…
+Liz Su Portfolio Manager; Lauren Compere Head of Stewardship and Engagement
+Quarterly review…
+May 07 2026, 11:00pm AEST
+[](https://www.brighttalk.com/webcast/17701/664657?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## ACGA x PRI Joint Webinar - Advancing Investor Stewardship  
+in Asia: Regulatory Reforms & the Path to Stronger Ecosy……
+The PRI and ACGA
+Join PRI and the Asian Corporate Governance Association (ACGA) for  
+this joint webinar, launching ACGA’s new report “Stewardship in Asia:  
+Frameworks, codes and practices.” This session will explore the rapidl……
+3 days ago| 82 mins
 [](https://www.brighttalk.com/webcast/2163/663655?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
 ## Interpreting the Transition: Using Climate Data to Inform  
 Portfolio Construction…
-Alicia White, Senior Product Manager, Climate Solutions, Morningstar Sustainalytics | Alina Olaru, Lead Analyst, ESG Research, Morningstar Sustainalytics | Brendan Maton, Moderator, IPE
+Alicia White, Senior Product Manager, Climate Solutions, Morningstar Sustainalytics | Alina Olaru, Lead Analyst, ESG Research, Morningstar Sustainalytics | Varvara Shershneva, Responsible Investments Analyst, Erste Asset Management
 As global climate milestones draw closer, many investors are seeking to  
 understand how companies are positioned for a rapidly evolving  
 low‑carbon economy. In this webinar we will explore the latest insights……
-Mar 25 2026, 4:00pm UTC
-[](https://www.brighttalk.com/webcast/20732/663636?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## How global organizations are approaching sustainability in  
-2026?…
-Omdia
-Sustainability may have slipped out of the headlines, but for large  
-enterprises it's still non-negotiable. In this Omdia Trend Watch, Senior  
-Analyst Ben Caddy unpacks what our latest IT Enterprise Insights surv……
-10 days ago| 4 mins
-[](https://www.brighttalk.com/webcast/15137/647381?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Elevate your virtualization strategy - Building your ideal  
-solution with Red Hat and partners…
-Kevin Tunks - Global Ecosystem Leader OpenShift Platform, Red Hat | Ken Holtz - Sr Manager, Engineering Partner Management, Red Hat | Ed Keen - Director, OpenShift Platform Global Services, Red Hat | Torsten Volk - Principal Analyst, ESG
-In today's hybrid IT landscape, virtual machines and containers coexist  
-across environments, posing challenges for IT leaders aiming to  
-modernize infrastructure, protect investments, and maintain stability. Th……
-17 days ago| 45 mins
-[](https://www.brighttalk.com/webcast/20373/659671?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## ESG, LkSG & CSDDD: Was jetzt wichtig ist – und wie  
-Sedex/SMETA Transparenz in der Lieferkette schaffen…
-Patricia Gamez - Business Development Associate, Sedex; Fiona Beissel - Sales Development Representative , Sedex; Niklas Gatermann – Reusch Law Senior Associate, Attorney-at-law
-Die ESG-Vorschriften entwickeln sich rasant weiter, und Unternehmen  
-stehen unter zunehmendem Druck, eine wirksame Sorgfaltspflicht und  
-Transparenz in ihren Lieferketten nachzuweisen. Angesichts des bereit……
-23 days ago| 51 mins
-[](https://www.brighttalk.com/webcast/20673/663293?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Clean Energy: Four Companies Control Half the World's  
-Corporate Clean Energy Purchases…
-David Daoud of Compliance Standards LLC
-Four companies, Amazon, Meta, Google, and Microsoft, bought nearly  
-half of all corporate clean energy contracts globally in 2025. Meanwhile,  
-everyone else pulled back, with overall volumes declining for the first ti……
-16 days ago| 5 mins
-[](https://www.brighttalk.com/webcast/10903/664065?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Master a real-world IR strategy with confidence. Expert  
-insights on developing an effective IR plan.…
-Dave Gruber (Principal Analyst, Security Operations Enterprise Strategy Group) and Danny Milrad (Principal Product Marketing Manager Unit 42)
-Is your security plan ready for a real attack? Your incident response plan  
-may appear sound on paper, but an untested defense carries significant  
-real-world costs. It's not about having more tools; it's about having the ……
-7 days ago| 43 mins
+30 days ago| 59 mins
+[](https://www.brighttalk.com/webcast/17701/662395?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Getting ready for 2026 PRI Reporting…
+The PRI
+This year marks an important point for PRI Reporting. In this session,  
+PRI experts will discuss what matters for the 2026 reporting cycle, how  
+the updated Reporting Framework was developed and tested, and wha……
+8 days ago| 49 mins
+[](https://www.brighttalk.com/webcast/17290/662807?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Advancing the Just Transition: Insights from emerging  
+practice in banking and insurance…
+UNEP FI
+As the transition to a low-carbon, climate-resilient economy accelerates,  
+financial institutions have a crucial role to play in ensuring that this shift is  
+fair, inclusive and supportive of long-term economic opportunity. This w……
+22 days ago| 61 mins
 [](https://www.brighttalk.com/webcast/20445/662473?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
 ## Bridging the Gap: Data-Driven Solutions for a Global Path to  
 Sustainability…
@@ -62,21 +65,12 @@ David Imbert Head of Finance Product Marketing, SAP I Jonathan Michie OBE, FAcSS
 Join experts from Oxford, SAP, and Avalara, as they discuss the  
 challenge of global carbon emissions for businesses. While technology  
 enables granular carbon footprint calculations and data sharing, real su……
-30 days ago| 44 mins
-[](https://www.brighttalk.com/webcast/19313/660488?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## ABN AMRO Boston Common Emerging Markets ESG  
-Equities & ABN AMRO M&G Emerging Markets ESG Equities…
-Liz Su, CFA Portfolio Manager & Michael Bourke Head of Emerging Markets Equities, Fund Manager
-joint EM equities webinar for the two funds ABN AMRO Boston Common  
-Emerging Markets ESG Equities & ABN AMRO MG Emerging Markets  
-ESG Equities…
-1 month ago| 48 mins
-[](https://www.brighttalk.com/webcast/9819/661546?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Sustainable investment in focus: 2025 performance and key  
-trends for 2026 - US/EMEA timezone…
-Indrani De, CFA, PRM, Head of Global Investment Research and Lee Clements, Director, Applied SI Research
-Join FTSE Russell for a focused 30 minute deep dive into the latest  
-sustainable investment (SI) trends and performance insights. In this  
-session, our experts will break down 2025 SI outcomes through the len……
-16 days ago| 24 mins
+2 months ago| 44 mins
+[](https://www.brighttalk.com/webcast/13051/662585?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Sustainability Webinar: Proxy Voting Season Preview…
+Yu-Ting Fu, David Patt, Nicole Lantigua & Coen Kleinegris
+Welcome to our Sustainability Webinar: Proxy Voting Season Preview,  
+where our global corporate governance specialists will discuss emerging  
+trends and key themes shaping the 2026 proxy voting season. This ses……
+1 month ago| 32 mins
 Load more

@@ -9,6 +9,82 @@
   * [Speeches](https://www.apra.gov.au/news-and-publications/40)
 
 
+24 April 2026
+#### APRA consults on amendments to reporting standards for life insurers
+Media Releases 
+[APRA consults on amendments to reporting standards for life insurers](https://www.apra.gov.au/news-and-publications/apra-consults-on-amendments-to-reporting-standards-for-life-insurers)
+8 April 2026
+#### APRA applies additional $2m capital requirement to Sovereign Insurance Australia Pty Ltd
+Media Releases 
+[APRA applies additional $2m capital requirement to Sovereign Insurance Australia Pty Ltd](https://www.apra.gov.au/news-and-publications/apra-applies-additional-2m-capital-requirement-to-sovereign-insurance)
+2 April 2026
+#### APRA releases letter on liquidity treatment of deposits placed with settlement service providers
+Media Releases 
+[APRA releases letter on liquidity treatment of deposits placed with settlement service providers](https://www.apra.gov.au/news-and-publications/apra-releases-letter-on-liquidity-treatment-of-deposits-placed-settlement)
+1 April 2026
+#### APRA imposes additional licence conditions on Fiducian
+Media Releases 
+[APRA imposes additional licence conditions on Fiducian](https://www.apra.gov.au/news-and-publications/apra-imposes-additional-licence-conditions-on-fiducian-0)
+1 April 2026
+#### APRA grants new general insurance licence to Europ Assistance Australia
+Media Releases 
+[APRA grants new general insurance licence to Europ Assistance Australia](https://www.apra.gov.au/news-and-publications/apra-grants-new-general-insurance-licence-to-europ-assistance-australia)
+31 March 2026
+#### APRA finalises changes to the capital treatment of longevity products to improve retirement outcomes
+Media Releases 
+[APRA finalises changes to the capital treatment of longevity products to improve retirement outcomes](https://www.apra.gov.au/news-and-publications/apra-finalises-changes-to-capital-treatment-of-longevity-products-to-improve)
+31 March 2026
+#### APRA releases consultation on remaking Level 3 conglomerate standards
+Media Releases 
+[APRA releases consultation on remaking Level 3 conglomerate standards](https://www.apra.gov.au/news-and-publications/apra-releases-consultation-on-remaking-level-3-conglomerate-standards)
+31 March 2026
+#### APRA releases Monthly Authorised Deposit-taking Institution Statistics for February 2026
+Media Releases 
+[APRA releases Monthly Authorised Deposit-taking Institution Statistics for February 2026](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-70)
+31 March 2026
+#### APRA releases private health insurance risk equalisation statistics for 2024-25
+Media Releases 
+[APRA releases private health insurance risk equalisation statistics for 2024-25](https://www.apra.gov.au/news-and-publications/apra-releases-private-health-insurance-risk-equalisation-statistics-for-2024)
+30 March 2026
+#### APRA releases intermediated general insurance statistics for December 2025
+Media Releases 
+[APRA releases intermediated general insurance statistics for December 2025](https://www.apra.gov.au/news-and-publications/apra-releases-intermediated-general-insurance-statistics-for-december-2025)
+30 March 2026
+#### APRA appoints two new Executive Directors
+Media Releases 
+[APRA appoints two new Executive Directors](https://www.apra.gov.au/news-and-publications/apra-appoints-two-new-executive-directors)
+27 March 2026
+#### Direct to APRA security update and accelerated decommission
+Media Releases 
+[Direct to APRA security update and accelerated decommission](https://www.apra.gov.au/news-and-publications/direct-to-apra-security-update-and-accelerated-decommission)
+25 March 2026
+#### Payday Super Readiness
+Media Releases 
+[Payday Super Readiness](https://www.apra.gov.au/news-and-publications/payday-super-readiness)
+24 March 2026
+#### APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience 
+Media Releases 
+[APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience ](https://www.apra.gov.au/news-and-publications/apra-stress-test-shows-how-widening-home-insurance-protection-gap-may-impact)
+23 March 2026
+#### APRA consults on implementation of the Government’s Retirement Reporting Framework
+Media Releases 
+[APRA consults on implementation of the Government’s Retirement Reporting Framework](https://www.apra.gov.au/news-and-publications/apra-consults-on-implementation-of-government%E2%80%99s-retirement-reporting)
+18 March 2026
+#### in1Bank completes return of deposits process
+Media Releases 
+[in1Bank completes return of deposits process](https://www.apra.gov.au/news-and-publications/in1bank-completes-return-of-deposits-process)
+17 March 2026
+#### APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum
+Speeches 
+[APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum](https://www.apra.gov.au/news-and-publications/apra-publishes-therese-mccarthy-hockeys-remarks-to-2026-coba)
+16 March 2026
+#### APRA to consult on enhancements to bank capital and liquidity frameworks
+Media Releases 
+[APRA to consult on enhancements to bank capital and liquidity frameworks](https://www.apra.gov.au/news-and-publications/apra-to-consult-on-enhancements-to-bank-capital-and-liquidity-frameworks)
+16 March 2026
+#### APRA publishes John Lonsdale's remarks to the 2026 AFR Banking Summit
+Speeches 
+[APRA publishes John Lonsdale's remarks to the 2026 AFR Banking Summit](https://www.apra.gov.au/news-and-publications/apra-publishes-john-lonsdales-remarks-to-2026-afr-banking-summit)
 12 March 2026
 #### APRA releases quarterly authorised deposit-taking institution statistics for December 2025
 Media Releases 
@@ -17,82 +93,6 @@ Media Releases
 #### APRA statement on gender pay gap
 Media Releases 
 [APRA statement on gender pay gap](https://www.apra.gov.au/news-and-publications/apra-statement-on-gender-pay-gap)
-2 March 2026
-#### APRA revokes Bank of Nova Scotia’s authorised deposit-taking institution licence
-Media Releases 
-[APRA revokes Bank of Nova Scotia’s authorised deposit-taking institution licence](https://www.apra.gov.au/news-and-publications/apra-revokes-bank-of-nova-scotia%E2%80%99s-authorised-deposit-taking-institution)
-27 February 2026
-#### APRA releases Monthly Authorised Deposit-taking Institution Statistics for January 2026
-Media Releases 
-[APRA releases Monthly Authorised Deposit-taking Institution Statistics for January 2026](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-69)
-27 February 2026
-#### APRA releases quarterly insurance statistics for December 2025
-Media Releases 
-[APRA releases quarterly insurance statistics for December 2025](https://www.apra.gov.au/news-and-publications/apra-releases-quarterly-insurance-statistics-for-december-2025)
-26 February 2026
-#### APRA releases superannuation statistics for December 2025
-Media Releases 
-[APRA releases superannuation statistics for December 2025](https://www.apra.gov.au/news-and-publications/apra-releases-superannuation-statistics-for-december-2025)
-11 February 2026
-#### Opening Statement to Senate Economics Legislation Committee – February 2026
-Opening statements 
-[Opening Statement to Senate Economics Legislation Committee – February 2026](https://www.apra.gov.au/news-and-publications/opening-statement-to-senate-economics-legislation-committee-%E2%80%93-february-2026)
-11 February 2026
-#### APRA grants new general insurance licence to AmTrust Specialty Limited
-Media Releases 
-[APRA grants new general insurance licence to AmTrust Specialty Limited](https://www.apra.gov.au/news-and-publications/apra-grants-new-general-insurance-licence-to-amtrust-specialty-limited)
-5 February 2026
-#### APRA reduces liquidity add-on requirements for Macquarie Bank
-Media Releases 
-[APRA reduces liquidity add-on requirements for Macquarie Bank](https://www.apra.gov.au/news-and-publications/apra-reduces-liquidity-add-on-requirements-for-macquarie-bank)
-4 February 2026
-#### APRA publishes Margaret Cole’s remarks to the Conexus Chair Forum
-Speeches 
-[APRA publishes Margaret Cole’s remarks to the Conexus Chair Forum](https://www.apra.gov.au/news-and-publications/apra-publishes-margaret-cole%E2%80%99s-remarks-to-conexus-chair-forum)
-30 January 2026
-#### APRA releases Monthly Authorised Deposit-taking Institution Statistics for December 2025
-Media Releases 
-[APRA releases Monthly Authorised Deposit-taking Institution Statistics for December 2025](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-68)
-28 January 2026
-#### APRA explains: APRA’s role in private health insurance premium round
-Insight 
-[APRA explains: APRA’s role in private health insurance premium round](https://www.apra.gov.au/news-and-publications/apra-explains-apra%E2%80%99s-role-private-health-insurance-premium-round-0)
-22 January 2026
-#### APRA monitors in1Bank return of deposits
-Media Releases 
-[APRA monitors in1Bank return of deposits](https://www.apra.gov.au/news-and-publications/apra-monitors-in1bank-return-of-deposits)
-19 January 2026
-#### APRA announces executive change
-Media Releases 
-[APRA announces executive change](https://www.apra.gov.au/news-and-publications/apra-announces-executive-change)
-12 January 2026
-#### APRA announces executive departure
-Media Releases 
-[APRA announces executive departure](https://www.apra.gov.au/news-and-publications/apra-announces-executive-departure)
-2 January 2026
-#### APRA releases Monthly Authorised Deposit-taking Institution Statistics for November 2025
-Media Releases 
-[APRA releases Monthly Authorised Deposit-taking Institution Statistics for November 2025](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-67)
-23 December 2025
-#### APRA imposes additional licence conditions on Diversa Trustees Limited
-Media Releases 
-[APRA imposes additional licence conditions on Diversa Trustees Limited](https://www.apra.gov.au/news-and-publications/apra-imposes-additional-licence-conditions-on-diversa-trustees-limited)
-18 December 2025
-#### APRA and AUSTRAC take action in response to risk management deficiencies at Bendigo and Adelaide Bank
-Media Releases 
-[APRA and AUSTRAC take action in response to risk management deficiencies at Bendigo and Adelaide Bank](https://www.apra.gov.au/news-and-publications/apra-and-austrac-take-action-response-to-risk-management-deficiencies-at)
-18 December 2025
-#### APRA imposes additional licence conditions on Equity Trustees Superannuation Limited
-Media Releases 
-[APRA imposes additional licence conditions on Equity Trustees Superannuation Limited](https://www.apra.gov.au/news-and-publications/apra-imposes-additional-licence-conditions-on-equity-trustees-superannuation)
-18 December 2025
-#### APRA accepts court enforceable undertaking from Netwealth
-Media Releases 
-[APRA accepts court enforceable undertaking from Netwealth](https://www.apra.gov.au/news-and-publications/apra-accepts-court-enforceable-undertaking-from-netwealth)
-16 December 2025
-#### APRA releases the Annual Superannuation Bulletin for the 2024-25 financial year
-Media Releases 
-[APRA releases the Annual Superannuation Bulletin for the 2024-25 financial year](https://www.apra.gov.au/news-and-publications/apra-releases-annual-superannuation-bulletin-for-2024-25-financial-year)
 #### Subscribe for updates
 To receive media releases, publications, speeches and other industry-related information by email 
 [Subscribe](https://www.apra.gov.au/newsletter-signup)

@@ -349,15 +349,15 @@ async def main_async():
     print(f"[OUTPUT_QC] {qc_output_path}")
     print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
-    # Candidates: ESG_or_not == 'Yes' AND target columns empty (so we don't overwrite)
+    # Candidates: Relevance is populated AND target columns empty (so we don't overwrite)
     target_cols = ["Hook", "One Liner"]
     candidates = []
     for r in input_rows:
-        esg_or_not = (r.get("ESG_or_not") or "").strip().lower()
+        relevance = (r.get("Relevance") or "").strip()
         has_md = bool((r.get("md_file") or "").strip())
         # Check if at least one target is empty (so reruns can fill missing bits)
         empties = any(not (r.get(col) or "").strip() for col in target_cols)
-        if esg_or_not == "yes" and has_md and empties:
+        if relevance and has_md and empties:
             candidates.append(r)
 
     CONCURRENCY_LIMIT = int(os.getenv("OPENAI_CONCURRENCY", os.getenv("LOCAL_CONCURRENCY", "16")))
@@ -374,7 +374,7 @@ async def main_async():
             for r in results:
                 results_map[r["md_file"]] = r
         else:
-            print("[INFO] No rows to draft (ESG_or_not != 'Yes' or outputs already filled).")
+            print("[INFO] No rows to draft (Relevance is blank or outputs already filled).")
 
     # Merge back: write ALL original columns + Hook/One Liner (append if missing)
     print("\n📁 Writing results to CSV...")
@@ -388,11 +388,11 @@ async def main_async():
         writer.writeheader()
         for row in input_rows:
             md_file = (row.get("md_file") or "").strip()
-            esg_or_not = (row.get("ESG_or_not") or "").strip().lower()
+            relevance = (row.get("Relevance") or "").strip()
             out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
             out_row["ESG_or_not"] = (row.get("ESG_or_not") or "").strip()
 
-            if md_file in results_map and esg_or_not == "yes":
+            if md_file in results_map and relevance:
                 # Only fill empty cells to avoid overwriting manual edits on reruns
                 structured = results_map[md_file]
                 for col in ["Hook", "One Liner"]:

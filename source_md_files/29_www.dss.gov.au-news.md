@@ -2,15 +2,30 @@
 # News
 Latest news and headlines from the Department of Social Services. 
 Menu 
-## Launch of First Nations national plan to end family, domestic and sexual violence
-10 February 2026 
-Our Ways – Strong Ways – Our Voices aims to create a future where Aboriginal and Torres Strait Islander women, children and families live free from violence. 
-  * [ Read more ](https://www.dss.gov.au/news/launch-first-nations-national-plan-end-family-domestic-and-sexual-violence)
+## Advice for DSS-funded service providers experiencing fuel supply disruptions
+21 April 2026 
+If we fund your services and fuel supply is an issue, talk to your Funding Arrangement Manager. 
+  * [ Read more ](https://www.dss.gov.au/news/advice-dss-funded-service-providers-experiencing-fuel-supply-disruptions)
 
 
 ## All news
 Filter
-Showing 1 to 12 of 123 results
+Showing 1 to 12 of 127 results
+News 23 April 2026
+###  [ Coming soon: electronic newsletter for community sector ](https://www.dss.gov.au/news/coming-soon-electronic-newsletter-community-sector)
+Subscribe now to our new fortnightly newsletter, Community Sector News. 
+News 25 March 2026
+###  [ New peak body for First Nations communities ](https://www.dss.gov.au/news/new-peak-body-first-nations-communities)
+The Australian Government is supporting organisations working to end family, domestic and sexual violence. 
+News 16 March 2026
+###  [ 2027 Graduate Development Program – applications open! ](https://www.dss.gov.au/news/2027-graduate-development-program-applications-open)
+If you’re finishing university and thinking about your career options, consider becoming a graduate at DSS. Applications are now open! 
+News 12 March 2026
+###  [ Expressions of interest open for the Domestic, Family and Sexual Violence Advisory Council ](https://www.dss.gov.au/news/expressions-interest-open-domestic-family-and-sexual-violence-advisory-council)
+The Domestic, Family and Sexual Violence Advisory Council will advise on the effectiveness of the National Plan to End Violence against Women and Children 2022-… 
+News 10 February 2026
+###  [ Launch of First Nations national plan to end family, domestic and sexual violence ](https://www.dss.gov.au/news/launch-first-nations-national-plan-end-family-domestic-and-sexual-violence)
+Our Ways – Strong Ways – Our Voices aims to create a future where Aboriginal and Torres Strait Islander women, children and families live free from violence.… 
 News 5 February 2026
 ###  [ New Bill to support the rights of Aboriginal and Torres Strait Islander children and young people ](https://www.dss.gov.au/news/new-bill-support-rights-aboriginal-and-torres-strait-islander-children-and-young-people)
 The Hon Tanya Plibersek is proud to introduce the National Commission for Aboriginal and Torres Strait Islander Children and Young People Bill 2026 (the Bill). 
@@ -32,25 +47,12 @@ This day marks the start of the UN’s 16 Days of Activism for the Elimination o
 News 3 November 2025
 ###  [ A new approach to programs for families and children ](https://www.dss.gov.au/news/new-approach-programs-families-and-children)
 Consultations are now open on proposed reforms to supports and services for families, children and young people. 
-News 3 November 2025
-###  [ More people will find meaningful work with Inclusive Employment Australia ](https://www.dss.gov.au/news/more-people-will-find-meaningful-work-inclusive-employment-australia-0)
-Announcing the new Inclusive Employment Australia program. 
-News 20 October 2025
-###  [ The DSS website is a finalist! ](https://www.dss.gov.au/news/dss-website-finalist)
-The Department of Social Services website is a finalist in the 2025 Australian Access Awards. 
-News 17 October 2025
-###  [ Children’s Week 2025 ](https://www.dss.gov.au/news/childrens-week-2025)
-It’s Children’s Week! A week to recognise the importance of safety and wellbeing in a child’s life. 
-News 5 September 2025
-###  [ It’s National Child Protection Week ](https://www.dss.gov.au/news/its-national-child-protection-week)
-National Child Protection Week 2025 will focus on what we can do to prevent child abuse. 
-News 1 September 2025
-###  [ Women’s Health Week 2025 ](https://www.dss.gov.au/news/womens-health-week-2025)
-We can’t separate women’s safety from women’s health. 
 ####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
 Visit our contact us page. 
 ####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)
 The Ministers' Media Centre is where all speeches, transcripts and media releases from our Ministers are published. 
+####  [ Subscribe to Community Sector News (Opens external website)](https://notify.dss.gov.au/community-sector-news)
+Sign up now to start receiving updates on our latest news and headlines on programs supporting your community. 
   * [ Print ](https://www.dss.gov.au/news)
   * [ Share ](https://www.dss.gov.au/news)
 Share this page: 
@@ -62,7 +64,7 @@ Copy shareable link  Close
 Yes  No 
 Thank you for providing feedback. Help us improve by [telling us what you think](https://www.dss.gov.au/contact-us/enquiries-and-feedback). 
 DSS150 | Permalink: www.dss.gov.au/node/150
-Last modified 22 January 2025.
+Last modified 22 April 2026.
 [ Back to top ](https://www.dss.gov.au/news#top)
 Close 
   * [ ](https://www.dss.gov.au/)
@@ -120,6 +122,7 @@ Close
       * [ Sexual consent ](https://www.dss.gov.au/sexual-consent)
       * [ Help and support ](https://www.dss.gov.au/help-and-support-ending-violence)
       * [ National Plan to End Violence against Women and Children ](https://www.dss.gov.au/national-plan-end-violence-against-women-and-children)
+      * [ Partnering with states and territories ](https://www.dss.gov.au/partnering-states-and-territories)
       * [ Supporting survivors ](https://www.dss.gov.au/our-work/ending-violence-and-abuse/supporting-survivors)
 Close 
         * [ National Redress Scheme ](https://www.dss.gov.au/national-redress-scheme)

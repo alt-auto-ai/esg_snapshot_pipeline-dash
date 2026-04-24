@@ -215,6 +215,34 @@ Get in touch with us or find an expert.
 # News
 Find out about the latest news, announcements and stories about the ANU Institute for Climate, Energy & Disaster Solutions.
 ##  Search 
+[](https://iceds.anu.edu.au/news-events/news/%25E2%2580%2598business-usual%25E2%2580%2599-won%25E2%2580%2599t-help-australians-fully-recover-natural-disasters)
+14 Apr 2026 
+## [‘Business as usual’ won’t help Australians fully recover from natural disasters »](https://iceds.anu.edu.au/news-events/news/%E2%80%98business-usual%E2%80%99-won%E2%80%99t-help-australians-fully-recover-natural-disasters)
+Only four months into 2026, Australia is already grappling with the unrelenting impacts of climate change. 
+[](https://iceds.anu.edu.au/news-events/news/deadly-heat-stress-conditions-already-occurring)
+9 Apr 2026 
+## [Deadly heat stress conditions already occurring »](https://iceds.anu.edu.au/news-events/news/deadly-heat-stress-conditions-already-occurring)
+Deadly heatwave events are occurring at temperatures and humidity levels previously thought to be survivable, according to a new paper by a team of... 
+[](https://iceds.anu.edu.au/news-events/news/business-unusual)
+8 Apr 2026 
+## [Business as Unusual »](https://iceds.anu.edu.au/news-events/news/business-unusual)
+The latest 'State of the Global Climate' report from the World Meteorological Organisation has dropped and it's uncomfortable reading according... 
+[](https://iceds.anu.edu.au/news-events/news/anu-appointed-co%25E2%2580%2591chair-global-alliance-universities-climate)
+2 Apr 2026 
+## [ANU appointed Co‑Chair of Global Alliance for Universities on Climate »](https://iceds.anu.edu.au/news-events/news/anu-appointed-co%E2%80%91chair-global-alliance-universities-climate)
+The Australian National University (ANU) has been formally appointed as a new Co‑Chair of the Global Alliance of Universities on Climate (GAUC), marking a... 
+[](https://iceds.anu.edu.au/news-events/news/fake-news-everything-whales-wind-farms-australia-flooded-climate-misinformation)
+1 Apr 2026 
+## [Fake news on everything from whales to wind farms: Australia is flooded with climate misinformation »](https://iceds.anu.edu.au/news-events/news/fake-news-everything-whales-wind-farms-australia-flooded-climate-misinformation)
+Australia is facing a wave of misinformation and disinformation on climate change and energy. 
+[](https://iceds.anu.edu.au/news-events/news/oil-reserves-last-weeks-solar-panels-last-decades)
+26 Mar 2026 
+## [Oil reserves last for weeks. Solar panels last for decades »](https://iceds.anu.edu.au/news-events/news/oil-reserves-last-weeks-solar-panels-last-decades)
+Oil and gas prices are shooting up as war in the Middle East cuts down the supply of fossil fuels available, in what has been described as “the largest supply... 
+[](https://iceds.anu.edu.au/news-events/news/public-interest-technology-and-australias-energy-system)
+20 Feb 2026 
+## [Public interest technology and Australia's energy system »](https://iceds.anu.edu.au/news-events/news/public-interest-technology-and-australias-energy-system)
+Report on Public Interest Technology and why it is a useful approach to designing and utilising technology for the good of all. 
 [](https://iceds.anu.edu.au/news-events/news/anu-climate-update-2026-recording)
 19 Feb 2026 
 ## [ANU Climate Update 2026 recording »](https://iceds.anu.edu.au/news-events/news/anu-climate-update-2026-recording)
@@ -235,34 +263,6 @@ Beyond the headline losses, disasters can lead to ongoing socio-economic problem
 13 Jan 2026 
 ## [Water cycle instability drove global water-related disasters in 2025 »](https://iceds.anu.edu.au/news-events/news/water-cycle-instability-drove-global-water-related-disasters-2025)
 New research led by Professor Albert van Dijk revealed water-related disasters in 2025 caused nearly 5,000 deaths, displaced around 8 million people, and... 
-[](https://iceds.anu.edu.au/news-events/news/1-15-act-emergency-department-visits-linked-extreme-weather)
-8 Jan 2026 
-## [1 in 15 ACT Emergency Department visits linked to extreme weather »](https://iceds.anu.edu.au/news-events/news/1-15-act-emergency-department-visits-linked-extreme-weather)
-New research from Dr Michael Tong and colleagues shows extreme weather is responsible for one in 15 emergency department visits, with climate change expected... 
-[](https://iceds.anu.edu.au/news-events/news/hundreds-iceberg-earthquakes-detected-crumbling-end-antarctica%25E2%2580%2599s-doomsday-glacier)
-16 Dec 2025 
-## [Hundreds of iceberg earthquakes detected at the crumbling end of Antarctica’s Doomsday Glacier »](https://iceds.anu.edu.au/news-events/news/hundreds-iceberg-earthquakes-detected-crumbling-end-antarctica%E2%80%99s-doomsday-glacier)
-Dr Thanh-Son Pham has recently discovered glacial earthquakes in Antarctica, possibly driven by different factors from their Northern Hemisphere counterparts.... 
-[](https://iceds.anu.edu.au/news-events/news/australia-has-new-laws-protect-nature-do-they-signal-end-native-forest%25C2%25A0logging)
-10 Dec 2025 
-## [Australia has new laws to protect nature. Do they signal an end to native forest logging? »](https://iceds.anu.edu.au/news-events/news/australia-has-new-laws-protect-nature-do-they-signal-end-native-forest%C2%A0logging)
-Reforms to Australia’s nature laws have passed federal parliament. A longstanding exemption that meant federal environment laws did not apply to native logging... 
-[](https://iceds.anu.edu.au/news-events/news/mcmichael-award-inspiring-research-excellence-anu)
-8 Dec 2025 
-## [The McMichael Award: Inspiring Research Excellence at ANU »](https://iceds.anu.edu.au/news-events/news/mcmichael-award-inspiring-research-excellence-anu)
-This annual award offers a springboard for early- and mid-career researchers working at the critical nexus of environment and health. 
-[](https://iceds.anu.edu.au/news-events/news/1939-royal-commission-found-burning-forests-leads-more-bushfires-cycle-destruction)
-3 Dec 2025 
-## [In 1939, a Royal Commission found burning forests leads to more bushfires. But this cycle of destruction can be stopped »](https://iceds.anu.edu.au/news-events/news/1939-royal-commission-found-burning-forests-leads-more-bushfires-cycle-destruction)
-Every year, government workers around Australia start fires in the bush. The idea behind these prescribed burning programs is that removing dry leaves and... 
-[](https://iceds.anu.edu.au/news-events/news/best-locations-build-new-powerlines-australia)
-1 Dec 2025 
-## [The best locations to build new powerlines in Australia »](https://iceds.anu.edu.au/news-events/news/best-locations-build-new-powerlines-australia)
-The best spots in Australia to build new powerlines and unlock vast amounts of low-cost solar and wind power have been identified by ANU researchers. 
-[](https://iceds.anu.edu.au/news-events/news/brazil-trying-stop-fossil-fuel-interests-derailing-cop30-one-simple-measure)
-20 Nov 2025 
-## [Brazil is trying to stop fossil fuel interests derailing COP30 with one simple measure »](https://iceds.anu.edu.au/news-events/news/brazil-trying-stop-fossil-fuel-interests-derailing-cop30-one-simple-measure)
-Professor Christian Downie describes the increasing push back against fossil fuel lobbying in this article for The Conversation 
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/news?page=1 "Go to page 2")
@@ -275,7 +275,7 @@ Professor Christian Downie describes the increasing push back against fossil fue
   * [9](https://iceds.anu.edu.au/news-events/news?page=8 "Go to page 9")
   * …
   * [next ›](https://iceds.anu.edu.au/news-events/news?page=1 "Go to next page")
-  * [last »](https://iceds.anu.edu.au/news-events/news?page=74 "Go to last page")
+  * [last »](https://iceds.anu.edu.au/news-events/news?page=75 "Go to last page")
 
 
 Updated: **16 April 2021** /Responsible Officer: /Page Contact: 

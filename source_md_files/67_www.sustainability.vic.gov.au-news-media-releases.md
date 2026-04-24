@@ -3,7 +3,7 @@
   * [ Skip to footer ](https://www.sustainability.vic.gov.au/news/media-releases#footer)
 
 
-Statement on outcomes from the Silver Review 
+Updated statement on outcomes from the Silver Review (19 March 2026) 
 In its response to the Silver Review, the government has determined that Sustainability Victoria and its functions will be abolished in 2026. 
 [Read our full statement](https://www.sustainability.vic.gov.au/news/news-articles/statement-on-outcomes-from-the-silver-review).
 Dismiss alert
@@ -23,7 +23,6 @@ Back to top
 ### Subscribe to sustainability
 Sign up
 Subscribe to sustainability
-Sustainability Victoria has different e-newsletters you can subscribe to across personal interest, business, government, education, and the community sector. Select the areas that best interest you to get the latest sustainability news delivered right to your inbox.
 Sustainability Victoria collects, uses, and discloses your personal information for the purpose of this newsletter and may disclose your information to our business partners for the purpose of providing this service, including to our email marketing service provider, Mailchimp. Mailchimp databases, while stored outside of Australia, are maintained securely by the service provider and are managed subject to Australian privacy legislation requirements.
 We manage personal information in accordance with the Privacy and Data Protection Act 2014 and our Privacy policy. If you wish to be removed from our mailing list, have any questions relating to the [Privacy policy](https://www.sustainability.vic.gov.au/about-us/legal-and-policies/privacy-policy) or wish to seek access to the personal information which Sustainability Victoria holds about you, please contact us in writing addressed to 
 var versaTag = {}; versaTag.id = "10160"; versaTag.sync = 0; versaTag.dispType = "js"; versaTag.ptcl = "HTTPS"; versaTag.bsUrl = "bs.serving-sys.com/BurstingPipe"; //VersaTag activity parameters include all conversion parameters including custom parameters and Predefined parameters. Syntax: "ParamName1":"ParamValue1", "ParamName2":"ParamValue2". ParamValue can be empty. versaTag.activityParams = { //Predefined parameters: "Session":"" //Custom parameters: }; //Static retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty. versaTag.retargetParams = {}; //Dynamic retargeting tags parameters. Syntax: "TagID1":"ParamValue1", "TagID2":"ParamValue2". ParamValue can be empty. versaTag.dynamicRetargetParams = {}; // Third party tags conditional parameters and mapping rule parameters. Syntax: "CondParam1":"ParamValue1", "CondParam2":"ParamValue2". ParamValue can be empty. versaTag.conditionalParams = {}; 

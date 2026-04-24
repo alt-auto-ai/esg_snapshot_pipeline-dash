@@ -7,9 +7,8 @@ python 3.1_story_md_cleaning.py
 python 4_story_filter_esg_or_not.py
 python 4.1_story_type.py
 python 5_story_filter_jurisdiction.py
-python 6_esg_summary.py
 python 7_esg_relevance.py
-python 8_esg_draft.py
+python 7.1_esg_relevance_score.py
 python 8_esg_draft_multi_prompt.py
 python 8.1_esg_highlights.py
 python 9_delete_event_mds.py
@@ -25,7 +24,7 @@ python 10.1_extracting_jobs_with_ai.py
 python 10.2_crawl_job_with_main_selector.py
 python 11_job_descriptions.py
 
-node "/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/Dashboard/build.mjs"
+node "/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/Dashboard/build2.mjs"
 
 
 
@@ -114,13 +113,21 @@ docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pip
 docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline node Dashboard/build.mjs
 
 
+## REBUILD IMAGE
 
 cd /home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED
 docker build -t esg-snapshot-pipeline:latest .
 docker images esg-snapshot-pipeline:latest
 
+## RUN EPHIEMERAL CONTAINER 
 
 docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline
+docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline:latest
+
+
+## DELETE IMAGE  
+
+docker rmi esg-snapshot-pipeline:latest
 
 
 # Git push workflow

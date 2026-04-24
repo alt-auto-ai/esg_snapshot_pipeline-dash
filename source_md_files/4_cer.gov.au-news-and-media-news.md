@@ -5,6 +5,27 @@ Stay up to date on the latest news from the Clean Energy Regulator.
 You can also browse our [media releases](https://cer.gov.au/news-and-media/media-centre/media-releases "Media releases").
 ## All news
 RET
+ACCU
+Markets
+News
+#### Explore the Q1 2026 QCMR data workbook
+22 April 2026
+The Q4 2025 QCMR data workbook is now available. When the full QCMR is published, the workbook will be updated with further data and charts.&nbsp; 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/april/explore-q1-2026-qcmr-data-workbook)
+Safeguard
+Compliance
+News
+#### Explore the 2024–25 Safeguard Mechanism data
+15 April 2026
+The 2024–25 Safeguard Mechanism data has now been published. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/april/explore-2024-25-safeguard-mechanism-data)
+NGER
+News
+#### National Greenhouse and Energy Reporting Scheme: 2026 public consultation 
+09 April 2026
+2026 National Greenhouse and Energy Reporting Scheme public consultation is now open. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/april/national-greenhouse-and-energy-reporting-scheme-2026-public-consultation)
+RET
 Compliance
 News
 #### Phenix Trading’s registration permanently suspended
@@ -44,25 +65,4 @@ News
 21 January 2026
 The Q4 2025 Quarterly Carbon Market Report (QCMR) data workbook is available now. 
 [ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/january/explore-q4-2025-qcmr-data-workbook)
-ACCU
-Audit
-Emissions reduction
-News
-#### Fifth independent review of HIR gateway checks
-16 December 2025
-Read Associate Professor (Honorary) Cris Brack’s fifth independent review of human-induced regeneration gateway checks. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2025/december/fifth-independent-review-hir-gateway-checks)
-RET
-Renewable energy
-News
-#### Changes to the Cheaper Home Batteries Program 
-13 December 2025
-The Australian Government has announced it would expand the Cheaper Home Batteries Program. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2025/december/changes-to-cheaper-home-batteries-program)
-RET
-News
-#### Register of solar water heaters version 56 is now available
-10 December 2025
-Version 56 of the register of solar water heaters is now available, listing eligible models for small-scale technology certificates. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2025/december/register-solar-water-heaters-version-56-now-available)
 ## Was this page helpful?

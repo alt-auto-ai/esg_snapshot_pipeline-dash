@@ -1,6 +1,14 @@
 [ Skip to main content ](https://www.dewr.gov.au/newsroom#main-content)
 #  Newsroom 
-### [ Finding her power: Rosemary’s journey to a brighter future 10 March 2026 ](https://www.dewr.gov.au/newsroom/articles/finding-her-power-rosemarys-journey-brighter-future)
+### [ Victorian TAFE Centre of Excellence to power clean energy workforce  17 April 2026 ](https://www.dewr.gov.au/newsroom/articles/victorian-tafe-centre-excellence-power-clean-energy-workforce)
+  * ### [ Recognition of Prior Learning 16 April 2026 ](https://www.dewr.gov.au/newsroom/articles/recognition-prior-learning)
+  * ### [ Digital TAFE Centre of Excellence for New South Wales 14 April 2026 ](https://www.dewr.gov.au/newsroom/articles/digital-tafe-centre-excellence-new-south-wales)
+  * ### [ A VET qualification helped Lara pursue her passion for teaching 7 April 2026 ](https://www.dewr.gov.au/newsroom/articles/vet-qualification-helped-lara-pursue-her-passion-teaching)
+  * ### [ Lauren's self-employment journey: turning workplace learning into a scalable business 31 March 2026 ](https://www.dewr.gov.au/newsroom/articles/laurens-self-employment-journey-turning-workplace-learning-scalable-business)
+  * ### [ Turning knowledge into impact: Srijan’s career leap  25 March 2026 ](https://www.dewr.gov.au/newsroom/articles/turning-knowledge-impact-srijans-career-leap)
+  * ### [ From doubt to determination: Danton’s road to success 24 March 2026 ](https://www.dewr.gov.au/newsroom/articles/doubt-determination-dantons-road-success)
+  * ### [ Nominations now open for the 2026 Australian Training Awards  16 March 2026 ](https://www.dewr.gov.au/newsroom/articles/nominations-now-open-2026-australian-training-awards)
+  * ### [ Finding her power: Rosemary’s journey to a brighter future 10 March 2026 ](https://www.dewr.gov.au/newsroom/articles/finding-her-power-rosemarys-journey-brighter-future)
   * ### [ Building Women’s Careers marks one year of impact across Australia 2 March 2026 ](https://www.dewr.gov.au/newsroom/articles/building-womens-careers-marks-one-year-impact-across-australia)
   * ### [ REAL Program launches to support First Nations people to transition out of the justice system 25 February 2026 ](https://www.dewr.gov.au/newsroom/articles/real-program-launches-support-first-nations-people-transition-out-justice-system)
   * ### [ Two new TAFE Centres of Excellence announced for Victoria 24 February 2026 ](https://www.dewr.gov.au/newsroom/articles/two-new-tafe-centres-excellence-announced-victoria)
@@ -17,14 +25,6 @@
   * ### [ Hyunjin’s small business journey: a simple idea goes international 9 December 2025 ](https://www.dewr.gov.au/newsroom/articles/hyunjins-small-business-journey-simple-idea-goes-international)
   * ### [ Review of the Closing Loopholes Act and Closing Loopholes No. 2 Act (the Closing Loopholes Review)  5 December 2025 ](https://www.dewr.gov.au/newsroom/articles/review-closing-loopholes-act-and-closing-loopholes-no2-act-closing-loopholes-review)
   * ### [ Hannah’s small business journey: Inspiring others to create their own path to success 3 December 2025 ](https://www.dewr.gov.au/newsroom/articles/hannahs-small-business-journey-inspiring-others-create-their-own-path-success)
-  * ### [ Celebrating 40 years of supporting business owners through Self-Employment Assistance 28 November 2025 ](https://www.dewr.gov.au/newsroom/articles/celebrating-40-years-supporting-business-owners-through-selfemployment-assistance)
-  * ### [ A childhood dream made possible with support! Anthony’s story 19 November 2025 ](https://www.dewr.gov.au/newsroom/articles/childhood-dream-made-possible-support-anthonys-story)
-  * ### [ VET helped Clarisse achieve her entrepreneurial dream 14 November 2025 ](https://www.dewr.gov.au/newsroom/articles/vet-helped-clarisse-achieve-her-entrepreneurial-dream)
-  * ### [ From hobby to hustle: Taylah’s journey to small business success 11 November 2025 ](https://www.dewr.gov.au/newsroom/articles/hobby-hustle-taylahs-journey-small-business-success)
-  * ### [ The life-changing service helping more than 24,500 parents and carers 31 October 2025 ](https://www.dewr.gov.au/newsroom/articles/lifechanging-service-helping-more-24500-parents-and-carers)
-  * ### [ First Nations engagement in the transition to net zero 31 October 2025 ](https://www.dewr.gov.au/newsroom/articles/first-nations-engagement-transition-net-zero)
-  * ### [ From tragedy to triumph: VET enabled career transformation 24 October 2025 ](https://www.dewr.gov.au/newsroom/articles/tragedy-triumph-vet-enabled-career-transformation)
-  * ### [ Australian Training Awards 2025 finalists announced 23 October 2025 ](https://www.dewr.gov.au/newsroom/articles/australian-training-awards-2025-finalists-announced)
 
 
 Back to top

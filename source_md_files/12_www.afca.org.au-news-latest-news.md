@@ -1,6 +1,24 @@
 [ Skip to main content ](https://www.afca.org.au/news/latest-news#main-content)
 #  Latest news
 ### Year published
+08  APR 26 
+##### [AFCA publishes a video explaining what happens after a consumer receives a determination](https://www.afca.org.au/news/latest-news/afca-publishes-a-video-explaining-what-happens-after-a-consumer-receives-a-determination)
+AFCA has published a video with Shail Singh, Lead Ombudsman Investments and Advice, which explains what consumers can expect after receiving an AFCA determination. 
+24  MAR 26 
+##### [AFCA publishes EDR Response Guide for Superannuation complaints about Insurance Cancellation](https://www.afca.org.au/news/latest-news/afca-publishes-edr-response-guide-for-superannuation-complaints-about-insurance-cancellation)
+AFCA has published a new External Dispute Resolution (EDR) Response Guide for Superannuation complaints about Insurance Cancellation. This adds to our growing library of EDR response guides designed to support our members. 
+20  MAR 26 
+##### [AFCA publishes videos explaining their jurisdiction relating to Shield and First Guardian collapse](https://www.afca.org.au/news/latest-news/afca-publishes-videos-explaining-their-jurisdiction-relating-to-shield-and-first-guardian-collapse)
+AFCA has published a series of videos featuring Shail Singh, Lead Ombudsman Investments and Advice, to help consumers understand AFCA’s jurisdiction and who they can consider complaints about. 
+17  MAR 26 
+##### [AFCA publishes details of expelled members](https://www.afca.org.au/news/latest-news/afca-publishes-details-of-expelled-members-march-26)
+The Australian Financial Complaints Authority (AFCA) has published the details of 801 members that have been expelled from AFCA and one member that will be expelled from AFCA on 25 March 2026. 
+13  MAR 26 
+##### [Receiving banks jurisdiction for scam complaints](https://www.afca.org.au/news/latest-news/receiving-banks-jurisdiction-for-scam-complaints)
+AFCA’s jurisdiction has expanded, allowing us to investigate scam-related complaints involving receiving banks and unauthorised opening of accounts and credit facilities in a consumer’s name without their consent or authority. 
+13  MAR 26 
+##### [AFCA publishes video update explaining the United Global Capital Lead Decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-united-global-capital-lead-decision)
+AFCA has published a new short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the lead decision involving United Global Capital (in liquidation). 
 12  MAR 26 
 ##### [AFCA publishes updated Rules and Operational Guidelines](https://www.afca.org.au/news/latest-news/afca-publishes-updated-rules-and-operational-guidelines)
 AFCA has published its updated Rules and Operational Guidelines (OGs), which come into effect on 12 March 2026 following extensive consultation with industry, consumer groups, paid representatives and other stakeholders, and subsequent ASIC approval. 
@@ -19,24 +37,6 @@ AFCA has published a new video featuring Shail Singh, Lead Ombudsman Investments
 19  FEB 26 
 ##### [AFCA notes ASIC’s new guidance for employee entitlement schemes](https://www.afca.org.au/news/latest-news/afca-notes-asics-new-guidance-for-employee-entitlement-schemes)
 AFCA notes ASIC’s release of 
-13  FEB 26 
-##### [AFCA publishes video update on Shield and First Guardian complaint volumes](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-on-shield-and-first-guardian-complaint-volumes)
-AFCA has published a video update from Shail Singh, Lead Ombudsman Investments and Advice, outlining the latest complaints data relating to the collapse of the Shield and First Guardian M 
-06  FEB 26 
-##### [AFCA publishes updated EDR Response Guide for Claim Delay complaints](https://www.afca.org.au/news/latest-news/afca-publishes-updated-edr-response-guide-for-claim-delay-complaints)
-In response to increased numbers of complaints about general insurance claims delays, AFCA has published an updated version of our EDR Response Guide for Claim Delay complaints. 
-02  FEB 26 
-##### [AFCA publishes video update explaining the Interprac Financial Planning lead decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-interprac-financial-planning-lead-decision)
-AFCA has published its latest short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the Interprac Financial Planning lead decision. 
-28  JAN 26 
-##### [AFCA publishes Superannuation Complaints Guide, replacing Transitional Superannuation Guide](https://www.afca.org.au/news/latest-news/afca-publishes-superannuation-complaints-guide-replacing-transitional-superannuation-guide)
-AFCA has published a detailed Superannuation Complaints Guide, replacing the former Transitional Superannuation Guide. 
-23  JAN 26 
-##### [AFCA publishes video update explaining the FSGA lead decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-fsga-lead-decision)
-AFCA has published a new short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the Financial Services Group Australia (FSGA) lead decision. 
-16  JAN 26 
-##### [AFCA publishes video update explaining the MWL Financial Services lead decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-mwl-financial-services-lead-decision)
-AFCA has published a short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the MWL Financial Services lead decision.
 ## Live Chat
 Minimize window
 View our chat service terms and conditions

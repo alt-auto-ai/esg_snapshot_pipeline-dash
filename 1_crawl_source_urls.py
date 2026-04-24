@@ -45,7 +45,7 @@ def sanitize_url_for_filename(url):
     base = re.sub(r"-+", "-", base).strip("-._")
     return base or "url"
 
-async def process_url(url, index, crawler, config, fallback_config, total_urls, failures, max_retries=3):
+async def process_url(url, index, crawler, config, total_urls, failures):
     # Fix URL format first
     fixed_url = fix_url(url)
     if not fixed_url:
@@ -59,57 +59,35 @@ async def process_url(url, index, crawler, config, fallback_config, total_urls, 
         })
         return
 
-    # Implement retry mechanism with exponential backoff
-    for attempt in range(max_retries):
-        try:
-            run_config = config if attempt == 0 else fallback_config
-            result = await crawler.arun(url=fixed_url, config=run_config)
-            if result.success:
-                # Create output directory if it doesn't exist
-                os.makedirs('source_md_files', exist_ok=True)
-                
-                # Save markdown to file
-                url_slug = sanitize_url_for_filename(fixed_url)
-                output_file = f'source_md_files//{index}_{url_slug}.md'
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write(result.markdown.raw_markdown)
-                print(f"[{index}/{total_urls}] Successfully processed: {fixed_url}")
-                return
-            else:
-                # For non-retryable errors, break immediately
-                if "Invalid URL" in result.error_message:
-                    break
-                
-                if attempt < max_retries - 1:
-                    # Calculate wait time with caps: 1s for first retry, 5s for second, 10s for third
-                    wait_time = min(2 ** attempt, 5 if attempt == 1 else 10 if attempt == 2 else 1)
-                    print(f"[{index}/{total_urls}] Attempt {attempt + 1}/{max_retries} failed. Retrying in {wait_time}s...")
-                    await asyncio.sleep(wait_time)
-                else:
-                    error_msg = f"[{index}/{total_urls}] Error processing: {fixed_url} - {result.error_message}"
-                    print(error_msg)
-                    failures.append({
-                        'index': index,
-                        'url': fixed_url,
-                        'error': f"After {max_retries} attempts: {result.error_message}",
-                        'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                    })
-        
-        except Exception as e:
-            if attempt < max_retries - 1:
-                # Use same capped wait times for consistency
-                wait_time = min(2 ** attempt, 5 if attempt == 1 else 10 if attempt == 2 else 1)
-                print(f"[{index}/{total_urls}] Unexpected error. Retrying in {wait_time}s... Error: {str(e)}")
-                await asyncio.sleep(wait_time)
-            else:
-                error_msg = f"[{index}/{total_urls}] Fatal error processing: {fixed_url} - {str(e)}"
-                print(error_msg)
-                failures.append({
-                    'index': index,
-                    'url': fixed_url,
-                    'error': f"Unexpected error after {max_retries} attempts: {str(e)}",
-                    'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                })
+    try:
+        result = await crawler.arun(url=fixed_url, config=config)
+        if result.success:
+            os.makedirs('source_md_files', exist_ok=True)
+            url_slug = sanitize_url_for_filename(fixed_url)
+            output_file = f'source_md_files//{index}_{url_slug}.md'
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write(result.markdown.raw_markdown)
+            print(f"[{index}/{total_urls}] Successfully processed: {fixed_url}")
+            return
+
+        error_msg = f"[{index}/{total_urls}] Error processing: {fixed_url} - {result.error_message}"
+        print(error_msg)
+        failures.append({
+            'index': index,
+            'url': fixed_url,
+            'error': result.error_message,
+            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        })
+
+    except Exception as e:
+        error_msg = f"[{index}/{total_urls}] Fatal error processing: {fixed_url} - {str(e)}"
+        print(error_msg)
+        failures.append({
+            'index': index,
+            'url': fixed_url,
+            'error': str(e),
+            'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        })
 
 async def main():
     # 1. Configure browser for lightweight operation
@@ -151,23 +129,6 @@ async def main():
         scroll_delay=0.2                  # Reduced scroll delay
     )
 
-    # 3.1 Fallback config: used only on retries to improve completeness/reliability
-    fallback_config = CrawlerRunConfig(
-        markdown_generator=md_generator,
-        exclude_external_links=True,
-        excluded_tags=['nav', 'footer', 'header', 'aside', 'form', 'script', 'style'],
-        wait_until="networkidle",
-        page_timeout=45000,
-        cache_mode=CacheMode.BYPASS,
-        delay_before_return_html=1.2,
-        exclude_all_images=True,
-        process_iframes=False,
-        capture_network_requests=False,
-        capture_console_messages=False,
-        scan_full_page=True,
-        scroll_delay=0.2
-    )
-
     # 4. Configure memory-adaptive dispatcher
     dispatcher = MemoryAdaptiveDispatcher(
         memory_threshold_percent=80.0,     # Throttle at 80% memory usage
@@ -197,7 +158,7 @@ async def main():
                 row_index = idx + 1
                 url = urls[idx]
                 tasks.append(
-                    process_url(url, row_index, crawler, config, fallback_config, total_urls, failures)
+                    process_url(url, row_index, crawler, config, total_urls, failures)
                 )
 
             await asyncio.gather(*tasks)

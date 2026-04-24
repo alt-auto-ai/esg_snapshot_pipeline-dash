@@ -1,6 +1,18 @@
 [ Skip to main content ](https://www.chiefscientist.gov.au/news/latest-news#main-content)
 # Latest news
 ### 
+[Chief Scientist delivers speech at the Centre for AI and Digital Ethics](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-speech-centre-ai-and-digital-ethics)
+On Wednesday 22 April 2026, Prof Tony Haymet delivered a speech at the Centre for AI and Digital Ethics in Melbourne.
+[](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-speech-centre-ai-and-digital-ethics)
+### 
+[Information resilience: understanding and protecting against mis and disinformation](https://www.chiefscientist.gov.au/news-and-media/information-resilience-understanding-and-protecting-against-mis-and-disinformation)
+The National Science and Technology Council has released a series of reports examining how resilience to misinformation can be strengthened in Australia.
+[](https://www.chiefscientist.gov.au/news-and-media/information-resilience-understanding-and-protecting-against-mis-and-disinformation)
+### 
+[Keeping an eye on the now and the next: Science Meets Parliament 2026 dinner speech](https://www.chiefscientist.gov.au/news-and-media/keeping-eye-now-and-next-science-meets-parliament-2026-dinner-speech)
+Professor Tony Haymet spoke at the Science Meets Parliament 2026 dinner on 25 March.
+[](https://www.chiefscientist.gov.au/news-and-media/keeping-eye-now-and-next-science-meets-parliament-2026-dinner-speech)
+### 
 [Fighting fire with science ](https://www.chiefscientist.gov.au/news-and-media/fighting-fire-science)
 Australia’s Chief Scientist, Professor Tony Haymet, recently visited a UNSW exhibition showcasing advanced bushfire research and technology. This cinematic exhibition helps firefighters and communities to better understand the behaviour of fires under different conditions.
 [](https://www.chiefscientist.gov.au/news-and-media/fighting-fire-science)
@@ -28,16 +40,4 @@ Australia's Chief Scientist, Professor Tony Haymet, and the Office of the Chief 
 [Prof Haymet delivers speech at the Marie Krogh Young Women in Science Prize](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-marie-krogh-young-women-science-prize)
 On 25 November 2025, Prof Tony Haymet delivered a speech for the Marie Krogh Young Women in Science Prize.
 [](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-marie-krogh-young-women-science-prize)
-### 
-[Chief Scientist delivers keynote address at CropLife Australia Members' Forum](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-keynote-address-croplife-australia-members-forum)
-On Wednesday 29 October 2025, Australia's Chief Scientist, Prof Tony Haymet delivered a speech to the CropLife Australia National Members' Forum in Canberra.
-[](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-keynote-address-croplife-australia-members-forum)
-### 
-[Prof Haymet delivers speech at the ATSE Awards Gala dinner](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-atse-awards-gala-dinner)
-On Thursday 30 October 2025, Prof Tony Haymet delivered a speech at the Australian Academy of Technological Sciences and Engineering Awards Gala Dinner in Adelaide.
-[](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-atse-awards-gala-dinner)
-### 
-[Prof Haymet delivers speech at the 2025 International Data Week Conference](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-2025-international-data-week-conference)
-On Monday 13 October, Prof Haymet delivered a speech at the 2025 International Data Week Conference in Brisbane.
-[](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-2025-international-data-week-conference)
 [▲Back to top](https://www.chiefscientist.gov.au/news/latest-news#top "Back to top")

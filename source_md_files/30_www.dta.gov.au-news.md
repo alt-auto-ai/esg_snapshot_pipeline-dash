@@ -13,7 +13,37 @@ Articles
 Updates
 Search
 Filter by Topic- Any - Artificial Intelligence Assurance Australian Government Architecture Benefits Management BuyICT Contestability Corporate Data and Digital Government Strategy Digital and ICT procurement Digital Experience Policy Digital Investment Plans Digital Leadership Digital Marketplace Digital Service Standard Enterprise Resource Planning Industry Engagement International Engagement Investment Oversight Framework Major Digital Projects Report Policy, Guidance, Standards Strategic Planning Whole-of-Government Arrangements Workforce Planning Archived
-Displaying 1 - 10 of 350
+Displaying 1 - 10 of 355
+Article
+22
+Apr 2026
+## [Speech: Accelerating Data and Digital AI Capability in the Australian Public Service](https://www.dta.gov.au/articles/speech-accelerating-data-and-digital-ai-capability-australian-public-service)
+Lucy Poole, Deputy CEO of the DTA, addressed the Annual Data and Digital Governance Summit.
+[Artificial Intelligence](https://www.dta.gov.au/taxonomy/term/33)
+Article
+01
+Apr 2026
+## [​New myGov guidance now available on digital.gov.au](https://www.dta.gov.au/articles/new-mygov-guidance-now-available-digitalgovau)
+The DTA has published new myGov onboarding guidance from Services Australia on digital.gov.au, marking the first individual contribution from an external delivery agency. The publication of the guidance supports digital.gov.au’s development as a shared central platform for whole-of-government digital policy, standards and practical delivery guidance. 
+[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
+Article
+31
+Mar 2026
+## [New central register of AI transparency statements for Commonwealth entities](https://www.dta.gov.au/articles/new-central-register-ai-transparency-statements-commonwealth-entities)
+The DTA has improved the visibility of the Australian Government’s AI transparency statements by bringing them together on digital.gov.au. 
+[Artificial Intelligence](https://www.dta.gov.au/taxonomy/term/33)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
+Article
+30
+Mar 2026
+## [DTA launches a new panel for Microsoft Licensing Solutions](https://www.dta.gov.au/articles/dta-launches-new-panel-microsoft-licensing-solutions)
+The DTA has established a new panel for the Microsoft License Solution Provider. The Panel is now available for buyers to use.
+[Whole-of-Government Arrangements](https://www.dta.gov.au/taxonomy/term/43)
+Article
+20
+Mar 2026
+## [Updated Delivery Confidence Assessment guidance to support modern digital delivery ](https://www.dta.gov.au/articles/updated-delivery-confidence-assessment-guidance-support-modern-digital-delivery)
+The DTA has updated our research report, Assessing Delivery Confidence of Digital Projects, to incorporate contemporary research and industry feedback. This ensures the report continues to meet the needs of today’s digital projects. 
+[Assurance](https://www.dta.gov.au/taxonomy/term/48)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
 Media release
 12
 Mar 2026
@@ -43,35 +73,5 @@ Article
 Feb 2026
 ## [Australia rises to second globally in the OECD Digital Government Index](https://www.dta.gov.au/articles/australia-rises-second-globally-oecd-digital-government-index)
 Australia’s sustained investment in governance, shared platforms and user centred services across government has been recognised on the global stage. We have strengthened our position as a world leader, now ranking second in the OECD’s Digital Government Index.
-[International Engagement](https://www.dta.gov.au/taxonomy/term/32)
-Media release
-09
-Feb 2026
-## [Release of the Major Digital Projects Report 2026](https://www.dta.gov.au/media-releases/release-major-digital-projects-report-2026)
-The annual report features an update on 103 in-flight major digital projects and the steps being taken to ensure they succeed. These projects are harnessing digital technologies to deliver world-class digital capabilities and services for Australians. 
-[Major Digital Projects Report](https://www.dta.gov.au/taxonomy/term/39)
-Media release
-03
-Feb 2026
-## [Independent review supports retention of Single Seller Arrangements ](https://www.dta.gov.au/media-releases/independent-review-supports-retention-single-seller-arrangements)
-An independent review into Australia’s Single Seller Arrangements has found there is a clear role in retaining - and expanding upon - these arrangements.
-[Digital and ICT procurement](https://www.dta.gov.au/taxonomy/term/44)[Whole-of-Government Arrangements](https://www.dta.gov.au/taxonomy/term/43)
-Article
-12
-Jan 2026
-## [AI Policy Update: Strengthening responsible use across government](https://www.dta.gov.au/articles/ai-policy-update-strengthening-responsible-use-across-government)
-The DTA’s updated Policy for the responsible use of AI mandates strengthened governance, mandatory training, and rigorous risk assessment.
-[Artificial Intelligence](https://www.dta.gov.au/taxonomy/term/33)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
-Article
-07
-Jan 2026
-## [Beyond Business-as-Usual: Lessons from Purple House](https://www.dta.gov.au/articles/beyond-business-usual-lessons-purple-house)
-The DTA's Diversity and Inclusion Champion, Tom Marwick, Reflects on his recent Jawun secondment. He highlights the importance of Aboriginal-led solutions and reconciliation within government collaboration.
-[Corporate](https://www.dta.gov.au/taxonomy/term/42)
-Article
-23
-Dec 2025
-## [E-Leaders meet with Australian industry reps to wrap up OECD visit](https://www.dta.gov.au/articles/e-leaders-meet-australian-industry-reps-wrap-oecd-visit)
-Final day of the OECD E-Leaders Meeting 2025 sees delegates knowledge sharing with Australia’s digital associations and members
 [International Engagement](https://www.dta.gov.au/taxonomy/term/32)
 [Return focus to the top of the page](https://www.dta.gov.au/news#top)

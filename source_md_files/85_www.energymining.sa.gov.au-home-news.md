@@ -6,6 +6,8 @@
 * * *
 ## Latest news
 * * *
+  * [ News South Australia open for more renewable energy investment  ...  01/04/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment)
+  * [ News New leader to helm South Australia's excellence in geoscience  ...  31/03/26 ](https://www.energymining.sa.gov.au/home/news/latest/new-leader-to-helm-south-australias-excellence-in-geoscience)
   * [ News South Australia rockets up the charts as a global mining destination  ...  02/03/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-rockets-up-the-charts-as-a-global-mining-destination)
   * [ News Public warning notice for gas hose used in vehicle drawer cookers  ...  26/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/public-warning-notice-for-gas-hose-used-in-vehicle-drawer-cookers)
   * [ News South Australia powers up vast new renewable energy opportunities  ...  24/02/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-powers-up-vast-new-renewable-energy-opportunities)
@@ -27,4 +29,4 @@
   
 Energy & Mining  
 https://www.energymining.sa.gov.au/home/news  
-Mar 13, 2026 3:31 am 
+Apr 24, 2026 3:55 pm 

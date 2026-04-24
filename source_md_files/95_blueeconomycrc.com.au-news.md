@@ -5,6 +5,31 @@
 Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts by Anneka Ferguson")2026-03-06T10:36:24+11:00
 # LATEST
 # News
+  * [Participants Workshop 2026](https://blueeconomycrc.com.au/participants-workshop-2026/) [](https://blueeconomycrc.com.au/participants-workshop-2026/)
+
+
+## [Participants Workshop 2026](https://blueeconomycrc.com.au/participants-workshop-2026/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-22T13:26:00+10:00April 22nd, 2026|
+  * [Become a PhD Ambassador at Seafood Directions 2026](https://blueeconomycrc.com.au/become-a-phd-ambassador-at-seafood-directions-2026/) [](https://blueeconomycrc.com.au/become-a-phd-ambassador-at-seafood-directions-2026/)
+
+
+## [Become a PhD Ambassador at Seafood Directions 2026](https://blueeconomycrc.com.au/become-a-phd-ambassador-at-seafood-directions-2026/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-06T19:30:29+10:00April 2nd, 2026|
+  * [Webinar: SeaFisher Offshore Fish Pen Advancements](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/) [](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/)
+
+
+## [Webinar: SeaFisher Offshore Fish Pen Advancements](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-09T10:55:45+10:00April 1st, 2026|
+  * [Where has all the King Island Bull Kelp Gone?](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/) [](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/)
+
+
+## [Where has all the King Island Bull Kelp Gone?](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-03-30T14:42:55+11:00March 30th, 2026|
+  * [From PhD into Practice ~ Conversations with Kelly Hoareau](https://blueeconomycrc.com.au/phd-into-practice-kelly-hoareau/) [](https://blueeconomycrc.com.au/phd-into-practice-kelly-hoareau/)
+
+
+## [From PhD into Practice ~ Conversations with Kelly Hoareau](https://blueeconomycrc.com.au/phd-into-practice-kelly-hoareau/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-08T11:17:38+10:00March 25th, 2026|
   * [Susie Kropman Joins the Blue Economy CRC](https://blueeconomycrc.com.au/susie-kropman-joins-the-blue-economy-crc/) [](https://blueeconomycrc.com.au/susie-kropman-joins-the-blue-economy-crc/)
 
 
@@ -35,6 +60,12 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 ## [2025 at a Glance](https://blueeconomycrc.com.au/2025-at-a-glance/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-23T10:44:29+11:00December 23rd, 2025|
+  * [Offshore Seaweed Farming is Gaining Momentum](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/) [](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/)
+
+
+## [Offshore Seaweed Farming is Gaining Momentum](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-18T14:39:26+11:00December 18th, 2025|
+_Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 NEWSLETTERS
   * [2025 – 2029 Strategic Plan Unveiled](https://blueeconomycrc.com.au/2025-2029-strategic-plan-unveiled/) [](https://blueeconomycrc.com.au/2025-2029-strategic-plan-unveiled/)
@@ -67,6 +98,37 @@ NEWSLETTERS
 
 ## [December 2024 Quarterly Update](https://blueeconomycrc.com.au/december-2024-quarterly-update/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-03-31T12:18:18+11:00
+  * [2023 – 2024 Annual Report Now Available](https://blueeconomycrc.com.au/2023-2024-annual-report/) [](https://blueeconomycrc.com.au/2023-2024-annual-report/)
+
+
+## [2023 – 2024 Annual Report Now Available](https://blueeconomycrc.com.au/2023-2024-annual-report/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2024-10-30T10:26:08+11:00
+  * [September 2024 Quarterly Update](https://blueeconomycrc.com.au/sept-2024-quarterly-update/) [](https://blueeconomycrc.com.au/sept-2024-quarterly-update/)
+
+
+## [September 2024 Quarterly Update](https://blueeconomycrc.com.au/sept-2024-quarterly-update/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2024-09-30T13:36:54+10:00
+  * [June 2024 Quarterly Update](https://blueeconomycrc.com.au/june-2024-quarterly-update/) [](https://blueeconomycrc.com.au/june-2024-quarterly-update/)
+
+
+## [June 2024 Quarterly Update](https://blueeconomycrc.com.au/june-2024-quarterly-update/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2024-07-03T10:27:40+10:00
+  * [March 2024 Quarterly Update](https://blueeconomycrc.com.au/march-2024-quarterly-update/) [](https://blueeconomycrc.com.au/march-2024-quarterly-update/)
+
+
+## [March 2024 Quarterly Update](https://blueeconomycrc.com.au/march-2024-quarterly-update/)
+[Tegan Chilli Frog](https://blueeconomycrc.com.au/author/tegan-chilli-frog/ "Posts by Tegan Chilli Frog")2024-03-05T11:16:17+11:00
+  * [October 2023 Quarterly Update](https://blueeconomycrc.com.au/october-2023-quarterly-update/) [](https://blueeconomycrc.com.au/october-2023-quarterly-update/)
+
+
+## [October 2023 Quarterly Update](https://blueeconomycrc.com.au/october-2023-quarterly-update/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2023-10-31T12:55:51+11:00
+  * [July 2023 Quarterly Update](https://blueeconomycrc.com.au/july-2023-quarterly-update/) [](https://blueeconomycrc.com.au/july-2023-quarterly-update/)
+
+
+## [July 2023 Quarterly Update](https://blueeconomycrc.com.au/july-2023-quarterly-update/)
+[Tegan Chilli Frog](https://blueeconomycrc.com.au/author/tegan-chilli-frog/ "Posts by Tegan Chilli Frog")2023-07-20T07:17:49+10:00
+_Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 # LEARN MORE
 Join our mailing list to keep up-to-date with latest updates.
@@ -76,7 +138,7 @@ The Blue Economy Cooperative Research Centre (CRC) is established and supported 
   * [Partners](https://blueeconomycrc.com.au/partners/)
   * [Education](https://blueeconomycrc.com.au/education/)
   * [Privacy Policy](https://blueeconomycrc.com.au/about/privacy-policy/)
-  * [WH&S Policy](https://blueeconomycrc.com.au/wp-content/uploads/2021/06/BECRC-Policy-Work-health-and-safety.pdf?x99404)
+  * [WH&S Policy](https://blueeconomycrc.com.au/wp-content/uploads/2021/06/BECRC-Policy-Work-health-and-safety.pdf)
 
 
   * [Impact Pillars](https://blueeconomycrc.com.au/impact-pillars/)

@@ -1,4 +1,186 @@
 Media releases 
+  * ### [ASIC accepts cancellation of company auditor registration after raising independence concerns](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-083mr-asic-accepts-cancellation-of-company-auditor-registration-after-raising-independence-concerns/)
+auditorsmedia release (26-083MR)
+24 April 2026
+auditorsfinancial reporting
+ASIC has accepted Douglas Trood’s application for the cancellation of his registration as a company auditor following ASIC raising concerns with Mr Trood’s alleged failure to comply with auditor independence and conflict of interest requirements under the Corporations Act 2001 and the APES 110 Code of Ethics for Professional Accountants (including Independence Standards).
+  * ### [Pure Foods Tasmania reduces $4.5 million in deferred tax assets following ASIC review](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-082mr-pure-foods-tasmania-reduces-4-5-million-in-deferred-tax-assets-following-asic-review/)
+auditorsmedia release (26-082MR)
+24 April 2026
+auditorscompaniesfinancial reportingreports and publications
+Pure Foods Tasmania Limited (Pure Foods Tasmania) has reduced the amount of deferred tax assets recognised in its half-yearly report for the 2025-26 financial year by $4.5 million.
+  * ### [ASIC continues finfluencer crackdown alongside global regulators](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-081mr-asic-continues-finfluencer-crackdown-alongside-global-regulators/)
+financial advicemedia release (26-081MR)
+24 April 2026
+dealing with asicfinancial advicefinancial marketsfinancial services
+ASIC is working alongside 16 global regulators as part of its crackdown on unlawful social media ‘finfluencers’, amid growing concern about the influence of financial information online, particularly among younger Australians.
+  * ### [Federal Court dismisses ASIC’s continuous disclosure case against Nuix](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-080mr-federal-court-dismisses-asic-s-continuous-disclosure-case-against-nuix/)
+financial marketsmedia release (26-080MR)
+23 April 2026
+financial markets
+The Federal Court today dismissed ASIC’s case against intelligence software provider, Nuix Limited.
+  * ### [ASIC bans former MWL financial adviser John Morgan for 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-079mr-asic-bans-former-mwl-financial-adviser-john-morgan-for-5-years/)
+bannings and alertsmedia release (26-079MR)
+23 April 2026
+bannings and alertsfinancial advicesuperannuation
+ASIC has banned Sydney based former financial adviser John Morgan from providing financial services, controlling an entity that carries on a financial services business or performing any function involved in the carrying on of a financial services business for five years.
+  * ### [Cigno Australia and director Mark Swanepoel, BSF Solutions and director Brenton Harrison, to pay $7 million in penalties for Credit Act breaches](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-078mr-cigno-australia-and-director-mark-swanepoel-bsf-solutions-and-director-brenton-harrison-to-pay-7-million-in-penalties-for-credit-act-breaches/)
+creditmedia release (26-078MR)
+17 April 2026
+creditfinancial services
+The Federal Court has ordered Cigno Australia and its director Mark Swanepoel and BSF Solutions and its director Brenton Harrison to pay a combined penalty of $7 million for engaging in credit activity without a licence and charging prohibited fees.
+  * ### [Former Beacon Minerals project manager Alexander McCulloch pleads guilty to insider trading](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-077mr-former-beacon-minerals-project-manager-alexander-mcculloch-pleads-guilty-to-insider-trading/)
+financial servicesmedia release (26-077MR)
+17 April 2026
+financial services
+Alexander John McCulloch, a former project manager at Beacon Minerals Limited (Beacon Minerals), pleaded guilty yesterday to one rolled-up count of insider trading (amended to include two trades). One count of insider trading was discontinued.
+  * ### [ASIC disqualifies Gold Coast director for maximum 5-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-076mr-asic-disqualifies-gold-coast-director-for-maximum-5-year-period/)
+bannings and alertsmedia release (26-076MR)
+14 April 2026
+bannings and alertscompanies
+ASIC has disqualified David John Parker of Coolangatta, Queensland, from managing corporations for the maximum period of five years due to his involvement in the failure of the 4 companies: Quality Corporate Management Pty Ltd; Carnz Restaurant Services Pty Ltd; Complete Home & Marine Pty Ltd and All Concrete SLD Pty Ltd.
+  * ### [Viva Energy reassesses accounting approach after ASIC review, resulting in $25 million impairment](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-075mr-viva-energy-reassesses-accounting-approach-after-asic-review-resulting-in-25-million-impairment/)
+financial reportingmedia release (26-075MR)
+13 April 2026
+financial reporting
+Viva Energy Group Limited (Viva Energy) has changed an accounting judgement applied in its financial report for the year ended 31 December 2025, resulting in an increase in impairment expenses of $25 million. This follows a review conducted under ASIC’s financial reporting and audit surveillance program.
+  * ### [From anxiety to action: Helping Australians to plan for their financial future](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-074mr-from-anxiety-to-action-helping-australians-to-plan-for-their-financial-future/)
+financial capabilitymedia release (26-074MR)
+13 April 2026
+financial capability
+ASIC has today launched a new range of free and independent tools and resources on the widely trusted Moneysmart website to help Australians to plan for their retirement.
+  * ### [ASIC bans former financial adviser Rhys Reilly for 10 years and suspends Conexus Group’s AFS licence](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-073mr-asic-bans-former-financial-adviser-rhys-reilly-for-10-years-and-suspends-conexus-group-s-afs-licence/)
+bannings and alertsmedia release (26-073MR)
+10 April 2026
+bannings and alertsfinancial advicesuperannuation
+ASIC has banned former financial adviser Rhys James Rolls Reilly from providing financial services for 10 years and has suspended the Australian financial services (AFS) licence of Conexus Group Pty Ltd (Conexus) until 31 July 2026.
+  * ### [Shane Monte Silva banned for five years over flawed Shield and First Guardian advice](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-072mr-shane-monte-silva-banned-for-five-years-over-flawed-shield-and-first-guardian-advice/)
+bannings and alertsmedia release (26-072MR)
+10 April 2026
+bannings and alertsfinancial services
+Former financial adviser Shane Monte Silva has been banned from the financial services industry for five years after ASIC found he failed to act in certain clients’ best interests when recommending they switch their superannuation funds to invest in schemes including the Shield Master Fund (Shield) and the First Guardian Master Fund (First Guardian).
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
+  * ### [ASIC suspends AFS licence of Oscar Oliver Capital Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-071mr-asic-suspends-afs-licence-of-oscar-oliver-capital-ltd/)
+bannings and alertsmedia release (26-071MR)
+10 April 2026
+bannings and alertscompaniesfinancial services
+On 31 March 2026, ASIC suspended the Australian financial services (AFS) licence of Oscar Oliver Capital Ltd (Oscar Oliver) for a period of four (4) months until 31 July 2026.
+  * ### [ASIC permanently bans Yanhua Chen from the financial services industry](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-070mr-asic-permanently-bans-yanhua-chen-from-the-financial-services-industry/)
+financial servicesmedia release (26-070MR)
+10 April 2026
+financial services
+On 3 March 2026, ASIC made orders permanently banning Yanhua (Scott) Chen.
+  * ### [Former Big Un CEO pleads guilty in insider trading case](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-069mr-former-big-un-ceo-pleads-guilty-in-insider-trading-case/)
+dealing with asicmedia release (26-069MR)
+10 April 2026
+companiesdealing with asicfinancial marketsfinancial reportingfinancial services
+Richard Evans (formerly Evertz), the former chief executive officer (CEO) of collapsed ASX-listed technology company Big Un Limited (Big Un), has pleaded guilty to one charge of communicating inside information in the Sydney District Court yesterday.
+  * ### [Electro Optic Systems Holdings ordered to pay $4 million penalty for continuous disclosure breaches](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-068mr-electro-optic-systems-holdings-ordered-to-pay-4-million-penalty-for-continuous-disclosure-breaches/)
+companiesmedia release (26-068MR)
+9 April 2026
+companiesfinancial markets
+The Federal Court has ordered defence, space and communications systems manufacturer Electro Optic Systems Holdings Limited (EOS) to pay a $4 million penalty for breaching continuous disclosure requirements.
+  * ### [ASIC permanently bans former financial adviser and credit representative Aristotle Papapavlou](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-067mr-asic-permanently-bans-former-financial-adviser-and-credit-representative-aristotle-papapavlou/)
+financial advicemedia release (26-067MR)
+9 April 2026
+financial advicesuperannuation
+ASIC has permanently banned Aristotle Papapavlou from involvement in a financial services business and engaging in credit activities.
+  * ### [ASIC cancels AFS licence of The Silverfern Group Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-066mr-asic-cancels-afs-licence-of-the-silverfern-group-pty-ltd/)
+managed investment schemesmedia release (26-066MR)
+8 April 2026
+financial servicesmanaged investment schemes
+ASIC has cancelled the Australian financial services (AFS) licence of The Silverfern Group Pty Ltd (Silverfern) (AFSL 382641).
+  * ### [ASIC bans former ISG Financial Services Limited director Benjamin Godfrey for 10 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-065mr-asic-bans-former-isg-financial-services-limited-director-benjamin-godfrey-for-10-years/)
+bannings and alertsmedia release (26-065MR)
+8 April 2026
+bannings and alertsfinancial servicesmanaged investment schemes
+ASIC has banned Benjamin Godfrey, the former director and responsible manager of ACN 114 733 569 Limited (in liquidation), formerly known as ISG Financial Services Limited (ISG), from providing financial services, controlling an entity that carries on a financial services business or performing any function involved in the carrying on of a financial services business for 10 years, under ss920A and 920B of the Corporations Act 2001.
+  * ### [ASIC seeks appointment of receiver to investigate proposed Interprac sale](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-064mr-asic-seeks-appointment-of-receiver-to-investigate-proposed-interprac-sale/)
+companiesmedia release (26-064MR)
+8 April 2026
+companiesfinancial advice
+ASIC has commenced Federal Court proceedings seeking the appointment of a receiver to investigate a proposed sale of Interprac Financial Planning Pty Ltd (Interprac) by Sequoia Wealth Group Pty Ltd (Sequoia Wealth), a wholly owned subsidiary of ASX-listed Sequoia Financial Group (Sequoia Financial).
+  * ### [ASIC ramps-up action to protect consumers from AI-powered online investment scams](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-063mr-asic-ramps-up-action-to-protect-consumers-from-ai-powered-online-investment-scams/)
+financial advicemedia release (26-063MR)
+8 April 2026
+financial advicetechnology
+ASIC is removing record numbers of harmful social media phishing and investment scam websites, as it warns Australians that artificial intelligence (AI) is super-charging online scam threats.
+  * ### [ASIC bans former MWL financial services adviser David Lofthouse for 3 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-062mr-asic-bans-former-mwl-financial-services-adviser-david-lofthouse-for-3-years/)
+bannings and alertsmedia release (26-062MR)
+7 April 2026
+bannings and alertssuperannuation
+ASIC has banned Melbourne-based financial adviser David Lofthouse from providing any financial services for three years.
+  * ### [ASIC disqualifies Ashod Balanian from managing corporations for maximum five-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-061mr-asic-disqualifies-ashod-balanian-from-managing-corporations-for-maximum-five-year-period/)
+bannings and alertsmedia release (26-061MR)
+2 April 2026
+bannings and alerts
+ASIC has disqualified Ashod Ohan Balanian, of North Ryde, New South Wales, from managing corporations for the maximum period of five years, for his involvement in three failed companies which operated a cryptocurrency fund.
+  * ### [ASIC cancels AFS licence of Beacon Wealth Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-060mr-asic-cancels-afs-licence-of-beacon-wealth-pty-ltd/)
+financial servicesmedia release (26-060MR)
+2 April 2026
+financial services
+ASIC has cancelled Australian financial services (AFS) licence number 239 946, held by Beacon Wealth Pty Ltd (Beacon Wealth) after being satisfied that the licensee ceased to carry on a financial services business and had not taken the steps necessary to recommence operations, after the licence was suspended in April 2025.
+  * ### [ASIC publishes ASX Inquiry Panel Final Report and acknowledges observations](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-059mr-asic-publishes-asx-inquiry-panel-final-report-and-acknowledges-observations/)
+financial marketsmedia release (26-059MR)
+2 April 2026
+financial marketsreports and publications
+ASIC has today published the ASX Inquiry Panel’s (the Panel) Final Report into the Australian Securities Exchange (ASX) group.
+  * ### [Three public companies fined more than a million dollars for breaching financial reporting and company officer obligations](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-058mr-three-public-companies-fined-more-than-a-million-dollars-for-breaching-financial-reporting-and-company-officer-obligations/)
+companiesmedia release (26-058MR)
+1 April 2026
+companiesfinancial reporting
+Three public companies have been fined a combined $1,170,000 in a single day at the Downing Centre Local Court for failing to meet their obligations as public companies.
+  * ### [Mecca companies pay $594,000 in infringement notices for failing to lodge financial reports on time](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-057mr-mecca-companies-pay-594-000-in-infringement-notices-for-failing-to-lodge-financial-reports-on-time/)
+auditorsmedia release (26-057MR)
+31 March 2026
+auditorscompaniesfinancial reporting
+Three large proprietary companies associated with the Mecca group have paid $594,000 in infringement notices after allegedly failing to lodge audited financial reports on time.
+  * ### [Former Venture Egg, Reilly Financial and Interprac adviser Nicholas Hogan banned for four years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-056mr-former-venture-egg-reilly-financial-and-interprac-adviser-nicholas-hogan-banned-for-four-years/)
+financial advicemedia release (26-056MR)
+30 March 2026
+financial advicesuperannuation
+Victorian financial adviser Nicholas Hogan has been banned from the financial services industry for four years for failing to act in the best interests of clients, inappropriate advice and misleading, deceptive and unprofessional conduct.
+  * ### [Binance Australia Derivatives ordered to pay $10 million penalty for onboarding failures causing millions in client trading losses](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-055mr-binance-australia-derivatives-ordered-to-pay-10-million-penalty-for-onboarding-failures-causing-millions-in-client-trading-losses/)
+financial marketsmedia release (26-055MR)
+27 March 2026
+financial marketsfinancial services
+The Federal Court has ordered Oztures Trading Pty Ltd (trading as Binance Australia Derivatives) (Binance) to pay a $10 million pecuniary penalty after misclassifying more than 85% of its Australian client base over a nine-month period, resulting in more than $12 million in losses and fees.
+  * ### [ASIC applies to wind up 12 companies associated with NSW accountant and former solicitor Christopher Malcolm Edwards](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-054mr-asic-applies-to-wind-up-12-companies-associated-with-nsw-accountant-and-former-solicitor-christopher-malcolm-edwards/)
+insolvencymedia release (26-054MR)
+27 March 2026
+companiesfinancial servicesinsolvencysuperannuation
+ASIC has applied to the Supreme Court of New South Wales to wind up 12 companies associated with NSW accountant and former solicitor Christopher Malcolm Edwards on just and equitable grounds.
+  * ### [Federal Court declares Macquarie contravened the Corporations Act in relation to Shield Master Fund](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-053mr-federal-court-declares-macquarie-contravened-the-corporations-act-in-relation-to-shield-master-fund/)
+managed investment schemesmedia release (26-053MR)
+20 March 2026
+managed investment schemessuperannuation
+The Federal Court has today made declarations that Macquarie Investment Management Limited (MIML) contravened the Corporations Act by failing to place the Shield Master Fund (Shield) on a watch list for heightened monitoring.
+  * ### [High Court finds in favour of ASIC on an appeal by Sunshine Loans](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-052mr-high-court-finds-in-favour-of-asic-on-an-appeal-by-sunshine-loans/)
+creditmedia release (26-052MR)
+18 March 2026
+credit
+ASIC has been successful in the High Court on an appeal by Sunshine Loans from a decision of the Full Federal Court concerning the decision made by the liability judge to recuse himself from determining the question of penalty, with the High Court finding 7-0 in ASIC’s favour.
+  * ### [ASIC launches financial complaints data dashboard](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-051mr-asic-launches-financial-complaints-data-dashboard/)
+reports and publicationsmedia release (26-051MR)
+18 March 2026
+companiescreditdealing with asicfinancial advicefinancial marketsfinancial servicesmanaged investment schemesreports and publicationssuperannuation
+Australians now have unprecedented access to consumer complaints data following the launch of ASIC’s new interactive dashboard. 
+  * ### [Supreme Court orders Macquarie Securities to pay $35 million penalty in short sale misreporting case](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-050mr-supreme-court-orders-macquarie-securities-to-pay-35-million-penalty-in-short-sale-misreporting-case/)
+financial marketsmedia release (26-050MR)
+16 March 2026
+financial marketsfinancial services
+The New South Wales Supreme Court has ordered Macquarie Securities (Australia) Limited (MSAL) to pay a $35 million penalty for multiple systems-related failures that caused the misreporting of tens of millions of short sales over several years.
+  * ### [ASIC urges Gen Z to ‘sense-check’ money advice as social media fuels riskier financial decisions](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-049mr-asic-urges-gen-z-to-sense-check-money-advice-as-social-media-fuels-riskier-financial-decisions/)
+financial advicemedia release (26-XXXMR)
+16 March 2026
+financial advicefinancial capabilityfinancial services
+ASIC is urging young Australians to ‘sense check’ the information they see online, as new research shows nearly two thirds of Gen Zs are using social media and about one in five are using AI to make decisions about their financial future.
+  * ### [ASIC disqualifies Victorian director for maximum 5-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-048mr-asic-disqualifies-victorian-director-for-maximum-5-year-period/)
+bannings and alertsmedia release (26-048MR)
+13 March 2026
+bannings and alerts
+ASIC has disqualified Vincenzo Frank Tesoriero of Caulfield North, Victoria, from managing corporations for the maximum period of five years due to his involvement in the failure of 20 companies.
   * ### [ASIC disqualifies Simon Raftery from managing corporations for two and a half years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-047mr-asic-disqualifies-simon-raftery-from-managing-corporations-for-two-and-a-half-years/)
 bannings and alertsmedia release (26-047MR)
 12 March 2026
@@ -59,8 +241,6 @@ financial servicesmedia release (26-036MR)
 27 February 2026
 financial services
 Tens of thousands of Budget Direct customers lost online insurance discounts they were promised and were overcharged for premiums as part of misconduct that went on for years, ASIC alleges.
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC cancels AFS licence of Private Wealth Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-035mr-asic-cancels-afs-licence-of-private-wealth-pty-ltd/)
 bannings and alertsmedia release (26-035MR)
 26 February 2026

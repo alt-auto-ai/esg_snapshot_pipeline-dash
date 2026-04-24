@@ -6,10 +6,18 @@ Filters
 Hide filters
 Filter Type of news
 Filters
-Showing 24 of 5,283 results
+Showing 24 of 5,291 results
 Sort by Publication date
 Oldest first
 Newest first
+[ BMUKN | Sascha Hilgers 21 Apr 2026 UN climate chief: "Climate cooperation is key to fending off the twin-reapers of global heating and fossil fuel cost chaos" UN Climate Speech ](https://unfccc.int/news/un-climate-chief-climate-cooperation-is-key-to-fending-off-the-twin-reapers-of-global-heating-and)
+[ Karsten Würth | Unsplash 20 Apr 2026 UN climate chief: "Clean energy is the antidote to fossil fuel cost chaos" UN Climate Speech ](https://unfccc.int/news/un-climate-chief-clean-energy-is-the-antidote-to-fossil-fuel-cost-chaos)
+[ Dennis Schroeder / NREL 10 Apr 2026 Fossil fuels are driving a cost crisis for households, businesses and nations. Clean energy is the cure. Because sunlight and wind don’t depend on vulnerable shipping straits Opinion ](https://unfccc.int/news/fossil-fuels-are-driving-a-cost-crisis-for-households-businesses-and-nations-clean-energy-is-the)
+[ Dhana Kencana / Climate Visuals Countdown 24 Mar 2026 Forests at the heart of economic activity and resilience worldwide Article ](https://unfccc.int/news/forests-at-the-heart-of-economic-activity-and-resilience-worldwide-0)
+[ Pixabay 23 Mar 2026 “Renewables deliver climate security, energy security and national security”: UN Secretary-General External Statement ](https://unfccc.int/news/renewables-deliver-climate-security-energy-security-and-national-security-un-secretary-general)
+[ Kiara Worth | UN Climate Change 19 Mar 2026 COP30 Presidency releases Executive Report and outlines next steps to accelerate global climate implementation External Press Release ](https://unfccc.int/news/cop30-presidency-releases-executive-report-and-outlines-next-steps-to-accelerate-global-climate)
+[ UN Climate Change 18 Mar 2026 Expert group sets strategic direction for climate transparency support following Belém decisions Article ](https://unfccc.int/news/expert-group-sets-strategic-direction-for-climate-transparency-support-following-belem-decisions)
+[ Dennis Schroeder / Department of Energy 16 Mar 2026 UN Climate Chief in Brussels: fossil fuel dependency is ripping away national security and sovereignty, but renewables turn the tables UN Climate Speech ](https://unfccc.int/news/un-climate-chief-in-brussels-fossil-fuel-dependency-is-ripping-away-national-security-and)
 [ Kiara Worth | UN Climate Change 10 Mar 2026 Renewable energy is the "fastest path to energy security, economic security, and national security": UN Secretary-General Article ](https://unfccc.int/news/renewable-energy-is-the-fastest-path-to-energy-security-economic-security-and-national-security-un)
 [ 02 Mar 2026 Renewable energy is a clear solution to the fossil fuel cost chaos: Statement from UN Climate Change Executive Secretary  UN Climate Statement ](https://unfccc.int/news/renewable-energy-is-a-clear-solution-to-the-fossil-fuel-cost-chaos-statement-from-un-climate-change)
 [ 26 Feb 2026 UN carbon market approves first‑ever issuance of credits under the Paris Agreement UN Climate Press Release ](https://unfccc.int/news/un-carbon-market-approves-first-ever-issuance-of-credits-under-the-paris-agreement)
@@ -25,17 +33,9 @@ Newest first
 [ Credit: Stockcake 23 Jan 2026 Development of Paris Agreement Article 6 registry infrastructure begins Article ](https://unfccc.int/news/development-of-paris-agreement-article-6-registry-infrastructure-begins)
 [ COP29 Presidency 23 Jan 2026 The power of youth in co-creating climate education Article ](https://unfccc.int/news/the-power-of-youth-in-co-creating-climate-education)
 [ Pexels-tran-le-tuan 16 Jan 2026 Call for proposals to host the Climate Technology Centre secretariat Announcement ](https://unfccc.int/news/call-for-proposals-to-host-the-climate-technology-centre-secretariat)
-[ UN Climate Change 15 Jan 2026 Country reviews strengthen global climate transparency Article ](https://unfccc.int/news/country-reviews-strengthen-global-climate-transparency)
 [ UN Photo | Manuel Elias 15 Jan 2026 Secretary-General's remarks to the General Assembly - on priorities for 2026 External Speech ](https://unfccc.int/news/secretary-general-s-remarks-to-the-general-assembly-on-priorities-for-2026)
-[ UN Climate Change 08 Jan 2026 Step back from climate cooperation will hurt U.S. economy: Statement from UN Climate Chief on U.S. withdrawal from UNFCCC UN Climate Statement ](https://unfccc.int/news/step-back-from-climate-cooperation-will-hurt-us-economy-statement-from-un-climate-chief-on-us)
-[ 19 Dec 2025 New Regional Hub launched to strengthen climate action and reporting across the Hindu Kush Himalaya External Press Release ](https://unfccc.int/news/new-regional-hub-launched-to-strengthen-climate-action-and-reporting-across-the-hindu-kush-himalaya)
-[ Zô Guimarães / UN Climate Change 18 Dec 2025 Transparency under the Paris Agreement: Driving implementation Article ](https://unfccc.int/news/transparency-under-the-paris-agreement-driving-implementation)
-[ Zô Guimarães / UN Climate Change 17 Dec 2025 UN Climate Change renews drive to strengthen the NAZCA portal for non-State climate action Article ](https://unfccc.int/news/un-climate-change-renews-drive-to-strengthen-the-nazca-portal-for-non-state-climate-action)
-[ Hermes Caruzo / COP30 12 Dec 2025 The Belém Gender Action Plan: A launchpad accelerating ambitious, effective, and inclusive climate action Article ](https://unfccc.int/news/the-belem-gender-action-plan-a-launchpad-accelerating-ambitious-effective-and-inclusive-climate)
-[ Kiara Worth | UN Climate Change 22 Nov 2025 Simon Stiell closing speech: “COP30 showed that climate cooperation is alive and kicking, keeping humanity in the fight for a livable planet”  UN Climate Speech ](https://unfccc.int/news/simon-stiell-closing-speech-cop30-showed-that-climate-cooperation-is-alive-and-kicking-keeping)
-[ Kiara Worth | UN Climate Change 21 Nov 2025 New draft texts of the Belém Political Package now online Announcement ](https://unfccc.int/news/new-draft-texts-of-the-belem-political-package-now-online)
 Back to top
-Showing 24 of 5,283 results
+Showing 24 of 5,291 results
   * [Load More](https://unfccc.int/news?page=1 "Load more items")
 
 

@@ -1,3 +1,6 @@
+Fuel supply update
+The Commonwealth National Fuel Security Plan setting is level 2. Fuel supply continues to operate, but some local supplies are disrupted.
+[Fuel update for NSW](https://www.nsw.gov.au/driving-boating-and-transport/fuel-update-for-nsw)
 # Ministerial releases
 Read official NSW government speeches, statements and media releases from the Premier, Deputy Premier and cabinet ministers. 
 tuneFilter results
@@ -24,53 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-12 March 2026
-### [Bus drought for Western Sydney communities to end in July](https://www.nsw.gov.au/ministerial-releases/bus-drought-for-western-sydney-communities-to-end-july)
-Western Sydney communities from Penrith through to Campbelltown now have a start date for five new permanent bus routes, with the Minns Labor Government announcing the services to Western International Airport will commence on 5 July.
+24 April 2026
+### [Major redevelopment of Gillieston Public School reaches new heights](https://www.nsw.gov.au/ministerial-releases/major-redevelopment-of-gillieston-public-school-reaches-new-heights)
+The Minns Labor Government is delivering another long overdue school upgrade for regional NSW, with Gillieston Public School’s major redevelopment reaching a major construction milestone.
 Ministerial media release
-12 March 2026
-### [Design team appointed for $20.2 million Forbes Hospital operating theatre upgrade](https://www.nsw.gov.au/ministerial-releases/design-team-appointed-for-202-million-forbes-hospital-operating-theatre-upgrade)
-Work to deliver a new contemporary operating theatre and enhanced virtual care technology at Forbes Hospital has taken a key step forward with the project’s lead design team appointed to progress planning.
+24 April 2026
+### [$12.3 million to accelerate over 9,800 new homes across regional NSW](https://www.nsw.gov.au/ministerial-releases/123-million-to-accelerate-over-9800-new-homes-across-regional-nsw)
+The Minns Labor Government is accelerating housing delivery in regional communities providing $12.3 million in financial support to councils which will help unlock more than 9,800 new homes through the latest round of the Low Cost Loans Initiative (LCLI).
 Ministerial media release
-12 March 2026
-### [$5 million Nowra Workplace Hub a boost to South Coast](https://www.nsw.gov.au/ministerial-releases/5-million-nowra-workplace-hub-a-boost-to-south-coast)
-The Minns Labor Government has unveiled the revitalised Nowra Workplace Hub following a $5 million investment, reinforcing its commitment to driving economic development and creating jobs across the South Coast and regional NSW.
+24 April 2026
+### [Hunter girls fired up for their futures](https://www.nsw.gov.au/ministerial-releases/hunter-girls-fired-up-for-their-futures)
+The Minns Labor Government is empowering young women and girls in Newcastle and the Hunter to seek opportunities in emergency services through the Girls on Fire program, funded as part of our continued investment in women’s advancement. 
 Ministerial media release
-12 March 2026
-### [55 new social homes on the way for Goulburn amid regional building blitz](https://www.nsw.gov.au/ministerial-releases/55-new-social-homes-on-way-for-goulburn-amid-regional-building-blitz)
-The Minns Labor Government is accelerating its historic social housing roll-out across regional and rural NSW, with Goulburn the latest community to benefit from the state’s largest-ever investment in social housing.
+24 April 2026
+### [Home stretch: fuel compliance inspections close in on most remote service stations this long weekend](https://www.nsw.gov.au/ministerial-releases/fuel-inspections-remote-stations)
+The Minns Labor Government is urging motorists to continue using FuelCheck while travelling this long weekend as NSW Fair Trading pushes its statewide fuel transparency compliance inspections into the most remote areas of the state.
 Ministerial media release
-12 March 2026
-### [$800,000 Social Cohesion grants to strengthen local communities and combat hate](https://www.nsw.gov.au/ministerial-releases/800000-social-cohesion-grants-to-strengthen-local-communities-and-combat-hate)
-The Minns Labor Government has launched the latest round of the NSW Social Cohesion Grants to help councils strengthen community resilience and tackle racism and discrimination at a local level.
+24 April 2026
+### [Young families lead the charge at latest Lismore buyback homes auction](https://www.nsw.gov.au/ministerial-releases/young-families-lead-charge-at-latest-lismore-buyback-homes-auction)
+A new generation of homeowners is seizing the opportunity to secure a future in the Northern Rivers, with young families dominating the bidding at Lismore’s third flood buyback auction of the year.
 Ministerial media release
-12 March 2026
-### [Minns Government powers ahead on public preschool for Tenambit](https://www.nsw.gov.au/ministerial-releases/minns-government-powers-ahead-on-public-preschool-for-tenambit)
-The Minns Labor Government is powering ahead with Tenambit’s new public preschool, which is being built onsite at Tenambit Public School.
+24 April 2026
+### [Applications open to celebrate NSW carers](https://www.nsw.gov.au/ministerial-releases/applications-open-celebrate-carers)
+The Minns Labor Government is supporting the extraordinary contribution of carers across the state with applications now open for the NSW National Carers Week Grants program.
 Ministerial media release
-12 March 2026
-### [Central Coast invited to Koolewong Rebuilding Session with architectural expert](https://www.nsw.gov.au/ministerial-releases/central-coast-invited-to-koolewong-rebuilding-session-architectural-expert)
-The Central Coast community is invited to a session at Gosford Regional Library with renowned resilience architect James Davidson, to learn about bushfire-safe construction in the region.
+24 April 2026
+### [More than 15,000 new homes for Punchbowl and Wiley Park](https://www.nsw.gov.au/ministerial-releases/more-than-15000-new-homes-for-punchbowl-and-wiley-park)
+The Minns Labor Government has together with the City of Canterbury-Bankstown unlocked more than 15,000 new homes after finalising planning controls in Punchbowl and Wiley Park Transport Oriented Development (TOD) precincts.
 Ministerial media release
-12 March 2026
-### [Problematic plastic to be phased out](https://www.nsw.gov.au/ministerial-releases/problematic-plastic-to-be-phased-out)
-Plastics that pollute our waterways, litter our parks and neighbourhoods, and contaminate our recycling efforts are set to be phased out as the Minns Labor Government takes strong action.
+24 April 2026
+### [$50 million relief for community services sector as Minns Labor Government reduces levy](https://www.nsw.gov.au/ministerial-releases/community-services-long-service-levy-reduced)
+The Minns Labor Government is delivering immediate financial relief to thousands of organisations across the community services sector, by reducing the levy for the Community Services Portable Long Service Leave Scheme.
 Ministerial media release
-12 March 2026
-### [Griffith Base Hospital’s new carpark and main entry set to open](https://www.nsw.gov.au/ministerial-releases/griffith-base-hospitals-new-carpark-and-main-entry-set-to-open)
-A new carpark and main entry to the new Griffith Base Hospital is set to open next week, providing patients, staff and visitors in the region with more convenient access to the new hospital.
+24 April 2026
+### [World class observatory opens in Mallanganee](https://www.nsw.gov.au/ministerial-releases/mallanganee-observatory-opens)
+The Northern Rivers has a new star in its tourism crown with the official opening of the Mallanganee Observatory-Lookout. 
 Ministerial media release
-11 March 2026
-### [New bendy buses boost capacity on Sydney’s busiest routes](https://www.nsw.gov.au/ministerial-releases/new-bendy-buses-boost-capacity-on-sydneys-busiest-routes)
-Higher-capacity articulated buses will be a sight for sore eyes at Sydney’s busiest bus stops, as the first of 50 new bendy buses joins the network.
+24 April 2026
+### [23 retailers closed in targeted tobacco and vaping blitz](https://www.nsw.gov.au/ministerial-releases/23-retailers-closed-targeted-tobacco-and-vaping-blitz)
+Twenty-three retailers on the Central Coast have been shut immediately for 90 days during a joint operation led by NSW Health with support from NSW Police and the Australian Border Force to disrupt the supply of illicit tobacco and vapes in the region.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 524
-  * 525
-  * 526
+  * 553
+  * 554
+  * 555
   * keyboard_arrow_right
 
 

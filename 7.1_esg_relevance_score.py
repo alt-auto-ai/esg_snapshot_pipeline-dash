@@ -61,6 +61,11 @@ def main() -> None:
 		output_fieldnames.append("Relevance")
 
 	for row in rows:
+		esg_val = (row.get("ESG_or_not") or "").strip().lower()
+		if esg_val in ("no", "no file"):
+			row["Rating"] = ""
+			row["Relevance"] = ""
+			continue
 		score = compute_weighted_rating(row)
 		row["Rating"] = f"{score:.6f}".rstrip("0").rstrip(".")
 		row["Relevance"] = relevance_label(score)

@@ -1,7 +1,7 @@
 Blog icon
 # All news and articles
 Contact 
-12 of 1074 results (sorted by date)
+12 of 1083 results (sorted by date)
 Clear filters
 Search news
 Dates
@@ -10,10 +10,42 @@ Categories
   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
 News Types
-  *   *   *   *   *   *   * 
+  *   *   *   *   *   *   *   * 
 
 Apply filter
 ##  Filtering by: 
+  * [ News Release 23 April 2026 3 min read Next generation of marine experts set sail on national sea-training voyage Students from universities across Australia will conduct real-world research at sea, gaining hands-on experience to help shape Australia’s next generation of marine experts.  ](https://www.csiro.au/en/news/All/News/2026/April/Next-generation-of-marine-experts-set-sail-with-CAPSTAN)
+Related Tags
+    * [ Rv investigator ](https://www.csiro.au/en/news/All?articletags={84CB5987-6568-4E8C-A056-28CAE615B479}|Rv%20investigator)
+    * [ Voyages ](https://www.csiro.au/en/news/All?articletags={342F47FD-BC3A-4ACB-8E61-1D6B008D8EDB}|Voyages)
+  * [ News Release 21 April 2026 2 min read CSIRO outlines a regional blueprint to safeguard Australia’s food future The South East Queensland Food System Strategy provides a coordinated, region-wide plan that responds to climate volatility, rapid population growth and increasingly fragile supply chains.  ](https://www.csiro.au/en/news/All/News/2026/April/Regional-blueprint-to-safeguard-Australias-food-future)
+Related Tags
+    * [ Food ](https://www.csiro.au/en/news/All?articletags={1F9B4787-999E-49E0-B7C8-F652C6161B2D}|Food)
+    * [ Food security ](https://www.csiro.au/en/news/All?articletags={F45D9A5A-4D62-40E7-8ECD-668DC495FD81}|Food%20security)
+    * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
+  * [ News Release 15 April 2026 1 min read New national framework to strengthen antimicrobial stewardship in animal industries The Animal Antimicrobial Stewardship Framework is a practical, co‑designed tool to reduce risks associated with antimicrobial resistance across Australia’s animal sectors.  ](https://www.csiro.au/en/news/All/News/2026/April/National-framework-to-strengthen-antimicrobial-stewardship)
+Related Tags
+    * [ Animals ](https://www.csiro.au/en/news/All?articletags={41CD5BE1-5A90-46B8-9FB7-21E266EDEC3A}|Animals)
+    * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
+  * [ News Release 1 April 2026 2 min read 50 years measuring the world’s cleanest air Australia marks 50 years of monitoring the worlds cleanest air in remote northwest Tasmania at Kennaook / Cape Grim Baseline Air Pollution Station, supporting global efforts to track human-driven changes to the atmosphere.  ](https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air)
+Related Tags
+    * [ Cape grim ](https://www.csiro.au/en/news/All?articletags={0ED41489-C36C-4B11-906D-C9A268A57676}|Cape%20grim)
+  * [ News Release 1 April 2026 4 min read More than 110 new species from the Coral Sea revealed Marine scientists, led by CSIRO and the Nippon Foundation-Nekton Ocean Census, have discovered more than 110 new-to-science fish and invertebrate species in the largely unexplored deep waters of the Coral Sea Marine Park.  ](https://www.csiro.au/en/news/All/News/2026/April/More-than-110-new-species-from-Coral-Sea-revealed)
+Related Tags
+    * [ National research collections australia ](https://www.csiro.au/en/news/All?articletags={5095CFC7-26F0-470B-A881-CBCEA1A2E06B}|National%20research%20collections%20australia)
+    * [ Collections ](https://www.csiro.au/en/news/All?articletags={BD01C0DB-AA7F-4713-A8A1-8F06C9F7972B}|Collections)
+    * [ Oceans ](https://www.csiro.au/en/news/All?articletags={1892615F-CFDD-4AAA-B6E8-F49FE5C7FA81}|Oceans)
+    * [ Rv investigator ](https://www.csiro.au/en/news/All?articletags={84CB5987-6568-4E8C-A056-28CAE615B479}|Rv%20investigator)
+    * [ Fish ](https://www.csiro.au/en/news/All?articletags={4FFD77B6-A41F-432E-B331-3D5DA57EA3EA}|Fish)
+  * [ News Release 30 March 2026 2 min read CSIRO and Chevron Australia continue Living STEM partnership in 2026 Empowering Pilbara students and educators through culturally connected, hands-on STEM learning.  ](https://www.csiro.au/en/news/All/News/2026/March/CSIRO-and-Chevron-Australia-continue-Living-STEM-partnership-in-2026)
+  * [ News Release 25 March 2026 2 min read Robots take the heat for humans maintaining our biggest solar farms CSIRO’s AI-powered robots are changing the game for Australia’s large-scale solar farms, helping energy assets perform at their best and accelerating the energy transition.  ](https://www.csiro.au/en/news/All/News/2026/March/Robot-Solar-Farm)
+Related Tags
+    * [ Robots ](https://www.csiro.au/en/news/All?articletags={A1D33457-8DF6-40AC-AB52-3926BDE0409A}|Robots)
+  * [ News Release 23 March 2026 2 min read Queensland Government and CSIRO launch free program to help SMEs to innovate Queensland-based small to medium-sized enterprises (SMEs) developing sustainable solutions are invited to apply for CSIRO’s Innovate to Grow: Circular Economy and Sustainability – a free eight-week online R&D training program.  ](https://www.csiro.au/en/news/All/News/2026/March/Queensland-Government-and-CSIRO-launch-free-program-to-help-SMEs-to-innovate)
+  * [ News Release 18 March 2026 1 min read Australian scientists achieve energy storage and quantum battery breakthrough Researchers develop the first quantum battery that could pave the way for long- distance charging of devices and super-fast charging of electric cars.  ](https://www.csiro.au/en/news/All/News/2026/March/Quantum-battery-full-cycle)
+Related Tags
+    * [ Quantum ](https://www.csiro.au/en/news/All?articletags={34D1BE1A-BD87-4500-B35B-3887807DB9BC}|Quantum)
+    * [ Manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|Manufacturing)
   * [ News Release 10 March 2026 4 min read Australia-India partnership takes step closer to green steel through world-first use of ag waste in steelmaking Researchers from CSIRO and the Indian Institute of Science have proven the approach can work at commercial scale, with wider adoption having the potential to halve emissions from steelmaking in India.  ](https://www.csiro.au/en/news/All/News/2026/March/World-first-use-of-ag-waste-in-steelmaking)
 Related Tags
     * [ Minerals ](https://www.csiro.au/en/news/All?articletags={2442AC8C-6448-4775-B85A-389FE5C735A6}|Minerals)
@@ -22,45 +54,6 @@ Related Tags
 Related Tags
     * [ Sme engagement ](https://www.csiro.au/en/news/All?articletags={5AC0DF3B-2851-4136-AE84-DDEC32B248CB}|Sme%20engagement)
     * [ Manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|Manufacturing)
-  * [ News Release 25 February 2026 2 min read CSIRO unveils $3M upgrade to flagship renewable energy lab The $3 million upgrade provides new capacity for researchers and industry to solve complex challenges impacting Australia’s energy transition.  ](https://www.csiro.au/en/news/All/News/2026/February/CSIRO-unveils-$3M-upgrade-to-flagship-renewable-energy-lab)
-Related Tags
-    * [ Energy ](https://www.csiro.au/en/news/All?articletags={88F8DBC0-2ED7-46BB-BC62-864A3F77A807}|Energy)
-    * [ Renewable energy ](https://www.csiro.au/en/news/All?articletags={0D544F02-1DE1-4ABB-A644-44058B841FA9}|Renewable%20energy)
-    * [ Energy centre ](https://www.csiro.au/en/news/All?articletags={F9F1160F-E818-4FB4-93A3-BCE5D213DEC9}|Energy%20centre)
-    * [ Reif ](https://www.csiro.au/en/news/All?articletags={B69CE9DA-1038-47AF-A279-3C1050547C05}|Reif)
-  * [ News Release 24 February 2026 1 min read CSIRO unveils new tool to help farmers measure environmental footprint Farmers across Australia will be able to use FarmPrint to evaluate and communicate the environmental footprint of their agricultural production.  ](https://www.csiro.au/en/news/All/News/2026/February/CSIRO-unveils-new-tool-to-help-farmers-measure-environmental-footprint)
-  * [ News Release 13 February 2026 2 min read CSIRO supports AI projects for future-ready agriculture under Quad initiative CSIRO has joined Quad partners from India, Japan and the United States, to support new artificial intelligence projects supporting future-ready agriculture.  ](https://www.csiro.au/en/news/All/News/2026/February/AI-projects-for-future-ready-agriculture-under-Quad-initiative)
-Related Tags
-    * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
-    * [ Ai ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|Ai)
-  * [ News Release 3 February 2026 2 min read CSIRO partners with aviation sector to help STEM learning take flight A new program is taking aviation expertise into classrooms across Australia to inspire an interest in STEM and help prepare students for jobs of the future.  ](https://www.csiro.au/en/news/All/News/2026/February/Aviators-in-Schools-program-helps-STEM-learning-take-flight)
-Related Tags
-    * [ Stem ](https://www.csiro.au/en/news/All?articletags={4CB4BF81-3483-4F25-92CA-3F734C4DC6D1}|Stem)
-    * [ Stem professionals ](https://www.csiro.au/en/news/All?articletags={45AC8C01-EA4E-455F-A2E0-5405CCF8125F}|Stem%20professionals)
-    * [ Careers in stem ](https://www.csiro.au/en/news/All?articletags={CA76FF20-34E6-4B0A-9DE8-85776515B73C}|Careers%20in%20stem)
-    * [ Stem professionals in schools ](https://www.csiro.au/en/news/All?articletags={7A089290-C6F1-4D0A-A0FB-5246425273EF}|Stem%20professionals%20in%20schools)
-  * [ News Release 29 January 2026 1 min read Quantum batteries could supercharge the future of quantum computing A new quantum-battery‑powered architecture could make future quantum computers faster, more efficient and easier to scale.  ](https://www.csiro.au/en/news/All/News/2026/January/Quantum-batteries-supercharge-future-of-quantum-computing)
-Related Tags
-    * [ Quantum ](https://www.csiro.au/en/news/All?articletags={34D1BE1A-BD87-4500-B35B-3887807DB9BC}|Quantum)
-    * [ Technology ](https://www.csiro.au/en/news/All?articletags={1420CE14-4771-4E26-AA62-01B08F10AF29}|Technology)
-  * [ News Release 22 January 2026 1 min read CSIRO science reveals new insights into devastating crop disease New research unlocks the genetic code of crop-damaging fungus, paving the way for better disease control.  ](https://www.csiro.au/en/news/All/News/2026/January/Science-reveals-devastating-crop-disease)
-Related Tags
-    * [ Farming ](https://www.csiro.au/en/news/All?articletags={A45DC177-07AB-48D5-982C-1B8AF9069487}|Farming)
-    * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
-    * [ Crops ](https://www.csiro.au/en/news/All?articletags={F870E69C-856D-42BA-8BB1-81CAC3503D13}|Crops)
-  * [ News Release 19 January 2026 1 min read CSIRO opens free program for SMEs developing farm and food technology solutions Innovate to Grow is helping Australia’s farm and food innovators turn big ideas into real-world impact.  ](https://www.csiro.au/en/news/All/News/2026/January/CSIRO-Innovate-to-Grow-farm-and-food)
-Related Tags
-    * [ Sme engagement ](https://www.csiro.au/en/news/All?articletags={5AC0DF3B-2851-4136-AE84-DDEC32B248CB}|Sme%20engagement)
-  * [ News Release 14 January 2026 2 min read CSIRO partners on global project to boost food security Researchers are developing an AI-powered tool to repurpose global agrifood waste and improve food security amid growing concerns about food loss and sustainability.  ](https://www.csiro.au/en/news/All/News/2026/January/AI-food-waste-food-security)
-Related Tags
-    * [ Food security ](https://www.csiro.au/en/news/All?articletags={F45D9A5A-4D62-40E7-8ECD-668DC495FD81}|Food%20security)
-    * [ Food ](https://www.csiro.au/en/news/All?articletags={1F9B4787-999E-49E0-B7C8-F652C6161B2D}|Food)
-    * [ Ai ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|Ai)
-  * [ News Release 6 January 2026 2 min read CSIRO study links meal planning to greater weight loss, launching new AI innovation New study finds that using meal plans results in greater weight loss, as the CSIRO Total Wellbeing Diet launches a new AI-powered personalisation tool to help more Australians achieve their weight loss goals.  ](https://www.csiro.au/en/news/All/News/2026/January/Total-Wellbeing-Diet-study-links-meal-planning-to-greater-weight-loss)
-Related Tags
-    * [ Total wellbeing diet ](https://www.csiro.au/en/news/All?articletags={A89F7574-0541-4D4A-A086-303EB0D1F2E1}|Total%20wellbeing%20diet)
-    * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
-    * [ Health and wellbeing ](https://www.csiro.au/en/news/All?articletags={022BBFB6-2C6E-41FE-BC9A-BBD50D65C296}|Health%20and%20wellbeing)
 
 
 There is no news match your search term.

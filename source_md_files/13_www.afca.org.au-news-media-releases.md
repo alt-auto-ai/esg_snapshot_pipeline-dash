@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.afca.org.au/news/media-releases#main-content)
 #  Media releases
 ### Year published
+26  MAR 26 
+##### [AFCA appoints Chief Scams Officer ](https://www.afca.org.au/news/media-releases/afca-appoints-chief-scams-officer)
+The Australian Financial Complaints Authority (AFCA) has appointed David Lacey as its inaugural Chief Scams Officer (CSO). The Chief Scams Officer is a key leadership role at AFCA as it establishes the world’s first multi-party dispute resolution scheme for scams. 
 02  MAR 26 
 ##### [AFCA announces three new C-suite appointments ](https://www.afca.org.au/news/media-releases/afca-announces-three-new-c-suite-appointments)
 The Australian Financial Complaints Authority (AFCA) has announced three new C-suite appointments. Deborah Jenkins has been appointed as AFCA’s inaugural Chief Customer Officer (CCO) and Stevie-Ann Dovico has been appointed as AFCA’s inaugural Chief Technology Officer (CTO). Brigid Parsonson has also been appointed as Chief Operating Officer (COO). 
@@ -28,9 +31,6 @@ The Australian Financial Complaints Authority (AFCA) has been named Australia’
 23  JUL 25 
 ##### [AFCA receives more than 100,000 financial complaints in 2024-25](https://www.afca.org.au/news/media-releases/afca-receives-more-100000-financial-complaints-in-2024-25)
 The Australian Financial Complaints Authority (AFCA) has received more than 100,000 complaints for the second year in a row.
-19  MAY 25 
-##### [AFCA opens consultation on Rules changes to expand jurisdiction over receiving banks in scams](https://www.afca.org.au/news/media-releases/afca-opens-consultation-on-rules-changes-to-expand-jurisdiction-over-receiving-banks-in-scams)
-The Australian Financial Complaints Authority is opening public consultation on proposed changes to the rules that govern its work, with a key focus on expanding its jurisdiction to include the conduct of receiving banks in scam complaints. 
 ## Media contacts
 Email:   
 

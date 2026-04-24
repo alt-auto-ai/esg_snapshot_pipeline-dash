@@ -2,6 +2,12 @@
   * [RSS Feed of Media Releases](https://www.rba.gov.au/rss/rss-cb-media-releases.xml)
 
 
+  * [ Review of Merchant Card Payment Costs and Surcharging – Conclusions Paper ](https://www.rba.gov.au/media-releases/2026/mr-26-10.html)
+31 March 2026 Media Release 2026-10
+  * [ Release of Financial Stability Review – March 2026 ](https://www.rba.gov.au/media-releases/2026/mr-26-09.html)
+19 March 2026 Media Release 2026-09
+  * [ Statement by the Monetary Policy Board: Monetary Policy Decision ](https://www.rba.gov.au/media-releases/2026/mr-26-08.html)
+17 March 2026 Media Release 2026-08
   * [ Proposed Decommissioning of the Bulk Electronic Clearing System: RBA Risk Assessment Update  ](https://www.rba.gov.au/media-releases/2026/mr-26-07.html)
 10 March 2026 Media Release 2026-07
   * [ Payments System Board Update: March 2026 Meeting ](https://www.rba.gov.au/media-releases/2026/mr-26-06.html)

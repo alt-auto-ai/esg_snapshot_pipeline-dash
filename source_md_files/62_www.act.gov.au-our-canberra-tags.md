@@ -5,6 +5,9 @@ A neighbourhood battery is now operational in Dickson as part of the Big Canberr
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
 [Rare frog hops back into the ACT](https://www.act.gov.au/our-canberra/latest-news/2026/february/rare-frog-hops-back-into-the-act)
 The locally extinct green and golden bell frog has been reintroduced after more than 40 years.
+[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
+[Where to spot wildlife in Canberra](https://www.act.gov.au/our-canberra/latest-news/2025/2026/where-to-spot-wildlife-in-canberra)
+Here is your guide to seeing wildlife in the bush capital.
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[Gungahlin](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0003)
 [New Casey battery powers up](https://www.act.gov.au/our-canberra/latest-news/2025/november/new-casey-battery-powers-up)
 The neighbourhood-scale battery is part of the Big Canberra Battery project.
@@ -15,14 +18,8 @@ All you need to know about home batteries and how to get free advice.
 [Your sustainable spring cleaning guide](https://www.act.gov.au/our-canberra/latest-news/2025/october/your-sustainable-spring-cleaning-guide)
 How to be sustainable and climate-conscious when cleaning and gardening this spring.
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
-[Stay safe around wildlife this spring](https://www.act.gov.au/our-canberra/latest-news/2025/september/stay-safe-around-wildlife-this-spring)
-Certain local wildlife is more active in spring.
-[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
 [Where to spot platypus in Canberra](https://www.act.gov.au/our-canberra/latest-news/2025/august/where-to-spot-platypus-in-canberra)
 Learn how to spot these iconic creatures in your neighbourhood.
-[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
-[Induction is heating up at your favourite eateries](https://www.act.gov.au/our-canberra/latest-news/2025/july/induction-is-heating-up-at-your-favourite-eateries)
-Canberra cafes and restaurants are making the switch to induction.
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
 [Neighbourhood-scale batteries charge ahead](https://www.act.gov.au/our-canberra/latest-news/2025/may/neighbourhood-scale-batteries-charge-ahead)
 New neighbourhood-scale batteries are one step closer to being built.
@@ -32,10 +29,7 @@ Funding of $4.5 million will help prevent extinction of the critically endangere
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[Belconnen](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0001)
 [Belconnen Oval Wetland now open](https://www.act.gov.au/our-canberra/latest-news/2025/april/belconnen-oval-wetland-now-open)
 A new wetland in central Belconnen is now open for visitors.
-[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
-[Nature in the City grants now open](https://www.act.gov.au/our-canberra/latest-news/2024/december/nature-in-the-city-grants-now-open)
-Funding is available for projects that help to cool Canberra’s suburbs.
-**1** [2](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006&result_1500422_result_page=2) [3](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006&result_1500422_result_page=3)
+**1**
 top
 Subscribe to the Our CBR email newsletter
 Our CBR is the ACT Government’s key channel to connect with Canberrans and keep you up-to-date with what’s happening in the city. Our CBR includes a monthly print edition, email newsletter and website. 

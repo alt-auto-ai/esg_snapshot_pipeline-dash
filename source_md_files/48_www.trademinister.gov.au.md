@@ -10,37 +10,39 @@
 
 # Latest news
 ## Media releases
-  * [Backing in red centre tourism](https://www.trademinister.gov.au/minister/don-farrell/media-release/backing-red-centre-tourism)
-5 March 2026
-  * [Travel to the United States ](https://www.trademinister.gov.au/minister/don-farrell/media-release/travel-united-states)
-24 February 2026
-  * [New Consul-General to Auckland](https://www.trademinister.gov.au/minister/don-farrell/media-release/new-consul-general-auckland)
-23 February 2026
-  * [Launch of next action plan for Australia’s travel and tourism industry ](https://www.trademinister.gov.au/minister/don-farrell/media-release/launch-next-action-plan-australias-travel-and-tourism-industry)
-12 February 2026
-  * [Travel to Brussels](https://www.trademinister.gov.au/minister/don-farrell/media-release/travel-brussels)
-11 February 2026
+  * [Securing more fuel for the regions](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-regions)
+24 April 2026
+  * [Securing more fuel and fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-and-fertiliser)
+22 April 2026
+  * [Protocol on economic resilience and essential supplies](https://www.trademinister.gov.au/minister/don-farrell/media-release/protocol-economic-resilience-and-essential-supplies)
+17 April 2026
+  * [First fuel shipments secured under new strategic reserve powers](https://www.trademinister.gov.au/minister/don-farrell/media-release/first-fuel-shipments-secured-under-new-strategic-reserve-powers)
+16 April 2026
+  * [New dedicated trade service for Australian exporters](https://www.trademinister.gov.au/minister/don-farrell/media-release/new-dedicated-trade-service-australian-exporters)
+15 April 2026
 
 
 ## Transcripts
-  * [Interview with Andrew Clennell, Sky News](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-andrew-clennell-sky-news-0)
-Subjects: Resignation of David Littleproud, Iranian women’s soccer team, Middle East conflict, EU trade deal, and petrol prices.
-10 March 2026
-  * [Interview with James Glenday, ABC News Breakfast](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-james-glenday-abc-news-breakfast)
-Subjects: Middle East conflict, world economy, housing.
-4 March 2026
-  * [Interview with Sally Sara, ABC Radio National Breakfast](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-sally-sara-abc-radio-national-breakfast)
-Subjects: US Tariffs, AU-EU free trade agreement.
-27 February 2026
-  * [Interview with Sarah Abo and Karl Stefanovic, Today Show](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-sarah-abo-and-karl-stefanovic-today-show)
-Subjects: US Tariffs, Best Beach List 2026.
-26 February 2026
-  * [Interview with Kieran Gilbert, Sky Newsday](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-newsday)
-Subjects: US tariffs, free trade agreement with the EU.
-23 February 2026
+  * [Press conference](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference)
+Subjects: Update on Australia’s fuel supply.
+24 April 2026
+  * [Interview with Kieran Gilbert, Sky Newsday](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-newsday-1)
+Subjects: Fuel supply relations with Singapore, Viva Energy refinery fire, US President Donald Trump’s comments towards Pope Leo.
+17 April 2026
+  * [Doorstop, Singapore](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-singapore)
+Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapore-Australia Free Trade Agreement (SAFTA).
+17 April 2026
+  * [Doorstop, Banquet Foods](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-banquet-foods)
+Subjects: New Trade Resilience Service, Australian export and import cost, Middle East war, industry support, Qantas flight route cuts
+15 April 2026
+  * [Press conference, Adelaide Central Market](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference-adelaide-central-market)
+Subjects: Australian-European Free Trade Agreement, fuel security, AUKUS.
+28 March 2026
 
 
 ## Speeches
+  * [National Press Club address - The missing piece in the trade puzzle](https://www.trademinister.gov.au/minister/don-farrell/speech/national-press-club-address-missing-piece-trade-puzzle)
+30 March 2026
   * [Deepening Australia’s engagement with Asian partners](https://www.trademinister.gov.au/minister/don-farrell/speech/deepening-australias-engagement-asian-partners)
 9 September 2025
   * [Lowy Institute keynote speech - Navigating Australia's Trading Future](https://www.trademinister.gov.au/minister/don-farrell/speech/lowy-institute-keynote-speech-navigating-australias-trading-future)
@@ -49,8 +51,6 @@ Subjects: US tariffs, free trade agreement with the EU.
 12 June 2025
   * [The Australian's Global Food Forum - The Future of Australian Trade](https://www.trademinister.gov.au/minister/don-farrell/speech/australians-global-food-forum-future-australian-trade)
 14 March 2025
-  * [Contemporary trade challenges require robust rules of the road](https://www.trademinister.gov.au/minister/don-farrell/speech/contemporary-trade-challenges-require-robust-rules-road)
-2 December 2024
 
 
 ## Articles and op-ed
@@ -67,6 +67,8 @@ Subjects: US tariffs, free trade agreement with the EU.
 
 
 ## Statements
+  * [Joint Statement Australia-France Ministerial Trade and Investment Dialogue](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-france-ministerial-trade-and-investment-dialogue)
+22 April 2026
   * [Australia-EU Ministerial Meeting in Brussels](https://www.trademinister.gov.au/minister/don-farrell/statements/australia-eu-ministerial-meeting-brussels)
 13 February 2026
   * [Joint statement: Australia–New Zealand Closer Economic Relations Ministerial Meeting – October 2025](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-new-zealand-closer-economic-relations-ministerial-meeting-october-2025)
@@ -75,8 +77,6 @@ Subjects: US tariffs, free trade agreement with the EU.
 21 September 2024
   * [Joint statement: Trilateral Australia – Fiji – New Zealand Trade Ministers Meeting Saturday 21 September 2024 Rotorua, New Zealand](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-trilateral-australia-fiji-new-zealand-trade-ministers-meeting-saturday-21-september-2024-rotorua-new-zealand)
 21 September 2024
-  * [Joint Statement: Australia-United States Strategic Commercial Dialogue](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-united-states-strategic-commercial-dialogue)
-7 June 2024
 
 
 [Back to top](https://www.trademinister.gov.au/#top "Back to top")

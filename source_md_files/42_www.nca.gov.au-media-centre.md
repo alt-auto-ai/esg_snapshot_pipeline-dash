@@ -1,13 +1,19 @@
 [ Skip to main content ](https://www.nca.gov.au/media-centre#main-content)
-## ****Media enquiries****
-For non-media enquiries, please visit our [Contact Us](https://www.nca.gov.au/contact-us) page.
+## **Media enquiries**
+For non-media enquiries, please contact us on 
 Journalists can contact our media team:
+  * Phone: 0447 159 222 or 0418 465 447
   * Email: 
-  * Phone: +61 2 6272 2903
 
 
-The media team are available from 8:30 am to 5:30 pm, Monday to Friday (Canberra time), except on Australian Capital Territory public holidays.
+The media team are available from 8:00 am to 5:00 pm, Monday to Friday (Canberra time), except on Australian Capital Territory public holidays.
 #### Can’t find what you’re looking for?
+###### Release
+###  Water Quality Update: Extreme levels of blue green algae 
+2 April 2026
+###### Release
+###  Experience Heritage with the National Capital Authority 
+31 March 2026
 ###### Notification
 ###  Celebrate this Australia Day long weekend under a sky filled with stories! 
 16 January 2026
@@ -20,12 +26,6 @@ The media team are available from 8:30 am to 5:30 pm, Monday to Friday (Canberra
 ###### Notification
 ###  National Capital Authority’s horticultural volunteer program continues to bloom after 20 years 
 5 December 2025
-###### Release
-###  Commonwealth Avenue Bridge span closure from Wednesday 7 January 2026 
-26 November 2025
-###### Notification
-###  Federation Centenary Fountains side pool garden beds open for community voting and feedback 
-19 November 2025
 [Previous Media releases, alerts, statements and notifications](https://www.nca.gov.au/media-centre/previous "Previous Media releases, alerts, statements and notifications")
 [Learn more about our commitment to community engagement ](https://www.nca.gov.au/about-us/corporate-documents/corporate-policies/commitment-community-engagement)
 [Canberra:   

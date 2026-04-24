@@ -4,6 +4,14 @@ cross close
 [ Copernicus | Europe's eyes on Earth ](http://www.copernicus.eu/)
 #  News 
 Latest news on the Copernicus Climate Change Service
+15th April 2026
+### [Sea surface temperatures approach record levels in March](https://climate.copernicus.eu/sea-surface-temperatures-approach-record-levels-march)
+March 2026 had its second-warmest global sea surface temperature (SST) on record, behind March 2025, reflecting a likely transition toward El Niño conditions, as reported in the latest Climate Bulletin by the Copernicus Climate Change Service (C3S). Strong or very strong El Niño conditions could contribute to another record-breaking year, with warmer surface waters across the equatorial Pacific releasing additional heat into the atmosphere. 
+[ ](https://climate.copernicus.eu/sea-surface-temperatures-approach-record-levels-march)
+13th March 2026
+### [Exceptional rainfall and flooding in parts of Europe and north Africa in February](https://climate.copernicus.eu/exceptional-rainfall-and-flooding-parts-europe-and-north-africa-february)
+February 2026 saw exceptionally wet conditions in western and southern Europe and northern Africa, as reported in the latest Climate Bulletin by the Copernicus Climate Change Service (C3S.) 
+[ ](https://climate.copernicus.eu/exceptional-rainfall-and-flooding-parts-europe-and-north-africa-february)
 6th March 2026
 ### [Copernicus Climate’s ERA6 reanalysis production starts](https://climate.copernicus.eu/copernicus-climates-era6-reanalysis-production-starts)
 As the need for reliable and trustworthy climate information becomes more pressing, the European Centre for Medium-Range Weather Forecasts (ECMWF) has begun implementing the next generation of its reanalysis dataset, ERA6. The rollout of this flagship product from the Copernicus Climate Change Service (C3S) will proceed in several phases, with the first decades of data released towards the end of 2027. Among the numerous improvements, horizontal resolution of ERA6 will be more than twice as fine as ERA5. 
@@ -36,14 +44,6 @@ The Energy Droughts and Resource Energy Assessment in the Mediterranean (E-DREAM
 ### [2025 on track to be joint-second warmest year](https://climate.copernicus.eu/2025-track-be-joint-second-warmest-year)
 Findings in the latest Climate Bulletin published by the Copernicus Climate Change Service (C3S) confirm November 2025 as the third-warmest November globally. With just one month left in the calendar year, this means 2025 will finish as the second- or third-warmest year on record after 2024, potentially tied with 2023, currently the second-warmest year. It also sets the global three-year average temperature for 2023–2025 on track to exceed 1.5°C above pre-industrial levels for the first time in the instrumental period, according to the ERA5 dataset. 
 [ ](https://climate.copernicus.eu/2025-track-be-joint-second-warmest-year)
-10th December 2025
-### [First CARRA2 data release offers new insights into Arctic extremes](https://climate.copernicus.eu/first-carra2-data-release-offers-new-insights-arctic-extremes)
-The Arctic is warming at more than twice the global average, making it an important region for monitoring climate change. To support better understanding of key regional processes and inform decision-making, the Copernicus Climate Change Service (C3S*) has released the first data from its second-generation Copernicus Arctic Regional Reanalysis – CARRA2, which is now a pan-Arctic regional reanalysis. Covering the entire Arctic north of 60°N with unprecedented detail, this new dataset marks a major step forward in monitoring extreme weather and climate variability across the region. Let’s take a closer look. 
-[ ](https://climate.copernicus.eu/first-carra2-data-release-offers-new-insights-arctic-extremes)
-3rd December 2025
-### [The Copernicus Interactive Climate Atlas (C3S Atlas) keeps growing ](https://climate.copernicus.eu/copernicus-interactive-climate-atlas-c3s-atlas-keeps-growing)
-The C3S Atlas has come a long way since its launch in February 2024. Users from across the world have already experienced the powerful and intuitive features of the viewer (application) and its associated dataset, providing fast access not only to some of the most representative climate projections, but also to observations and reanalyses. 
-[ ](https://climate.copernicus.eu/copernicus-interactive-climate-atlas-c3s-atlas-keeps-growing)
 ## Use of personal data and cookies
 We use cookies to operate our site, improve the user experience and site performance.
 [Settings](https://climate.copernicus.eu/news "Open consent dialog")

@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#f25180e0-4f15-4835-b94b-84dbaf82f5bf)
+[Storage Preferences](https://www.wri.org/events#0e9b3714-1917-4ed7-8ee4-3f1777ec5db8)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -53,11 +53,8 @@ Not sure where to find something? Search all of the site's content.
 [Cities ](https://www.wri.org/events)
 [Climate ](https://www.wri.org/events)
 [Energy ](https://www.wri.org/events)
-[Equity & Governance ](https://www.wri.org/events)
-[Forests ](https://www.wri.org/events)
 Filters
 ### Event Type
-  * Event [Event ](https://www.wri.org/events)
   * In-Person [In-Person ](https://www.wri.org/events)
   * Webinar [Webinar ](https://www.wri.org/events)
 
@@ -65,34 +62,41 @@ Filters
 ### Language
   * English [English ](https://www.wri.org/events)
   * French [French ](https://www.wri.org/events)
+  * Portuguese [Portuguese ](https://www.wri.org/events)
+  * Spanish [Spanish ](https://www.wri.org/events)
 
 
-6 Resources for 
+7 Resources for 
 [Cities](https://www.wri.org/cities)
 Event 
-March 12, 2026
-###  [4th Annual Paratransit / Popular Transportation Day at Transforming Transportation 2026](https://hub.wri.org/events/2026/3/4th-annual-paratransit-popular-transportation-day-transforming-transportation-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Cities](https://www.wri.org/cities)
-[Rwanda](https://www.wri.org/resources/region/africa-8911/country/rwanda-9818)
+Past Event April 23, 2026
+###  [Introduction to Cool Cities Lab: Assessing Heat Risks and Prioritizing Cooling Solutions (Option 2/2)](http://hub.wri.org/introduction-cool-cities-lab-assessing-heat-risks-and-prioritizing-cooling-solutions-option-2?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Climate](https://www.wri.org/climate)
 Event 
-Past Event March 12, 2026
-###  [Scaling Green Infrastructure for a Resilient Rwanda](https://hub.wri.org/scaling-green-infrastructure-resilient-rwanda?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Cities](https://www.wri.org/cities)
+April 24, 2026
+###  [ISO-GHG Protocol Product-Level Carbon Accounting: What’s Next?](https://hub.wri.org/iso-ghg-protocol-product-level-carbon-accounting-whats-next?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/iso-ghg-protocol-product-level-carbon-accounting-whats-next#register)
+[Climate](https://www.wri.org/climate)
 Event 
-March 17, 2026
-###  [Enabling Women Leaders in Building Equitable, Inclusive, and Climate-Resilient Cities](https://hub.wri.org/enabling-women-leaders-building-equitable-inclusive-and-climate-resilient-cities?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Forests](https://www.wri.org/forests)
-[Africa](https://www.wri.org/africa)
+April 28, 2026
+###  [The Latest Trends in Global Emissions](https://hub.wri.org/latest-trends-global-emissions?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/latest-trends-global-emissions#register)
+[Climate](https://www.wri.org/climate)
 Event 
-March 19, 2026
-###  [Global Nature Watch: AI-Powered Insights for Nature in Africa—and Beyond](https://hub.wri.org/global-nature-watch-ai-powered-insights-nature-africa-and-beyond?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/global-nature-watch-ai-powered-insights-nature-africa-and-beyond#register)
+April 30, 2026
+###  [Frontline Climate Defenders: A Call for Recognition, Inclusion and Protection](https://hub.wri.org/events/2026/4/frontline-climate-defenders-call-recognition-inclusion-and-protection?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/4/frontline-climate-defenders-call-recognition-inclusion-and-protection#register)
 [Energy](https://www.wri.org/energy)
 Event 
-March 26, 2026
-###  [Building Local Capacity for Clean Energy Siting: What's Working and Why](https://hub.wri.org/building-local-capacity-clean-energy-siting-whats-working-and-why?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/building-local-capacity-clean-energy-siting-whats-working-and-why#register)
+May 7, 2026
+###  [Integrated Resource Planning: What It Is and How Local Governments Can Engage](https://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage#register)
+[Climate](https://www.wri.org/climate)
+Event 
+May 12, 2026
+###  [Saving Lives in a Warming World: Investing in Climate Services for Health](https://hub.wri.org/saving-lives-warming-world-investing-climate-services-health?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/saving-lives-warming-world-investing-climate-services-health#register)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026
-###  [Open Source in Energy Access Symposium 2026](https://hub.wri.org/events/2026/10/open-source-energy-access-symposium-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+###  [Open Source in Energy Access Symposium 2026](https://hub.wri.org/open-source-energy-access-symposium-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)

@@ -5,6 +5,9 @@ icon-add icon-announce icon-arrow icon-cal icon-leaf icon-doc icon-search
 
 # News
 A list of announcements
+  * 22 Apr
+  * 08 Apr
+##  [ Seeking environmental champions for 2026 WasteSorted Awards ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Seeking-environmental-champions-for-2026-WasteSorted-Awards---20260408)
   * 27 Feb
   * 25 Feb
 ##  [ Increased funding to support South West FOGO services ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Increased-funding-to-support-South-West-FOGO-services-20260225)
@@ -43,11 +46,6 @@ A list of announcements
 ##  [ Circular economy champions recognised at WasteSorted Awards ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Circular-economy-champions-recognised-at-WasteSorted-Awards-20250912)
   * 10 Sep
 ##  [ Western Australians urged to become ‘Great Unwasters’ ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Western-Australians-urged-to-become-'Great-Unwasters'-20250910)
-  * 10 Sep
-##  [ Containers for Change to expand to wine and spirit bottles in 2026 ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Containers-for-Change-to-expand-to-wine-and-spirit-bottles-in-2026-20250910)
-  * 06 Aug
-##  Funding available for better practice kerbside collections – applications close 31 March 2026 
-The Better Bins Plus: Go FOGO program [is now open for applications](https://www.wasteauthority.wa.gov.au/programs/view/better-bins). Applications will close 31 March 2026. This is the final call for local governments to make an application for FOGO funding under this program. For more information contact 
 
 
 **1** [2](https://www.wasteauthority.wa.gov.au/news/P24) [3](https://www.wasteauthority.wa.gov.au/news/P48) [>](https://www.wasteauthority.wa.gov.au/news/P24) [Last ›](https://www.wasteauthority.wa.gov.au/news/P168)

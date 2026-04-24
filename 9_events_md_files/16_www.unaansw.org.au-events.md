@@ -9,10 +9,6 @@ our events offer a platform to learn, connect, and take action.
 
 ### Check out our upcoming events and register today to be part of the conversation!
 ## Our Event Calendar
-## [Visit our stand at the Ocean Lovers' Festival](https://www.unaansw.org.au/donate)
-#### 21 March and 22 March 2026
-Bondi Beach
-​
 ## [UNAA NSW Quarterly Induction Session](https://www.unaansw.org.au/donate)
 #### 5 May 2026, 7 - 8pm
 Online

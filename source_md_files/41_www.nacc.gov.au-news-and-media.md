@@ -1,7 +1,7 @@
 [ Skip to main content ](https://www.nacc.gov.au/news-and-media#main-content)
 # News and media releases
-Fast facts as at 11 March 2026
-30
+Fast facts as at 22 April 2026
+29
 Preliminary investigations underway
 35
 Corruption investigations underway
@@ -9,11 +9,21 @@ Corruption investigations underway
 Joint corruption investigations underway
 4
 Matters before the court
-18
+26
 Investigations by other agencies being overseen or monitored by the Commission
-1777
+2032
 Referrals received this financial year
-Displaying 1 - 12 of 139 results
+Displaying 1 - 12 of 141 results
+  * News
+
+
+[ Monthly update: April 2026 ](https://www.nacc.gov.au/news-and-media/monthly-update-april-2026)
+9 Apr 2026
+  * News
+
+
+[ Monthly update: March 2026 ](https://www.nacc.gov.au/news-and-media/monthly-update-march-2026)
+16 Mar 2026
   * Media Releases
 
 
@@ -64,13 +74,3 @@ Displaying 1 - 12 of 139 results
 
 [ Commonwealth employee among three people charged over alleged multi-million dollar fraud scheme ](https://www.nacc.gov.au/news-and-media/commonwealth-employee-among-three-people-charged-over-alleged-multi-million-dollar-fraud-scheme)
 17 Nov 2025
-  * News
-
-
-[ Monthly update: November 2025 ](https://www.nacc.gov.au/news-and-media/monthly-update-november-2025)
-31 Oct 2025
-  * News
-
-
-[ Monthly update: October 2025 ](https://www.nacc.gov.au/news-and-media/monthly-update-october-2025)
-2 Oct 2025

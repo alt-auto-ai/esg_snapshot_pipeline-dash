@@ -1,7 +1,37 @@
+Fri 24 Apr
 Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
-[Centre for Future Work](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-future-work) [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
+[Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/japanese-government-collects-more-tax-from-australian-gas-than-australian-government/)
+New Australia Institute research published today shows that the Japanese Government makes more revenue taxing its imports of Australian gas than the Australian Government makes from the export of our gas. Key findings: Japan has imposed a tax on oil and gas imports since 1978, expanding the tax to cover coal in 2003. Over the last
+[](https://australiainstitute.org.au/post/high-court-gives-victoria-a-chance-to-rethink-its-unconstitutional-undemocratic-political-donation-laws/)
+The High Court has ruled that Victoria’s political donation caps are unconstitutional because they include a “nominated entities” loophole which the major parties can exploit. 
+[](https://australiainstitute.org.au/post/australians-want-nothing-more-than-a-fair-return-for-their-gas-submission-to-senate-inquiry/)
+Australia’s gas exporters pay little tax or royalties, employ few people, push up gas and electricity prices and worsen the climate crisis, a Senate Inquiry has been told.
+[](https://australiainstitute.org.au/post/the-cost-of-doing-nothing-every-week-australia-delays-a-gas-export-tax-costs-the-nation-350m-according-to-new-gas-giveaway-tracker/)
+Every week the federal government delays implementing a 25% gas export tax costs the Australian public around $350 million in revenue, new research from The Australia Institute reveals.
+[](https://australiainstitute.org.au/post/same-parliament-more-australians-representation-gap-widens-to-record-high-but-pm-is-satisfied-with-his-supermajority/)
+New Australia Institute research warns that Australia’s democracy is being stretched thin, with each MP now representing almost four times as many people as at Federation.
+# March 2026
+[](https://australiainstitute.org.au/post/vital-wage-rise-would-be-a-lifeline-to-low-income-earners-and-wouldnt-drive-inflation-new-analysis/)
+Updated analysis by The Australia Institute reveals that a fair and appropriate increase to the minimum wage, and accompanying increases to award rates, would not have a significant effect on inflation.
+[](https://australiainstitute.org.au/post/even-liberal-voters-agree-its-time-to-ditch-howard-era-perks-for-property-investors-polls/)
+New polling conducted for the Australia Institute reveals broad support for reducing the perks which give property investors a significant advantage over owner-occupiers in the property market. Even Liberal voters are ready to scrap the capital gains tax discount introduced by the Howard government in1999, which has enabled investors to pay tax on just half of what
+[](https://australiainstitute.org.au/post/art-attack-australian-artists-should-be-properly-funded-not-forced-to-beg/)
+A hearing will be held at Parliament House today, looking at ways to attract more donations to the struggling arts sector, as part of a Parliamentary Inquiry into Arts and Cultural Philanthropy.
+[](https://australiainstitute.org.au/post/tax-gas-exports-invest-in-health-aged-care-new-polls/)
+Five news polls conducted for The Australia Institute reveal an overwhelming majority of Australians want a gas export tax to fund improvements in services like health and aged care.
+[](https://australiainstitute.org.au/post/free-childcare-free-university-the-simple-sensible-policy-which-would-have-raised-63-8-billion-in-under-four-years/)
+Extraordinary new analysis by The Australia Institute reveals that if the Albanese government had introduced a 25% gas export tax after Russia’s invasion of Ukraine, it would have raised more than 63 billion dollars.
+[](https://australiainstitute.org.au/post/all-pain-no-gain-rate-rise-wont-bring-down-petrol-prices-but-it-will-hurt-households/)
+The Reserve Bank’s decision to raise interest rates today will inflict more unnecessary pain on households struggling with a long-running cost-of-living crisis and soaring fuel prices. 
+[](https://australiainstitute.org.au/post/war-what-is-it-good-for-the-gas-industry/)
+The Iran conflict is driving up fuel prices across the world, which will flow through to food and other necessities for Australian households. It is also generating vast profits for the handful of largely foreign owned companies exporting Australia’s gas.
+[](https://australiainstitute.org.au/post/overwhelming-support-for-abortion-access-despite-election-rhetoric-new-poll/)
+New polling conducted for The Australia Institute reveals broad support for access to abortion services, despite anti-abortion rhetoric ahead of the South Australian election and Farrer by-election.
+[](https://australiainstitute.org.au/post/gun-law-fail-dodgy-licences-lead-to-firearms-flood/)
+Hundreds of thousands of gun owners have no genuine reason to have a firearm according to analysis released today by The Australia Institute.
 [](https://australiainstitute.org.au/post/australian-fossil-fuel-subsidies-growing-faster-than-ndis-hitting-16-3-billion-in-2025-26/)
 Australian state and federal governments provided $16.3 billion in subsidies to fossil fuel producers and major users in 2025-26, according to new research from The Australia Institute.
 [](https://australiainstitute.org.au/post/new-analysis-mid-east-wars-hit-to-australian-economy-how-to-reduce-its-impact/)
@@ -37,35 +67,6 @@ ADELAIDE WRITERS’ WEEK
 # December 2025
 [](https://australiainstitute.org.au/post/federal-governments-gas-policy-acknowledges-there-is-no-gas-shortage/)
 The Albanese Government’s announcement of a gas reserve for Australians is an acknowledgement that there is no gas shortage, and that excessive exports have driven up energy prices for Australians. The Gas Market Review Report acknowledges that unrestricted exports linked Australian prices to world prices, tripling the cost of gas on Australia’s east coast over
-[](https://australiainstitute.org.au/post/centre-for-future-work-to-evolve-into-standalone-entity/)
-The Centre for Future Work was established by the Australia Institute in 2016 to conduct and publish progressive economic research on work, employment, and labour markets. Supported by the Australian Union movement, the centre produced cutting edge research and led the national conversation on economic issues facing working people: including the future of jobs, wages
-[](https://australiainstitute.org.au/post/australia-dumps-its-care-crisis-on-the-pacific-new-report/)
-Skilled health workers from Pacific Island countries are being poached to plug Australia’s shortage of care workers, leaving the health systems in their home countries on the brink of collapse, according to new research.
-[](https://australiainstitute.org.au/post/rate-hold-shows-rba-uncertainty-but-cuts-are-just-as-likely-as-hikes-in-2026/)
-Today’s decision by the Reserve Bank of Australia to keep interest rates on hold shows the RBA doesn’t really know which way inflation is trending.
-[](https://australiainstitute.org.au/post/theres-a-simple-way-to-solve-australias-gas-crisis-and-cut-energy-bills/)
-With the federal government seeking a new way to fix Australia’s self-inflicted “gas crisis”, Australia Institute research shows a 25% tax on gas exports would solve the problem. The research shows a tax, proposed by the ACTU and supported by the Greens, would increase supply and cut energy bills for Australians. It would also raise around $17 billion
-# November 2025
-[](https://australiainstitute.org.au/post/drowned-out-in-the-stream-australian-music-is-in-trouble-and-needs-investment-new-report/)
-The algorithms of global music streaming services like Spotify, YouTube, Amazon and Apple are killing Australian music, according to a new report by a former Spotify executive. As Australians celebrate the nation’s extraordinary artists to mark AusMusic T-Shirt Day today, the report reveals that the number of artists featured on music streaming giants has fallen by
-[](https://australiainstitute.org.au/post/the-only-thing-that-can-save-the-environment-is-stopping-new-gas-and-coal/)
-The EPBC is a planning instrument and while this bill is stronger with the Greens’ amendments, it will not secure a safe climate and protect biodiversity. The most important contribution Australia can make to stabilising our climate is committing to no new gas and no new coal. It’s time for Resources Minister Madeleine King, Climate
-[](https://australiainstitute.org.au/post/dubious-donations-and-fake-philanthropy-exposing-the-exaggerated-generosity-of-australias-biggest-companies/)
-Australia Institute research into 20 of Australia’s largest corporations has found that over half the value of their reported contributions to the community were dubious, leading to overinflated claims of generosity in the private sector.
-[](https://australiainstitute.org.au/post/labor-giving-billion-dollar-cost-of-cop-to-pacific-would-show-genuine-climate-leadership/)
-The Australia Institute is calling on the Albanese Government to redirect the billion dollars saved by not hosting COP31 to Pacific nations.
-[](https://australiainstitute.org.au/post/go-home-on-time-day-2025-as-full-timers-disconnect-part-timers-are-doing-more-unpaid-overtime/)
-New research by the Centre for Future Work at The Australia Institute has revealed a disturbing new twist when it comes to unpaid overtime in Australia.
-[](https://australiainstitute.org.au/post/mike-rann-gas-lobby-using-tobacco-tactics-to-keep-polluting-tax-breaks/)
-Former South Australian Premier, the Hon. Mike Rann AC, has criticised the “almost tax‑free” gas exports driving billion‑dollar profits for the fossil fuel industry in Australia.
-[](https://australiainstitute.org.au/post/anz-profit-completes-obscene-43-billion-quadrella/)
-The ANZ bank has today posted an $8.8 billion profit, completing an obscene quadrella from Australia’s big 4 banks.
-[](https://australiainstitute.org.au/post/leaked-report-undermines-wa-premiers-claim-that-lng-exports-help-asias-clean-energy-transition/)
-The Western Australian government’s claim that its domestic gas production is helping Asia’s clean energy transition has been undermined in a leaked report – which it commissioned.
-[](https://australiainstitute.org.au/post/nab-posts-a-9-7-billion-profit-its-time-to-properly-tax-these-obscene-results/)
-The National Australia Bank today released its annual report showing a pre-tax profit of $9.7 billion.
-[](https://australiainstitute.org.au/post/australians-believe-universities-are-too-expensive-and-not-doing-their-job-polling/)
-New Australia Institute polling research shows most Australians, regardless of who they vote for, think most university degrees are too expensive.
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

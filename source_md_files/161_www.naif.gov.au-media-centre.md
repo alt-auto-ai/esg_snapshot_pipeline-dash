@@ -1,22 +1,32 @@
 # Media Centre
 #### Search & Filter
-## How to get started with NAIF finance
-  * 15 Jan 2026
-  * News Article
+## Albanese Government Backs Darwin Student Accommodation
+  * 22 Apr 2026
+  * Media Release
 
 
-Start your NAIF finance journey: check eligibility, engage early, prepare due diligence and submit your proposal for northern Australia projects.
-[Continue Reading](https://www.naif.gov.au/media-centre/how-to-get-started-with-naif-finance/)
-### [Alpha HPA First Project Case Study
-  * 10 Mar 2026
-  * Case Study
+The Northern Australia Infrastructure Facility (NAIF) will provide a loan for around $70 million to build more than 400 new purpose-built student accommodation beds in Darwin.
+[Continue Reading](https://www.naif.gov.au/media-centre/albanese-government-backs-darwin-student-accommodation/)
+### [Boosting Affordable Housing in North Queensland
+  * 23 Apr 2026
+  * Government Statement
 
-Read the case study on how we supported the Alpha HPA First Project in Gladstone, Queensland.  Continue reading ](https://www.naif.gov.au/media-centre/alpha-hpa-first-project-case-study/)
+We've announced a loan for up to $40 million to build 81 new social and affordable housing units in Townsville. Continue reading ](https://www.naif.gov.au/media-centre/boosting-affordable-housing-in-north-queensland/)
+### [Albanese Government Backs Darwin Student Accommodation
+  * 22 Apr 2026
+  * Media Release
+
+The Northern Australia Infrastructure Facility (NAIF) will provide a loan for around $70 million to build more than 400 new purpose-built student accommodation beds in Darwin. Continue reading ](https://www.naif.gov.au/media-centre/albanese-government-backs-darwin-student-accommodation/)
 ### [Kimberley Cotton Gin Case Study
   * 10 Mar 2026
   * Case Study
 
 Read our case study on the Kimberley Cotton Gin, for sector‑specific insights into large‑scale cotton processing in northern Australia. Continue reading ](https://www.naif.gov.au/media-centre/kimberley-cotton-gin-case-study/)
+### [Alpha HPA First Project Case Study
+  * 10 Mar 2026
+  * Case Study
+
+Read the case study on how we supported the Alpha HPA First Project in Gladstone, Queensland.  Continue reading ](https://www.naif.gov.au/media-centre/alpha-hpa-first-project-case-study/)
 ### [Securing long-term investment in northern Australia
   * 04 Mar 2026
   * Government Statement
@@ -42,17 +52,7 @@ Start your NAIF finance journey: check eligibility, engage early, prepare due di
   * Case Study
 
 Read our case study on Heritage Minerals’ Mount Morgan project, driving critical minerals supply, environmental and economic benefits to the region.  Continue reading ](https://www.naif.gov.au/media-centre/heritage-minerals-mount-morgan-tailings-processing-and-rehabilitation-project/)
-### [Newsletter December 2025
-  * 11 Dec 2025
-  * Newsletters
-
-The December edition of NAIF Impact showcases our latest investments, project milestones, and community outcomes shaping growth across northern Australia. Continue reading ](https://www.naif.gov.au/media-centre/newsletter-december-2025/)
-### [NAIF appoints new Chief Executive Officer
-  * 03 Dec 2025
-  * Media Release
-
-NAIF's Board appointed Neil MacDonald as CEO to drive infrastructure investment and economic growth across northern Australia. Continue reading ](https://www.naif.gov.au/media-centre/northern-australia-infrastructure-facility-naif-appoints-new-chief-executive-officer/)
-Displaying 1-9 of 199 
+Displaying 1-9 of 201 
 January February March April May June July August September October November December
 SunMonTueWedThuFriSat 
-123456789101112131415161718192021222324252627282930311234567891011
+293031123456789101112131415161718192021222324252627282930123456789

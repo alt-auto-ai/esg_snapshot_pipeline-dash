@@ -1,29 +1,26 @@
 Menu
   * [Open submenu (NT Geological Survey)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-1)[NT Geological Survey](https://resourcingtheterritory.nt.gov.au/northern-territory-geological-survey-ntgs)
-  * [Open submenu (About RTT)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-2)[About RTT](https://resourcingtheterritory.nt.gov.au/about)
-  * [Open submenu (Exploration grants)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Exploration grants](https://resourcingtheterritory.nt.gov.au/gdc)
-  * [Open submenu (Energy)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)[Energy](https://resourcingtheterritory.nt.gov.au/energy)
-  * [Open submenu (Minerals)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)[Minerals](https://resourcingtheterritory.nt.gov.au/minerals)
-  * [Open submenu (Data and Publications)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-12)[Data and Publications](https://resourcingtheterritory.nt.gov.au/data-and-publications)
-  * [Open submenu (News and Events)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-13)[News and Events](https://resourcingtheterritory.nt.gov.au/news-and-events)
-  * [Open submenu (Toolbox)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-15)[Toolbox](https://resourcingtheterritory.nt.gov.au/news-and-events/news)
+  * [Open submenu (Resourcing the Territory)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-2)[Resourcing the Territory](https://resourcingtheterritory.nt.gov.au/about)
+  * [Open submenu (Exploration grants)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-3)[Exploration grants](https://resourcingtheterritory.nt.gov.au/gdc)
+  * [Open submenu (Energy)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Energy](https://resourcingtheterritory.nt.gov.au/energy)
+  * [Open submenu (Minerals)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)[Minerals](https://resourcingtheterritory.nt.gov.au/minerals)
+  * [Open submenu (Data and Publications)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-11)[Data and Publications](https://resourcingtheterritory.nt.gov.au/data-and-publications)
+  * [Open submenu (News and Events)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-12)[News and Events](https://resourcingtheterritory.nt.gov.au/news-and-events)
+  * [Open submenu (Toolbox)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-14)[Toolbox](https://resourcingtheterritory.nt.gov.au/news-and-events/news)
   * [Contacts](https://resourcingtheterritory.nt.gov.au/contacts)
   * [Feedback](https://resourcingtheterritory.nt.gov.au/feedback)
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[NT Geological Survey](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * ### [Working at NTGS ](https://resourcingtheterritory.nt.gov.au/northern-territory-geological-survey-ntgs/working-at-ntgs)
   * ### [Online systems ](https://resourcingtheterritory.nt.gov.au/northern-territory-geological-survey-ntgs/ntgs-online-systems)
+  * ### [Working at NTGS ](https://resourcingtheterritory.nt.gov.au/northern-territory-geological-survey-ntgs/working-at-ntgs)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[About RTT](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * ### [Program themes ](https://resourcingtheterritory.nt.gov.au/about/geoscience-projects)
-  * [Open submenu (Past initiatives)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-3)### [Past initiatives](https://resourcingtheterritory.nt.gov.au/about/past-initiatives)
-
-
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-2)[Past initiatives](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-2)
-  * [ Resourcing the Territory (2018-2022) ](https://resourcingtheterritory.nt.gov.au/about/past-initiatives/resourcing-the-territory-2018-2022)
-  * [ CORE (2014-2018) ](https://resourcingtheterritory.nt.gov.au/about/past-initiatives/previous-initiatives)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Resourcing the Territory](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
+  * ### [Resourcing the Territory (current) ](https://resourcingtheterritory.nt.gov.au/about/geoscience-projects)
+  * ### [Resourcing the Territory (2022-2026) ](https://resourcingtheterritory.nt.gov.au/about/resourcing-the-territory-2022-2026)
+  * ### [Resourcing the Territory (2018-2022) ](https://resourcingtheterritory.nt.gov.au/about/resourcing-the-territory-2018-2022)
+  * ### [Past initiatives ](https://resourcingtheterritory.nt.gov.au/about/past-initiatives)
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Exploration grants](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
@@ -32,15 +29,15 @@ Menu
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Energy](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * [Open submenu (Oil and Gas)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-6)### [Oil and Gas](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas)
+  * [Open submenu (Oil and Gas)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)### [Oil and Gas](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas)
   * ### [Naturally occurring Hydrogen and Helium ](https://resourcingtheterritory.nt.gov.au/energy/naturally-occurring-hydrogen-and-helium)
   * ### [Geothermal ](https://resourcingtheterritory.nt.gov.au/energy/geothermal)
   * ### [Carbon capture and storage ](https://resourcingtheterritory.nt.gov.au/energy/carbon-capture-and-storage)
-  * [Open submenu (Onshore sedimentary basin inventories)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)### [Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories)
+  * [Open submenu (Onshore sedimentary basin inventories)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-6)### [Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories)
   * ### [Uranium ](https://resourcingtheterritory.nt.gov.au/energy/uranium)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)[Oil and Gas](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Oil and Gas](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)
   * [ Producing basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/producing-basins)
   * [ Advanced basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/advanced-basins)
   * [ Frontier basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/frontier-basins)
@@ -49,7 +46,7 @@ Menu
   * [ Onshore exploration activity ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/onshore-exploration-highlights)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)[Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)
   * [ McArthur Basin ](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories/mcarthur-basin)
   * [ Beetaloo Sub-basin ](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories/beetaloo-sub-basin)
   * [ Amadeus Basin ](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories/amadeus-basin)
@@ -59,13 +56,13 @@ Menu
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Minerals](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * [Open submenu (Mineral commodities)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-9)### [Mineral commodities](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities)
-  * [Open submenu (Mines, projects and exploration)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-10)### [Mines, projects and exploration](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects)
-  * [Open submenu (Minerals Industry Development)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-11)### [Minerals Industry Development](https://resourcingtheterritory.nt.gov.au/minerals/minerals-industry-development)
+  * [Open submenu (Mineral commodities)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)### [Mineral commodities](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities)
+  * [Open submenu (Mines, projects and exploration)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-9)### [Mines, projects and exploration](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects)
+  * [Open submenu (Minerals Industry Development)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-10)### [Minerals Industry Development](https://resourcingtheterritory.nt.gov.au/minerals/minerals-industry-development)
   * ### [Investment opportunities  ](https://resourcingtheterritory.nt.gov.au/minerals/investment-opportunities)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)[Mineral commodities](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)[Mineral commodities](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)
   * [ Bauxite ](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities/bauxite)
   * [ Cobalt ](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities/cobalt)
   * [ Copper ](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities/copper)
@@ -87,14 +84,14 @@ Menu
   * [ Zinc, Lead and Silver ](https://resourcingtheterritory.nt.gov.au/minerals/mineral-commodities/zinc-lead-silver)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)[Mines, projects and exploration](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)[Mines, projects and exploration](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)
   * [ Operating Mines ](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects/operational-mines)
   * [ Developing Projects ](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects/developing-projects)
   * [ Exploration Activity ](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects/exploration-activity)
   * [ Mineral project definitions ](https://resourcingtheterritory.nt.gov.au/minerals/mines-and-projects/mineral-project-definitions)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)[Minerals Industry Development](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-8)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)[Minerals Industry Development](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-7)
   * [ Minerals industry plan ](https://resourcingtheterritory.nt.gov.au/minerals/minerals-industry-development/minerals-industry-plan)
   * [ Mineral Development Taskforce ](https://resourcingtheterritory.nt.gov.au/minerals/minerals-industry-development/mineral-development-taskforce)
 
@@ -117,12 +114,12 @@ Menu
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[News and Events](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
   * ### [News ](https://resourcingtheterritory.nt.gov.au/news-and-events/news)
-  * [Open submenu (AGES)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-14)### [AGES](https://resourcingtheterritory.nt.gov.au/news-and-events/ages)
+  * [Open submenu (AGES)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-13)### [AGES](https://resourcingtheterritory.nt.gov.au/news-and-events/ages)
   * ### [Events and presentations ](https://resourcingtheterritory.nt.gov.au/news-and-events/events-and-presentations)
   * ### [Exploration news ](https://resourcingtheterritory.nt.gov.au/news-and-events/exploration-news)
 
 
-[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-13)[AGES](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-13)
+[Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-12)[AGES](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-12)
   * [ Mining Services Expo ](https://resourcingtheterritory.nt.gov.au/news-and-events/ages/mining-services-expo)
   * [ Past events ](https://resourcingtheterritory.nt.gov.au/news-and-events/ages/past-events)
 
@@ -146,38 +143,38 @@ Menu
 
 
 # News
-###  [New acreage release in the Beetaloo Sub-basin](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-acreage-release-in-the-beetaloo-sub-basin)
-02 Mar 2026
-A major new 4,000 km2 release in the Beetaloo Sub‑basin is now open for applications as the Territory promotes opportunities at a leading global energy expo.
-###  [New Critical Minerals and Gold guide for the NT](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-critical-minerals-and-gold-guide-for-the-nt)
-28 Feb 2026
-A full guide to all the mineral opportunities in the NT, plus an inventory of Economic Demonstrated Resources for 21 global critical minerals plus gold!
-###  [NTGS promotes Territory critical minerals at PDAC 2026](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/ntgs-promotes-territory-critical-minerals-at-pdac-2026)
-23 Feb 2026
-The **Prospectors & Developers Association of Canada (PDAC)** Convention, held from 1–4 March 2026, is the world’s largest mineral exploration and mining event. NTGS will showcase the latest exploration activity and emerging opportunities across the Northern Territory.
-###  [Latest exploration grants round is open for applications](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/latest-exploration-grants-round-is-open-for-application)
-20 Feb 2026
-Round 19 of the Territory Government’s Geophysics and Drilling Collaborations program will award up to $4 million in co-funding for projects that address geoscientific knowledge gaps, advance exploration activity, and support the discovery and development of resources in the Territory.
-###  [AGES 2026 technical program is now available](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/ages-2026-technical-program-packed-with-new-geoscience)
-20 Feb 2026
-The Annual Geoscience Exploration Seminar (AGES 2026) technical program is jam packed with geoscience and the latest exploration results from across the Territory.
-###  [West Arnhem Ground Gravity survey delivers high-resolution gravity coverage across the remaining Pine Creek Orogen and north McArthur Basin ](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/ntgs-west-arnhem-ground-gravity-survey-delivers-high-resolution-gravity-coverage-across-the-remaining-pine-creek-orogen-and-the-northern-greater-mcarthur-basin)
-11 Feb 2026
-Acquisition of the 65,000 km2 NTGS West Arnhem Ground Gravity Survey is now complete. The survey is a fundamental pre-competitive dataset to advance exploration and geological understanding of this underexplored and highly prospective area of the NT
-###  [Release of NTGS Record 2025-007: New zircon age constraints for the Neoproterozoic Kiana Group](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/release-of-ntgs-record-2025-07-new-zircon-age-constraints-for-the-neoproterozoic-kiana-group)
-15 Jan 2026
-New LA–ICP–MS zircon age data from bore samples south of Katherine improve understanding of Kiana Group subsurface distribution and regional stratigraphic correlations.
-###  [AGES 2026 registrations now open](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/ages-2026-registrations-now-open)
-05 Jan 2026
-Registrations are open for AGES 20206, the Northern Territory’s leading technical exploration conference, to be held in Alice Springs on 14–15 April 2026.
-###  [Discover the Territory's mining opportunities](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2025/discover-the-territorys-mining-opportunities)
-22 Oct 2025
-The Mining Developments in the Northern Territory report tracks updates across the NT’s mining sector and is released three times a year. Download the October 2025 report now!
-###  [Exploration grants deliver fresh geoscience across the Territory](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2025/exploration-grants-deliver-fresh-geoscience-across-the-territory)
-10 Oct 2025
-The Geophysics and Drilling Collaborations Round 17 Summary report is now available and highlights new co-funded exploration activity and data in the NT.
+###  [AGES 2026 Conference Proceedings now available](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/ages-2026-conference-proceedings-now-available)
+15 Apr 2026
+Check out the NT Geological Survey's latest volume packed with new geoscience from across the Northern Territory.
+###  [Three regional-scale geophysical surveys planned for 2026](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/three-ntgs-regional-scale-geophysical-surveys-planned-for-2026)
+13 Apr 2026
+NTGS will deliver the largest geophysical acquisition program ever undertaken in the NT, focused on completion of NT-wide 4km or less spaced ground gravity, and upgrading the magnetic and radiometric coverage of the NT.
+###  [Significant new geochemistry data available in DIP001 update](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-data-dip001-update)
+13 Apr 2026
+Digital Information Package 001 (DIP 001) Northern Territory comprises all the latest geochemical and drilling datasets from across the Territory, with legacy data from more than 7,000 drillholes across Pine Creek added.
+###  [New compilation of geophysical data across Pine Creek](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-compilation-of-geophysical-data-across-pine-creek)
+13 Apr 2026
+NTGS has released DIP046, a comprehensive compilation of all open file geophysical data covering the extent of the Pine Creek Orogen.
+###  [New release: Lake Amadeus 1:250 000 geological map series](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-release-lake-amadeus-1250-000-geological-map-series)
+09 Apr 2026
+NTGS has released second edition geological mapping and geochronological analyses refining the geology of a key portion of central Australia.
+###  [NTGS release three first edition 1:100 000 geological maps and explanatory notes over East Arnhem Land](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-releases-three-first-edition-100k-geological-maps-and-explanatory-notes-oer-east-arhnem-region)
+08 Apr 2026
+Geological mapping and explanatory notes for Gove, Caledon and Blane Special delivers modern, high‑resolution geological maps of East Arnhem Land, and providing a consistent geological framework.
+###  [Update to the Australian Guidelines for the Submission of Digital Mineral Exploration Data](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/update-to-the-australian-guidelines-for-the-submission-of-digital-mineral-exploration-data)
+02 Apr 2026
+The 5th edition of the Australian Guidelines for the Submission of Digital Mineral Exploration Data modernises reporting requirements to ensure exploration data is preserved in high-quality, accessible formats for future use.
+###  [New geochronology release from the Amadeus Basin](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-geochronology-release-from-the-amadeus-basin)
+25 Mar 2026
+NTGS has released new SHRIMP U–Pb detrital zircon results from the eastern Amadeus Basin, adding fresh age constraints and provenance insights across key Neoproterozoic–Devonian units in the basin.
+###  [Redefined SEEBASE® unlocks new insights into the stacked basins of south-eastern NT](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/redefined-seebase-unlocks-new-insights-into-the-stacked-basins-of-south-eastern-nt)
+24 Mar 2026
+NTGS has released a new SEEBASE® update for the Warburton–Pedirka–Eromanga basins revising the understanding of the basin architecture and depth to basement across south‑eastern Northern Territory.
+###  [New Base Metal Report release](https://resourcingtheterritory.nt.gov.au/news-and-events/news/2026/new-base-metal-report-release)
+23 Mar 2026
+NTGS has released a new “Base metal deposits of the Northern Territory” report, which documents more than 800 known base-metal occurrences and provides detailed descriptions of all major deposits. The report also highlights significant untapped exploration potential across the Northern Territory.
 [Previous](https://resourcingtheterritory.nt.gov.au/news-and-events/news)
-1 [2](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=2) [3](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=3) [4](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=4) [5](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=5) [6](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=6) [7](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=7) [8](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=8) [9](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=9) [10](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=10) [11](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=11) [12](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=12) [13](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=13) [14](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=14) [15](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=15) [16](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=16) [17](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=17) [18](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=18) [19](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=19) [20](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=20) [21](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=21) [22](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=22)
+1 [2](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=2) [3](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=3) [4](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=4) [5](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=5) [6](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=6) [7](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=7) [8](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=8) [9](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=9) [10](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=10) [11](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=11) [12](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=12) [13](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=13) [14](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=14) [15](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=15) [16](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=16) [17](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=17) [18](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=18) [19](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=19) [20](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=20) [21](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=21) [22](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=22) [23](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=23)
 [Next](https://resourcingtheterritory.nt.gov.au/news-and-events/news?result_905359_result_page=2)
 ### News and Events
   * [News](https://resourcingtheterritory.nt.gov.au/news-and-events/news)

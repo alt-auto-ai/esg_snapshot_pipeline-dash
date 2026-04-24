@@ -102,12 +102,17 @@ Recreational prospecting
 [Home](https://resources.vic.gov.au) > [About us](https://resources.vic.gov.au/about-us) >
 # News
 ## Featured news
-[](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-december-2025-and-january-2026)
-### [Minerals industry updates for December 2025 and January 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-december-2025-and-january-2026)
-03/02/2026
-We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for December 2025 and January 2026.
-[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-december-2025-and-january-2026)
+[](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
+### [Minerals industry updates for February and March 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
+10/04/2026
+We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
+[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 ## Latest news
+[ ](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
+### [Minerals industry updates for February and March 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
+10/04/2026
+We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
+[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 [ ](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
 ### [Overextraction is high priority for the resources regulator](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
 11/03/2026
@@ -133,9 +138,4 @@ Resources Victoria has issued Infringement Notices to Victory Minerals after a s
 09/02/2026
 Victoria’s geoscience capability was on full display last week. Resources Victoria took to the Australian Earth Sciences Convention in Melbourne to share its expertise with a national and global audience.
 [Read more](https://resources.vic.gov.au/about-us/news/showcasing-victorian-geoscience-on-the-national-stage)
-[ ](https://resources.vic.gov.au/about-us/news/extending-mine-rehabilitation-safeguards-for-the-long-term)
-### [Extending mine rehabilitation safeguards for the long term](https://resources.vic.gov.au/about-us/news/extending-mine-rehabilitation-safeguards-for-the-long-term)
-06/02/2026
-Victoria’s mining legislation continues to be strengthened, ensuring the state’s most complex mine sites operate with robust safeguards from the start of extraction through to long after production stops.
-[Read more](https://resources.vic.gov.au/about-us/news/extending-mine-rehabilitation-safeguards-for-the-long-term)
 Feedback

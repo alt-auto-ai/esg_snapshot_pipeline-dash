@@ -13,309 +13,272 @@ Clear All
 (1)
 Next week
 Clear All
-  * [](https://www.eventbrite.com.au/e/how-to-stop-procrastinating-and-start-showing-up-for-your-wellbeing-tickets-1984848079035?aff=ebdssbdestsearch)
-### [How to STOP Procrastinating AND start SHOWING UP for your Wellbeing](https://www.eventbrite.com.au/e/how-to-stop-procrastinating-and-start-showing-up-for-your-wellbeing-tickets-1984848079035?aff=ebdssbdestsearch)
-Tuesday at 10:00 PM UTC
-Free
-Dr Monica D R Coaching and Consulting
-39 followers
-Promoted
-_Save this event: How to STOP Procrastinating AND start SHOWING UP for your Wellbeing_ _Share this event: How to STOP Procrastinating AND start SHOWING UP for your Wellbeing_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/how-to-stop-procrastinating-and-start-showing-up-for-your-wellbeing-tickets-1984848079035?aff=ebdssbdestsearch)
-### [How to STOP Procrastinating AND start SHOWING UP for your Wellbeing](https://www.eventbrite.com.au/e/how-to-stop-procrastinating-and-start-showing-up-for-your-wellbeing-tickets-1984848079035?aff=ebdssbdestsearch)
-Tuesday at 10:00 PM UTC
-Free
-Promoted
-_Share this event: How to STOP Procrastinating AND start SHOWING UP for your Wellbeing_ _Save this event: How to STOP Procrastinating AND start SHOWING UP for your Wellbeing_
- _Promoted event actions_
-  * Sat, 21 Mar, 11:00 pm UTC
-Free
-Diane Bellchambers (Hons Psych)
-1.7k followers
-Promoted
-_Save this event: Dream Power: Let your dreams solve your problems!__Share this event: Dream Power: Let your dreams solve your problems!_
-_Promoted event actions_
-Sat, 21 Mar, 11:00 pm UTC
-Free
-Promoted
-_Share this event: Dream Power: Let your dreams solve your problems!__Save this event: Dream Power: Let your dreams solve your problems!_
-_Promoted event actions_
-  * [](https://www.eventbrite.com.au/e/engineer-growth-your-competitors-do-not-have-the-branson-myth-tickets-1984087142052?aff=ebdssbdestsearch)
-### [Engineer Growth Your Competitors Do NOT Have: The Branson Myth](https://www.eventbrite.com.au/e/engineer-growth-your-competitors-do-not-have-the-branson-myth-tickets-1984087142052?aff=ebdssbdestsearch)
-Wed, 18 Mar, 9:30 pm UTC
-Free
-Podcasts Done For You
-18 followers
-Promoted
-_Save this event: Engineer Growth Your Competitors Do NOT Have: The Branson Myth_ _Share this event: Engineer Growth Your Competitors Do NOT Have: The Branson Myth_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/engineer-growth-your-competitors-do-not-have-the-branson-myth-tickets-1984087142052?aff=ebdssbdestsearch)
-### [Engineer Growth Your Competitors Do NOT Have: The Branson Myth](https://www.eventbrite.com.au/e/engineer-growth-your-competitors-do-not-have-the-branson-myth-tickets-1984087142052?aff=ebdssbdestsearch)
-Wed, 18 Mar, 9:30 pm UTC
-Free
-Promoted
-_Share this event: Engineer Growth Your Competitors Do NOT Have: The Branson Myth_ _Save this event: Engineer Growth Your Competitors Do NOT Have: The Branson Myth_
- _Promoted event actions_
-  * [](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
-### [Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+  * [](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
 Monday at 9:00 AM
 Melbourne · Melbourne
 Free
-_Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_ _Share this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_
-[](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
-### [Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide](https://www.eventbrite.com.au/e/climate-fresk-solve-the-climate-puzzle-23m-participants-worldwide-tickets-1979449442568?aff=ebdssbdestsearch)
+_Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
+[](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
 Monday at 9:00 AM
 Melbourne · Melbourne
 Free
-_Share this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_ _Save this event: Climate Fresk - Solve the Climate Puzzle! | 2.3M+ participants worldwide_
+_Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
 View 5 similar results
-  * [](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
-### [What is a Carbon Footprint and How to Reduce It](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
-Monday at 6:00 PM
-Subiaco · Evelyn H Parker Library
+  * [](https://www.eventbrite.com.au/e/thom-woodroofe-power-prosperity-planet-tickets-1987970330774?aff=ebdssbdestsearch)
+### [Thom Woodroofe: Power, Prosperity & Planet](https://www.eventbrite.com.au/e/thom-woodroofe-power-prosperity-planet-tickets-1987970330774?aff=ebdssbdestsearch)
+Sat, 2 May, 11:15 am
+Woodend · Woodend Library
 Free
-Subiaco Library
-2k followers
-_Save this event: What is a Carbon Footprint and How to Reduce It_ _Share this event: What is a Carbon Footprint and How to Reduce It_
-[](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
-### [What is a Carbon Footprint and How to Reduce It](https://www.eventbrite.com.au/e/what-is-a-carbon-footprint-and-how-to-reduce-it-tickets-1982743839197?aff=ebdssbdestsearch)
-Monday at 6:00 PM
-Subiaco · Evelyn H Parker Library
+Woodend Library
+153 followers
+_Save this event: Thom Woodroofe: Power, Prosperity & Planet_ _Share this event: Thom Woodroofe: Power, Prosperity & Planet_
+[](https://www.eventbrite.com.au/e/thom-woodroofe-power-prosperity-planet-tickets-1987970330774?aff=ebdssbdestsearch)
+### [Thom Woodroofe: Power, Prosperity & Planet](https://www.eventbrite.com.au/e/thom-woodroofe-power-prosperity-planet-tickets-1987970330774?aff=ebdssbdestsearch)
+Sat, 2 May, 11:15 am
+Woodend · Woodend Library
 Free
-_Share this event: What is a Carbon Footprint and How to Reduce It_ _Save this event: What is a Carbon Footprint and How to Reduce It_
-  * [](https://www.eventbrite.com.au/e/author-talk-arek-sinanian-art-of-deception-tickets-1981913053294?aff=ebdssbdestsearch)
-### [Author Talk Arek Sinanian – Art of Deception](https://www.eventbrite.com.au/e/author-talk-arek-sinanian-art-of-deception-tickets-1981913053294?aff=ebdssbdestsearch)
-Lane Cove · Lane Cove Library
-Free
-Lane Cove Library
-217 followers
-_Save this event: Author Talk Arek Sinanian – Art of Deception_ _Share this event: Author Talk Arek Sinanian – Art of Deception_
-[](https://www.eventbrite.com.au/e/author-talk-arek-sinanian-art-of-deception-tickets-1981913053294?aff=ebdssbdestsearch)
-### [Author Talk Arek Sinanian – Art of Deception](https://www.eventbrite.com.au/e/author-talk-arek-sinanian-art-of-deception-tickets-1981913053294?aff=ebdssbdestsearch)
-Lane Cove · Lane Cove Library
-Free
-_Share this event: Author Talk Arek Sinanian – Art of Deception_ _Save this event: Author Talk Arek Sinanian – Art of Deception_
-  * [](https://www.eventbrite.com.au/e/creating-lasting-spiritual-change-tickets-1981320477885?aff=ebdssbdestsearch)
-### [Creating Lasting Spiritual Change](https://www.eventbrite.com.au/e/creating-lasting-spiritual-change-tickets-1981320477885?aff=ebdssbdestsearch)
-Wed, 18 Mar, 7:00 pm
-Turner · Religious Society of Friends (Quakers)
-Free
-_Save this event: Creating Lasting Spiritual Change_ _Share this event: Creating Lasting Spiritual Change_
-[](https://www.eventbrite.com.au/e/creating-lasting-spiritual-change-tickets-1981320477885?aff=ebdssbdestsearch)
-### [Creating Lasting Spiritual Change](https://www.eventbrite.com.au/e/creating-lasting-spiritual-change-tickets-1981320477885?aff=ebdssbdestsearch)
-Wed, 18 Mar, 7:00 pm
-Turner · Religious Society of Friends (Quakers)
-Free
-_Share this event: Creating Lasting Spiritual Change_ _Save this event: Creating Lasting Spiritual Change_
-  * Fri, 20 Mar, 9:00 am + 1 more
-Townsville City · Regus Northtown
-From $1,142.75
-MG Aussie
-271 followers
-_Save this event: Change Management Practitioner: 2 Days Workshop in Townsville_ _Share this event: Change Management Practitioner: 2 Days Workshop in Townsville_
-Fri, 20 Mar, 9:00 am + 1 more
-Townsville City · Regus Northtown
-From $1,142.75
-_Share this event: Change Management Practitioner: 2 Days Workshop in Townsville_ _Save this event: Change Management Practitioner: 2 Days Workshop in Townsville_
-View 3 similar results
-  * [](https://www.eventbrite.com.au/e/technology-in-the-paddock-tickets-1982243186732?aff=ebdssbdestsearch)
-### [Technology in the paddock](https://www.eventbrite.com.au/e/technology-in-the-paddock-tickets-1982243186732?aff=ebdssbdestsearch)
-Fri, 20 Mar, 9:30 am
-Brayton · 482 Brayton Rd
-Free
-Tablelands Farming Systems
-40 followers
-_Save this event: Technology in the paddock_ _Share this event: Technology in the paddock_
-[](https://www.eventbrite.com.au/e/technology-in-the-paddock-tickets-1982243186732?aff=ebdssbdestsearch)
-### [Technology in the paddock](https://www.eventbrite.com.au/e/technology-in-the-paddock-tickets-1982243186732?aff=ebdssbdestsearch)
-Fri, 20 Mar, 9:30 am
-Brayton · 482 Brayton Rd
-Free
-_Share this event: Technology in the paddock_ _Save this event: Technology in the paddock_
-  * [](https://www.eventbrite.com.au/e/solar-made-simple-blue-mountains-tickets-1983739768047?aff=ebdssbdestsearch)
-### [Solar Made Simple - Blue Mountains](https://www.eventbrite.com.au/e/solar-made-simple-blue-mountains-tickets-1983739768047?aff=ebdssbdestsearch)
-Wed, 18 Mar, 6:30 pm
-Springwood · Blue Mountains Theatre And Community Hub - Meeting Room 1
-Free
-Blue Mountains City Council
-359 followers
-_Save this event: Solar Made Simple - Blue Mountains_ _Share this event: Solar Made Simple - Blue Mountains_
-[](https://www.eventbrite.com.au/e/solar-made-simple-blue-mountains-tickets-1983739768047?aff=ebdssbdestsearch)
-### [Solar Made Simple - Blue Mountains](https://www.eventbrite.com.au/e/solar-made-simple-blue-mountains-tickets-1983739768047?aff=ebdssbdestsearch)
-Wed, 18 Mar, 6:30 pm
-Springwood · Blue Mountains Theatre And Community Hub - Meeting Room 1
-Free
-_Share this event: Solar Made Simple - Blue Mountains_ _Save this event: Solar Made Simple - Blue Mountains_
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979104308262?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979104308262?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Sydney · Sydney
-Free
-_Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979104308262?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979104308262?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Sydney · Sydney
-Free
-_Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449214887?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449214887?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Melbourne · Melbourne
-Free
-_Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449214887?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449214887?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Melbourne · Melbourne
-Free
-_Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685748365?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685748365?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Adelaide · Adelaide
-Free
-_Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685748365?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685748365?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Adelaide · Adelaide
-Free
-_Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685538738?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685538738?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Canberra · Canberra
-Free
-_Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685538738?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979685538738?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Canberra · Canberra
-Free
-_Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449316190?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449316190?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Brisbane · Brisbane
-Free
-_Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449316190?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ – Doughnut Economics for Organisations](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-doughnut-economics-for-organisations-tickets-1979449316190?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Brisbane · Brisbane
-Free
-_Share this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_ _Save this event: Doughnut Design for Business™ – Doughnut Economics for Organisations_
-  * [](https://www.eventbrite.com.au/e/teaching-sovereignty-indigenous-education-in-crisis-times-tickets-1983044281829?aff=ebdssbdestsearch)
-### [Teaching Sovereignty: Indigenous education in crisis times](https://www.eventbrite.com.au/e/teaching-sovereignty-indigenous-education-in-crisis-times-tickets-1983044281829?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Carlton · Theatre Q230, Kwong Lee Dow Building
-Free
-Faculty of Education
-2k followers
-_Save this event: Teaching Sovereignty: Indigenous education in crisis times_ _Share this event: Teaching Sovereignty: Indigenous education in crisis times_
-[](https://www.eventbrite.com.au/e/teaching-sovereignty-indigenous-education-in-crisis-times-tickets-1983044281829?aff=ebdssbdestsearch)
-### [Teaching Sovereignty: Indigenous education in crisis times](https://www.eventbrite.com.au/e/teaching-sovereignty-indigenous-education-in-crisis-times-tickets-1983044281829?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Carlton · Theatre Q230, Kwong Lee Dow Building
-Free
-_Share this event: Teaching Sovereignty: Indigenous education in crisis times_ _Save this event: Teaching Sovereignty: Indigenous education in crisis times_
-  * [](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-### [Koala Conservation Day: Weeding and Wildlife Walk](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-Sat, 21 Mar, 9:30 am
-Little River · Little River Reserve
-From $22.49
-Koala Clancy Foundation
-196 followers
-_Save this event: Koala Conservation Day: Weeding and Wildlife Walk_ _Share this event: Koala Conservation Day: Weeding and Wildlife Walk_
-[](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-### [Koala Conservation Day: Weeding and Wildlife Walk](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-Sat, 21 Mar, 9:30 am
-Little River · Little River Reserve
-From $22.49
-_Share this event: Koala Conservation Day: Weeding and Wildlife Walk_ _Save this event: Koala Conservation Day: Weeding and Wildlife Walk_
-  * [](https://www.eventbrite.com.au/e/glass-island-act7-records-pres-change-we-need-sat-21-mar-2026-tickets-1717311026509?aff=ebdssbdestsearch)
-### [Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026](https://www.eventbrite.com.au/e/glass-island-act7-records-pres-change-we-need-sat-21-mar-2026-tickets-1717311026509?aff=ebdssbdestsearch)
-Sat, 21 Mar, 6:15 pm
-Sydney · Glass Island - check event info for Wharf Details
-From $49.73
-Glass Island
-14.1k followers
-_Save this event: Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026_ _Share this event: Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026_
-[](https://www.eventbrite.com.au/e/glass-island-act7-records-pres-change-we-need-sat-21-mar-2026-tickets-1717311026509?aff=ebdssbdestsearch)
-### [Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026](https://www.eventbrite.com.au/e/glass-island-act7-records-pres-change-we-need-sat-21-mar-2026-tickets-1717311026509?aff=ebdssbdestsearch)
-Sat, 21 Mar, 6:15 pm
-Sydney · Glass Island - check event info for Wharf Details
-From $49.73
-_Share this event: Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026_ _Save this event: Glass Island - Act7 Records pres. Change We Need - Sat 21 Mar 2026_
+_Share this event: Thom Woodroofe: Power, Prosperity & Planet_ _Save this event: Thom Woodroofe: Power, Prosperity & Planet_
   * Sales Ended
-Tuesday at 9:00 AM
-Canberra · Regus - Canberra, Gateway Business Center
-From $620.74
+Monday at 9:00 AM
+Perth · Regus St Martins Tower
+From $619.67
 MG Aussie
-271 followers
-_Save this event: Change Leadership Presentation Skills – 1 Day Training in Canberra_ _Share this event: Change Leadership Presentation Skills – 1 Day Training in Canberra_
+353 followers
+_Save this event: Managing Change Effectively – 1 Day Workshop in Perth_ _Share this event: Managing Change Effectively – 1 Day Workshop in Perth_
 Sales Ended
-Tuesday at 9:00 AM
-Canberra · Regus - Canberra, Gateway Business Center
-From $620.74
-_Share this event: Change Leadership Presentation Skills – 1 Day Training in Canberra_ _Save this event: Change Leadership Presentation Skills – 1 Day Training in Canberra_
-View 4 similar results
-  * Sales Ended
-Tuesday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $567.79
-MG Aussie
-271 followers
-_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_
-Sales Ended
-Tuesday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $567.79
-_Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_
-View 3 similar results
-  * Sales Ended
-Monday at 7:00 PM
-Perth · "Regus St Martins Tower "
-From $533.91
-MG Aussie
-271 followers
-_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Perth_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Perth_
-Sales Ended
-Monday at 7:00 PM
-Perth · "Regus St Martins Tower "
-From $533.91
-_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Perth_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Perth_
+Monday at 9:00 AM
+Perth · Regus St Martins Tower
+From $619.67
+_Share this event: Managing Change Effectively – 1 Day Workshop in Perth_ _Save this event: Managing Change Effectively – 1 Day Workshop in Perth_
 View 2 similar results
-  * [](https://www.eventbrite.com.au/e/save-the-animals-tickets-1981684668188?aff=ebdssbdestsearch)
-### [SAVE THE ANIMALS](https://www.eventbrite.com.au/e/save-the-animals-tickets-1981684668188?aff=ebdssbdestsearch)
-Wed, 18 Mar, 7:00 pm
-Brunswick · Stay Gold
+  * [](https://www.eventbrite.com.au/e/yarra-environmental-film-festival-turning-the-ship-and-outpicker-tickets-1982333325339?aff=ebdssbdestsearch)
+### [Yarra Environmental Film Festival: Turning the Ship and Outpicker](https://www.eventbrite.com.au/e/yarra-environmental-film-festival-turning-the-ship-and-outpicker-tickets-1982333325339?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Richmond · Richmond Library
+Free
+Yarra Libraries
+5.6k followers
+_Save this event: Yarra Environmental Film Festival: Turning the Ship and Outpicker_ _Share this event: Yarra Environmental Film Festival: Turning the Ship and Outpicker_
+[](https://www.eventbrite.com.au/e/yarra-environmental-film-festival-turning-the-ship-and-outpicker-tickets-1982333325339?aff=ebdssbdestsearch)
+### [Yarra Environmental Film Festival: Turning the Ship and Outpicker](https://www.eventbrite.com.au/e/yarra-environmental-film-festival-turning-the-ship-and-outpicker-tickets-1982333325339?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Richmond · Richmond Library
+Free
+_Share this event: Yarra Environmental Film Festival: Turning the Ship and Outpicker_ _Save this event: Yarra Environmental Film Festival: Turning the Ship and Outpicker_
+  * Sales Ended
+Monday at 9:00 AM
+Wollongong · Regus Burelli Street
+From $1,142.75
+MG Aussie
+353 followers
+_Save this event: Change Management Practitioner: 2 Days Workshop in Wollongong_ _Share this event: Change Management Practitioner: 2 Days Workshop in Wollongong_
+Sales Ended
+Monday at 9:00 AM
+Wollongong · Regus Burelli Street
+From $1,142.75
+_Share this event: Change Management Practitioner: 2 Days Workshop in Wollongong_ _Save this event: Change Management Practitioner: 2 Days Workshop in Wollongong_
+  * [](https://www.eventbrite.com.au/e/the-explainer-series-attention-span-tickets-1982487465376?aff=ebdssbdestsearch)
+### [The Explainer Series: Attention Span](https://www.eventbrite.com.au/e/the-explainer-series-attention-span-tickets-1982487465376?aff=ebdssbdestsearch)
+Thu, 30 Apr, 6:30 pm
+South Brisbane · slq Auditorium 1, level 2
 From $15.00
-Stay Gold
-770 followers
-_Save this event: SAVE THE ANIMALS_ _Share this event: SAVE THE ANIMALS_
-[](https://www.eventbrite.com.au/e/save-the-animals-tickets-1981684668188?aff=ebdssbdestsearch)
-### [SAVE THE ANIMALS](https://www.eventbrite.com.au/e/save-the-animals-tickets-1981684668188?aff=ebdssbdestsearch)
-Wed, 18 Mar, 7:00 pm
-Brunswick · Stay Gold
+State Library of Queensland
+5k followers
+_Save this event: The Explainer Series: Attention Span_ _Share this event: The Explainer Series: Attention Span_
+[](https://www.eventbrite.com.au/e/the-explainer-series-attention-span-tickets-1982487465376?aff=ebdssbdestsearch)
+### [The Explainer Series: Attention Span](https://www.eventbrite.com.au/e/the-explainer-series-attention-span-tickets-1982487465376?aff=ebdssbdestsearch)
+Thu, 30 Apr, 6:30 pm
+South Brisbane · slq Auditorium 1, level 2
 From $15.00
-_Share this event: SAVE THE ANIMALS_ _Save this event: SAVE THE ANIMALS_
-  * [](https://www.eventbrite.com.au/e/iwd2026-seafood-bubbles-lunch-empowering-a-nation-of-women-tickets-1983869009612?aff=ebdssbdestsearch)
-### [IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN](https://www.eventbrite.com.au/e/iwd2026-seafood-bubbles-lunch-empowering-a-nation-of-women-tickets-1983869009612?aff=ebdssbdestsearch)
-Wednesday at 12:00 PM
-Birchgrove · Balmain Sailing Club
-From $65.00
-Marie Vlahos
-31 followers
-_Save this event: IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN_ _Share this event: IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN_
-[](https://www.eventbrite.com.au/e/iwd2026-seafood-bubbles-lunch-empowering-a-nation-of-women-tickets-1983869009612?aff=ebdssbdestsearch)
-### [IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN](https://www.eventbrite.com.au/e/iwd2026-seafood-bubbles-lunch-empowering-a-nation-of-women-tickets-1983869009612?aff=ebdssbdestsearch)
-Wednesday at 12:00 PM
-Birchgrove · Balmain Sailing Club
-From $65.00
-_Share this event: IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN_ _Save this event: IWD2026 Seafood & Bubbles Lunch - EMPOWERING A NATION OF WOMEN_
+_Share this event: The Explainer Series: Attention Span_ _Save this event: The Explainer Series: Attention Span_
+  * [](https://www.eventbrite.com.au/e/coastal-futures-climate-algal-bloom-urban-tree-canopy-tickets-1987968082048?aff=ebdssbdestsearch)
+### [Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy](https://www.eventbrite.com.au/e/coastal-futures-climate-algal-bloom-urban-tree-canopy-tickets-1987968082048?aff=ebdssbdestsearch)
+Monday at 7:30 PM
+Henley Beach · Ngutungka Henley
+Free
+City of Charles Sturt
+4.3k followers
+_Save this event: Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy_ _Share this event: Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy_
+[](https://www.eventbrite.com.au/e/coastal-futures-climate-algal-bloom-urban-tree-canopy-tickets-1987968082048?aff=ebdssbdestsearch)
+### [Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy](https://www.eventbrite.com.au/e/coastal-futures-climate-algal-bloom-urban-tree-canopy-tickets-1987968082048?aff=ebdssbdestsearch)
+Monday at 7:30 PM
+Henley Beach · Ngutungka Henley
+Free
+_Share this event: Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy_ _Save this event: Coastal Futures: Climate, Algal Bloom & Urban Tree Canopy_
+  * [](https://www.eventbrite.com.au/e/change-tickets-1985021777572?aff=ebdssbdestsearch)
+### [CHANGE](https://www.eventbrite.com.au/e/change-tickets-1985021777572?aff=ebdssbdestsearch)
+Fri, 1 May, 6:00 pm
+Surry Hills · Tom Mann Theatre - AMPA Music Campus
+Free
+Academy of Music and Performing Arts (AMPA)
+182 followers
+_Save this event: CHANGE_ _Share this event: CHANGE_
+[](https://www.eventbrite.com.au/e/change-tickets-1985021777572?aff=ebdssbdestsearch)
+### [CHANGE](https://www.eventbrite.com.au/e/change-tickets-1985021777572?aff=ebdssbdestsearch)
+Fri, 1 May, 6:00 pm
+Surry Hills · Tom Mann Theatre - AMPA Music Campus
+Free
+_Share this event: CHANGE_ _Save this event: CHANGE_
+  * [](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
+### [SISN 'Sustainability and Climate Resilience Event'](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
+Wednesday at 12:30 PM
+North Sydney · View Sydney
+From $89.00
+_Save this event: SISN 'Sustainability and Climate Resilience Event'__Share this event: SISN 'Sustainability and Climate Resilience Event'_
+[](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
+### [SISN 'Sustainability and Climate Resilience Event'](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
+Wednesday at 12:30 PM
+North Sydney · View Sydney
+From $89.00
+_Share this event: SISN 'Sustainability and Climate Resilience Event'__Save this event: SISN 'Sustainability and Climate Resilience Event'_
+  * Sold Out
+[](https://www.eventbrite.com.au/e/hinterland-emergency-readiness-first-aid-for-climatedriven-disasters-tickets-1984728007899?aff=ebdssbdestsearch)
+### [Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters](https://www.eventbrite.com.au/e/hinterland-emergency-readiness-first-aid-for-climatedriven-disasters-tickets-1984728007899?aff=ebdssbdestsearch)
+Sunday at 8:30 AM
+Federal · Federal Memorial Hall and Community Centre Inc.
+Free
+Noosa Council - Community Development
+257 followers
+_Save this event: Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters_ _Share this event: Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters_
+Sold Out
+[](https://www.eventbrite.com.au/e/hinterland-emergency-readiness-first-aid-for-climatedriven-disasters-tickets-1984728007899?aff=ebdssbdestsearch)
+### [Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters](https://www.eventbrite.com.au/e/hinterland-emergency-readiness-first-aid-for-climatedriven-disasters-tickets-1984728007899?aff=ebdssbdestsearch)
+Sunday at 8:30 AM
+Federal · Federal Memorial Hall and Community Centre Inc.
+Free
+_Share this event: Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters_ _Save this event: Hinterland Emergency Readiness: First Aid for Climate‑Driven Disasters_
+  * [](https://www.eventbrite.com.au/e/icrr-seminar-dr-megan-evans-tickets-1985683286162?aff=ebdssbdestsearch)
+### [ICRR Seminar: Dr Megan Evans](https://www.eventbrite.com.au/e/icrr-seminar-dr-megan-evans-tickets-1985683286162?aff=ebdssbdestsearch)
+Wednesday at 10:30 AM
+Kensington · UNSW Business Lounge, lvl 6, West Wing, UNSW Business School (E12)
+Free
+UNSW Institute for Climate Risk & Response
+164 followers
+_Save this event: ICRR Seminar: Dr Megan Evans_ _Share this event: ICRR Seminar: Dr Megan Evans_
+[](https://www.eventbrite.com.au/e/icrr-seminar-dr-megan-evans-tickets-1985683286162?aff=ebdssbdestsearch)
+### [ICRR Seminar: Dr Megan Evans](https://www.eventbrite.com.au/e/icrr-seminar-dr-megan-evans-tickets-1985683286162?aff=ebdssbdestsearch)
+Wednesday at 10:30 AM
+Kensington · UNSW Business Lounge, lvl 6, West Wing, UNSW Business School (E12)
+Free
+_Share this event: ICRR Seminar: Dr Megan Evans_ _Save this event: ICRR Seminar: Dr Megan Evans_
+  * [](https://www.eventbrite.com.au/e/eco-chats-zero-waste-and-industrial-hemp-tickets-1985772865095?aff=ebdssbdestsearch)
+### [Eco Chats - Zero Waste and Industrial Hemp](https://www.eventbrite.com.au/e/eco-chats-zero-waste-and-industrial-hemp-tickets-1985772865095?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Golden Grove · Harpers Field Community Hub
+Free
+City of Tea Tree Gully
+6.6k followers
+_Save this event: Eco Chats - Zero Waste and Industrial Hemp_ _Share this event: Eco Chats - Zero Waste and Industrial Hemp_
+[](https://www.eventbrite.com.au/e/eco-chats-zero-waste-and-industrial-hemp-tickets-1985772865095?aff=ebdssbdestsearch)
+### [Eco Chats - Zero Waste and Industrial Hemp](https://www.eventbrite.com.au/e/eco-chats-zero-waste-and-industrial-hemp-tickets-1985772865095?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Golden Grove · Harpers Field Community Hub
+Free
+_Share this event: Eco Chats - Zero Waste and Industrial Hemp_ _Save this event: Eco Chats - Zero Waste and Industrial Hemp_
+  * Sales Ended
+Fri, 1 May, 9:00 am
+Townsville City · Regus Northtown
+From $501.08
+MG Aussie
+353 followers
+_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Townsville_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Townsville_
+Sales Ended
+Fri, 1 May, 9:00 am
+Townsville City · Regus Northtown
+From $501.08
+_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Townsville_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Townsville_
+View 3 similar results
+  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
+### [Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
+Monday at 9:00 AM
+Sydney · Sydney
+Free
+_Save this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)__Share this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)_
+[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
+### [Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
+Monday at 9:00 AM
+Sydney · Sydney
+Free
+_Share this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)__Save this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)_
+View 5 similar results
+  * [](https://www.eventbrite.com.au/e/lessons-in-disaster-lismore-april-2026-tickets-1982938176465?aff=ebdssbdestsearch)
+### [Lessons in Disaster, Lismore, April 2026](https://www.eventbrite.com.au/e/lessons-in-disaster-lismore-april-2026-tickets-1982938176465?aff=ebdssbdestsearch)
+Tuesday at 9:30 AM
+Lismore · Lismore Workers Club
+Free
+Gender and Disaster Australia
+282 followers
+_Save this event: Lessons in Disaster, Lismore, April 2026_ _Share this event: Lessons in Disaster, Lismore, April 2026_
+[](https://www.eventbrite.com.au/e/lessons-in-disaster-lismore-april-2026-tickets-1982938176465?aff=ebdssbdestsearch)
+### [Lessons in Disaster, Lismore, April 2026](https://www.eventbrite.com.au/e/lessons-in-disaster-lismore-april-2026-tickets-1982938176465?aff=ebdssbdestsearch)
+Tuesday at 9:30 AM
+Lismore · Lismore Workers Club
+Free
+_Share this event: Lessons in Disaster, Lismore, April 2026_ _Save this event: Lessons in Disaster, Lismore, April 2026_
+  * [](https://www.eventbrite.com.au/e/restoring-our-harbour-marine-science-in-action-tickets-1983587916856?aff=ebdssbdestsearch)
+### [Restoring Our Harbour: Marine Science in Action](https://www.eventbrite.com.au/e/restoring-our-harbour-marine-science-in-action-tickets-1983587916856?aff=ebdssbdestsearch)
+Thu, 30 Apr, 5:30 pm
+Vaucluse · Vaucluse Bowling Club
+Free
+Woollahra Municipal Council
+2.4k followers
+_Save this event: Restoring Our Harbour: Marine Science in Action_ _Share this event: Restoring Our Harbour: Marine Science in Action_
+[](https://www.eventbrite.com.au/e/restoring-our-harbour-marine-science-in-action-tickets-1983587916856?aff=ebdssbdestsearch)
+### [Restoring Our Harbour: Marine Science in Action](https://www.eventbrite.com.au/e/restoring-our-harbour-marine-science-in-action-tickets-1983587916856?aff=ebdssbdestsearch)
+Thu, 30 Apr, 5:30 pm
+Vaucluse · Vaucluse Bowling Club
+Free
+_Share this event: Restoring Our Harbour: Marine Science in Action_ _Save this event: Restoring Our Harbour: Marine Science in Action_
+  * [](https://www.eventbrite.com.au/e/design-thinking-for-cyber-change-tickets-1985224829907?aff=ebdssbdestsearch)
+### [Design Thinking for Cyber Change](https://www.eventbrite.com.au/e/design-thinking-for-cyber-change-tickets-1985224829907?aff=ebdssbdestsearch)
+Thu, 30 Apr, 5:00 pm
+Brisbane City · Fujitsu Australia Limited
+Check ticket price on event
+Gabriela GS
+552 followers
+_Save this event: Design Thinking for Cyber Change_ _Share this event: Design Thinking for Cyber Change_
+[](https://www.eventbrite.com.au/e/design-thinking-for-cyber-change-tickets-1985224829907?aff=ebdssbdestsearch)
+### [Design Thinking for Cyber Change](https://www.eventbrite.com.au/e/design-thinking-for-cyber-change-tickets-1985224829907?aff=ebdssbdestsearch)
+Thu, 30 Apr, 5:00 pm
+Brisbane City · Fujitsu Australia Limited
+Check ticket price on event
+_Share this event: Design Thinking for Cyber Change_ _Save this event: Design Thinking for Cyber Change_
+  * [](https://www.eventbrite.com.au/e/the-private-ai-lab-for-change-leaders-tickets-1986492121410?aff=ebdssbdestsearch)
+### [The Private AI Lab for Change Leaders](https://www.eventbrite.com.au/e/the-private-ai-lab-for-change-leaders-tickets-1986492121410?aff=ebdssbdestsearch)
+Sat, 2 May, 10:00 am
+Melbourne · Creative Cubes Co
+From $990.00
+_Save this event: The Private AI Lab for Change Leaders_ _Share this event: The Private AI Lab for Change Leaders_
+[](https://www.eventbrite.com.au/e/the-private-ai-lab-for-change-leaders-tickets-1986492121410?aff=ebdssbdestsearch)
+### [The Private AI Lab for Change Leaders](https://www.eventbrite.com.au/e/the-private-ai-lab-for-change-leaders-tickets-1986492121410?aff=ebdssbdestsearch)
+Sat, 2 May, 10:00 am
+Melbourne · Creative Cubes Co
+From $990.00
+_Share this event: The Private AI Lab for Change Leaders_ _Save this event: The Private AI Lab for Change Leaders_
+  * [](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
+### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
+Monday at 7:00 PM
+Northcote · Northcote
+From $30.00
+International College of Meditation & Healing
+66 followers
+_Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
+[](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
+### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
+Monday at 7:00 PM
+Northcote · Northcote
+From $30.00
+_Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
+  * Thu, 30 Apr, 5:30 pm
+Kent Town · Kent Town Hotel
+Free
+_Save this event: Australia's Property Market Amid Global Conflict & Policy Uncertainty_ _Share this event: Australia's Property Market Amid Global Conflict & Policy Uncertainty_
+Thu, 30 Apr, 5:30 pm
+Kent Town · Kent Town Hotel
+Free
+_Share this event: Australia's Property Market Amid Global Conflict & Policy Uncertainty_ _Save this event: Australia's Property Market Amid Global Conflict & Policy Uncertainty_
 
 
 View map
@@ -323,57 +286,27 @@ View map
 [Things to do in Melbourne](https://www.eventbrite.com.au/ttd/australia--melbourne/)[](https://www.eventbrite.com.au/ttd/australia--melbourne/)
 [Things to do in Sydney](https://www.eventbrite.com.au/ttd/australia--sydney/)[](https://www.eventbrite.com.au/ttd/australia--sydney/)
 [Things to do in Perth](https://www.eventbrite.com.au/ttd/australia--perth--4807/)[](https://www.eventbrite.com.au/ttd/australia--perth--4807/)
-[Things to do in Brisbane City](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)[](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)
-[Things to do in Wollongong](https://www.eventbrite.com.au/ttd/australia--wollongong/)[](https://www.eventbrite.com.au/ttd/australia--wollongong/)
 [Things to do in Adelaide](https://www.eventbrite.com.au/ttd/australia--adelaide/)[](https://www.eventbrite.com.au/ttd/australia--adelaide/)
 [Things to do in Surfers Paradise](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)[](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)
+[Things to do in Wollongong](https://www.eventbrite.com.au/ttd/australia--wollongong/)[](https://www.eventbrite.com.au/ttd/australia--wollongong/)
 [Things to do in Wayville](https://www.eventbrite.com.au/ttd/australia--wayville/)[](https://www.eventbrite.com.au/ttd/australia--wayville/)
+[Things to do in Brisbane City](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)[](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)
 [Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
 [Things to do in Darwin City](https://www.eventbrite.com.au/ttd/australia--darwin-city/)[](https://www.eventbrite.com.au/ttd/australia--darwin-city/)
 [Things to do in Symonston](https://www.eventbrite.com.au/ttd/australia--symonston/)[](https://www.eventbrite.com.au/ttd/australia--symonston/)
 [Things to do in Fortitude Valley](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)[](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)
-[](https://www.eventbrite.com.au/e/online-ndis-audit-bootcamp-get-audit-ready-in-4-hours-with-tania-gomez-tickets-1981511258515?aff=ebdssbdestsearch)
-### [Online - NDIS Audit Bootcamp: Get Audit Ready in 4 Hours with Tania Gomez](https://www.eventbrite.com.au/e/online-ndis-audit-bootcamp-get-audit-ready-in-4-hours-with-tania-gomez-tickets-1981511258515?aff=ebdssbdestsearch)
-Mon, 23 Mar, 2:00 am UTC
-From $690.82
-Tania Gomez Consulting
-1.2k followers
-Promoted
-_Save this event: Online - NDIS Audit Bootcamp: Get Audit Ready in 4 Hours with Tania Gomez_ _Share this event: Online - NDIS Audit Bootcamp: Get Audit Ready in 4 Hours with Tania Gomez_
- _Promoted event actions_
-Sun, 5 Apr, 12:00 am UTC
-Free
-Diane Bellchambers (Hons Psych)
-1.7k followers
-Promoted
-_Save this event: Reclaiming Ourselves: Why we don't hear what we need to know_ _Share this event: Reclaiming Ourselves: Why we don't hear what we need to know_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/free-online-information-session-accessing-ndis-early-childhood-supports-tickets-1984436463883?aff=ebdssbdestsearch)
-### [Free Online Information Session – Accessing NDIS Early Childhood Supports](https://www.eventbrite.com.au/e/free-online-information-session-accessing-ndis-early-childhood-supports-tickets-1984436463883?aff=ebdssbdestsearch)
-Tue, 24 Mar, 1:30 am UTC
-Free
-Promoted
-_Save this event: Free Online Information Session – Accessing NDIS Early Childhood Supports_ _Share this event: Free Online Information Session – Accessing NDIS Early Childhood Supports_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/improving-decision-making-using-behavioural-insights-public-sector-tickets-1983235673286?aff=ebdssbdestsearch)
-### [Improving decision-making using behavioural insights (Public Sector)](https://www.eventbrite.com.au/e/improving-decision-making-using-behavioural-insights-public-sector-tickets-1983235673286?aff=ebdssbdestsearch)
-Mon, 30 Mar, 10:00 pm UTC
-From $1,044.27
-Promoted
-_Save this event: Improving decision-making using behavioural insights (Public Sector)__Share this event: Improving decision-making using behavioural insights (Public Sector)_
-_Promoted event actions_
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Live music](https://www.eventbrite.com.au/d/australia/live-music/)
 ### [2. Event](https://www.eventbrite.com.au/d/australia/event/)
-### [3. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
-### [4. Dating](https://www.eventbrite.com.au/d/australia/dating/)
-### [5. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
-### [6. Hotshots](https://www.eventbrite.com.au/d/australia/hotshots/)
-### [7. Brisbane](https://www.eventbrite.com.au/d/australia/brisbane/)
-### [8. Ai](https://www.eventbrite.com.au/d/australia/ai/)
-### [9. Rave party](https://www.eventbrite.com.au/d/australia/rave-party/)
-### [10. Lantern festival](https://www.eventbrite.com.au/d/australia/lantern-festival/)
-### [11. Australia](https://www.eventbrite.com.au/d/australia/australia/)
-### [12. Melbourne](https://www.eventbrite.com.au/d/australia/melbourne/)
+### [3. Rave party](https://www.eventbrite.com.au/d/australia/rave-party/)
+### [4. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [5. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
+### [6. Ai](https://www.eventbrite.com.au/d/australia/ai/)
+### [7. Food events](https://www.eventbrite.com.au/d/australia/food-events/)
+### [8. Australia](https://www.eventbrite.com.au/d/australia/australia/)
+### [9. May](https://www.eventbrite.com.au/d/australia/may/)
+### [10. Brisbane](https://www.eventbrite.com.au/d/australia/brisbane/)
+### [11. Mma fight](https://www.eventbrite.com.au/d/australia/mma-fight/)
+### [12. Dating](https://www.eventbrite.com.au/d/australia/dating/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)

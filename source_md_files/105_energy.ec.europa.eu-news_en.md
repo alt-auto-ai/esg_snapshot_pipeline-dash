@@ -6,96 +6,96 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1189)
+####  News (1234)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
-  * News announcement
-  * 11 March 2026
-
-
-[March infringements package: key decisions on energy](https://energy.ec.europa.eu/news/march-infringements-package-key-decisions-energy-2026-03-11_en)
-In its regular package of infringement decisions, the European Commission pursues legal action against Member States for failing to comply with their obligations under EU law.
-  * 6 min read
-
-
   * Press release
-  * 11 March 2026
+  * 23 April 2026
 
 
-[Commission approves €260 million Belgian State aid for carbon capture and storage project](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_583)
-The measure will contribute to Belgium's climate targets by decarbonising the industry through an integrated cross-border CCS value chain, in line with the objectives of the Clean Industrial Deal.
+[EU adopts 20th package of sanctions against Russia](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_869)
+The Commission welcomes the adoption by EU Member States of the 20th package of sanctions against Russia.
   * 1 min read
 
 
   * News announcement
-  * 10 March 2026
+  * 22 April 2026
 
 
-[EU-Qatar: Meeting confirms ongoing energy cooperation](https://energy.ec.europa.eu/news/eu-qatar-meeting-confirms-ongoing-energy-cooperation-2026-03-10_en)
-Ditte Juul-Jorgensen, Director-General for Energy at the European Commission, met today with Saad Sherida Al-Kaabi, Qatari Minister of State for Energy Affairs.
-  * 1 min read
-
-
-  * News announcement
-  * 10 March 2026
-
-
-[Eurostat: New release - Energy in Europe 2026 edition](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/WDN-20260310-1)
-The 2026 edition of Energy in Europe provides an overview of the latest energy trends in the EU, covering energy production, energy consumption, and its relationship with the environment.
-  * 1 min read
-
-
-  * News announcement
-  * 10 March 2026
-
-
-[Commission launches strategy to accelerate clean energy investment](https://energy.ec.europa.eu/news/commission-launches-strategy-accelerate-clean-energy-investment-2026-03-10_en)
-Delivering the clean energy transition will require € 660 billion investment annually until 2030, rising to € 695 billion between 2031 and 2040.
-  * 4 min read
-
-
-  * News announcement
-  * 10 March 2026
-
-
-[The Commission reaffirms its commitment to boost energy efficiency financing](https://energy.ec.europa.eu/news/commission-reaffirms-its-commitment-boost-energy-efficiency-financing-2026-03-10_en)
-The Commission unveiled today a comprehensive support package for energy efficiency financing aimed at rolling out innovative solutions for financing and technical support for energy efficiency and building renovation in the EU.
+[Commission recommendation to facilitate Power Purchase Agreement take-up ](https://energy.ec.europa.eu/news/commission-recommendation-facilitate-power-purchase-agreement-take-2026-04-22_en)
+The Commission has today published a Recommendation on removing barriers to the development of power purchase agreements (PPAs) and other energy purchase agreements. PPAs comprise long-term bilateral contracts typically concluded between generators and corporate consumers.
   * 2 min read
 
 
-  * News announcement
-  * 10 March 2026
-
-
-[Commission unveils strategy to bring Europe’s first SMRs online by the early 2030s ](https://energy.ec.europa.eu/news/commission-unveils-strategy-bring-europes-first-smrs-online-early-2030s-2026-03-10_en)
-The European Commission has today presented a strategy to accelerate the development and deployment of Small Modular Reactors (SMRs) and Advanced Modular Reactors (AMRs) in Europe.
-  * 4 min read
-
-
   * Press release
-  * 10 March 2026
+  * 22 April 2026
 
 
-[Commission presents measures to increase EU’s energy independence and affordability](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_555)
-Today, the European Commission presented first initiatives to boost investment in homegrown clean energy solutions, increase resilience and reduce energy prices.
+[Commission proposes actions to protect Europeans from the fossil energy crisis and accelerate the shift to clean, homegrown energy](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_629)
+AccelerateEU is the Commission's toolbox to bring immediate relief to European households and industries, especially the most vulnerable ones, while putting Europe on a steady pathway to energy independence.
+  * 1 min read
+
+
+  * Speech
+  * 22 April 2026
+
+
+[Remarks by Executive Vice-President Ribera and Commissioner Jørgensen at the press conference on AccelerateEU](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_863)
+Allow me to start with a smart and short reminder. Today it is Earth Day. It is a day where we remind ourselves of the importance of counting on a healthy planet to ensure life. We know that healthy conditions, environment policies, climate policies have also been part of our discussions dealing...
+  * 1 min read
+
+
+  * News article
+  * 22 April 2026
+
+
+[LIFE Calls for proposals 2026: €601.5 million for a greener, more competitive Europe](https://cinea.ec.europa.eu/news-events/news/life-calls-proposals-2026-eu6015-million-greener-more-competitive-europe-2026-04-22_en)
+Launching amid a renewed energy crisis and increased global geopolitical instability, the LIFE 2026 Calls for proposals supports EU measures to increase competitiveness, close the innovation gap and decarbonise the economy.
+  * 1 min read
+
+
+  * News article
+  * 21 April 2026
+
+
+[Eurostat: Significant increase in fuel prices in March 2026](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260421-1)
+Up to February 2026, the price of fuels and lubricants for personal transport in the EU was generally decreasing, for the EU average and for most of EU countries. However, it increased significantly in March 2026.
   * 1 min read
 
 
   * News announcement
-  * 10 March 2026
+  * 21 April 2026
 
 
-[Commission to boost access to affordable and clean energy for all Europeans ](https://energy.ec.europa.eu/news/commission-boost-access-affordable-and-clean-energy-all-europeans-2026-03-10_en)
-Today marks a significant step towards delivering more affordable and accessible energy to all Europeans.
-  * 3 min read
+[Introducing the 2026 cohort of Young Energy Ambassadors](https://energy.ec.europa.eu/news/introducing-2026-cohort-young-energy-ambassadors-2026-04-21_en)
+The Commission is delighted to announce the new 2026 cohort of Young Energy Ambassadors - a dynamic group of young innovators, advocates and visionaries passionate about Europe’s clean energy transition.
+  * 1 min read
 
 
-  * Speech
-  * 10 March 2026
+  * News article
+  * 20 April 2026
 
 
-[Speech by President von der Leyen at the Nuclear Energy Summit](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_581)
-President von der Leyen is in Paris for the 2nd World Summit on Nuclear Energy.
+[In focus: EU energy security explained](https://energy.ec.europa.eu/news/focus-eu-energy-security-explained-2026-04-20_en)
+Ready to get to grips with the EU’s energy security policy? Let’s go.
+  * 8 min read
+
+
+  * News announcement
+  * 17 April 2026
+
+
+[Commissioner Jørgensen in Spain to discuss ways to tackle the energy and housing crises](https://energy.ec.europa.eu/news/commissioner-jorgensen-spain-discuss-ways-tackle-energy-and-housing-crises-2026-04-17_en)
+On Monday and Tuesday, 20-21 April, Commissioner for Energy and Housing Dan Jørgensen will be in Madrid and Barcelona to discuss energy security, affordability and ways to tackle the housing crisis with Spanish national and local authorities, as well as sectorial stakeholders and young people.
+  * 2 min read
+
+
+  * Press release
+  * 16 April 2026
+
+
+[Commission approves Bulgarian, German and Slovenian State aid schemes providing temporary electricity price relief for energy-intensive companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_815)
+The European Commission has approved State aid schemes to provide temporary electricity price relief for energy-intensive companies in Bulgaria, Germany and Slovenia in line with the objectives of the Clean Industrial Deal.
   * 1 min read
 
 

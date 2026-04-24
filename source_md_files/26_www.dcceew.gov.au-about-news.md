@@ -3,62 +3,62 @@
 See our latest news and announcements. Discover more about what we do.
 ## Latest
 [Search all news](https://www.dcceew.gov.au/about/news/all)
-### [Restoring wetlands to protect shorebirds](https://www.dcceew.gov.au/about/news/restoring-wetlands-protect-shorebirds)
+### [Securing Australia’s fuel supply](https://www.dcceew.gov.au/about/news/securing-australias-fuel-supply)
   * News
-  * Water
+  * Energy
 
 
-12 March 2026
-The Shorebird and Wetland Habitat program is helping to restore wetlands in South Australia.
-### [IWC seeks research on offshore renewables and whales](https://www.dcceew.gov.au/about/news/iwc-seeks-research-offshore-renewables-whales)
-  * News
-  * Environment
-
-
-10 March 2026
-The International Whaling Commission (IWC) is seeking research proposals to help understand how…
-### [In focus: National Groundwater Awareness Week](https://www.dcceew.gov.au/about/news/in-focus-national-groundwater-awareness-week)
-  * News
-  * Water
-
-
-10 March 2026
-Exploring groundwater – what and where is it, and how it can be treated for use.
-### [Torres Strait prepares for H5 bird flu](https://www.dcceew.gov.au/about/news/torres-strait-prepares-h5-bird-flu)
+24 April 2026
+The Australian government is taking action to secure our fuel supply. 
+### [Measuring nature’s value for better environmental decisions](https://www.dcceew.gov.au/about/news/measuring-natures-value-better-environmental-decisions)
   * News
   * Environment
 
 
-06 March 2026
-More than $1.5 million is supporting the Torres Strait Regional Authority prepare for H5 bird flu. 
-### [Australia and Canada sign first clean energy partnership](https://www.dcceew.gov.au/about/news/australia-canada-sign-first-clean-energy-partnership)
+23 April 2026
+The importance of the environment and its contribution to our economic and social wellbeing is…
+### [Improving Fremantle’s Samson Park for nature](https://www.dcceew.gov.au/about/news/improving-fremantles-samson-park-nature)
+  * News
+  * Environment
+
+
+23 April 2026
+$1.7m investment supports habitat restoration at Fremantle’s Samson Park.
+### [Macquarie Harbour water improvement a step closer](https://www.dcceew.gov.au/about/news/macquarie-harbour-water-improvement-step-closer)
+  * News
+  * Environment
+
+
+22 April 2026
+We are working with researchers and industry to improve conditions in Macquarie Harbour. 
+### [Restoring banksia woodland habitat](https://www.dcceew.gov.au/about/news/restoring-banksia-woodland-habitat)
+  * News
+  * Environment
+
+
+22 April 2026
+Local Environmental Projects Program supports banksia restoration in Western Australia.
+### [Partnering to protect Sea Country](https://www.dcceew.gov.au/about/news/partnering-protect-sea-country)
+  * News
+  * Environment
+
+
+22 April 2026
+Traditional Owners have strong cultural and spiritual connections with the Reef. They also hold…
+### [World Heritage Day: Protecting our unique places](https://www.dcceew.gov.au/about/news/world-heritage-day-protecting-our-unique-places)
+  * News
+  * Heritage
+
+
+17 April 2026
+The ICOMOS International Day for Monuments and Sites is marked each year on 18 April.
+### [Review of NGER Method 2 for open-cut coal mines](https://www.dcceew.gov.au/about/news/review-nger-method-2-open-cut-coal-mines)
   * News
   * Climate change
 
 
-06 March 2026
-Australia and Canada have formalised a new clean energy partnership during Canadian Prime Minister…
-### [Clean energy advice for First Nations peoples](https://www.dcceew.gov.au/about/news/clean-energy-advice-first-nations-peoples)
-  * News
-  * Energy
-
-
-04 March 2026
-Advice Grants now available for First Nations applicants – guidelines are available now.
-### [World Wildlife Day: protecting native plants](https://www.dcceew.gov.au/about/news/world-wildlife-day-protecting-native-plants)
-  * News
-  * Environment
-
-
-03 March 2026
-Our Saving Native Species program is supporting threatened native plants from extinction.
-### [Have your say on the new national H2 Regulatory Guidebook for Pipelines](https://www.dcceew.gov.au/about/news/hys-new-national-h2-regulatory-guidebook-pipelines)
-  * Have your say
-  * Energy
-
-
-02 March 2026
-Consultation has opened on the National Hydrogen Regulatory Guidebook: Pipelines.
+17 April 2026
+Publication of terms of reference for NGER Method 2 review.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

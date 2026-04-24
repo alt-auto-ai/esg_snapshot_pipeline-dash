@@ -7,127 +7,140 @@ en
 Welcome to the ECESP archive of circular economy news, sorted according to date of publication. The search function on the left is available for past news articles.  
 Do you have a big announcement? Are you looking for participants or partners? Are you collecting feedback? If so, **g**et in touch with the****
 # All News
-  * ##  [9th International Seminar on Biopolymers and Sustainable Composites: what was discussed!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/9th-international-seminar-biopolymers-and-sustainable-composites-what-was-discussed)
-[Report on the seminar](https://circulareconomy.europa.eu/platform/sites/default/files/2026-03/Biopolymers%20seminar%20press%20release.pdf)
-12 Mar 2026
-News type
-[Circular economy event](https://circulareconomy.europa.eu/platform/en/news-type/circular-economy-event)
-Country
-Spain
-Sector
-[Plastics, Polymers and Rubber](https://circulareconomy.europa.eu/platform/en/sector/plastics-polymers-and-rubber)
-Scope
-[International](https://circulareconomy.europa.eu/platform/en/scope/international)
-Key Area
-[Production](https://circulareconomy.europa.eu/platform/en/key-area/production)
-AIMPLAS held its 9th International Seminar on Biopolymers and Sustainable Composites earlier this week. It was an opportunity for technical debate on regulation, certification and innovation in the field of biopolymers. Have a look at the innovations presented!
-  * ##  [Course for Circular Economy Transition Managers in the furniture sector: take part in the pilot phase!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/course-circular-economy-transition-managers-furniture-sector-take-part-pilot-phase)
-11 Mar 2026
-News type
-[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
-Sector
-[Education and skills](https://circulareconomy.europa.eu/platform/en/sector/education-and-skills),
-[Furniture](https://circulareconomy.europa.eu/platform/en/sector/furniture)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-This course is designed to help the furniture value chain become more circular and sustainable. The pilot phase will run until 31 March and aims to have the course testrun by 400 people. Feedback would be greatly appreciated!
-  * ##  [Commission launches call for expressions of interest in the European Bioeconomy Investment Deployment Group](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/commission-launches-call-expressions-interest-european-bioeconomy-investment-deployment-group)
-[News article](https://environment.ec.europa.eu/news/commission-launches-call-interest-european-bioeconomy-investment-deployment-group-2026-03-10_en)
-11 Mar 2026
-News type
-[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
-Sector
-[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry),
-[Economic instruments](https://circulareconomy.europa.eu/platform/en/sector/economic-instruments)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-Key Area
-[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
-The European Commission has launched a call for expressions of interest in the European Bioeconomy Investment Deployment Group. This is a new platform intended to accelerate investment in the EU's growing bioeconomy sector, including the circular bioeconomy. Apply by 20 March!
-  * ##  [Applications for the ECESP's 2026 annual conference networking village are now open!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/applications-ecesps-2026-annual-conference-networking-village-are-now-open)
-[Expression of interest form](https://ec.europa.eu/eusurvey/runner/ECESP_annual_conference_2026_networking_village)
-11 Mar 2026
-News type
-[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
-The European Circular Economy Stakeholder Platform will hold its annual conference on 22-23 April in Brussels. Do you have a hands-on circular project you would like to promote, or an innovation you would like to share that could spark a conversation on enhancing the single market for circular products and services? Then fill in the form!
-  * ##  [European Commission publishes the Industrial Accelerator Act](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/european-commission-publishes-industrial-accelerator-act)
-[Press release](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_515)
-10 Mar 2026
-News type
-[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
-Sector
-[Batteries and Vehicles](https://circulareconomy.europa.eu/platform/en/sector/batteries-and-vehicles),
-[Cement, Steel, Chemicals](https://circulareconomy.europa.eu/platform/en/sector/cement-steel-chemicals),
-[Industrial techniques](https://circulareconomy.europa.eu/platform/en/sector/industrial-techniques),
-[Public procurement](https://circulareconomy.europa.eu/platform/en/sector/public-procurement)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-Key Area
-[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials),
-[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
-The European Commission recently adopted a legislative proposal to increase demand for low-carbon, European-made technologies and products. The Industrial Accelerator Act (IAA) aims to boost manufacturing, grow businesses and create jobs in the EU, while supporting industry's adoption of cleaner, future-ready technologies.
-  * ##  [FRANCESCA: seeking your views on circular solutions for the furniture industry!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/francesca-seeking-your-views-circular-solutions-furniture-industry)
-05 Mar 2026
+  * ##  [EU Organic Awards: application period still open!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/eu-organic-awards-application-period-still-open)
+[EU Organic Awards](https://agriculture.ec.europa.eu/farming/organic-farming/organic-action-plan/eu-organic-awards_en)
+18 Apr 2026
 News type
 [New EU initiative](https://circulareconomy.europa.eu/platform/en/news-type/new-eu-initiative)
 Sector
-[Furniture](https://circulareconomy.europa.eu/platform/en/sector/furniture)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-Key Area
-[Waste management](https://circulareconomy.europa.eu/platform/en/key-area/waste-management),
-[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
-The EU-funded FRANCESCA project focuses on improving circular design practices and supporting the development of circular business models in the furniture sector.
-It has launched two surveys to help steer the creation of a circular design tool and circular business models - furniture companies are asked to give their input!
-  * ##  [Circular bioeconomy: a report on scaling up bio-based industries](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/circular-bioeconomy-report-scaling-bio-based-industries)
-04 Mar 2026
-News type
-[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
-Sector
 [Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-The ECESP website has a good selection of circular bioeconomy-themed content. We'll be shining a spotlight on some of it here! 
-This item looks at **_a report from the European Investment Bank on scaling up bio-based industries._**
-  * ##  [Assessing the climate mitigation potential of circular economy](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/assessing-climate-mitigation-potential-circular-economy)
-[EEA webpage](https://www.eea.europa.eu/en/analysis/publications/assessing-the-climate-mitigation-potential-of-circular-economy?activeTab=def89e87-9459-4a15-a9e0-dc6030d0c497)
-03 Mar 2026
-News type
-[Article](https://circulareconomy.europa.eu/platform/en/news-type/article)
-Sector
-[Circular action for climate neutrality](https://circulareconomy.europa.eu/platform/en/sector/circular-action-climate-neutrality)
 Scope
 [EU](https://circulareconomy.europa.eu/platform/en/scope/eu),
 [Coordination Group 2025-2028](https://circulareconomy.europa.eu/platform/en/scope/coordination-group-2025-2028)
 Key Area
-[Production](https://circulareconomy.europa.eu/platform/en/key-area/production),
-[Waste management](https://circulareconomy.europa.eu/platform/en/key-area/waste-management),
-[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
-This briefing from the European Environment Agency looks at the links between the circular economy and climate change mitigation. Many reports and studies argue that this link exists, but estimates of its potential diverge greatly. See what the EEA has to say about why that is! 
-  * ##  [Applications for EU Green Week 2026 partner events are now open!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/applications-eu-green-week-2026-partner-events-are-now-open)
-[EU Green Week webpage](https://green-week.event.europa.eu/partner-events_en)
-02 Mar 2026
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production)
+The annual Organic Awards promote the reduction of agriculture’s impact on the environment and climate. 
+Resource efficiency is very much in tune with circular economy principles, so if you have an appropriate project, send in your application by 26 April!
+  * ##  [ECESP Annual Conference: follow online if you can't attend in person!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/ecesp-annual-conference-follow-online-if-you-cant-attend-person)
+[Conference webpage](https://circulareconomy.europa.eu/platform/en/ecesp-annual-conference-2026-competitive-and-fair-circular-europe-ambition-heart-single-market)
+16 Apr 2026
+News type
+[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
+The ECESP Annual Conference will bring
+**In-person participation is now closed, but most sessions will be livestreamed!**
+  * ##  [EIT Jumpstarter 2026: apply for a programme supporting innovative ideas in the raw materials sector](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/eit-jumpstarter-2026-apply-programme-supporting-innovative-ideas-raw-materials-sector)
+16 Apr 2026
 News type
 [Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
 Sector
-[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry)
+[Business incubators, Startups](https://circulareconomy.europa.eu/platform/en/sector/business-incubators-startups)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
+EIT Jumpstarter is a seven-month pre-acceleration programme for early-stage innovators in 22+ countries. It's designed to turn ideas into successful businesses through training, mentoring and funding.
+Fields include innovative solutions for recovering and reusing materials from secondary sources to support a circular economy. Apply by 8 May!
+  * ##  [ECESP leadership groups: update on the selection process](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/ecesp-leadership-groups-update-selection-process)
+[ECESP leadership groups](https://circulareconomy.europa.eu/platform/en/leadership-groups)
+15 Apr 2026
+News type
+[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
+Scope
+[Coordination Group 2025-2028](https://circulareconomy.europa.eu/platform/en/scope/coordination-group-2025-2028)
+We would like to thank the many people who have filled out the EUSurvey questionnaire to express an interest in joining one or more of the leadership groups set up by the new Coordination Group.
+The Coordination Group members leading the groups are currently selecting the people who are the best fit, and the questionnaire will remain open throughout the year.
+  * ##  [MAGNO project: a data-driven approach to designing a more circular packaging value chain](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/magno-project-data-driven-approach-designing-more-circular-packaging-value-chain)
+12 Apr 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Sector
+[Digital solutions](https://circulareconomy.europa.eu/platform/en/sector/digital-solutions),
+[Packaging](https://circulareconomy.europa.eu/platform/en/sector/packaging),
+[Research](https://circulareconomy.europa.eu/platform/en/sector/research)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production),
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+The MAGNO project aims to promote the adoption of solutions reducing the impact of plastic food packaging pollution in ecosystems.
+In order to achieve this, it is designing ecosystem digital twin software which enables innovative ideas to be tested and refined before being implemented in the real world. 
+  * ##  [MYTERIA: how can products made from mycelium and agricultural residues be used in construction?](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/myteria-how-can-products-made-mycelium-and-agricultural-residues-be-used-construction)
+10 Apr 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Country
+Netherlands
+Sector
+[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry),
+[Construction, Buildings and Infrastructure](https://circulareconomy.europa.eu/platform/en/sector/construction-buildings-and-infrastructure)
+Scope
+[National](https://circulareconomy.europa.eu/platform/en/scope/national)
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production)
+Myteria is an early-stage biomaterials initiative from the Netherlands developing circular interior panels grown from mycelium and locally sourced agricultural residues. 
+It rethinks how materials are made: instead of extracting and processing, they grow them using nature’s own binding system.
+  * ##  [Navarra Circular Economy Awards 2026: call for students' projects](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/navarra-circular-economy-awards-2026-call-students-projects)
+[Awards poster](https://circulareconomy.europa.eu/platform/sites/default/files/2026-04/POSTER%20NACE%20AWARDS.pdf)
+10 Apr 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Country
+Spain
+Sector
+[Construction, Buildings and Infrastructure](https://circulareconomy.europa.eu/platform/en/sector/construction-buildings-and-infrastructure),
+[Culture, Sports and Leisure activities](https://circulareconomy.europa.eu/platform/en/sector/culture-sports-and-leisure-activities),
+[Energy and waste-to-energy](https://circulareconomy.europa.eu/platform/en/sector/energy-and-waste-energy),
+[Food, water and nutrients](https://circulareconomy.europa.eu/platform/en/sector/food-water-and-nutrients),
+[Plastics, Polymers and Rubber](https://circulareconomy.europa.eu/platform/en/sector/plastics-polymers-and-rubber)
 Scope
 [EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
 Key Area
 [Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
-Applications are now open to host EU Green Week 2026 partner events! Organisations interested in hosting a partner event are invited to apply by 20 March. 
-  * ##  [The European List of Ship Recycling Facilities has been updated!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/european-list-ship-recycling-facilities-has-been-updated)
-[European Commission press release](https://environment.ec.europa.eu/news/new-eu-ship-recycling-list-includes-first-german-facility-2026-02-27_en)
-27 Feb 2026
+Looking for projects developed by students from universities and vocational training centres across Europe!  
+  
+Projects must demonstrate innovation in business models, products, services or industrial processes under circular economy criteria, and have real potential to develop new business opportunities.
+  * ##  [Global Bioeconomy Summit 2026: call for proposals!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/global-bioeconomy-summit-2026-call-proposals)
+10 Apr 2026
+News type
+[Circular economy event](https://circulareconomy.europa.eu/platform/en/news-type/circular-economy-event)
+Sector
+[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry)
+Scope
+[Global](https://circulareconomy.europa.eu/platform/en/scope/global)
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production),
+[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
+The summit will bring together international leaders, researchers, policymakers, industry innovators and civil society to explore how the bioeconomy can drive socio-economic transformation and climate action.
+They're calling for **proposals for workshops and satellite activities/site visits**!
+  * ##  [Commission publishes new guidance on decarbonising buildings and making them more circular](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/commission-publishes-new-guidance-decarbonising-buildings-and-making-them-more-circular)
+[European Commission press release](https://environment.ec.europa.eu/news/commission-issues-new-guidance-decarbonise-buildings-2026-03-27_en)
+09 Apr 2026
 News type
 [New EU initiative](https://circulareconomy.europa.eu/platform/en/news-type/new-eu-initiative)
 Sector
-[Governance](https://circulareconomy.europa.eu/platform/en/sector/governance),
-[Recycling](https://circulareconomy.europa.eu/platform/en/sector/recycling)
+[Construction, Buildings and Infrastructure](https://circulareconomy.europa.eu/platform/en/sector/construction-buildings-and-infrastructure),
+[Governance](https://circulareconomy.europa.eu/platform/en/sector/governance)
 Scope
 [EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-Ship recycling plays a key role in advancing the circular economy - after all, ships do contain large amounts of high-quality steel and other valuable materials. 
-The European Commission has just adopted the 15th edition of the European List of Ship Recycling Facilities: read about what this means!
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production),
+[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
+This European Commission Staff Working Document covers the carbon-efficient design, material supply, construction and operation of buildings. It considers the supply and demand for materials, energy and built space. 
+See what this means in practice!
+  * ##  [Highlights from the EU Circular Talk on The EU Ecolabel as a tool boosting circular economy & competitiveness](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/highlights-eu-circular-talk-eu-ecolabel-tool-boosting-circular-economy-competitiveness)
+[EUCT on the EU Ecolabel](https://circulareconomy.europa.eu/platform/en/news-and-events/all-events/eu-ecolabel-tool-boosting-circular-economy-competitiveness)
+08 Apr 2026
+News type
+[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
+Sector
+[Circular design](https://circulareconomy.europa.eu/platform/en/sector/circular-design)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production),
+[Consumption](https://circulareconomy.europa.eu/platform/en/key-area/consumption),
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+On 31 March, the EU Ecolabel, in conjunction with the ECESP, organised an EU Circular Talk on how the EU Ecolabel acts as a ready-to-use tool helping businesses deliver circularity, meet rising legislative expectations, and gain a competitive edge across EU markets.
 
 
 ## Search the database

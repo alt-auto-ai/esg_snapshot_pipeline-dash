@@ -3,33 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
-  * 12 Mar 2026
-### [No More Hassles Getting Pre-Sale Building Inspections](https://www.premier.vic.gov.au/no-more-hassles-getting-pre-sale-building-inspections-0)
-Pre-sale building and pest inspections are essential, but right now, every buyer organises and pays for their own. The Allan Labor Government will put...
-  * 12 Mar 2026
-### [A Bundle Of Free Support For New Parents And Carers](https://www.premier.vic.gov.au/bundle-free-support-new-parents-and-carers)
-More than 220,000 Victorian families have received a free Baby Bundle, packed with essentials to help new parents and carers through the first few mon...
-  * 11 Mar 2026
-### [Support Available Now For Mortgage Stress In Victoria](https://www.premier.vic.gov.au/support-available-now-mortgage-stress-victoria)
-With possible increases to the cash-rate front of mind for Victorians, Labor is delivering support here and now. Minister Staikos visited Mortgage Str...
-  * 11 Mar 2026
-### [Victoria Leads The Nation In Cardiac Survival](https://www.premier.vic.gov.au/victoria-leads-nation-cardiac-survival)
-Victoria continues to lead the nation when it comes to out-of-hospital cardiac survival rates. Minister Thomas has released the Victorian Ambulance ...
-  * 10 Mar 2026
-### [Labor Backs Aboriginal Kinship To Close Health Gaps](https://www.premier.vic.gov.au/labor-backs-aboriginal-kinship-close-health-gaps)
-The Allan Labor Government is building a stronger, more inclusive health system that works for all Victorians. That means enabling more Aboriginal-led...
-  * 10 Mar 2026
-### [New President To Lead State Library Victoria’s Next Era](https://www.premier.vic.gov.au/new-president-lead-state-library-victorias-next-era)
-As the State Library Victoria marks its 170th anniversary, the iconic institution will usher in a new era with the appointment of respected public and...
-  * 10 Mar 2026
-### [Grampians Peaks Trail Open To Hikers](https://www.premier.vic.gov.au/grampians-peaks-trail-open-hikers)
-One of the state’s most iconic overnight hiking trails reopens to visitors following extensive safety works following bushfire damage. Minister Dimop...
-  * 10 Mar 2026
-### [Daily Fuel Price Cap Now In Place To Stop Price Gouging](https://www.premier.vic.gov.au/daily-fuel-price-cap-now-place-stop-price-gouging)
-With petrol prices set to rise, the Allan Labor Government is stopping Victorians getting ripped off at the pump. Premier Jacinta Allan announced that...
-  * 10 Mar 2026
-### [Permanent Memorial For Workers Who Didn't Come Home](https://www.premier.vic.gov.au/permanent-memorial-workers-who-didnt-come-home)
-The Allan Labor Government is backing workers and their families with a memorial honouring those killed at work. Deputy Premier and Minister for WorkS...
+  * 24 Apr 2026
+### [Free TAFE: Bigger, Better, Guaranteed](https://www.premier.vic.gov.au/free-tafe-bigger-better-guaranteed)
+Free TAFE changes lives – and the Allan Labor Government is guaranteeing it. This 2026/27 Victorian Budget backs Free TAFE as part of a $459.4 millio...
+  * 23 Apr 2026
+### [Backing Volunteer and Forest Firefighters to Keep Victorians Safe](https://www.premier.vic.gov.au/backing-volunteer-and-forest-firefighters-keep-victorians-safe)
+Victoria is one of the most fire-prone areas in the world, with disasters becoming more frequent and severe. That’s why the Allan Labor Government kee...
+  * 23 Apr 2026
+### [New $50 Million Renewable Energy Tafe Centre Of Excellence Driving Gippsland’s Big Transition](https://www.premier.vic.gov.au/new-50-million-renewable-energy-tafe-centre-excellence-driving-gippslands-big-transition)
+Gippslanders will be at the forefront of training opportunities for Australia’s renewable energy future, with the establishment of a $50 million centr...
+  * 23 Apr 2026
+### [The Violence Reduction Unit Is Here To Stay](https://www.premier.vic.gov.au/violence-reduction-unit-here-stay)
+Labor is delivering serious consequences for youth violence with Adult Time for Violent Crime. But the causes of violence are complex – we also need t...
+  * 22 Apr 2026
+### [Honouring The Lifetime Contributions Of Victorian Seniors](https://www.premier.vic.gov.au/honouring-lifetime-contributions-victorian-seniors)
+The Allan Labor Government is celebrating the extraordinary contributions of older Victorians. Minister for Ageing Ingrid Stitt today opened nominatio...
+  * 22 Apr 2026
+### [More Resources For Police To Keep Victorians Safe](https://www.premier.vic.gov.au/more-resources-police-keep-victorians-safe)
+The latest crime data shows Australia’s toughest bail laws are working, and male youth offending is falling. But crime rates are still too high. That...
+  * 22 Apr 2026
+### [Tiny Towns, Big Upgrades](https://www.premier.vic.gov.au/tiny-towns-big-upgrades)
+Labor has delivered new spaces in two small towns outside Ballarat that the whole community can be proud of. The upgrades to Burrumbeet Soldiers Memor...
+  * 21 Apr 2026
+### [Upgraded Police Station For Narre Warren](https://www.premier.vic.gov.au/upgraded-police-station-narre-warren)
+The Allan Labor Government is backing Victoria Police to keep Victorians safe. Minister for Police Anthony Carbines today open the new 24/7 Narre Warr...
+  * 21 Apr 2026
+### [Statement From The Premier](https://www.premier.vic.gov.au/statement-premier-166)
+Today I am announcing new Parliamentary Secretaries – part of our strong, united Labor team focused on what matters most: making life easier, safer an...
 
 
 ## Subscribe to our media releases

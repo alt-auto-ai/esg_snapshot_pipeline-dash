@@ -17,7 +17,7 @@ Energy security (24)
 Forecast (2)
 Gas (29)
 Gas Bulletin Board (1)
-Gas Statement of Opportunities (12)
+Gas Statement of Opportunities (13)
 Generation (7)
 Hydro (1)
 Industry Report (1)
@@ -25,9 +25,9 @@ Infographic (4)
 Innovation and technology (12)
 Integrated System Plan (11)
 Major Reports and Publications (4)
-Media release (219)
+Media release (221)
 Metering (1)
-National Electricity Market (62)
+National Electricity Market (63)
 News (3)
 NSW (10)
 Partnership (3)
@@ -66,7 +66,7 @@ x
 2023 (33)
 2024 (28)
 2025 (24)
-2026 (2)
+2026 (4)
 # Media Releases
 Search 
 Sort by 
@@ -80,6 +80,8 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [23/04/2026Batteries continue to dominate NEM connections as pipeline grows A surge in grid‑scale batteries is driving strong growth in the pipeline of new generation and storage projects seeking to connect to the National Electricity Market (NEM), with total proposed capacity now nearing today’s installed levels. ](https://www.aemo.com.au/newsroom/media-release/batteries-continue-to-dominate-nem-connections-as-pipeline-grows "Batteries continue to dominate NEM connections as pipeline grows")
+  * [26/03/2026Near-term gas supply outlook improves, longer-term investment needed The Australian Energy Market Operator’s (AEMO) latest gas adequacy outlook shows improved near-term supply conditions, with risks of extreme peak-day shortfalls in southern Australia now expected to emerge a year later than previously forecast, and new investment required from 2030 onwards. ](https://www.aemo.com.au/newsroom/media-release/2026-gsoo "2026 GSOO")
   * [29/01/2026Renewables supply more than half of quarterly energy supply Wholesale electricity prices for the National Electricity Market (NEM) nearly halved in the December 2025 quarter, driven by record renewable generation supplying more than half of total energy needs for the first time.](https://www.aemo.com.au/newsroom/media-release/renewables-supply-more-than-half-of-quarterly-energy-supply "Renewables supply more than half of quarterly energy supply")
   * [28/01/2026Strong delivery, growing energy investment pipeline in December Quarter The pipeline of new projects connecting to the National Electricity Market (NEM) reached a record 64 gigawatts (GW) in the December 2025 quarter, a quarterly increase of 7.4 GW, or 14%, since the September quarter.](https://www.aemo.com.au/newsroom/media-release/strong-delivery-growing-energy-investment-pipeline-in-december-quarter "Strong delivery growing energy investment pipeline in December Quarter")
   * [19/12/2025Western Australia’s domestic gas market to remain balanced in near-term The Australian Energy Market Operator (AEMO) has released its 2025 WA Gas Statement of Opportunities (WA GSOO), which forecasts Western Australia’s domestic gas market will remain broadly balanced in the near-term.](https://www.aemo.com.au/newsroom/media-release/western-australia-domestic-gas-market-to-remain-balanced-in-near-term "Western Australia domestic gas market to remain balanced in near-term")
@@ -88,8 +90,6 @@ Date published (Newest) **▾**
   * [27/11/2025AEMO prepares energy systems for upcoming hot season The Australian Energy Market Operator (AEMO) has briefed industry on expected conditions for the upcoming summer, including the extensive preparations undertaken to support Australia’s main energy systems over the hotter months.](https://www.aemo.com.au/newsroom/media-release/aemo-prepares-energy-systems-for-upcoming-hot-season "AEMO prepares energy systems for upcoming hot season")
   * [17/11/2025Ongoing MSATS incident AEMO continues to implement a resolution to a technical issue identified in the Market Settlements and Transfer Solutions (MSATS) system.](https://www.aemo.com.au/newsroom/media-release/ongoing-msats-incident "Ongoing MSATS incident")
   * [31/10/2025AEMO supports VicGrid’s new role in leading Victoria’s transmission planning On 1 November, Victoria’s electricity transmission network planning responsibilities will transition from the Australian Energy Market Operator (AEMO), through its AEMO Victorian Planning (AVP) division, to VicGrid.](https://www.aemo.com.au/newsroom/media-release/aemo-supports-vicgrids-new-role-in-leading-victorias-transmission-planning "AEMO supports VicGrids new role in leading Victorias transmission planning")
-  * [30/10/2025Rising renewable energy output offsets demand growth Higher renewable energy output and less market volatility contributed to a fall in wholesale electricity prices across all National Electricity Market (NEM) regions during the September 2025 quarter despite growing demand. ](https://www.aemo.com.au/newsroom/media-release/rising-renewable-energy-output-offsets-demand-growth "Rising renewable energy output offsets demand growth")
-  * [28/10/2025AEMO sees strong growth in new energy projects across the National Electricity Market The Australian Energy Market Operator’s (AEMO’s) latest Connections Scorecard shows a growing wave of new generation and storage projects across the National Electricity Market (NEM), with the development pipeline now reaching 56.6 gigawatts (GW) of new capacity – a 24 per cent increase over the past year.](https://www.aemo.com.au/newsroom/media-release/aemo-sees-strong-growth-in-new-energy-projects-across-the-national-electricity-market "AEMO sees strong growth in new energy projects across the National Electricity Market")
 
 
   * [First](https://www.aemo.com.au/newsroom/media-release)

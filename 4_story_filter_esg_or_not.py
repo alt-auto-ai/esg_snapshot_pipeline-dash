@@ -41,18 +41,20 @@ else:
 # ----------------- ENV -----------------
 load_dotenv()
 
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
+    os.path.join(PROJECT_ROOT, "source_md_files_cleaned")
 )
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"4_story_esg_or_not.csv"
+    os.path.join(PROJECT_ROOT, "4_story_esg_or_not.csv")
 )
 INPUT_LINKS_CSV = os.getenv(  # NEW: CSV with Date,Title,URL,md_file
     "INPUT_LINKS_CSV",
-    r"3_story_file_name_links.csv"
+    os.path.join(PROJECT_ROOT, "3_story_file_name_links.csv")
 )  # NEW
 
 # API config
@@ -104,8 +106,7 @@ if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
 
 # ----------------- Prompt loading -----------------
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-PROMPT_FILE_PATH = os.path.join(SCRIPT_DIR, PROMPT_FILE)
+PROMPT_FILE_PATH = os.path.join(PROJECT_ROOT, PROMPT_FILE)
 
 def load_prompt_yaml(path):
     with open(path, "r", encoding="utf-8") as f:

@@ -28,6 +28,14 @@ Filter
   * Exploring for the Future 
 
 
+###  Australia’s full national topographic library at your fingertips 
+**31 March 2026**
+Geoscience Australia has completed the nationwide release of its AUSTopo 1:250,000 digital topographic map series, putting authoritative, up to date topographic coverage of the entire country just a click away.
+[ Australia’s full national topographic library at your fingertips Learn more](https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips)
+###  Geoscience Australia launches new 10-year strategy to shape the nation’s future 
+**27 March 2026**
+Minister for Resources the Hon Madeleine King MP today launched Geoscience Australia’s new enterprise strategy, setting a clear direction for how the organisation will deliver trusted geoscience insights to support Australia’s resilience, innovation and prosperity over the coming decade.
+[ Geoscience Australia launches new 10-year strategy to shape the nation’s future Learn more](https://www.ga.gov.au/news/geoscience-australia-launches-new-10-year-strategy-to-shape-the-nations-future)
 ###  Science in action: Stories from women shaping Australia's Geoscience 
 **11 March 2026**
 Every day, women contribute to every layer of Australia’s geoscience capability, from those just starting out to those leading nationally significant programs.
@@ -225,7 +233,7 @@ Geoscience Australia’s satellite-based augmentation system, SouthPAN, has reac
 Minister for Resources and Minister for Northern Australia Madeleine King has visited the Rocks That Shape Australia exhibition at Geoscience Australia.
 [ Minister King explores the new Rocks That Shape Australia exhibition Learn more](https://www.ga.gov.au/news/minister-king-explores-the-new-rocks-that-shape-australia-exhibition)
 ###  Earthquake information for media outlets 
-**11 March 2026**
+**14 April 2026**
 In the event of a significant earthquake, Geoscience Australia will provide up-to-date information for the public and media outlets in a timely manner.
 [ Earthquake information for media outlets Learn more](https://www.ga.gov.au/news/earthquake-information-for-media-outlets)
 ###  Landsat helping to address food security challenges in Africa 

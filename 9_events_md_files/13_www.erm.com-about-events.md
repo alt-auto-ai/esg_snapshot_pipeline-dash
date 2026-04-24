@@ -210,6 +210,7 @@
   * [The Future of Water: How Companies Can Adapt to Regulatory and Climate Change](https://www.erm.com/about/events/the-future-of-water-how-companies-can-adapt-to-regulatory-and-climate-change/)
   * [LCM 2025](https://www.erm.com/about/events/lcm-2025/)
   * [CCUS London 2025](https://www.erm.com/about/events/ccus-london-2025/)
+  * [A Spotlight on Energy - ERM's Quarterly Trends Webinar Series, April 2026](https://www.erm.com/about/events/a-spotlight-on-energy-quarterly-trends-webinar-series-april-2026/)
   * [ERM at the III AESAS Conference on Contaminated Site Management](https://www.erm.com/about/events/erm-at-the-iii-aesas-conference-on-contaminated-site-management/)
   * [ReThink HK 2025](https://www.erm.com/about/events/rethink-hk-2025/)
   * [ERM at SETAC Latin America 2025](https://www.erm.com/about/events/erm-at-setac-latin-america-2025/)
@@ -247,6 +248,15 @@
   * [FOWT 2026 Montpellier](https://www.erm.com/about/events/fowt-2026-montpellier/)
   * [ERM at Pharma Sustainability Integrates 2026](https://www.erm.com/about/events/erm-at-pharma-sustainability-integrates-2026/)
   * [EHS Audit Briefing - Webinar](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
+  * [SETAC 2026](https://www.erm.com/about/events/setac-2026/)
+  * [ERM Webinar: Managing Water Constraints in Data Center and Semiconductor Growth](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
+  * [MEW Marine Energy Wales Conference 2026](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
+  * [ERM at 2026 AIChE Spring Meeting and GCPS](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
+  * [ERM at IAIA26](https://www.erm.com/about/events/erm-at-iaia26/)
+  * [EHS Congress 2026](https://www.erm.com/about/events/ehs-congress-2026/)
+  * [Crop Protection training series with Fresenius 2026](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
+  * [Chem Logistics & SCM Summit 2026](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
+  * [ERM Webinar: How leading pharma organizations are decarbonizing their supply chain](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
 
 
 [ Locations ](https://www.erm.com/about/locations/)
@@ -452,6 +462,59 @@ Webinar
 Virtual
 Join our six-part webinar series designed for professionals working in life sciences and laboratory environments.
 [ Event details ](https://www.erm.com/about/events/process-safety-for-laboratories/)
+[ ](https://www.erm.com/about/events/ehs-congress-2026/)
+Event
+[EHS Congress Berlin 2026](https://www.erm.com/about/events/ehs-congress-2026/)
+27-28 May
+Radisson Collection Hotel, Berlin
+Meet ERM at EHS Congress Berlin (27–28 May 2026). Explore Culture of Care, leadership, and practical insights for stronger EHS performance.
+[ Event details ](https://www.erm.com/about/events/ehs-congress-2026/)
+[ ](https://www.erm.com/about/events/erm-at-iaia26/)
+Event
+[ERM at IAIA26](https://www.erm.com/about/events/erm-at-iaia26/)
+May 19-22, 2026
+Québec City Convention Centre
+[ Event details ](https://www.erm.com/about/events/erm-at-iaia26/)
+[ ](https://www.erm.com/about/events/setac-2026/)
+Event
+[SETAC Europe Annual Meeting 2026](https://www.erm.com/about/events/setac-2026/)
+17-21 May 2026
+MECC MAASTRICHT
+ERM is pleased to announce its participation as an event partner at the SETAC Europe 36th Annual Meeting.
+[ Event details ](https://www.erm.com/about/events/setac-2026/)
+[ ](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
+Event
+[Crop protection training series with Fresenius 2026](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
+5 & 8 May 2026
+ERM is leading an online Crop Protection training series together with Fresenius.
+[ Event details ](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
+[ ](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
+Event
+[Decarbonization that Pays Off: Value‑Led Strategies for Pharma Supply Chains](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
+7 May - 3 PM CEST
+Zoom
+In this executive-level webinar, AstraZeneca and Takeda, along with ERM, will explore how leading pharma companies are moving from strategy to implementation, building actionable supply chain decarbonization roadmaps that deliver tangible results.
+[ Event details ](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
+[ ](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
+Event
+[ERM webinar: Managing Water Constraints in Data Center and Semiconductor Growth](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
+30 April 2026
+Zoom
+[ Event details ](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
+[ ](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
+Event
+[MEW Marine Energy Wales Conference 2026](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
+28-29 April 2026
+Llandudno 
+The Marine Energy Wales (MEW) Conference 2026, held on 28–29 April 2026 at Venue Cymru in Llandudno, is the UK’s largest dedicated marine renewable energy gathering, bringing together industry leaders, policymakers, researchers, and supply‑chain organisations to explore the future of tidal, wave, and floating offshore wind energy in Wales.
+[ Event details ](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
+[ ](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
+Event
+[Chem Logistics & SCM Summit 2026](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
+27-28 April 2026
+Radisson Blu, Frankfurt
+ERM will be attending the Chem Logistics & SCM Summit 2026, a leading European event bringing together senior supply chain, logistics, and operations leaders from across the chemical industry.
+[ Event details ](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
 [ ](https://www.erm.com/about/events/wind-europe-madrid-2026/)
 Event
 [WindEurope Madrid 2026](https://www.erm.com/about/events/wind-europe-madrid-2026/)
@@ -459,6 +522,12 @@ Event
 Madrid
 Wind Europe is Europe’s largest wind energy conference and exhibition, dedicated to onshore and offshore wind, expecting to be welcoming 15,000+ participants, 500+ companies on the exhibition floor, 350+ speakers and 220+ posters to be presented.
 [ Event details ](https://www.erm.com/about/events/wind-europe-madrid-2026/)
+[ ](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
+Event
+[ERM at the 2026 AIChE Spring Meeting and 22nd Global Congress on Process Safety (GCPS)](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
+April 12-16, 2026 
+Hilton of the Americas and the George R. Brown Convention Center, Houston, TX
+[ Event details ](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
 [ ](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
 Webinar
 [EHS Audit Briefing - Webinar](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
@@ -466,69 +535,6 @@ Wednesday 1 April, 2026
 Webinar
 Discover how EHS leaders are transforming audits into strategic learning tools, leveraging digital and AI insights, and building high-impact, people-centred audit capabilities.
 [ Event details ](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
-[ ](https://www.erm.com/about/events/fowt-2026-montpellier/)
-Event
-[FOWT 2026 Montpellier](https://www.erm.com/about/events/fowt-2026-montpellier/)
-March 24 - 26, 2026
-Montpellier
-FOWT 2026 brings together policy makers, wind farm operators, developers, utilities, and industrial leaders to align public policy with market realities. 
-[ Event details ](https://www.erm.com/about/events/fowt-2026-montpellier/)
-[ ](https://www.erm.com/about/events/erm-at-pharma-sustainability-integrates-2026/)
-Event
-[ERM at Pharma Sustainability Integrates 2026](https://www.erm.com/about/events/erm-at-pharma-sustainability-integrates-2026/)
-25 February 2026
-1 Embarkment, London
-The event brings together senior leaders from across the life sciences sector to address the industry’s most pressing sustainability challenges, from Scope 3 decarbonisation to circularity and sustainable operations. 
-[ Event details ](https://www.erm.com/about/events/erm-at-pharma-sustainability-integrates-2026/)
-[ ](https://www.erm.com/about/events/greenbiz-2026/)
-Event
-[GreenBiz 2026](https://www.erm.com/about/events/greenbiz-2026/)
-February 17-19, 2026
-JW Marriot Desert Ridge, Phoenix, AZ
-ERM is a proud sponsor of GreenBiz 26, North America’s premier event for sustainable business leaders.
-[ Event details ](https://www.erm.com/about/events/greenbiz-2026/)
-[ ](https://www.erm.com/about/events/erm-at-mining-indaba-2026/)
-Event
-[ERM at Mining Indaba 2026](https://www.erm.com/about/events/erm-at-mining-indaba-2026/)
-9 - 12 February 2026
-CTICC, Cape Town, South Africa
-Since its inception in 1994, the Investing in African Mining Indaba has established itself as the most prestigious and influential event in the global mining industry.
-[ Event details ](https://www.erm.com/about/events/erm-at-mining-indaba-2026/)
-[ ](https://www.erm.com/about/events/2026-annual-trends-webinar/)
-Recording
-[2026 Annual Trends webinar recording](https://www.erm.com/about/events/2026-annual-trends-webinar/)
-Wednesday, February 11, 11:00 EST/ 16:00 GMT
-Webinar Recording
-2026 Annual Trends Webinar: What’s Next for Corporate Sustainability in a World of Competing Pressures? 
-[ Event details ](https://www.erm.com/about/events/2026-annual-trends-webinar/)
-[ ](https://www.erm.com/about/events/rate-the-raters-2025--webinars-americas/)
-Webinar
-[Rate the Raters 2025 webinar - EMEA/Americas](https://www.erm.com/about/events/rate-the-raters-2025--webinars-americas/)
-February 05, 2026 | 8am PDT/ 4pm GMT
-Webinar
-ESG ratings remain integral to corporate sustainability strategies despite ongoing challenges, with 88% of companies planning to continue engaging with them.
-[ Event details ](https://www.erm.com/about/events/rate-the-raters-2025--webinars-americas/)
-[ ](https://www.erm.com/about/events/rate-the-raters-2025-webinars-APAC-EMEA/)
-Webinar
-[Rate the Raters 2025 | EMEA/APAC webinar](https://www.erm.com/about/events/rate-the-raters-2025-webinars-APAC-EMEA/)
-February 05, 2026 | 9:30 am CET / 2pm IST
-Webinar
-ERM will host a webinar on February 05 (Europe and Asia friendly). Join us as we unpack the results and explore what they mean for shaping effective ESG strategies.
-[ Event details ](https://www.erm.com/about/events/rate-the-raters-2025-webinars-APAC-EMEA/)
-[ ](https://www.erm.com/about/events/ame-roundup-2026/)
-Event
-[AME Roundup 2026](https://www.erm.com/about/events/ame-roundup-2026/)
-26-29 January, 2026 
-Vancouver Convention Centre, Vancouver, Canada 
-ERM will be sponsoring, exhibiting, and presenting at AME Roundup 2026, one of the world’s premier technical mineral exploration conferences. 
-[ Event details ](https://www.erm.com/about/events/ame-roundup-2026/)
-[ ](https://www.erm.com/about/events/wind-energy-ireland-annual-conference-2026/)
-Event
-[Wind Energy Ireland Annual Conference 2026](https://www.erm.com/about/events/wind-energy-ireland-annual-conference-2026/)
-January 21-22, 2026
-Clayton Burlington Hotel, Dublin
-This is Ireland’s most important annual renewable energy event with Irish wind energy leading the acceleration to net-zero and Irish energy independence.
-[ Event details ](https://www.erm.com/about/events/wind-energy-ireland-annual-conference-2026/)
 Load More
 [Load More](https://www.erm.com/about/events/?page=2)
 ## [ How can we help?  How can we help you? Contact us to discuss how we can help your organization.  Contact us now ](https://www.erm.com/contact-us/)

@@ -5,25 +5,63 @@
 Select category:
 [All](https://aasb.gov.au/news/) [Standards](https://aasb.gov.au/news/?category=Standards)
 Filter by date range:
-10
+23
+APRIL
+2026
+AASB
+### April Reporting Roundup
+The _Reporting Roundup_ features the upcoming Dialogue Series event, key partnerships with ASIC and CSIRO and new AASB S2 educational materials.
+[Read more](https://aasb.gov.au/news/april-reporting-roundup/)
+27
 MARCH
 2026
 AASB
+### e-learning modules for sustainability reporting developed with ASIC
+The AASB has partnered with ASIC to develop and publish e-learning modules to assist entities in understanding the foundational concepts underpinning climate-related financial disclosures.
+[Read more](https://aasb.gov.au/news/e-learning-modules-for-sustainability-reporting-developed-with-asic/)
+25
+MARCH
+2026
+AASB
+### March Reporting Roundup
+In the March edition of 
+  * 2027–2031 Agenda Consultation
+
+[Read more](https://aasb.gov.au/news/march-reporting-roundup/)
+### Action Alert No. 246
+23 Mar
+2026
+23 March 2026
+The [Action Alert](https://aasb.gov.au/media/j3lifxes/246_actionalert.pdf "246 Actionalert") for the 219th AASB Board meeting is now available.
+[Read more](https://aasb.gov.au/news/action-alert-no-246/)
+### Australia appointed to the Sustainability Standards Advisory Forum
+18 Mar
+2026
+18 March 2026
+The AASB is pleased to announce that Australia has been appointed to the .
+[Read more](https://aasb.gov.au/news/australia-appointed-to-the-sustainability-standards-advisory-forum/)
+### Preparer Essentials: Understanding the Foundations of AASB S2 Climate-related Disclosures
+18 Mar
+2026
+18 March 2026
+The AASB, in partnership with the IFRS Foundation, is hosting a one day, in-person workshop to support preparers applying **AASB S2 _Climate-related Disclosures._**
+[Read more](https://aasb.gov.au/news/preparer-essentials-understanding-the-foundations-of-aasb-s2-climate-related-disclosures/)
 ### Categorising income under AASB 18: Survey and virtual roundtable for private NFP entities and universities
+10 Mar
+2026
+10 March 2026
 Please complete the **24 April** , and join the virtual roundtable on **16 April** , to share your perspectives on how income recognised under AASB 1058 should be categorised when applying AASB 18.
 [Read more](https://aasb.gov.au/news/categorising-income-under-aasb-18-survey-and-virtual-roundtable-for-private-nfp-entities-and-universities/)
-06
-MARCH
-2026
-AASB
 ### AASB March Board Meeting Public Agenda and Papers out now
+06 Mar
+2026
+06 March 2026
 The [public agenda](https://aasb.gov.au/media/wccladmn/aasbpublicagendam219_19mar26.pdf) and 
 [Read more](https://aasb.gov.au/news/aasb-march-board-meeting-public-agenda-and-papers-out-now/)
-04
-MARCH
-2026
-AASB
 ### Narrow scope amendments to the fair value option in AASB 128
+04 Mar
+2026
+04 March 2026
 The AASB is seeking input from Australian stakeholders on new IASB proposals clarifying which entities can apply the fair value option in IAS 28.
 [Read more](https://aasb.gov.au/news/narrow-scope-amendments-to-the-fair-value-option-in-aasb-128/)
 ### AASB Dialogue Series–Fair Value in Focus: A Conversation on Measurement and Reporting

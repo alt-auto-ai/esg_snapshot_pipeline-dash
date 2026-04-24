@@ -38,7 +38,7 @@ Media release (2)
 National (4)
 National Electricity Market (33)
 Network Service Provider (1)
-News (147)
+News (148)
 Notice (6)
 NSW (3)
 Partnership (3)
@@ -78,7 +78,7 @@ x
 2023 (15)
 2024 (18)
 2025 (26)
-2026 (2)
+2026 (3)
 # News Updates
 Search 
 Sort by 
@@ -92,6 +92,7 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [ 27/03/2026 4 mins AEMO calls for Expressions of Interest for 2028 ISP Consumer Panel The Australian Energy Market Operator (AEMO) is inviting expressions of interest from stakeholders to join the 2028 Integrated System Plan (ISP) Consumer Panel, an independent advisory body that provides a consumer-focused perspective on Australia’s long-term energy planning.](https://www.aemo.com.au/newsroom/news-updates/aemo-calls-for-expressions-of-interest-for-2028-isp-consumer-panel "AEMO calls for Expressions of Interest for 2028 ISP Consumer Panel")
   * [ 05/03/2026 4 mins AEMO publishes ECMC governance review submission AEMO has published our submission as part of the consultation into the Energy and Climate Change Ministerial Council (ECMC) review on AEMO’s governance arrangements.](https://www.aemo.com.au/newsroom/news-updates/aemo-publishes-ecmc-governance-review-submission "AEMO publishes ECMC governance review submission")
   * [ 26/02/2026 3 mins AEMO welcomes appointment of two new board directors AEMO is pleased to announce the appointment of Mr Luke Menzel and Mr Josef Tadich to the AEMO Board as non-executive directors for a period of four-years, effective 24 February 2026. ](https://www.aemo.com.au/newsroom/news-updates/aemo-welcomes-appointment-of-two-new-board-directors "AEMO welcomes appointment of two new board directors")
   * [ 18/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a Suspension Notice in the Short Term Trading Market (STTM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-18-dec-2025-sttm "National Gas Rules - Public Notice 18 Dec 2025 STTM")
@@ -101,7 +102,6 @@ Date published (Newest) **▾**
   * [ 13/11/2025 3 mins AEMO finalises scenario weightings ahead of Draft 2026 ISP release AEMO is now more than halfway through the development of the 2026 Integrated System Plan (ISP) and is close to publishing the Draft 2026 ISP, which is scheduled for release in just a few weeks.](https://www.aemo.com.au/newsroom/news-updates/aemo-finalises-scenario-weightings-ahead-of-draft-2026-isp-release "AEMO finalises scenario weightings ahead of Draft 2026 ISP release")
   * [ 24/10/2025 5 mins AEMO progressing transitional system security services The Australian Energy Market Operator (AEMO) has advanced its program to procure ‘transitional services’ to support the transition of the National Electricity Market to a low emissions power system.](https://www.aemo.com.au/newsroom/news-updates/aemo-progressing-transitional-system-security-services "AEMO progressing transitional system security services")
   * [ 02/09/2025 4 mins Project Marinus passes feedback loop assessment On 15 August 2025, AEMO confirmed that Project Marinus passed the feedback loop assessment, validating its alignment with the optimal development path (ODP) in the 2024 ISP. ](https://www.aemo.com.au/newsroom/news-updates/project-marinus-passes-feedback-loop-assessment "Project Marinus passes feedback loop assessment")
-  * [ 02/09/2025 3 mins AEMO publishes key documents to commence 2026 ISP modelling AEMO published several key forecasting and planning reports on 31 July 2025 for use in the 2026 Integrated System Plan (ISP) process, including the 2025 Inputs, Assumptions and Scenarios Report (IASR), 2025 Electricity Network Options Report and 2025 Gas Infrastructure Options Report. Some reports have since been updated with new versions published on 28 August 2025.](https://www.aemo.com.au/newsroom/news-updates/aemo-publishes-key-documents-to-commence-2026-isp-modelling "AEMO publishes key documents to commence 2026 ISP modelling")
 
 
   * [First](https://www.aemo.com.au/newsroom/news-updates)

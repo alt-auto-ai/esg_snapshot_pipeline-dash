@@ -1,3 +1,6 @@
+Fuel supply update
+The Commonwealth National Fuel Security Plan setting is level 2. Fuel supply continues to operate, but some local supplies are disrupted.
+[Fuel update for NSW](https://www.nsw.gov.au/driving-boating-and-transport/fuel-update-for-nsw)
 # News about private land conservation
 Stay up to date with the latest news and events on private land conservation from the NSW Biodiversity Conservation Trust.
 ###  [Search latest news](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-bct/news#search "Search latest news")
@@ -32,46 +35,46 @@ Datekeyboard_arrow_up
 From
 To
 Clear all filters
+Departmental release
+16 April 2026
+### [New co-investment opportunity to boost large scale conservation in NSW](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/co-invest)
+Leaders from across the conservation, agribusiness and corporate sectors came together last month to explore a new co-investment model designed to support large-scale conservation partnerships across the state.
+News
+8 April 2026
+### [Landholders trial new innovative wildlife-detection technology](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/airdna)
+Landholders across NSW are discovering what lives on their properties by testing tiny traces of DNA drifting in the air.
+News
+1 April 2026
+### [Chakola: long-term private land conservation protecting Kangaroo Valley biodiversity](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/chakola)
+For more than 60 years, Chakola has been a place of stewardship, learning and caring for Country and in more recent times become known as one of the Kangaroo Valley’s southernmost population of brush-tailed rock wallabies 
+News
+31 March 2026
+### [CAWSYD26 forum values economic opportunities of our natural world](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/cawsyd26-forum)
+More than 90 leaders from investment, business, philanthropy and conservation attended the NSW Biodiversity Conservation Trust’s Climate Action Week panel, Valuing Nature: Economic Opportunities in our Natural World, hosted with Nature Positive Matters . 
+News
+27 March 2026
+### [Strong field of eligible conservation sites assessed for fixed price offer](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/fpo-strong-response)
+A strong landholder response to our latest Fixed Price Offer (FPO) is driving new conservation opportunities across NSW, with assessment of the biodiversity on participating eligible properties progressing from this week.
+News
+26 March 2026
+### [Co-investment lends confidence to Indigenous-led conservation effort](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/co-investment-lends-confidence-to-indigenous-led-conservation-effort)
+Gayini shows what’s possible when Country is cared for by the people who know it best, proving when culture leads, conservation thrives. 
+News
+25 March 2026
+### [UNSW studies grazing impact on Gayini’s threatened landscapes](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/unsw-grazing-research)
+The NSW Biodiversity Conservation Trust is funding UNSW researchers from the Centre for Ecosystem Science to examine how Gayini’s ecosystems, particularly the floodplains and wetlands, respond to managed water flows and different grazing regimes. Their study will assess changes in water, soil and vegetation. 
+News
+18 March 2026
+### [Biodiversity Offsets Payment Calculator consultation: What we heard](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/what-we-heard)
+The NSW Biodiversity Conservation Trust has published a What we heard report summarising feedback received during public consultation on proposed changes to the Biodiversity Offsets Payment Calculator (BOPC) Order 2022.
+News
+16 March 2026
+### [Garry and Robyn Ostini’s commitment to conservation](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/daydawn)
+In the heart of the Central West, Garry and Robyn Ostini have spent the past 13 years at Daydawn , carrying forward a family legacy of caring for the land.
 News
 24 February 2026
 ### [BCT welcomes new Board member Angela Schuster](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/welcome-angela-schuster)
 The NSW Biodiversity Conservation Trust welcomes the appointment of Angela Schuster to its Board.
-News
-18 February 2026
-### [Restoring Long Swamp](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/restoring-long-swamp)
-Long Swamp , set along the Barwon River north of Collarenebri, is a striking example of how western landscapes live and breathe with the ebb and flow of water.
-News
-3 February 2026
-### [Annual payments increase for privately-managed conservation areas across Western NSW](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/western-nsw-fpo-rate-increase)
-The NSW Biodiversity Conservation Trust (BCT) has updated rates for its Western Division Fixed Price Offer closing to expressions of interest on 1 March 2026.
-News
-28 November 2025
-### [Building native grass ID skills to better support landholders](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/native-grass-id)
-Understanding the native grasses that underpin healthy ecosystems is essential to protecting biodiversity across NSW.
-News
-4 November 2025
-### [Upper Hunter farmer saves forest of rare red gums](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/upper-hunter-farmer-saves-forest-of-rare-red-gums)
-In the heart of the Upper Hunter, between Kingdon Ponds and Dartbrook Creek, lies one of NSW’s most significant conservation areas. 
-News
-31 October 2025
-### [South Coast conservation agreement protects threatened coastal saltmarsh](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/pub-hill-farm)
-Barbara Lindsey and Jon Renn have been at Pub Hill Farm for almost a decade, living their personal conservation values through the preservation of habitat for both threatened species and ecological communities. 
-News
-23 October 2025
-### [NSW landholders set to expand the conservation estate by 2029](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/landholders-expand-estate-2029)
-An area the size of the state's largest national park will be protected by private landholders under a new plan to be delivered by the NSW Government.
-News
-23 September 2025
-### [Kooragindi safeguarding woodland and wildlife at Koorawatha](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/kooragindi-safeguarding-woodland-and-wildlife-at-koorawatha)
-When Fiona Lumsden and John French bought Kooragindi , near Koorawatha, in 2008, they were looking for more than just a weekend escape.
-News
-18 September 2025
-### [Award-winning Land Libraries pilot showcases citizen science explosion](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/award-winning-land-libraries-pilot-showcases-citizen-science-explosion)
-It’s one thing to appreciate the species you’re protecting on a conservation agreement. It’s another to have photographic evidence and have contributed to the most significant private land biodiversity data set ever collected in NSW.
-News
-17 September 2025
-### [Peter Lloyd's conservation commitment to bring koalas back](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/peter-lloyd-wallamarra)
-When three friends purchased Wallamara 26 years ago, they realised a rare opportunity to acquire freehold land adjacent to a declared wilderness national park, and containing remnant koala habitat.
   * keyboard_arrow_left
   * 1
   * 2
@@ -79,6 +82,7 @@ When three friends purchased Wallamara 26 years ago, they realised a rare opport
   * 4
   * 5
   * 6
+  * 7
   * keyboard_arrow_right
 
 
@@ -87,6 +91,7 @@ We welcome your feedback.
 Email:
 Phone:
 Our website:[nsw.gov.au/bct](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust)
+Newsletter:
 Contact us page:[Contact us](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/contact-us)
 [ Top of page north ](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news#top)
 Original text

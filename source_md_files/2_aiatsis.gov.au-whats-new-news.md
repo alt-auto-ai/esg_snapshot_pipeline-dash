@@ -174,7 +174,9 @@ Menu
 
 
 [Close submenu](https://aiatsis.gov.au/whats-new/news#mm-14)[AIATSIS Centre for Australian Languages](https://aiatsis.gov.au/whats-new/news#mm-14)
+  * [Language Gatherings](https://aiatsis.gov.au/research/aiatsis-centre-australian-languages/language-gatherings)
   * [Languages Advisory Committee](https://aiatsis.gov.au/research/aiatsis-centre-australian-languages/languages-advisory-committee)
+  * [Languages Advisory Committee – Expression of Interest](https://aiatsis.gov.au/research/aiatsis-centre-australian-languages/languages-advisory-committee-expression-interest)
   * [Austlang](https://aiatsis.gov.au/research/languages/austlang)
   * [Dictionaries Program](https://aiatsis.gov.au/research/languages/dictionaries-program)
   * [National Indigenous Languages Surveys](https://aiatsis.gov.au/research/languages/national-indigenous-languages-surveys) [Open submenu](https://aiatsis.gov.au/whats-new/news#mm-23)
@@ -230,6 +232,7 @@ Menu
 
 
 [Close submenu](https://aiatsis.gov.au/whats-new/news#mm-28)[AIATSIS Summit 2026](https://aiatsis.gov.au/whats-new/news#mm-28)
+  * [Program and Speakers - Summit 2026](https://aiatsis.gov.au/whats-new/aiatsis-summit-2026/program-and-speakers-summit-2026)
   * [Sponsorship and Exhibition - AIATSIS Summit 2026](https://aiatsis.gov.au/whats-new/events/aiatsis-summit-2026/sponsorship-and-exhibition)
   * [Ticket Pricing and Registrations - Summit 2026](https://aiatsis.gov.au/whats-new/events/aiatsis-summit-2026/ticket-pricing-and-registrations)
   * [Travel and Accommodation - AIATSIS Summit 2026](https://aiatsis.gov.au/whats-new/aiatsis-summit-2026/travel-and-accommodation)
@@ -344,6 +347,7 @@ Continue
 ## AIATSIS acknowledges all Aboriginal and Torres Strait Islander Traditional Custodians of Country and recognises their continuing connection to land, sea, culture and community. We pay our respects to Elders past and present.
 [Aboriginal and Torres Strait Islander people should be aware that this website may contain images, voices and names of deceased persons.](https://aiatsis.gov.au/cultural-sensitivity)
 #  News
+### [“This is a joyful thing”: a masterwork of Gija cultural knowledge Tue, 17 Mar 2026 ](https://aiatsis.gov.au/whats-new/news/joyful-thing-masterwork-gija-cultural-knowledge)
 ### [Australian Aboriginal Studies out now Fri, 19 Dec 2025 ](https://aiatsis.gov.au/whats-new/news/australian-aboriginal-studies-out-now-1)
 ### [Your Story. Your Voice. AIATSIS International Women’s Day 2026 Poster Competition now open!  Wed, 17 Dec 2025 ](https://aiatsis.gov.au/whats-new/news/iwd-2026-poster-comp)
 ### [Wiradjuri seasons explored in new picture book Thu, 30 Oct 2025 ](https://aiatsis.gov.au/whats-new/news/wiradjuri-seasons-explored-new-picture-book)
@@ -353,7 +357,6 @@ Continue
 ### [AIATSIS welcomes new Council Chair and Deputy Chair Fri, 29 Aug 2025 ](https://aiatsis.gov.au/whats-new/news/aiatsis-welcomes-new-council-chair-and-deputy-chair)
 ### [Redtails in the Sunset  Tue, 19 Aug 2025 ](https://aiatsis.gov.au/whats-new/news/redtails-sunset)
 ### [Shared wisdom: reflections from the AIATSIS International Delegation to Australia 2025 Mon, 07 Jul 2025 ](https://aiatsis.gov.au/whats-new/news/shared-wisdom-reflections-aiatsis-international-delegation-australia-2025)
-### [Vale Dana Yestin Ober Fri, 23 May 2025 ](https://aiatsis.gov.au/whats-new/news/vale-dana-yestin-ober)
 Last updated: 13 November 2023 
 Copy link
 ✓

@@ -1,17 +1,38 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-13/03/2026 
+24/04/2026 
 # Latest News
 ### 2026 
+[ Fri   
+24 Apr   
+2026  **Australian Government General Government Sector Monthly Financial Statements for March 2026** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2026/mfs-march)
+[ Fri   
+24 Apr   
+2026  **Three ways to build your procurement and contract management capability in the next three months** Government Finance (Department), Procurement ](https://www.finance.gov.au/about-us/news/2026/three-ways-build-your-procurement-and-contract-management-capability-next-three-months)
+[ Wed   
+08 Apr   
+2026  **Strengthening climate disclosures across the APS: March CSO Network event** Business, Government, Individuals Climate Risk, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/strengthening-climate-disclosures-across-aps-march-cso-network-event)
+[ Tue   
+07 Apr   
+2026  **Last chance to apply for the 2027 Finance Graduate Program** Business, Government, Individuals Employment, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/last-chance-apply-2027-finance-graduate-program)
+[ Thu   
+02 Apr   
+2026  **Reconciliation Action Plan 2026-28 now available** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/reconciliation-action-plan-2026-28-now-available)
+[ Fri   
+27 Mar   
+2026  **Australian Government General Government Sector Monthly Financial Statements for February 2026** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2026/mfs-february)
+[ Fri   
+27 Mar   
+2026  **PGPA Newsletter 116** Government PGPA Act ](https://www.finance.gov.au/about-us/news/2026/pgpa-newsletter-116)
+[ Fri   
+13 Mar   
+2026  **Data and Digital Ministers Meeting advances national priorities** Government Digital ID, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/data-and-digital-ministers-meeting-advances-national-priorities)
 [ Thu   
 12 Mar   
 2026  **Tickets on sale now - 2026 Australian Government Data Forum** Government Australian Government data ](https://www.finance.gov.au/about-us/news/2026/tickets-sale-now-2026-australian-government-data-forum)
 [ Fri   
 06 Mar   
 2026  **Applications are now open for the 2027 Australian Government Graduate Program** Government Careers, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/applications-are-now-open-2027-australian-government-graduate-program)
-[ Thu   
-05 Mar   
-2026  **Applications for the Finance Graduate Program are open now** Business, Government, Individuals Employment, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/applications-finance-graduate-program-are-open-now)
 [ Wed   
 04 Mar   
 2026  **Seeking feedback on proposed changes to the Digital ID Amendment (Redress Framework) Rules 2025** Business, Government, Individuals Digital ID ](https://www.finance.gov.au/about-us/news/2026/seeking-feedback-proposed-changes-digital-id-amendment-redress-framework-rules-2025)
@@ -73,27 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Wed   
 03 Dec   
 2025  **Finance Census Action Plan 2025-28** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/finance-census-action-plan-2025-28)
-[ Fri   
-28 Nov   
-2025  **Australian Government General Government Sector Monthly Financial Statements for October 2025** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2025/mfs-october)
-[ Wed   
-26 Nov   
-2025  **Property Accessibility Assessment Tool wins the 2025 Corporate Collaborators award** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/property-accessibility-assessment-tool-wins-2025-corporate-collaborators-award)
-[ Mon   
-24 Nov   
-2025  **Commonwealth Climate Disclosure – Year 2, Year 3, and Simplified Requirements –available now** Government Climate Risk ](https://www.finance.gov.au/about-us/news/2025/commonwealth-climate-disclosure-year-2-year-3-and-simplified-requirements-available-now)
-[ Wed   
-19 Nov   
-2025  **PGPA Newsletter 113** Government PGPA Act ](https://www.finance.gov.au/about-us/news/2025/pgpa-newsletter-113)
-[ Tue   
-18 Nov   
-2025  **Data and Digital Government Strategy Implementation Plan for 2025** Government Digital ID ](https://www.finance.gov.au/about-us/news/2025/data-and-digital-government-strategy-implementation-plan-2025)
-[ Wed   
-12 Nov   
-2025  **Introducing the APS AI Plan** Business, Government, Individuals Finance (Portfolio) ](https://www.finance.gov.au/about-us/news/2025/introducing-aps-ai-plan)
-[ Tue   
-04 Nov   
-2025  **Explore how AI is reshaping the APS** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/explore-how-ai-reshaping-aps)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

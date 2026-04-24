@@ -13,6 +13,18 @@
 Media statements are also released by the [Minister for Environment](https://www.mediastatements.wa.gov.au/Pages/Ministers/Reece-Whitby.aspx).
 Please note that the email address for general media enquiries is 
 [](https://www.epa.wa.gov.au/subscribe-content)
+##### [Gold mine proposal recommended for environmental approval](https://www.epa.wa.gov.au/media-statements/gold-mine-proposal-recommended-environmental-approval)
+April 8, 2026
+A proposal to develop an underground gold mine in the Great Sandy Desert has been recommended for approval by the Environmental Protection Authority (EPA), subject to strict conditions that include a ban on night-time haulage to protect the critically endangered night parrot.
+Located about 400km south-east of Port Hedland, the [Telfer - Havieron Gold Mining Project](https://www.epa.wa.gov.au/proposals/telfer-havieron-gold-mining-project) comprises the construction of the Havieron underground mine, within a development envelope encompassing both Telfer and Havieron operations.
+[Read more...](https://www.epa.wa.gov.au/media-statements/gold-mine-proposal-recommended-environmental-approval)
+* * *
+##### [EPA completes assessment of power transmission infrastructure plan](https://www.epa.wa.gov.au/media-statements/epa-completes-assessment-power-transmission-infrastructure-plan)
+March 26, 2026
+A proposal to provide additional electricity to Perth’s north via a new transmission line has been recommended for approval by the Environmental Protection Authority (EPA), subject to conditions to avoid and protect native vegetation.
+The Northern Terminal to Neerabup Terminal 330kV Transmission Line is a Western Power proposal to construct a 29-kilometre dual circuit link between Malaga and Pinjar.
+[Read more...](https://www.epa.wa.gov.au/media-statements/epa-completes-assessment-power-transmission-infrastructure-plan)
+* * *
 ##### [Environmental impact assessment of Smiths Beach proposal complete](https://www.epa.wa.gov.au/media-statements/environmental-impact-assessment-smiths-beach-proposal-complete)
 February 10, 2026
 A proposed tourism development in the South West has been recommended for approval by the Environmental Protection Authority (EPA), subject to strict conditions that include limiting building heights, protecting native vegetation and fauna habitat, and maintaining water quality.
@@ -60,18 +72,6 @@ The Environmental Protection Authority (EPA) has completed its assessment of a p
 The EPA determined to assess the Western Energy Pty Ltd proposal to construct, install and operate four open-cycle gas turbines in May this year. Today the independent Authority published its report on the [K2 Project](https://www.epa.wa.gov.au/proposals/k2-project), recommending the proposal may be implemented subject to conditions.
 [Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-assessment-kwinana-peaking-power-proposal)
 * * *
-##### [EPA to proceed with assessment of amended Browse proposal](https://www.epa.wa.gov.au/media-statements/epa-proceed-assessment-amended-browse-proposal)
-August 21, 2025
-The Environmental Protection Authority (EPA) has decided to accept amendments to the [Proposed Browse to North West Shelf Development](https://www.epa.wa.gov.au/proposals/proposed-browse-nws-development), determining that the amended proposal would be of substantially the same character as the existing proposal currently under assessment.
-The State Waters component of the Woodside Energy Ltd proposal to extract hydrocarbons from the Torosa reservoir, 425km north of Broome, has been under assessment by the independent Authority since 2019.
-[Read more...](https://www.epa.wa.gov.au/media-statements/epa-proceed-assessment-amended-browse-proposal)
-* * *
-##### [EPA delivers report on Boodarie iron ore processing proposal](https://www.epa.wa.gov.au/media-statements/epa-delivers-report-boodarie-iron-ore-processing-proposal)
-August 18, 2025
-A proposal to produce iron pellets and hot briquette iron for export has been recommended for approval by the Environmental Protection Authority (EPA), subject to conditions to support the ongoing protection of conservation-significant fauna.
-The Port Hedland Iron Pty Ltd proposal is to develop a downstream iron ore processing facility in the Boodarie Strategic Industrial Area (SIA), about 10km south-west of Port Hedland.
-[Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-report-boodarie-iron-ore-processing-proposal)
-* * *
 ## Pages
   * 1
   * [2](https://www.epa.wa.gov.au/media-statements?page=1 "Go to page 2")
@@ -84,6 +84,6 @@ The Port Hedland Iron Pty Ltd proposal is to develop a downstream iron ore proce
   * [9](https://www.epa.wa.gov.au/media-statements?page=8 "Go to page 9")
   * …
   * [next ›](https://www.epa.wa.gov.au/media-statements?page=1 "Go to next page")
-  * [last »](https://www.epa.wa.gov.au/media-statements?page=24 "Go to last page")
+  * [last »](https://www.epa.wa.gov.au/media-statements?page=25 "Go to last page")
 
 

@@ -52,7 +52,7 @@ consent.cookiebot.com
 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 Your prior consent is required to use these cookies.
 We do not use cookies of this type.
-  * Statistics  17
+  * Statistics  23
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
 Your prior consent is required to use these cookies.
     * [Contentsquare7](https://www.globalreporting.org/news/events/)
@@ -76,6 +76,19 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
 **_ga_# [x3]** Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. 
 **Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+    * [Hotjar6](https://www.globalreporting.org/news/events/)
+**_hjSession_#** Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**_hjSessionUser_#** Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+**_hjTLDTest** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**hjActiveViewportIds** This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**hjViewportId** Saves the user's screen size in order to adjust the size of images on the website.
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**_hjCookieTest** Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [Twitter Inc.1](https://www.globalreporting.org/news/events/)
 **personalization_id** This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile. 
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
@@ -86,17 +99,13 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
 **FPLC** Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
-  * Marketing  32
+  * Marketing  21
 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
 Your prior consent is required to use these cookies.
-    * [Google7](https://www.globalreporting.org/news/events/)
+    * [Google5](https://www.globalreporting.org/news/events/)
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
-**IDE** Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
-**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
 **_gcl_au** Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. 
 **Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
-**pagead/1p-conversion/#/** Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. 
-**Maximum Storage Duration** : Session**Type** : Pixel Tracker
 **pagead/1p-user-list/#** Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
 **_gid [x2]** Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
@@ -113,7 +122,7 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
 **muc_ads** Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. 
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
-    * [YouTube19](https://www.globalreporting.org/news/events/)
+    * [YouTube10](https://www.globalreporting.org/news/events/)
 **__Secure-ROLLOUT_TOKEN** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-YEC** Stores the user's video player preferences using embedded YouTube video
@@ -123,10 +132,6 @@ Some of the data collected by this provider is for the purposes of personalizati
 **LAST_RESULT_ENTRY_KEY** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
 **LogsDatabaseV2:V#||LogsRequestsStore** Used to track user’s interaction with embedded content.
-**Maximum Storage Duration** : Persistent**Type** : IndexedDB
-**remote_sid** Necessary for the implementation and functionality of YouTube video-content on the website. 
-**Maximum Storage Duration** : Session**Type** : HTTP Cookie
-**ServiceWorkerLogsDatabase#SWHealthLog** Necessary for the implementation and functionality of YouTube video-content on the website. 
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
 **TESTCOOKIESENABLED** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
@@ -138,20 +143,6 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **YtIdbMeta#databases** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
-**yt-remote-cast-available** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
-**yt-remote-cast-installed** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
-**yt-remote-connected-devices** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**yt-remote-device-id** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**yt-remote-fast-check-period** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
-**yt-remote-session-app** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
-**yt-remote-session-name** Stores the user's video player preferences using embedded YouTube video
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
     * [gtm.globalreporting.org1](https://www.globalreporting.org/news/events/)
 **_/set_cookie** Used by server-side Google Tag Manager to set or update cookies required for analytics or marketing tags.
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
@@ -172,9 +163,10 @@ Your prior consent is required to use these cookies.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
 
 
-[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.globalreporting.org/news/events/) [#BULK_CONSENT_TITLE#]
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.globalreporting.org/news/events/)
+[#BULK_CONSENT_TITLE#]
 List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
-Cookie declaration last updated on 3/3/26 by 
+Cookie declaration last updated on 4/1/26 by 
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
 [#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]

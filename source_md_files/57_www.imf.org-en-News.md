@@ -1,23 +1,23 @@
 # News
 English 
 [العربية](https://www.imf.org/ar/news "العربية") [español](https://www.imf.org/es/News/SearchNews "español") [français](https://www.imf.org/fr/News/SearchNews "français") [日本語](https://www.imf.org/ja/News/SearchNews "日本語") [русский](https://www.imf.org/ru/News/SearchNews "русский") [中文](https://www.imf.org/zh/News/SearchNews "中文")
-#### [How China’s Economy Can Pivot to Consumption-led Growth More forceful macroeconomic stimulus, stronger social protection, and fiscal support for the property sector can help boost domestic demand, especially consumption ](https://www.imf.org/en/news/articles/2026/02/18/cf-how-chinas-economy-can-pivot-to-consumption-led-growth)
-[](https://www.imf.org/en/videos/view/6389572890112?sort=mostrecent&page=1)##### [Press Briefing | February 19](https://www.imf.org/en/videos/view/6389572890112?sort=mostrecent&page=1)
-Watch the latest developments related to key economic issues, and answers questions about Ukraine, Argentina and Venezuela, Sri Lanka, India, the United States, Japan, and more.
-[](https://www.imf.org/en/news/articles/2026/02/08/sp020826-policies-amid-reset-of-international-trade-and-financial-systems)##### [Remarks by Kristalina Georgieva, IMF Managing Director](https://www.imf.org/en/news/articles/2026/02/08/sp020826-policies-amid-reset-of-international-trade-and-financial-systems)
-Policies Amid a Reset of the International Trade and Financial Systems
+#### [Wars Impose Lasting Economic Costs, While More Defense Spending Means Hard Choices Rising defense spending requires difficult fiscal choices to avoid raising vulnerabilities, while post-war recovery hinges on policies to reduce uncertainty ](https://www.imf.org/en/blogs/articles/2026/04/08/wars-impose-lasting-economic-costs-while-more-defense-spending-means-hard-choices)
+[](https://www.imf.org/en/videos/view/6392816246112?sort=mostrecent&page=1)##### [Cushioning the Middle East War Shock](https://www.imf.org/en/videos/view/6392816246112?sort=mostrecent&page=1)
+Ahead of the 2026 Annual Meetings Kristalina Georgieva delivers a Curtain Raiser speech on the outlook for the global economy and policy priorities.
+[](https://meetings.imf.org/en)##### [2026 Spring Meetings](https://meetings.imf.org/en)
+The 2026 Spring Meetings will be held from Monday, April 13, through Saturday, April 18, at the IMF and World Bank in Washington, DC.
 SearchSearch
 ##### Latest News
-  * [March 12, 2026Pakistan: End-of-Mission Statement on the Third Review of the 37-month Extended Arrangement under the Extended Fund Facility (EFF) and the Second Review of 28-month Arrangement Under the Resilience and Sustainability Facility (RSF)](https://www.imf.org/en/news/articles/2026/03/11/pr-26075-pakistan-end-of-mission-statement-3rd-rev-37mo-ext-arrang-eff-2nd-rev-28mo-arrang-rsf)
-  * [March 11, 2026Unleashing Europe’s Economic Potential ](https://www.imf.org/en/news/articles/2026/03/11/sp031126-ak-ie-university-paris)
-  * [March 11, 2026Enhancing South Africa’s Business Environment to Boost Growth and Create Jobs](https://www.imf.org/en/news/articles/2026/03/11/cf-south-africa-enhancing-south-africas-business-environment-to-boost-growth-and-create-jobs)
-  * [March 10, 2026Costa Rica: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/03/10/mcs-03102026-costa-rica-staff-concluding-statement-of-the-2026-article-iv-mission)
-  * [March 10, 2026Reforming under pressure Europe’s agenda for robust growth and higher productivity](https://www.imf.org/en/news/articles/2026/03/11/sp031026-ak-ie-university-madrid)
-  * [March 9, 2026Principality of Andorra: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/03/09/cs-principality-of-andorra-staff-concluding-statement-of-the-2026-article-iv-mission)
-  * [March 9, 2026Coping and Thriving in a Fluid World ](https://www.imf.org/en/news/articles/2026/03/09/sp030926-coping-and-thriving-in-a-fluid-world)
-  * [March 6, 2026IMF Staff Concludes Visit to Gabon](https://www.imf.org/en/news/articles/2026/03/06/pr-26074-gabon-imf-staff-concludes-visit-to-gabon)
+  * [April 23, 2026The IMF Executive Board Concludes Fifth Review of the Extended Fund Facility Arrangement for Ecuador](https://www.imf.org/en/news/articles/2026/04/22/pr26126-ecuador-the-imf-concludes-5th-review-of-eff-arrangement)
+  * [April 18, 2026Press Briefing Transcript: Western Hemisphere Department, Spring Meetings 2026](https://www.imf.org/en/news/articles/2026/04/18/tr-04172026-press-briefing-transcript-western-hemisphere-department-spring-meetings-2026)
+  * [April 18, 2026Press Briefing Transcript: International Monetary and Financial Committee, Spring Meetings 2026](https://www.imf.org/en/news/articles/2026/04/17/tr-04172026-transcript-imfc-press-briefing-spring-meetings-2025)
+  * [April 18, 2026IMF Staff Reaches Staff Level Agreement with Armenia on the First Review of the Stand-By Arrangement ](https://www.imf.org/en/news/articles/2026/04/17/pr-26125-armenia-imf-staff-reaches-agreement-on-the-first-rev-of-the-stand-by-arrangement)
+  * [April 18, 2026Press Briefing Transcript: European Department, Spring Meetings 2026](https://www.imf.org/en/news/articles/2026/04/17/tr-04172026-press-briefing-transcript-european-department-spring-meetings-2026)
+  * [April 18, 2026Chair’s Statement Fifty-Third Meeting of the IMFC](https://www.imf.org/en/news/articles/2026/04/17/pr26124)
+  * [April 17, 2026Press Briefing Transcript: Middle East and Central Asia Region, Spring Meetings 2026](https://www.imf.org/en/news/articles/2026/04/16/tr-04162026-press-briefing-transcript-middle-east-and-central-asia-region-spring-meetings-2026)
+  * [April 17, 2026IMF Announces Resumption of Dealings with Venezuela ](https://www.imf.org/en/news/articles/2026/04/16/pr26123-venezuela-imf-announces-resumption-of-dealings)
 
-[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=3%2F12%2F2026)
+[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=4%2F24%2F2026)
 ##### For Journalists
 The IMF Press Center is a password-protected site for working journalists.
   * [Login](https://presscenter.imf.org/Account/Login)
@@ -30,19 +30,16 @@ Sign up to receive free e-mail notices when new series and/or country items are 
   * [Modify Profile](https://www.imf.org/en/email-subscription/login)
 
 
-#### Podcasts
-[](https://www.imf.org/en/news/podcasts/all-podcasts/2026/02/05/johan-norberg-on-golden-ages)
-###### [Johan Norberg on What Makes and Breaks Golden Eras](https://www.imf.org/en/news/podcasts/all-podcasts/2026/02/05/johan-norberg-on-golden-ages)
-February 5, 2026
-The most prosperous of civilizations were the most open. The Romans, for example, expanded their empire by integrating the populations they conquered, creating a melting pot of new ideas. Johan Norberg’s latest book, _Peak Human_ , examines the rise and fall of seven golden age civilizations. In this podcast, he says that if openness to learning and trade are what great societies make, building walls to protect their dominance often sparks their demise.
-[](https://www.imf.org/en/news/podcasts/all-podcasts/2026/01/28/enrico-letta-on-single-market)
-###### [Enrico Letta: Harnessing Europe's Single Market](https://www.imf.org/en/news/podcasts/all-podcasts/2026/01/28/enrico-letta-on-single-market)
-January 28, 2026
-The idea of European integration through a single market was to capitalize on the EU as a whole. However, EU member states now appear reticent to pool sovereignty to the degree required to counter the geopolitical challenges of today’s world. Enrico Letta is President of the Jacques Delors Institute and a champion of Delors’ vision of creating a fully integrated European economic space. Letta says the adaptation of the single market should include all sectors rather than a select few and that fragmentation is holding Europe back.
-[](https://www.imf.org/en/news/podcasts/all-podcasts/2025/12/18/claudia-sahm-on-alternative-data)
-###### [Claudia Sahm on how Private Data can Augment Official Statistics](https://www.imf.org/en/news/podcasts/all-podcasts/2025/12/18/claudia-sahm-on-alternative-data)
-December 18, 2025
-While official statistics compiled by government agencies are still considered the most reliable, policymakers are increasingly using private data to get around their limitations. Former Federal Reserve economist Claudia Sahm says the immediacy and granularity of private company data should serve as a complement to traditional data, not as a substitute.
+### Statements on the war in the Middle East
+###  [ Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, and World Bank Group ](https://www.imf.org/en/news/articles/2026/04/13/pr26117-joint-statement-by-the-heads-iea-imf-wbg)
+April 13, 2026
+The Heads of the International Energy Agency, International Monetary Fund, and World Bank Group met today as part of the coordination group they established in early April to maximize their institutions’ response to the energy and economic impacts of the war in the Middle East. [Read More](https://www.imf.org/en/news/articles/2026/04/13/pr26117-joint-statement-by-the-heads-iea-imf-wbg)
+###  [ Joint Statement by the Heads of the International Monetary Fund, the World Bank Group and the World Food Programme ](https://www.imf.org/en/news/articles/2026/04/08/pr26112-joint-statement-by-the-heads-imf-wbg-wfp)
+April 8, 2026
+The Heads of the International Monetary Fund (IMF), the World Bank Group (WBG) and the World Food Programme (WFP) met to discuss the global economic and food security impacts of the war in the Middle East. [Read More](https://www.imf.org/en/news/articles/2026/04/08/pr26112-joint-statement-by-the-heads-imf-wbg-wfp)
+###  [ IMF Statement on the Middle East ](https://www.imf.org/en/news/articles/2026/03/03/pr-26068-statement-on-middle-east)
+March 3, 2026
+We are closely monitoring developments in the Middle East. So far, we have observed disruptions to trade and economic activity, surges in energy prices, and volatility in financial markets. [Read More](https://www.imf.org/en/news/articles/2026/03/03/pr-26068-statement-on-middle-east)
 #### Country Focus
 [](https://www.imf.org/en/news/articles/2026/01/28/cf-business-growth-and-innovation-can-boost-indias-productivity)
 ###### [Business Growth and Innovation Can Boost India’s Productivity](https://www.imf.org/en/news/articles/2026/01/28/cf-business-growth-and-innovation-can-boost-indias-productivity)
@@ -50,7 +47,7 @@ January 29, 2026
 Strengthening innovation could help boost productivity growth by 40 percent, equal to adding the output of the country’s fourth-largest state economy
 [](https://www.imf.org/en/news/articles/2026/01/27/cf-canada-can-grow-faster-by-unlocking-its-own-market)
 ###### [Canada Can Grow Faster by Unlocking Its Own Market](https://www.imf.org/en/news/articles/2026/01/27/cf-canada-can-grow-faster-by-unlocking-its-own-market)
-January 27, 2026
+January 28, 2026
 Knocking down internal trade barriers could boost output in Canada by 7 perc
 [](https://www.imf.org/en/news/articles/2025/12/18/cf-saudi-arabias-path-forward-amid-lower-oil-prices)
 ###### [Saudi Arabia’s Path Forward Amid Lower Oil Prices](https://www.imf.org/en/news/articles/2025/12/18/cf-saudi-arabias-path-forward-amid-lower-oil-prices)

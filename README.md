@@ -64,8 +64,18 @@ Build image:
 docker build -t esg-snapshot-pipeline:latest .
 ```
 
-Run ephemeral container (your standard command):
+Run ephemeral container (recommended, works from any current directory and always mounts project root):
+
+```bash
+bash run_docker_pipeline.sh
+```
+
+Or run manually from project root only:
 
 ```bash
 docker run --rm --env-file .env --network host -v "$(pwd)":/app esg-snapshot-pipeline
 ```
+
+Important:
+- Inputs and outputs persist to your local project because the host project folder is bind-mounted to `/app`.
+- If you run the manual command from a subfolder (for example `Dashboard`), only that subfolder is mounted and pipeline files outside it will not be visible in the container.

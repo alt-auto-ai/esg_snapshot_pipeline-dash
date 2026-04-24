@@ -13,6 +13,30 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Appointment of members to the Takeovers Panel](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/appointment-members-takeovers-panel)
+13 April 2026
+The Governor‑General has recently appointed and reappointed the following part‑time members to the Takeovers Panel (the Panel) for a three‑year period beginning on 2 April 2026. 
+### [Strengthening consumer protection in the superannuation system and ensuring sustainability of the CSLR](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/strengthening-consumer-protection-superannuation-system)
+8 April 2026
+The Albanese Government is releasing three consultation papers on broad cross‑sector reforms to give consumers greater protection and trust in the superannuation and financial services sectors. 
+### [Legislation passed to ban the use of adverse genetic testing results in life insurance](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-passed-ban-use-adverse-genetic-testing)
+1 April 2026
+Legislation banning life insurers from using adverse genetic testing results to deny or limit life insurance cover has passed the Parliament. 
+### [Government and private sector working together to back families and small businesses](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/government-and-private-sector-working-together-back)
+1 April 2026
+The Albanese Labor Government is working with the business and finance sectors to help ease the pressure on Australian families and small businesses. 
+### [Chair appointments for the Board of Taxation and Tax Practioners Board](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/chair-appointments-board-taxation-and-tax-practioners)
+27 March 2026
+The Albanese Government has appointed the Hon David Bradbury as the part‑time Chair and member of the Board of Taxation, and reappointed Mr Peter de Cure AM as the part‑time Chair and member o 
+### [Legislating access to offenders’ super for victims and survivors of child sexual abuse](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislating-access-offenders-super-victims-and)
+25 March 2026
+The Albanese Government today will introduce the Treasury Laws Amendment (The Survivors Law) Bill 2026 which will prevent convicted child sexual abusers from hiding their assets in superannuation t 
+### [Consultation open on reforms to financial adviser education requirements](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consultation-open-reforms-financial-adviser-education)
+17 March 2026
+The Albanese Government is acting to expand the availability of high quality and safe financial advice for Australians. 
+### [Significant milestone in work to improve insurance coverage and affordability](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/significant-milestone-work-improve-insurance-coverage)
+13 March 2026
+The Albanese Government and the insurance industry have reached a significant milestone in their ongoing work through the Hazards Insurance Partnership to improve the availability and affordability 
 ### [Consultation begins on options to stop family violence perpetrators accessing their victims’ super after death](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consultation-begins-options-stop-family-violence)
 5 March 2026
 The Albanese Government is determined to ensure that superannuation is used to provide financial security and dignity, not used in ways that entrench harm or reward abuse. 
@@ -50,27 +74,3 @@ The Albanese Government welcomes the announcements by the Australian Securities 
 ### [Commonwealth overrules exclusion clauses for Bondi attack insurance claims](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/commonwealth-overrules-exclusion-clauses-bondi-attack)
 16 December 2025
 Today, we have declared Sunday’s Bondi attack a terrorist incident for the purposes of the Terrorism and Cyclone Insurance Act 2003, based on advice from relevant agencies and followi 
-### [Consumer protection and stability in the finance sector](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consumer-protection-and-stability-finance-sector)
-10 December 2025
-The Albanese Government is acting to strengthen consumer protections and improve stability and confidence in the superannuation and financial services sectors which are critical to investment and p 
-### [Exposure draft legislation – Research and Development Tax Incentive eligibility changes ](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/exposure-draft-legislation-research-and-development-tax)
-8 December 2025
-The Albanese Government has released draft legislation to exclude activities related to gambling and tobacco from Research and Development Tax Incentive eligibility. 
-### [Data Standards Chair for Digital ID and Consumer Data Right](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/data-standards-chair-digital-id-and-consumer-data-right)
-8 December 2025
-The Albanese Government has appointed Dr Scott Farrell as the Data Standards Chair for Digital ID and Consumer Data Right (CDR) for a two‑year period from 10 December 2025. 
-### [Consulting on industry codes and rules to protect consumers from scams](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consulting-industry-codes-and-rules-protect-consumers)
-29 November 2025
-The Albanese Government is taking the next important steps to protect Australians from scams. 
-### [More than three million Australians about to receive 20 per cent student debt cut](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/more-three-million-australians-about-receive-20-cent)
-27 November 2025
-Joint media release with the Hon Anthony Albanese MP, Prime Minister of Australia, the Hon Jason Clare MP, Minister for Education, and the Hon Andrew Giles MP, Minister for Skills and Training. 
-### [New digital asset laws to unlock innovation and safeguard investment](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/new-digital-asset-laws-unlock-innovation-and-safeguard)
-26 November 2025
-The Albanese Government has introduced new legislation to the Parliament to help unlock innovation and protect Australians investing in digital assets. 
-### [Legislation introduced to ban the use of adverse genetic testing results in life insurance](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-introduced-ban-use-adverse-genetic-testing)
-26 November 2025
-The Albanese Government has introduced legislation to give Australians the confidence to undertake genetic testing without worrying about the effect on their access to affordable life insurance. 
-### [16 days of activism against gender-based violence: protecting victims and holding perpetrators to account by cracking down on coerced directorships](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/16-days-activism-against-gender-based-violence)
-26 November 2025
-The Albanese Government is protecting vulnerable Australians from perpetrators who misuse the tax and corporate systems to commit financial abuse and coercive control. 

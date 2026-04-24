@@ -1,0 +1,35 @@
+url,error
+https://press.un.org/en/2026/sgsm23094.doc.htm,"Unexpected error in _crawl_web at line 559 in wrap_api_call (../../../miniconda3/envs/esg/lib/python3.11/site-packages/playwright/_impl/_connection.py):
+Error: Page.content: Unable to retrieve content because the page is navigating and changing the content.
+
+Code context:
+ 554           parsed_st = _extract_stack_trace_information_from_stack(st, is_internal, title)
+ 555           self._api_zone.set(parsed_st)
+ 556           try:
+ 557               return await cb()
+ 558           except Exception as error:
+ 559 →             raise rewrite_error(error, f""{parsed_st['apiName']}: {error}"") from None
+ 560           finally:
+ 561               self._api_zone.set(None)
+ 562   
+ 563       def wrap_api_call_sync(
+ 564           self, cb: Callable[[], Any], is_internal: bool = False, title: str = None"
+https://aasb.gov.au/news/april-reporting-roundup/,"Unexpected error in _crawl_web at line 718 in _crawl_web (../../../miniconda3/envs/esg/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on navigating ACS-GOTO:
+Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to ""https://aasb.gov.au/news/april-reporting-roundup/"", waiting until ""domcontentloaded""
+
+
+Code context:
+ 713                                   tag=""GOTO"",
+ 714                                   params={""url"": url},
+ 715                               )
+ 716                               response = None
+ 717                           else:
+ 718 →                             raise RuntimeError(f""Failed on navigating ACS-GOTO:\n{str(e)}"")
+ 719   
+ 720                       # ──────────────────────────────────────────────────────────────
+ 721                       # Walk the redirect chain.  Playwright returns only the last
+ 722                       # hop, so we trace the `request.redirected_from` links until the
+ 723                       # first response that differs from the final one and surface its"

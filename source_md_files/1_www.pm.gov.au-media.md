@@ -1,39 +1,39 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
-### [Statement on David Littleproud](https://www.pm.gov.au/media/statement-david-littleproud)
-Tuesday 10 March 2026
+### [Government's take joint action to support Liberty Bell Bay workers during sale process](https://www.pm.gov.au/media/governments-take-joint-action-support-liberty-bell-bay-workers-during-sale-process)
+Friday 24 April 2026
 Media release
-### [Press conference - Parliament House, Canberra](https://www.pm.gov.au/media/press-conference-parliament-house-canberra-46)
-Tuesday 10 March 2026
+### [Television interview - ABC Afternoon Briefing](https://www.pm.gov.au/media/television-interview-abc-afternoon-briefing-7)
+Thursday 23 April 2026
 Transcript
-### [Australia to provide defensive military assistance to Gulf](https://www.pm.gov.au/media/australia-provide-defensive-military-assistance-gulf)
-Tuesday 10 March 2026
+### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-32)
+Thursday 23 April 2026
+Transcript
+### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-31)
+Thursday 23 April 2026
+Transcript
+### [Podcast interview - The Daily Aus](https://www.pm.gov.au/media/podcast-interview-daily-aus-1)
+Thursday 23 April 2026
+Transcript
+### [Radio interview - ABC Sydney](https://www.pm.gov.au/media/radio-interview-abc-sydney-21)
+Thursday 23 April 2026
+Transcript
+### [Radio interview - ABC Sydney](https://www.pm.gov.au/media/radio-interview-abc-sydney-20)
+Wednesday 22 April 2026
+Transcript
+### [Securing more fuel and fertiliser](https://www.pm.gov.au/media/securing-more-fuel-and-fertiliser)
+Wednesday 22 April 2026
 Media release
-### [Television interview - Sky Newsday](https://www.pm.gov.au/media/television-interview-sky-newsday-0)
-Friday 6 March 2026
+### [Press conference - Port Botany](https://www.pm.gov.au/media/press-conference-port-botany)
+Tuesday 21 April 2026
 Transcript
-### [Press conference - Parliament House, Canberra](https://www.pm.gov.au/media/press-conference-parliament-house-canberra-45)
-Thursday 5 March 2026
+### [Television interview - ABC 7:30](https://www.pm.gov.au/media/television-interview-abc-730-18)
+Monday 20 April 2026
 Transcript
-### [Australia-Canada Joint Statement](https://www.pm.gov.au/media/australia-canada-joint-statement)
-Thursday 5 March 2026
-Joint statement
-### [Welcome to the Prime Minister of Canada](https://www.pm.gov.au/media/welcome-prime-minister-canada)
-Thursday 5 March 2026
-Speech, Transcript
-### [Opening remarks - Parliament House, Canberra](https://www.pm.gov.au/media/opening-remarks-parliament-house-canberra-2)
-Thursday 5 March 2026
-Speech, Transcript
-### [Retirement of Pat Turner AM](https://www.pm.gov.au/media/retirement-pat-turner-am)
-Wednesday 4 March 2026
-Media release
-### [Why we're building high speed rail](https://www.pm.gov.au/media/why-were-building-high-speed-rail)
-Wednesday 4 March 2026
-Opinion
-### [Television interview - ABC 7.30](https://www.pm.gov.au/media/television-interview-abc-730-16)
-Monday 2 March 2026
+### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-30)
+Saturday 18 April 2026
 Transcript
-### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-28)
-Sunday 1 March 2026
+### [Press conference - Viva Refinery, Geelong](https://www.pm.gov.au/media/press-conference-viva-refinery-geelong)
+Friday 17 April 2026
 Transcript

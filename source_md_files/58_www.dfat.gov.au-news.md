@@ -35,6 +35,7 @@
   * [Global health reform](https://www.dfat.gov.au/international-relations/themes/global-themes/global-health-reform "Global health reform")
   * [Human rights](https://www.dfat.gov.au/international-relations/themes/human-rights "Australia’s commitment to human rights")
   * [Indigenous Peoples](https://www.dfat.gov.au/international-relations/themes/indigenous-peoples "Indigenous Peoples")
+  * [Infrastructure](https://www.dfat.gov.au/international-relations/themes/global-themes/infrastructure "Infrastructure")
   * [People Smuggling, Human Trafficking and Modern Slavery](https://www.dfat.gov.au/international-relations/themes/international-relations/themes/people-smuggling-human-trafficking-modern-slavery "People Smuggling, Human Trafficking and Modern Slavery")
   * [Protection from Sexual Exploitation, Abuse and Harassment](https://www.dfat.gov.au/international-relations/themes/protection-sexual-exploitation-abuse-and-harassment "Protection from Sexual Exploitation, Abuse and Harassment")
 
@@ -102,9 +103,9 @@
     * [United Kingdom (A-UKFTA)](https://www.dfat.gov.au/trade/agreements/in-force/aukfta "Australia-United Kingdom Free Trade Agreement")
     * [USA (AUSFTA)](https://www.dfat.gov.au/trade/agreements/in-force/ausfta/australia-united-states-fta "Australia-United States FTA")
   * [FTAs not yet in force](https://www.dfat.gov.au/trade/agreements/not-yet-in-force "FTAs not yet in force")
+    * [European Union (A-EUFTA)](https://www.dfat.gov.au/trade/agreements/not-yet-in-force/aeufta "Australia-European Union Free Trade Agreement")
     * [Trans-Pacific Partnership (TPP)](https://www.dfat.gov.au/trade/agreements/not-yet-in-force/tpp/2016-tpp-outcomes-and-background-documents "Trans-Pacific Partnership \(TPP\) outcomes and background documents")
   * [FTAs under negotiation](https://www.dfat.gov.au/trade/agreements/negotiations/ftas-under-negotiation "FTAs under negotiation")
-    * [European Union (A-EUFTA)](https://www.dfat.gov.au/trade/agreements/negotiations/aeufta "Australia-European Union Free Trade Agreement")
     * [India (AI-CECA)](https://www.dfat.gov.au/trade/agreements/negotiations/aifta/australia-india-comprehensive-economic-cooperation-agreement "Australia-India Comprehensive Economic Cooperation Agreement \(CECA\)")
   * [FTAs under consideration](https://www.dfat.gov.au/trade/agreements/trade-agreements/ftas-under-consideration "FTAs under consideration")
     * [Australia-Gulf Cooperation Council (GCC)](https://www.dfat.gov.au/trade/agreements/ftas-under-consideration/australia-gulf-cooperation-council-gcc-fta "Australia-Gulf Cooperation Council \(GCC\) FTA")
@@ -201,6 +202,10 @@ Where and how Australia provides emergency assistance.
 Supporting organisations in developing countries by matching them with skilled Australians. 
 #### [Sports diplomacy](https://www.dfat.gov.au/people-to-people/sports-diplomacy "Sports diplomacy")
 Australia is a successful global leader and innovator in sport.
+####  [The](https://www.dfat.gov.au/node/155128)[ ](https://www.dfat.gov.au/people-people/diplomatic-academy "The Diplomatic Academy")[D](https://www.dfat.gov.au/node/155128)[iploma](https://www.dfat.gov.au/people-people/diplomatic-academy "The Diplomatic Academy")[ti](https://www.dfat.gov.au/node/155128)[c](https://www.dfat.gov.au/people-people/diplomatic-academy "The Diplomatic Academy")[ Academ](https://www.dfat.gov.au/node/155128)[y](https://www.dfat.gov.au/people-people/diplomatic-academy "The Diplomatic Academy")
+  * [Language Programs](https://www.dfat.gov.au/people-people/diplomatic-academy/language-programs "Language Programs")
+
+
 [Travel](https://www.dfat.gov.au/travel)
 [Close](https://www.dfat.gov.au/news)
 ### [About Australia](https://www.dfat.gov.au/about-australia "About Australia")
@@ -230,8 +235,60 @@ The Australian Passport Office and its agents are committed to providing a secur
 ## 
 Latest news
   * ### 
+[Australian National Statement in the IMO Legal Committee’s 113th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-legal-committees-113th-session)
+Australia commends the work of the International Maritime Organization, in concert with broader diplomatic initiatives, to help safeguard the safety of stranded civilian seafarers, and re-open the Strait of Hormuz.
+15 April 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-legal-committees-113th-session)
+  * ### 
+[Joint statement by members of the Non-Proliferation and Disarmament Initiative, Towards the 11th Nuclear Non-Proliferation Treaty Review Conference](https://www.dfat.gov.au/news/media-release/joint-statement-members-non-proliferation-and-disarmament-initiative-towards-11th-nuclear-non-proliferation-treaty-review-conference)
+We, the Member States of the Non-Proliferation and Disarmament Initiative (NPDI) renew and consolidate our commitment to building positive momentum towards the 11th Review Conference of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and the full implementation of this Treaty.
+13 April 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/media-release/joint-statement-members-non-proliferation-and-disarmament-initiative-towards-11th-nuclear-non-proliferation-treaty-review-conference)
+  * ### 
+[Combating DPRK remote IT worker threats](https://www.dfat.gov.au/news/media-release/combating-dprk-remote-it-worker-threats)
+On 30 March the Department of Foreign Affairs and Trade, and the United States Department of State, in partnership with Global Affairs Canada, DTEX and Mandiant, convened a symposium entitled Protecting Industry from North Korean Threats in Sydney.
+30 March 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/media-release/combating-dprk-remote-it-worker-threats)
+  * ### 
+[Australian National Statement in the ICAO Council’s 237th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-icao-councils-237th-session)
+Australia commends the Member States of the Gulf Cooperation Council for their leadership of this paper.
+30 March 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/media-release/australian-national-statement-icao-councils-237th-session)
+  * The Minister for Foreign Affairs, Senator the Hon. Penny Wong, has announced the appointments of three experienced career officials to lead Australia’s diplomatic posts in Ho Chi Minh, Kolkata and Guangzhou.
+29 March 2026
+Category
+International relations
+  * ### 
+[Joint press release - Adoption of the WTO Agreement on E-Commerce with interim arrangements](https://www.dfat.gov.au/news/media-release/joint-press-release-adoption-wto-agreement-e-commerce-interim-arrangements)
+Jointly issued by the Department of Foreign Affairs and Trade, Australia; Ministry of Foreign Affairs, Japan; Ministry of Economy, Trade and Industry, Japan; and Ministry of Trade and Industry, Singapore.
+28 March 2026
+Category
+Trade and investment
+[Read more](https://www.dfat.gov.au/news/media-release/joint-press-release-adoption-wto-agreement-e-commerce-interim-arrangements)
+  * ###  [ Australia–European Union Free Trade Agreement ](https://www.dfat.gov.au/trade/agreements/not-yet-in-force/aeufta)
+After 8 years of negotiations, Australia has secured a landmark trade deal with the European Union, the world’s second largest economy.
+24 March 2026
+Category
+Trade and investment
+[ Read more ](https://www.dfat.gov.au/trade/agreements/not-yet-in-force/aeufta)
+  * ### 
+[Australian National Statement in the IMO Council’s 36th Extraordinary Session](https://www.dfat.gov.au/news/news/australian-national-statement-imo-councils-36th-extraordinary-session)
+Australia's statement to the IMO Council’s 36th Extraordinary Session
+19 March 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/australian-national-statement-imo-councils-36th-extraordinary-session)
+  * ### 
 [Middle East conflict](https://www.dfat.gov.au/crisis-hub/middle-east-conflict)
-Military strikes have occurred in the Middle East. There's a risk of ongoing reprisal attacks and escalation across the region. Local security situations could deteriorate.
+The situation in the Middle East region remains volatile. There is still a risk of attacks and escalation. If you are in the region and want to leave, make plans to do so.
 6 March 2026
 Category
 Crisis Hub
@@ -520,59 +577,6 @@ Viet Nam and Australia held the 20th Australia–Viet Nam Human Rights Dialogue 
 Category
 International relations
 [Read more](https://www.dfat.gov.au/news/media-release/joint-media-release-20th-australia-viet-nam-human-rights-dialogue)
-  * ### 
-[2025-26 ASEAN-Australia Centre grants now open](https://www.dfat.gov.au/news/2025-26-asean-australia-centre-grants-now-open)
-The ASEAN-Australia Centre’s 2025-26 Grants Program is now open for applications, with $2.2 million available.
-26 September 2025
-Category
-People-to-people
-[Read more](https://www.dfat.gov.au/news/2025-26-asean-australia-centre-grants-now-open)
-  * ### 
-[Russia – Australia lowers price cap on Russian crude oil](https://www.dfat.gov.au/news/russia-australia-lowers-price-cap-russian-crude-oil)
-On 18 September 2025 
-23 September 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/russia-australia-lowers-price-cap-russian-crude-oil)
-  * ### 
-[Call for expressions of interest: Visiting Legal Fellow Program 2026–27](https://www.dfat.gov.au/news/call-expressions-interest-visiting-legal-fellow-program-2026-27)
-The Department of Foreign Affairs and Trade is seeking expressions of interest from Australian academics to be appointed as visiting legal fellows.
-22 September 2025
-Category
-Corporate
-[Read more](https://www.dfat.gov.au/news/call-expressions-interest-visiting-legal-fellow-program-2026-27)
-  * ### 
-[20th anniversary of 2005 Bali bombings – support for survivors, families and first responders](https://www.dfat.gov.au/news/news/20th-anniversary-2005-bali-bombings-support-survivors-families-and-first-responders)
-Two official memorial services will take place on 1 October, 20 years after the 2005 Bali bombings took the lives of 20 people and injured more than 100.
-19 September 2025
-Category
-Travel
-[Read more](https://www.dfat.gov.au/news/news/20th-anniversary-2005-bali-bombings-support-survivors-families-and-first-responders)
-  * ### 
-[95 vessels entities listed under the Autonomous Sanctions Regulations 2011](https://www.dfat.gov.au/news/95-vessels-entities-listed-under-autonomous-sanctions-regulations-2011)
-The Minister for Foreign Affairs (the Minister) has by legislative instrument designated 95 vessels as sanctioned vessels for Russia (‘listed’) in accordance with regulation 8 of the Autonomous Sanctions Regulations 2011 (the Regulations).
-18 September 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/95-vessels-entities-listed-under-autonomous-sanctions-regulations-2011)
-  * ### 
-[Joint press statement on the 7th Australia-EU Joint Committee Meeting](https://www.dfat.gov.au/news/media-release/joint-press-statement-7th-australia-eu-joint-committee-meeting)
-The 7th Australia-EU Joint Committee Meeting was held in Canberra on 16 September 2025. The annual meeting provides overall coordination of EU-Australia cooperation under the 2022 Framework Agreement.
-17 September 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/media-release/joint-press-statement-7th-australia-eu-joint-committee-meeting)
-  * The Ninth Australia-China High Level Dialogue will be held in Beijing, bringing together representatives from government, industry, academia, media, health and the arts, as well as former political leaders.
-15 September 2025
-Category
-International relations
-  * ### 
-[Elizabeth O’Neill Journalism Award](https://www.dfat.gov.au/people-to-people/foundations-councils-institutes/australia-indonesia-institute/programs/elizabeth-oneill-journalism-award)
-The Elizabeth O'Neill Journalism Award commemorates the distinguished career of Elizabeth O'Neill OAM, who died in service of the Department of Foreign Affairs and Trade in Indonesia on 7 March 2007. The award builds on her tireless work to foster mutual understanding of Australia and Indonesia through accurate and informed media coverage.
-9 September 2025
-Category
-People-to-people
-[Read more](https://www.dfat.gov.au/people-to-people/foundations-councils-institutes/australia-indonesia-institute/programs/elizabeth-oneill-journalism-award)
 
 
 Site map +

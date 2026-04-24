@@ -145,6 +145,10 @@ For media enquiries, please contact the media liaison officer or other staff mem
   * Phone: 61 8 9368 3937 
 
 
+## Related services and information
+  * [Interpreting and Translating Services CUAITS2017](https://www.wa.gov.au/government/cuas/interpreting-and-translating-services-cuaits2017)
+
+
 Sidebar
 ## Provided by
 [Department of Primary Industries and Regional Development](https://www.wa.gov.au/organisation/department-of-primary-industries-and-regional-development)
@@ -158,7 +162,7 @@ Telephone:
 
 ## Have a question or want to report a problem?
 Fill in the form to get assistance or tell us about a problem with this information or service.
-[Send feedback](https://www.wa.gov.au/organisation/department-of-primary-industries-and-regional-development/dpird-formal-complaints)
+[Send feedback](https://www.dpird.wa.gov.au/about-us/contact-us/feedback-enquiries/)
 Acknowledgement of Country, Footer navigation and Copyright info
 ## Acknowledgement of Country
 The Government of Western Australia acknowledges the traditional custodians throughout Western Australia and their continuing connection to the land, waters and community. We pay our respects to all members of the Aboriginal communities and their cultures; and to Elders both past and present.

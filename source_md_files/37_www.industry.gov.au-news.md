@@ -13,59 +13,59 @@
 
 ## Top stories
 [ Link copied ](https://www.industry.gov.au/news#top-stories "Copy link to this section")
-Mar 2026  National Measurement Institute 
-### [Fuel pump audit will ensure you get what you pay for at the bowser](https://www.industry.gov.au/news/fuel-pump-audit-will-ensure-you-get-what-you-pay-bowser)
-National Measurement Institute inspectors will visit up to 350 retail fuel sites across Australia from 2 to 27 March 2026. 
-Feb 2026 
-### [Australia endorses India AI Impact Summit Declaration](https://www.industry.gov.au/news/australia-endorses-india-ai-impact-summit-declaration)
-Read about our work with international partners to shape the direction of AI policy, safety and governance globally. 
-Feb 2026 
-### [Domestic manufacturing of wind and transmission infrastructure: have your say](https://www.industry.gov.au/news/domestic-manufacturing-wind-and-transmission-infrastructure-have-your-say)
-We’re seeking feedback to understand more about the manufacturing opportunities, barriers and outlook for wind and transmission towers in Australia. Consultation closes 6 March. 
-Feb 2026 
-### [Net Zero Fund finalises design](https://www.industry.gov.au/news/net-zero-fund-finalises-design)
-We consulted on the design of the Australian Government’s $5 billion Net Zero Fund, which the National Reconstruction Fund will deliver. Details are now available on how it will support Australia’s transition to net... 
+Apr 2026  Critical Minerals Office 
+### [Australia and United States advance cooperation on critical minerals and rare earths supply chains](https://www.industry.gov.au/news/australia-and-united-states-advance-cooperation-critical-minerals-and-rare-earths-supply-chains)
+Our 2 nations are delivering on the landmark United States–Australia Framework for Securing of Supply in the Mining and Processing of Critical Minerals and Rare Earths. 
+Apr 2026 
+### [The Australian Government has signed a memorandum of understanding (MOU) with global AI innovator Anthropic](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic)
+Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
+Apr 2026 
+### [Gas supply and demand outlook for 2026 quarter 3](https://www.industry.gov.au/news/gas-supply-and-demand-outlook-2026-quarter-3)
+The Minister for Resources has issued a notification of intent (NOI) to consider if there will be a domestic gas shortfall for the July to September quarter. 
+Mar 2026 
+### [Launching Horizon Europe negotiations with the EU](https://www.industry.gov.au/news/launching-horizon-europe-negotiations-eu)
+Australia and the European Union are starting formal treaty negotiations on Australia’s access to the EU’s flagship research and innovation program. 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 92. Showing results from 1 to 12 of 1102.
-  * 11 March 2026  National Measurement Institute 
-### [Legislative instruments under the National Measurement Act for remake and sunsetting](https://www.industry.gov.au/news/legislative-instruments-under-national-measurement-act-remake-and-sunsetting)
-The National Measurement Institute (NMI) will make minor updates to a suite of legislative instruments and allow others to sunset following a review and consultation. Changes will come into effect on or before 1 April. 
-  * 11 March 2026 
-### [$66 million to boost robotics and automation for industry](https://www.industry.gov.au/news/66-million-boost-robotics-and-automation-industry)
-Round 18 Cooperative Research Centres Projects (CRC-P) grants will support 27 new projects including developing robotics and automation for industry. 
-  * 6 March 2026 
-### [New grant funding open for industry-led research collaborations](https://www.industry.gov.au/news/new-grant-funding-open-industry-led-research-collaborations)
-Apply now for round 27 of the Cooperative Research Centres Program. Applications close 21 April 2026. 
-  * 6 March 2026 
-### [$53 million in grants to help create a critical metal refining industry](https://www.industry.gov.au/news/53-million-grants-help-create-critical-metal-refining-industry)
-The Australian Government will fund a new grant through round 26 of the Cooperative Research Centres (CRC) Program. 
-  * 5 March 2026 
-### [Australia and Canada agree to strengthen cooperation on AI safety](https://www.industry.gov.au/news/australia-and-canada-agree-strengthen-cooperation-ai-safety)
-The 2 countries have signed a memorandum of understanding (MoU) to advance our insight and cooperation on AI safety. 
-  * 3 March 2026  Major Projects Facilitation Agency 
-### [Four new major projects to strengthen Australia’s supply chains](https://www.industry.gov.au/news/four-new-major-projects-strengthen-australias-supply-chains)
-The Australian Government granted major project status to 2 projects in renewable energy, one in green metals and one in rare earth elements. 
-  * 3 March 2026 
-### [George Medicines designs a ‘triple pill’ to better manage hypertension](https://www.industry.gov.au/news/george-medicines-designs-triple-pill-better-manage-hypertension)
-The Australian Government’s Biomedical Translation Fund (BTF) enabled life sciences investor Brandon Capital to invest in George Medicines. 
-  * 2 March 2026 
-### [Launch your STEM career as a graduate in 2027](https://www.industry.gov.au/news/launch-your-stem-career-graduate-2027)
-Develop the science, technology, engineering and mathematics (STEM) skills you gained at university and make a real-world difference. Applications open until 13 April. 
-  * 2 March 2026  National Measurement Institute 
-### [Fuel pump audit will ensure you get what you pay for at the bowser](https://www.industry.gov.au/news/fuel-pump-audit-will-ensure-you-get-what-you-pay-bowser)
-National Measurement Institute inspectors will visit up to 350 retail fuel sites across Australia from 2 to 27 March 2026. 
-  * 27 February 2026 
-### [Get inside the athlete's brain, explore First Nations science and go stargazing at National Science...](https://www.industry.gov.au/news/get-inside-athletes-brain-explore-first-nations-science-and-go-stargazing-national-science-week-2026)
-Australia’s biggest annual celebration of science takes place from 15 to 23 August 2026. We’re funding 28 community science events with $500,000 in grants. 
-  * 27 February 2026 
-### [$6.9 million for manufacturing Printed Solar and a semiconductor packaging tool](https://www.industry.gov.au/news/69-million-manufacturing-printed-solar-and-semiconductor-packaging-tool)
-The Australian Government's Industry Growth Program awards more funding for innovative projects. 
-  * 24 February 2026  Industry Innovation and Science Australia 
-### [New paper tackles issues facing Australia’s medium-sized enterprises (MSEs)](https://www.industry.gov.au/news/new-paper-tackles-issues-facing-australias-medium-sized-enterprises-mses)
-Industry Innovation and Science Australia (IISA) has released a paper exploring how policy and industry can better support the ‘missing middle’ to increase innovation and competitiveness. 
+Page 1 of 80. Showing results from 1 to 12 of 959.
+  * 23 April 2026 
+### [The Australian Government has signed a memorandum of understanding (MOU) with tech giant Microsoft](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft)
+Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
+  * 14 April 2026  National Measurement Institute 
+### [Dynamic measuring systems for liquids other than water: consultation outcomes](https://www.industry.gov.au/news/dynamic-measuring-systems-liquids-other-water-consultation-outcomes)
+The National Measurement Institute’s updated requirements, NMI R 117:2026, bring Australia’s liquid flow measurement standards into line with international standards. 
+  * 13 April 2026  Critical Minerals Office 
+### [Australia and United States advance cooperation on critical minerals and rare earths supply chains](https://www.industry.gov.au/news/australia-and-united-states-advance-cooperation-critical-minerals-and-rare-earths-supply-chains)
+Our 2 nations are delivering on the landmark United States–Australia Framework for Securing of Supply in the Mining and Processing of Critical Minerals and Rare Earths. 
+  * 13 April 2026 
+### [Innovative seaweed and microalgae projects in latest $6.9 million grant funding](https://www.industry.gov.au/news/innovative-seaweed-and-microalgae-projects-latest-69-million-grant-funding)
+We’re funding 5 new projects through the Industry Growth Program. 
+  * 1 April 2026 
+### [Gas supply and demand outlook for 2026 quarter 3](https://www.industry.gov.au/news/gas-supply-and-demand-outlook-2026-quarter-3)
+The Minister for Resources has issued a notification of intent (NOI) to consider if there will be a domestic gas shortfall for the July to September quarter. 
+  * 1 April 2026 
+### [The Australian Government has signed a memorandum of understanding (MOU) with global AI innovator An...](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic)
+Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
+  * 31 March 2026 
+### [Science Meets Parliament 2026 brings research, industry and policy together](https://www.industry.gov.au/news/science-meets-parliament-2026-brings-research-industry-and-policy-together)
+More than 400 STEM experts, parliamentarians and policy leaders gathered at Parliament House in Canberra on 25 and 26 March. 
+  * 24 March 2026 
+### [Launching Horizon Europe negotiations with the EU](https://www.industry.gov.au/news/launching-horizon-europe-negotiations-eu)
+Australia and the European Union are starting formal treaty negotiations on Australia’s access to the EU’s flagship research and innovation program. 
+  * 23 March 2026  National Measurement Institute 
+### [2026 Measurement Awards now open](https://www.industry.gov.au/news/2026-measurement-awards-now-open)
+The National Measurement Institute (NMI) is accepting nominations for this year’s National Measurement Awards! Applications close Wednesday 20 May 2026. 
+  * 23 March 2026 
+### [New data centre expectations help bring the benefit of AI to all Australians](https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians)
+National data centre expectations will help incentivise investment in data centres that align with Australia’s interest. 
+  * 18 March 2026 
+### [AI Accelerator initiative kicks off with funding for industry-led research](https://www.industry.gov.au/news/ai-accelerator-initiative-kicks-funding-industry-led-research)
+Round 19 of the Cooperative Research Centres Projects (CRC-P) includes a focus on artificial intelligence as part of the National AI Plan. Applications close on 12 May 2026. 
+  * 17 March 2026 
+### [The Strategic Examination of R&D final report is out now](https://www.industry.gov.au/news/strategic-examination-rd-final-report-out-now)
+The independent panel’s report outlines recommendations to the Australian Government to reform Australia’s research and development (R&D) system. 
 
 
-Page 1 of 92. Showing results from 1 to 12 of 1102.
-Page 1 of 92. Showing results from 1 to 12 of 1102.
+Page 1 of 80. Showing results from 1 to 12 of 959.
+Page 1 of 80. Showing results from 1 to 12 of 959.
 [Back to top](https://www.industry.gov.au/news#skip-links)

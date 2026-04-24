@@ -5,8 +5,17 @@ Image
 [**Back to** Home](https://www.niaa.gov.au/)
 Type:
 Show All Audio Communique Media release News On the Record Opinion piece Photo Speech Transcript Twitter YouTube
-Topic: Show All Closing the Gap Culture and Empowering Communities Data, Evaluation and Research Early Childhood Development and Education Employment and Economic Development Environment and Land Grants and Funding Health and Wellbeing Housing and Community Safety Indigenous Protected Areas (IPA) Indigenous Rangers Program (IRP) Murray-Darling Basin Aboriginal Water Entitlements NIAA Corporate
+Topic: Show All Closing the Gap Culture and Empowering Communities Data, Evaluation and Research Early Childhood Development and Education Employment and Economic Development Environment and Land Grants and Funding Health and Wellbeing Housing and Community Safety Indigenous Rangers Program (IRP) Murray-Darling Basin Aboriginal Water Entitlements NIAA Corporate
 Sort: Most recent Title
+Employment and Economic Development | News
+## [ Advice for funded service providers experiencing fuel supply disruptions ](https://www.niaa.gov.au/news-and-media/advice-funded-service-providers-experiencing-fuel-supply-disruptions)
+Friday, 24 Apr 2026
+Grants and Funding | News
+## [ The Youpla Support Program is closing soon ](https://www.niaa.gov.au/news-and-media/youpla-support-program-closing-soon)
+Friday, 10 Apr 2026
+NIAA Corporate | News
+## [ Build your career while making a meaningful difference for First Nations people and communities ](https://www.niaa.gov.au/news-and-media/build-your-career-while-making-meaningful-difference-first-nations-people-and-communities)
+Friday, 27 Mar 2026
 Employment and Economic Development | News
 ## [ Grants for the remote jobs program are now open! ](https://www.niaa.gov.au/news-and-media/grants-remote-jobs-program-are-now-open)
 Thursday, 19 Feb 2026
@@ -25,13 +34,4 @@ Tuesday, 20 Jan 2026
 Culture and Empowering Communities | News
 ## [ Grants for remote First Nations community laundries ](https://www.niaa.gov.au/news-and-media/grants-remote-first-nations-community-laundries)
 Tuesday, 25 Nov 2025
-Indigenous Rangers Program (IRP) | News
-## [ Indigenous Rangers Program Expansion Round Two outcomes announced ](https://www.niaa.gov.au/news-and-media/indigenous-rangers-program-expansion-round-two-outcomes-announced)
-Monday, 17 Nov 2025
-Employment and Economic Development | News
-## [ RAES: The new employment service is now available in remote communities ](https://www.niaa.gov.au/news-and-media/raes-new-employment-service-now-available-remote-communities)
-Wednesday, 05 Nov 2025
-NIAA Corporate | News
-## [ NIAA Annual Report 2024–25 ](https://www.niaa.gov.au/news-and-media/niaa-annual-report-2024-25)
-Friday, 31 Oct 2025
-1-9 of 335 results 
+1-9 of 338 results 

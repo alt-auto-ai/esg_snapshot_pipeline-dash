@@ -2,83 +2,84 @@
 # News and media
 See our latest news and announcements. Discover more about what we do.
 ## Featured
-### [Drier conditions on the horizon after record year](https://www.agriculture.gov.au/about/news/abares-march-reports)
+### [Meet Australia’s 2025 Biosecurity Top Dog](https://www.agriculture.gov.au/about/news/meet-australias-2025-biosecurity-top-dog)
+  * News
+  * Biosecurity
+
+
+17 April 2026
+When it comes to stopping biosecurity threats at the border, some of Australia’s most effective…
+### [New Australia–EU Wine Agreement to improve market access and cut red tape](https://www.agriculture.gov.au/about/news/aust-eu-wine-agreement-improve-access)
   * Media release
-  * ABARES
+  * Trade
 
 
-03 March 2026
-Australian agriculture is set to reach a record $101.4 billion in gross production value in 2025-26…
-### [Supporting farmers in tough times](https://www.agriculture.gov.au/about/news/supporting-farmers)
-  * Digital story
-  * Drought
+24 March 2026
+Australia and the European Union have concluded negotiations to finalise a new wine agreement that…
+### [Importing cats and dogs into Australia from the Middle East](https://www.agriculture.gov.au/about/news/middle-east-conflict-updates)
+  * News
+  * Biosecurity
 
 
-29 January 2026
-Across southern Australia, dry conditions have placed significant pressure on our farmers, small…
-### [Cost Recovery Implementation Statements consultation](https://www.agriculture.gov.au/about/news/cris-consultation)
+20 March 2026
+The department is closely monitoring the conflict in the Middle East region.
+## Latest
+### [Applications for the meat inspector traineeship are now open!](https://www.agriculture.gov.au/about/news/applications-meat-inspector-traineeship-now-open)
   * News
   * Exports
 
 
-29 January 2026
-Public consultation on draft Cost Recovery Implementation Statements for the 2026-27 financial year…
-## Latest
-### [Smarter planning for animal disease threats](https://www.agriculture.gov.au/about/news/smarter-planning-disease-animal-threats)
-  * News
-  * Animals
-
-
-11 March 2026
-Australia’s strong biosecurity system helps protect agricultural industries worth billions of…
-### [Upcoming manual for general surveillance program design, monitoring and evaluation](https://www.agriculture.gov.au/about/news/general-surveillance-manual)
-  * Newsletter
-  * Biosecurity
-
-
-10 March 2026
-General surveillance programs are essential initiatives that rely on people from all walks of life…
-### [Recognising Australia’s female farmers on International Women’s Day](https://www.agriculture.gov.au/about/news/IWD-2026)
-  * Media release
-  * International
-
-
-08 March 2026
-This year’s International Women’s Day (IWD) occurs in the International Year of the Woman Farmer,…
-### [Inside the world of DAFF biosecurity detector dog handlers ](https://www.agriculture.gov.au/about/news/inside-work-biosec-detector-dog-handlers)
-  * News
-  * Biosecurity
-
-
-27 February 2026
-Australia’s detector dog handlers work across airports, seaports and mail centres to help prevent…
-### [Celebrating the next generation of plant biosecurity scientists](https://www.agriculture.gov.au/about/news/next-gen-plant-biosecurity-scientists)
-  * Media release
-  * Biosecurity
-
-
-25 February 2026
-The Department of Agriculture, Fisheries and Forestry (DAFF) last week celebrated Australia’s next…
-### [The power of proportion: Mixed farming strategies for a drier future](https://www.agriculture.gov.au/about/news/mixed-farming-strategies-drier-future)
+24 April 2026
+Take the next step toward a rewarding career in Australia’s world class meat industry.
+### [Insight to Impact: Growing South Australia’s Containment Feeding Capability](https://www.agriculture.gov.au/about/news/growing-sa-containment-feeding)
   * Case study
   * Drought
 
 
-24 February 2026
-### [Snapshot reveals Aussie agriculture’s 20-year boom](https://www.agriculture.gov.au/about/news/snapshot-reveals-aussie-ag-20-year-boom)
+16 April 2026
+Containment feeding is one practical way that livestock producers can manage feed shortages during…
+### [Supporting drought-ready decision makers in South Australia](https://www.agriculture.gov.au/about/news/supporting-drought-ready-sa)
+  * Case study
+  * Drought
+
+
+16 April 2026
+Drought in South Australia has placed sustained pressure on farm businesses, including livestock…
+### [Broadacre farmland price growth continues but pace slows ](https://www.agriculture.gov.au/about/news/broadacre-farm-price-continues-growth)
   * Media release
-  * ABARES
+  * Agriculture
 
 
-24 February 2026
-Australian agriculture is growing, adaptable, more productive, and well placed to take advantage of…
-### [Collaboration and innovation on the menu at APEC Senior Officials’ Meeting](https://www.agriculture.gov.au/about/news/apec-senior-officials-meeting-2026)
+31 March 2026
+The pace of growth in Australian broadacre farmland prices is moderating across most farmland types…
+### [Illegally hidden eggs found in socks and disguised as Easter decorations](https://www.agriculture.gov.au/about/news/illegally-hidden-eggs-disguised-easter-decorations)
+  * News
+  * Biosecurity
+
+
+27 March 2026
+Over the past 5 years, biosecurity officers at the border have intercepted 22 detections of…
+### [Australian Government Graduate Program applications open](https://www.agriculture.gov.au/about/news/aust-gov-graduate-applications-open)
   * News
   * Agriculture
 
 
-19 February 2026
-Staff from across the department have recently returned from the first suite of APEC Senior…
+19 March 2026
+Applications for our graduate development program are now open and we’re seeking graduates across…
+### [Welfare-first aquaculture: Giant Oystercracker innovation](https://www.agriculture.gov.au/about/news/welfare-first-aquaculture-giant-oystercracker-innovation)
+  * Case study
+  * Animals
+
+
+18 March 2026
+The CSIRO Giant Oystercracker Dart fish project represents a welfare-focused development for…
+### [Ag lending on rise as farmers re-invest in business](https://www.agriculture.gov.au/about/news/ag-lending-on-rise)
+  * Media release
+  * ABARES
+
+
+17 March 2026
+Lending to the farm sector has increased by 5% in real terms, to $142.5 billion, according to the…
 [All news](https://www.agriculture.gov.au/about/news/all)
 ## 
 Stay informed

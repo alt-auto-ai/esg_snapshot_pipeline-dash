@@ -1,46 +1,49 @@
 A NSW Government website
 photo_camera Open description
-Polygonum Swamp, Darling River, Bourke.  close Close description
+Waterworks heritage building at Goulburn, NSW.  close Close description
 Credit: John Spencer/DCCEEW 
 # Environment and Heritage
 [ Apply for a licence ](https://www.environment.nsw.gov.au/licences-and-permits) [ Search heritage databases ](https://www.environment.nsw.gov.au/topics/heritage/search-heritage-databases) [ Explore biodiversity data ](https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet) [ Browse publications ](https://www.environment.nsw.gov.au/research-and-publications/publications) [ Find information ](https://www.environment.nsw.gov.au/about-us/find-information) [ Report a problem ](https://www.environment.nsw.gov.au/about-us/report-a-problem-or-incident)
 ## Stay up to date
 photo_camera Open description
-Boonoo Boonoo Falls Road, Boonoo Boonoo National Park.  close Close description
-Credit: Simon Scott/DCCEEW 
-[$16 million boost to flood-proof Central Coast and Mid North Coast national park roads](https://www.environment.nsw.gov.au/news/16-million-boost-flood-proof-central-coast-mid-north-coast-national-park-roads)
-east
-[Celebrate 50 years of Werrikimbe National Park at Mooraback Cabin](https://www.environment.nsw.gov.au/news/celebrate-50-years-werrikimbe-national-park-mooraback-cabin)
-east
-photo_camera Open description
-Rainbow lyrebird lantern.  close Close description
+A pair of seized lizards in wildlife trafficking.  close Close description
 Credit: DCCEEW 
-[From bush to the city, NPWS Rainbow Lyrebirds step out at Mardi Gras for first time](https://www.environment.nsw.gov.au/news/npws-rainbow-lyrebirds-step-out-mardi-gras-first-time)
+[Court outcome reinforces wildlife trafficking will not be tolerated in NSW](https://www.environment.nsw.gov.au/news/court-outcome-reinforces-wildlife-trafficking-will-not-be-tolerated-nsw)
 east
 photo_camera Open description
-Koala in South West Sydney.  close Close description
+Koala (Phascolarctos cinereus) mother and joey.  close Close description
+Credit: Dan Lunney/DCCEEW 
+[Narrandera’s koalas strengthen landmark NSW research](https://www.environment.nsw.gov.au/news/narranderas-koalas-strengthen-landmark-nsw-research)
+east
+photo_camera Open description
+Kungaka, Mutawintji National Park.  close Close description
 Credit: DCCEEW 
-[Motorway bridge offers koalas Royal habitat connection](https://www.environment.nsw.gov.au/news/motorway-bridge-offers-koalas-royal-habitat-connection)
+[Protecting Australia’s rarest reptile from extinction](https://www.environment.nsw.gov.au/news/protecting-australias-rarest-reptile-extinction)
 east
 photo_camera Open description
-O'Brien's daughter (right) and grandson (left) with Britanny Meers (middle) who recovered the lamp.  close Close description
+Wayne Reynolds/DPE.  close Close description
+Credit: Bottlenose dolphin (Tursiops truncatus) 
+[Volunteer for the first statewide Dolphin Census](https://www.environment.nsw.gov.au/news/volunteer-first-statewide-dolphin-census)
+east
+photo_camera Open description
+An autumn environmental flow will be delivered to sustain critical wetland habitat for the endangered southern bell frog.  close Close description
+Credit: Amelia Walcott/ DCCEEW 
+[Autumn environmental flow to support southern bell frog habitat in the Cumbung](https://www.environment.nsw.gov.au/news/autumn-environmental-flow-support-southern-bell-frog-habitat-cumbung-news)
+east
+photo_camera Open description
+Inside the new greenhouse.  close Close description
+Credit: SNEL 
+[NSW Koala Strategy funds Armidale greenhouse to expand koala habitat](https://www.environment.nsw.gov.au/news/nsw-koala-strategy-funds-armidale-greenhouse-expand-koala-habitat-news)
+east
+photo_camera Open description
+Tomaree Public School student Florence working with Villous mintbush.  close Close description
 Credit: DCCEEW 
-[Historic Yarrangobilly Cave lamp recovered after 70 years](https://www.environment.nsw.gov.au/news/historic-yarrangobilly-cave-lamp-recovered-after-70-years)
+[Students get hands-on saving rare threatened plant at Tomaree](https://www.environment.nsw.gov.au/news/students-get-hands-saving-rare-threatened-plant-tomaree)
 east
 photo_camera Open description
-Grose Valley, Blue Mountains National Park.  close Close description
-Credit: Simone Cottrell/DPE 
-[Community helps shift future of NSW national parks](https://www.environment.nsw.gov.au/news/community-helps-shift-future-nsw-national-parks)
-east
-photo_camera Open description
-A view of the landscape from Oxley Wild Rivers National Park in the Northern Tablelands region of New South Wales.  close Close description
-Credit: Robert Cleary/DCCEEW 
-[First Ecological Performance Scorecard for northern NSW forests](https://www.environment.nsw.gov.au/news/first-ecological-performance-scorecard-northern-nsw-forests)
-east
-photo_camera Open description
-A CSIRO research project officer sets up a monitoring plot where leaf-smut fungus was released as a biocontrol agent for wandering trad.  close Close description
-Credit: DCCEEW 
-[ NSW Government invests $1 million to fund biocontrol research to manage weeds](https://www.environment.nsw.gov.au/news/nsw-government-invests-1-million-fund-biocontrol-research-manage-weeds)
+Ball-Eastaway House, Glenorie, designed by Glenn Murcutt.  close Close description
+Credit: Paul Lovelace, Alamy 
+[Glenorie’s Ball–Eastaway House and Setting added to the State Heritage Register](https://www.environment.nsw.gov.au/news/glenories-ball-eastaway-house-and-setting-added-state-heritage-register)
 east
 photo_camera Open description
 Aerial view of swimmers at Bronte Beach.  close Close description

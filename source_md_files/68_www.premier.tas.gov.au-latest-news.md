@@ -1,28 +1,28 @@
 [Skip to content](https://www.premier.tas.gov.au/latest-news#maincontent)
-  * [ Building futures in Tasmania   
-12 March 2026  The Tasmanian Government is committed to delivering real-world industry experience and training pathways for young people in the senior year...  ](https://www.premier.tas.gov.au/latest-news/2026/march/building-futures-in-tasmania)
-  * [ Tasmania leads the nation in business confidence and conditions   
-11 March 2026  Tasmania has topped the nation for business confidence and conditions.The latest NAB Business Survey shows Tasmania topping business confide...  ](https://www.premier.tas.gov.au/latest-news/2026/march/tasmania-leads-the-nation-in-business-confidence-and-conditions)
-  * [ Test rig shows no need to jump at shadows   
-10 March 2026  The roof test rig for the Macquarie Point Multipurpose Stadium has been successfully constructed, demonstrating how the structure and materi...  ](https://www.premier.tas.gov.au/latest-news/2026/march/test-rig-shows-no-need-to-jump-at-shadows)
-  * [ Legislation to secure the future of Savage River tabled   
-9 March 2026  The Rockliff Liberal Government is supporting the long-term future of Tasmania’s biggest mine, with the tabling of the Grange Resource...  ](https://www.premier.tas.gov.au/latest-news/2026/march/legislation-to-secure-the-future-of-savage-river-tabled)
-  * [ Improvements underway following Independent Network Outage Review   
-9 March 2026  Actions from the independent Network Outage Review into the 2024 severe storm event have already had a positive impact on outage recovery an...  ](https://www.premier.tas.gov.au/latest-news/2026/march/improvements-underway-following-independent-network-outage-review)
-  * [ Next steps for Wild Fallow Deer Management   
-9 March 2026  The Tasmanian Government has released the summary report of recent public submissions on the wild fallow Deer Management Policy Review 2025....  ](https://www.premier.tas.gov.au/latest-news/2026/march/next-steps-for-wild-fallow-deer-management)
-  * [ Helping Tasmanians to be work-ready   
-9 March 2026  Two grant programs are now open to help Tasmanians build the literacy and numeracy skills needed to thrive at work.Minister for Skills and J...  ](https://www.premier.tas.gov.au/latest-news/2026/march/helping-tasmanians-to-be-work-ready-)
-  * [ Taking action to reform ‘good character’ references   
-9 March 2026  The Tasmanian Government is taking action to ensure our sentencing laws reflect community expectations, with work now underway to stop the i...  ](https://www.premier.tas.gov.au/latest-news/2026/march/taking-action-to-reform-good-character-references)
-  * [ Seven hundred tonnes of gantry coming together   
-8 March 2026  The 700-tonne gantry is being assembled onsite at Berth 3 in Devonport, marking a significant milestone in delivering the infrastructure req...  ](https://www.premier.tas.gov.au/latest-news/2026/march/seven-hundred-tonnes-of-gantry-coming-together)
-  * [ Agriculture Strategy consultation report released   
-8 March 2026  The Tasmanian Government is working with farmers, agribusiness and rural support organisations to develop a new long-term Agriculture Strate...  ](https://www.premier.tas.gov.au/latest-news/2026/march/agriculture-strategy-consultation-report-released)
-  * [ Growing local government collaboration   
-8 March 2026  The Tasmanian Government and the Local Government Association of Tasmania has strengthened their partnership through the signing of a new co...  ](https://www.premier.tas.gov.au/latest-news/2026/march/growing-local-government-collaboration)
-  * [ Granny flats to expand   
-8 March 2026  Work is now underway to amend the Tasmanian Planning Scheme to increase the allowable size of granny flats from 60m2 to 90m2.The Tasmanian G...  ](https://www.premier.tas.gov.au/latest-news/2026/march/granny-flats-to-expand)
+  * [ Partnership funding protecting threatened species   
+24 April 2026  Six community-led projects to improve outcomes for Tasmania’s threatened species have been awarded funding under Round 2 of the Threat...  ](https://www.premier.tas.gov.au/latest-news/2026/april/partnership-funding-protecting-threatened-species)
+  * [ West Coast District Hospital Upgrade – Stage 2 construction tenders invited   
+24 April 2026  An important milestone has been reached in the delivery of critical health infrastructure upgrades to provide additional aged care beds at t...  ](https://www.premier.tas.gov.au/latest-news/2026/april/west-coast-district-hospital-upgrade-stage-2-construction-tenders-invited)
+  * [ Launceston Running Festival unveils new waterfront finish   
+24 April 2026  More than 4,000 runners will converge on Northern Tasmania for the 2026 Launceston Running Festival, with a new finish line set to elevate t...  ](https://www.premier.tas.gov.au/latest-news/2026/april/launceston-running-festival-unveils-new-waterfront-finish)
+  * [ Tasmanian food and beverage returns to the botanical gardens   
+24 April 2026  The new restaurant at the Royal Tasmanian Botanical Gardens has officially reopened after extensive renovations over the past two years.Mini...  ](https://www.premier.tas.gov.au/latest-news/2026/april/tasmanian-food-and-beverage-returns-to-the-botanical-gardens)
+  * [ Grants announced to support Tasmanian Men’s Sheds   
+24 April 2026  The Tasmanian Government is continuing to invest in Men’s Sheds across Tasmania, with 25 sheds set to receive funding for new tools, e...  ](https://www.premier.tas.gov.au/latest-news/2026/april/grants-announced-to-support-tasmanian-mens-sheds)
+  * [ Doubling the life of Trevallyn Dam’s critical energy infrastructure   
+23 April 2026  A critical piece of infrastructure at the Trevallyn Dam has been upgraded, doubling its lifespan and futureproofing the work of the power st...  ](https://www.premier.tas.gov.au/latest-news/2026/april/doubling-the-life-of-trevallyn-dams-critical-energy-infrastructure)
+  * [ Tasmanians invited to have their say on assisted dying legislation   
+23 April 2026  Tasmanians are being invited to have their say on how the State’s voluntary assisted dying legislation is operating since being introd...  ](https://www.premier.tas.gov.au/latest-news/2026/april/tasmanians-invited-to-have-their-say-on-assisted-dying-legislation)
+  * [ More crisis and transitional housing for women and children across Hobart   
+21 April 2026  The Commonwealth and Tasmanian Governments are delivering more safe, secure housing for women and children escaping family and domestic viol...  ](https://www.premier.tas.gov.au/latest-news/2026/april/more-crisis-and-transitional-housing-for-women-and-children-across-hobart)
+  * [ Fuel security front and centre of upcoming trade and investment mission   
+21 April 2026  A Tasmanian delegation, headed by Deputy Premier, Guy Barnett, will head to Singapore and Indonesia this week, with a focus on strengthening...  ](https://www.premier.tas.gov.au/latest-news/2026/april/fuel-security-front-and-centre-of-upcoming-trade-and-investment-mission)
+  * [ Thousands of new homes for Tasmanian first home buyers   
+21 April 2026  The Commonwealth and Tasmanian Governments have struck a deal to unlock around 4,000 homes, including up to 2,101 homes exclusively for firs...  ](https://www.premier.tas.gov.au/latest-news/2026/april/thousands-of-new-homes-for-tasmanian-first-home-buyers)
+  * [ Landmarks light up to honour 100th birthday of late Queen Elizabeth II   
+20 April 2026  Tasmanian landmarks will be illuminated in purple on Tuesday to mark the centenary of the birth of Her Majesty, the late Queen Elizabeth II....  ](https://www.premier.tas.gov.au/latest-news/2026/april/landmarks-light-up-to-honour-100th-birthday-of-late-queen-elizabeth-ii)
+  * [ Significant progress at Berth 3   
+20 April 2026  Berth 3 is a hive of activity with contractors installing the next section of the gantry and the Spirit of Tasmania main terminal building i...  ](https://www.premier.tas.gov.au/latest-news/2026/april/significant-progress-at-berth-3)
 
 
 [ Previous ](https://www.premier.tas.gov.au/latest-news) 1 [2](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2) [3](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=3) [4](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=4) [5](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=5) [ Next ](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2)

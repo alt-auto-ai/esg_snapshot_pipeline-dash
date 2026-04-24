@@ -1,7 +1,12 @@
 Filter posts
 [Economics](https://australiainstitute.org.au/news/category/articles/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/articles/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/articles/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/articles/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/articles/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/articles/?branch=law-society-culture)
-[Centre for Future Work](https://australiainstitute.org.au/news/category/articles/?branch=centre-for-future-work) [Carmichael Centre](https://australiainstitute.org.au/news/category/articles/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/articles/?branch=centre-for-sex-and-gender-equality)
+[Carmichael Centre](https://australiainstitute.org.au/news/category/articles/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/articles/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/articles/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/articles/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/articles/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/articles/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/articles/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/articles/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/articles/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/articles/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/march-2026-media-highlights/)
+March was a busy month here at the Australia Institute!
+# March 2026
+[](https://australiainstitute.org.au/post/february-2026-media-highlights/)
+It’s been a busy month here at the Australia Institute!
 [](https://australiainstitute.org.au/post/australians-are-fed-up-with-our-governments-giving-our-gas-resources-away-for-free/)
 If you drink beer, congratulations, you’re the backbone of the Australian economy! After all, that’s how politicians and the media describe the gas industry. But the truth is the federal government collects more money from the beer excise than from the Petroleum Resource Rent Tax, as Independent ACT Senator David Pocock pointed out in Parliament,
 # February 2026
@@ -64,10 +69,6 @@ A 50-year extension to the North West Shelf (NWS) project in Western Australia (
 [](https://australiainstitute.org.au/post/why-the-elections-closest-seat-went-unnoticed-too-close-to-calwell/)
 Updated 30/05/2025 The outer-Melbourne electorate of Calwell was named “Australia’s most unpredictable seat” by The Age after the election and was – aside from those going to a recount – the last seat to be called. The AEC labelled the counting process for the seat “likely the most complex in Australia’s history”. The count is
 Australia has some very strong democratic institutions – like an independent electoral commission, Saturday voting, full preferential voting and compulsory voting. These ensure that elections are free from corruption; that electorate boundaries are not based on partisan bias; and that most Australians turn out to vote. They are evidence of Australia’s proud history as an
-[](https://australiainstitute.org.au/post/soft-plastic-recycling-is-back-in-supermarkets/)
-For many of us, the end of June will mark the return of soft plastic recycling run by the Soft Plastics Taskforce (SPT), which is made up of the three major supermarkets: Woolworths Group, Coles Group and ALDI. But this may be premature since the joint recycling strategy from the Ministry of the Environment and
-[](https://australiainstitute.org.au/post/what-will-labor-do-with-power-and-what-happened-to-the-greens-richard-denniss-on-abc-news/)
-Richard Denniss joined ABC’s Afternoon Briefing to reflect on what the election result means for policy reform in Australia. Interview with Tom Lowry.
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

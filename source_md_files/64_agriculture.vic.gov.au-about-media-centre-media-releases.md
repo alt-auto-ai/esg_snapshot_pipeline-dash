@@ -4,48 +4,48 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **282** results 
+Showing **1** to **10** of **298** results 
 Sort by
-## [Rolling on with north central wheel cactus management](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/rolling-on-with-north-central-wheel-cactus-management)
-12 Mar 2026
-Agriculture Victoria will be visiting properties around Maldon and Baringhup with high infestations of wheel cactus to help landholders remove the noxious weed.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/rolling-on-with-north-central-wheel-cactus-management>
-## [Conditions are ideal for flystrike](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/conditions-are-ideal-forflystrike)
-11 Mar 2026
-With the current weather conditions, sheep producers should be aware conditions are ideal for flystrike.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/conditions-are-ideal-forflystrike>
-## [Victoria cracks down further on aquatic pests](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/victoria-cracks-down-further-on-aquatic-pests)
-10 Mar 2026
-To protect Victoria’s aquatic environment and industries, Agriculture Victoria has strengthened aquatic pest rules by declaring 14 new high‑risk species.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/victoria-cracks-down-further-on-aquatic-pests>
-## [Protect your dam with a burnt netting ](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/protect-your-dam-with-a-burnt-netting)
-05 Mar 2026
-Fire damaged netting and steel posts can be repurposed to become a valuable resource to construct sediment traps after a bushfire.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/protect-your-dam-with-a-burnt-netting>
-## [Livestock tag prices lowest in Australia](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/livestock-tag-prices-lowest-in-australia)
-05 Mar 2026
-Victoria continues to lead the nation in supporting its livestock producers, offering Australia’s lowest priced National Livestock Identification System (NLIS).
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/livestock-tag-prices-lowest-in-australia>
-## [Get shearing done to prevent animal welfare issues](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/get-shearing-done-to-prevent-animal-welfare-issues)
-04 Mar 2026
-Agriculture Victoria is reminding sheep owners of their responsibility to manage wool length, so it doesn’t become excessive.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/get-shearing-done-to-prevent-animal-welfare-issues>
-## [Victoria expands support for beekeepers](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/victoria-expands-support-for-beekeepers)
-02 Mar 2026
-Agriculture Victoria is boosting its commitment to the state’s beekeepers with the appointment of 2 new bee biosecurity officers in Bendigo and Attwood.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/victoria-expands-support-for-beekeepers>
-## [$10,000 fine for Numurkah sheep farm manager’s cruelty](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/$10,000-fine-for-numurkah-sheep-farm-managers-cruelty)
-26 Feb 2026
-A Numurkah sheep farm manager was fined $10,000.00 after pleading guilty in the Shepparton Magistrates’ Court recently to multiple counts of animal cruelty.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/$10,000-fine-for-numurkah-sheep-farm-managers-cruelty>
-## [Irrigation incentives turn ideas into action for farmers](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/irrigation-incentives-turn-ideas-into-action-for-farmers)
-24 Feb 2026
-The Irrigation Efficiency Incentives Program has been expanded to include irrigators across the Lake Wellington Catchment.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/irrigation-incentives-turn-ideas-into-action-for-farmers>
-## [Consider stock water after fire](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/consider-stock-water-after-fire)
-20 Feb 2026
-The impact of the Victorian fires on livestock has been significant. A reliable supply of good quality water is essential for stock on affected properties.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/consider-stock-water-after-fire>
+## [Gippsland Irrigation Expo to help farmers future proof](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof)
+24 Apr 2026
+With more farmers planning for drier years and tightening water allocations, the Gippsland Irrigation Expo is returning on 20 May at the Sale Showgrounds.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof>
+## [Burn piles can be risk to stock](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/burn-piles-can-be-risk-to-stock)
+13 Apr 2026
+Farmers looking to ignite burn piles when fire restrictions are lifted are being urged to be cautious with stock.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/burn-piles-can-be-risk-to-stock>
+## [Ballarat BetterBeef on-farm pasture walk coming up in May](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/ballarat-betterbeef-on-farm-pasture-walk-coming-up-in-may)
+10 Apr 2026
+The Ballarat BetterBeef Group is hosting an on-farm pasture walks for beef producers to explore practical approaches to pasture and weed management.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/ballarat-betterbeef-on-farm-pasture-walk-coming-up-in-may>
+## [Drone operator fined following spray-drift incident](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/drone-operator-fined-following-spray-drift-incident)
+09 Apr 2026
+A south-west drone spraying business was convicted and fined $15,000 in the Colac Magistrates’ Court recently, as a result of charges relating to spray drift.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/drone-operator-fined-following-spray-drift-incident>
+## [New faces for climate action](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/new-faces-for-climate-action)
+08 Apr 2026
+New leadership and new members have been appointed to the VACCC to help the state’s agriculture sector prepare for and respond to the impacts of climate change.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/new-faces-for-climate-action>
+## [Support for farmers and workers in the south west](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/support-for-farmers-and-workers-in-the-south-west)
+08 Apr 2026
+Drought impacted farming families and workers in the south west can access financial support to help ease cost‑of‑living pressures.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/support-for-farmers-and-workers-in-the-south-west>
+## [Surveillance for significant animal diseases in Victoria](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/surveillance-for-significant-animal-diseases-in-victoria)
+07 Apr 2026
+The Significant Disease Investigation (SDI) Program provides subsidies to farmers for initial field investigations of livestock and wildlife disease events.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/surveillance-for-significant-animal-diseases-in-victoria>
+## [Cool weather still driving hay fire danger](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cool-weather-still-driving-hay-fire-danger)
+02 Apr 2026
+Cooler conditions across Victoria may suggest reduced haystack fire risk, but moist hay continues to heat internally and remains a significant hazard.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cool-weather-still-driving-hay-fire-danger>
+## [Managing pests and weeds from introduced fodder](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/managing-pests-and-weeds-from-introduced-fodder)
+30 Mar 2026
+If you’re purchasing fodder for the coming autumn or winter, don’t forget to consider the increased risks of introducing pests and weeds to the property.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/managing-pests-and-weeds-from-introduced-fodder>
+## [Growing our food safety standards](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/growing-our-food-safety-standards)
+26 Mar 2026
+Agriculture Victoria is supporting berry, melon and leafy vegetable growers to implement new national food safety standards.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/growing-our-food-safety-standards>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)

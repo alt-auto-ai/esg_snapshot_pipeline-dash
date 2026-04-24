@@ -3,12 +3,16 @@
 # Newsroom
 ### [Prosecution of Naveed Akram ](https://www.cdpp.gov.au/prosecution-naveed-akram)  
 ---  
-**Last updated: Tuesday 10 March 2026**  
+**Last updated: Wednesday 8 April 2026**  
 On 17 December 2025, the NSW Joint Counter Terrorism Team (JCTT) (comprising the New South Wales Police Force, the Australian Federal Police, the Australian Security Intelligence Organisation and the NSW Crime Commission) formally referred the prosecution of charges against Naveed Akram (the defendant) to the Office of the Director of Public Prosecutions (Cth) (CDPP).  
 ### [Prosecution of Liam Alexander Hall](https://www.cdpp.gov.au/prosecution-liam-alexander-hall)  
 ---  
-**Last updated: Thursday 19 February 2026**  
+**Last updated: Tuesday 31 March 2026**  
 On 4 February 2026, the WA Joint Counter Terrorism Team (JCTT) (comprising the Western Australian Police Force, the Australian Federal Police and the Australian Security Intelligence Organisation) charged Liam Alexander Hall (the defendant) with one charge of committing a terrorist act.  
+### [Attorney-General (Cth) v Benjamin Roberts-Smith](https://www.cdpp.gov.au/attorney-general-cth-v-benjamin-roberts-smith)  
+---  
+**Last updated: Thursday 23 April 2026**  
+The defendant’s bail was varied. The defendant applied for and was granted a non-publication order.  
 ### [Recognition for long-term support for the Open Employment Scheme](https://www.cdpp.gov.au/news/recognition-long-term-support-open-employment-scheme)
 Wednesday, December 3, 2025 - 12:00
 On 20 November the Office of the Director of Public Prosecutions (Cth) (CDPP) and a long-term staff member, Nelson, received awards presented by the Minister for Social Services Tanya Plibersek, in support and recognition of the Open Employment Scheme.

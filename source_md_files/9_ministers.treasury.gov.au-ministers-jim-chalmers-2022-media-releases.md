@@ -16,6 +16,54 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Engagements with NZ Finance Minister and trans-Tasman businesses on fuel security](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/engagements-nz-finance-minister-and-trans-tasman)
+24 April 2026
+Today I’ll host New Zealand Finance Minister Nicola Willis in Brisbane for a bilateral engagement on trade, investment and fuel security. 
+### [Regulating cash distribution services](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/regulating-cash-distribution-services)
+22 April 2026
+Today the Government is releasing draft legislation to regulate the cash distribution sector to ensure it continues to serve the needs of Australians. 
+### [$1,000 instant tax deduction to deliver lower, simpler taxes for 6.2 million workers](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/1000-instant-tax-deduction-deliver-lower-simpler-taxes)
+20 April 2026
+Around 6.2 million workers are set to benefit from the Albanese Government’s $1,000 instant tax deduction, with public consultation on draft legislation commencing today. 
+### [New Australia-United Kingdom MoU to unlock more investment](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-australia-united-kingdom-mou-unlock-more-investment)
+17 April 2026
+Today, Australia and the UK have signed an Investment Partnership to further unlock superannuation and pension capital investment between our countries. 
+### [Australia now top three in G20 budget rankings](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/australia-now-top-three-g20-budget-rankings)
+16 April 2026
+Joint media release with the Hon Katy Gallagher, Minister for Finance 
+### [G20, IMF and World Bank meetings in the US](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/g20-imf-and-world-bank-meetings-us-0)
+15 April 2026
+This week I will engage with key international counterparts at the G20 Finance Ministers’ and Central Bank Governors’ Meeting hosted by the US and the IMF‑World Bank 2026 Spring Meetings in Washing 
+### [Consultation on foreign resident CGT legislation](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/consultation-foreign-resident-cgt-legislation)
+10 April 2026
+Today the Albanese Government is releasing draft legislation to strengthen the foreign resident capital gains tax (CGT) regime and provide certainty for investors. 
+### [Building our economic resilience through the Investor Front Door](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/building-our-economic-resilience-through-investor-front)
+9 April 2026
+Joint media release with the Hon Chris Bowen MP, the Hon Catherine King MP, the Hon Madeleine King MP and Senator the Hon Tim Ayres. 
+### [Government and private sector working together to back families and small businesses](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/government-and-private-sector-working-together-back)
+1 April 2026
+The Albanese Labor Government is working with the business and finance sectors to help ease the pressure on Australian families and small businesses. 
+### [Ending card surcharges to help with the cost of living](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/ending-card-surcharges-help-cost-living)
+31 March 2026
+Australians will no longer pay $1.6 billion a year in surcharges and small businesses will save $910 million when credit and debit card surcharging ends in October. 
+### [Chair appointments for the Board of Taxation and Tax Practioners Board](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/chair-appointments-board-taxation-and-tax-practioners)
+27 March 2026
+The Albanese Government has appointed the Hon David Bradbury as the part‑time Chair and member of the Board of Taxation, and reappointed Mr Peter de Cure AM as the part‑time Chair and member o 
+### [New legislation passes parliament to double penalties for petrol price misconduct](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-legislation-passes-parliament-double-penalties)
+26 March 2026
+The Albanese Government has passed new legislation to help consumers get a fair go at the petrol pump with bigger penalties for misconduct including in the fuel sector. 
+### [New inflation figures](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-inflation-figures-1)
+25 March 2026
+New figures from the Australian Bureau of Statistics show that headline inflation moderated in February. 
+### [New legislation to double penalties for petrol price misconduct](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-legislation-double-penalties-petrol-price-misconduct)
+25 March 2026
+The Albanese Government has introduced new legislation to help consumers get a fair go at the petrol pump with bigger penalties for misconduct including in the fuel sector. 
+### [Treasurer convenes financial regulators](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/treasurer-convenes-financial-regulators)
+20 March 2026
+Today I convened a special meeting of the Council of Financial Regulators to discuss the conflict in the Middle East, its potential implications for our economy and financial markets, and actions b 
+### [Reserve Bank decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/reserve-bank-decision-0)
+17 March 2026
+Today the independent Reserve Bank Monetary Policy Board increased the cash rate by 25 basis points. 
 ### [Fair go for consumers at the bowser](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/fair-go-consumers-bowser)
 11 March 2026
 The Albanese Government is taking action to help consumers get a fair go at the petrol pump, with more scrutiny and surveillance of the fuel sector, bigger penalties for misconduct, and action to s 
@@ -28,51 +76,3 @@ The Albanese Government is another step closer to delivering its superannuation 
 ### [Meeting with Canada’s Minister of Finance and National Revenue](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/meeting-canadas-minister-finance-and-national-revenue)
 5 March 2026
 Today I met with Canada’s Minister of Finance and National Revenue, the Honourable François‑Philippe Champagne, to advance our shared commitment to boosting economic resilience, productivity a 
-### [National Accounts – December quarter 2025](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/national-accounts-december-quarter-2025)
-4 March 2026
-Today’s National Accounts show strong, broad‑based growth and an ongoing recovery in the private sector. 
-### [Inflation steady in January](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/inflation-steady-january)
-25 February 2026
-New figures from the Australian Bureau of Statistics show inflation was steady in January but higher than we’d like and for longer than we’d like. 
-### [Strengthening the retirement phase of superannuation](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/strengthening-retirement-phase-superannuation)
-23 February 2026
-Today, we are releasing the Retirement Reporting Framework and Best Practice Principles for Superannuation Retirement Income Solutions to deliver on our commitment to uplift the retirement phase of 
-### [Wages continue to grow under Labor](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/wages-continue-grow-under-labor)
-18 February 2026
-New data released by the ABS today shows that annual wages have grown above three per cent for 14 quarters in a row. 
-### [IMF lauds Government’s fiscal management](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/imf-lauds-governments-fiscal-management)
-16 February 2026
-The International Monetary Fund has praised the Albanese Labor Government’s management of the budget and the economy in a new report released today. 
-### [Appointment to the Reserve Bank Monetary Policy Board](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/appointment-reserve-bank-monetary-policy-board)
-13 February 2026
-The Albanese Government has appointed Professor Bruce Preston as a part‑time member of the Reserve Bank of Australia Monetary Policy Board. 
-### [New legislation to build a stronger and fairer super system](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-legislation-build-stronger-and-fairer-super-system)
-11 February 2026
-The Albanese Labor Government today introduced legislation to boost the superannuation savings of low‑income workers and ensure superannuation tax concessions are fairer and more sustainable. 
-### [Future Fund continues strong performance under new investment mandate](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/future-fund-continues-strong-performance-under-new)
-5 February 2026
-The Albanese Government welcomes the very strong returns achieved by the Future Fund which saw our sovereign wealth fund grow by almost $30 billion last year. 
-### [Reserve Bank decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/reserve-bank-decision)
-3 February 2026
-Today the independent Reserve Bank Monetary Policy Board increased the cash rate by 25 basis points. 
-### [Appointment of new ASIC chair](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/appointment-new-asic-chair)
-3 February 2026
-The Albanese Government will recommend to the Governor‑General that Sarah Court be appointed as the next Chair of the Australian Securities and Investments Commission (ASIC). 
-### [Foreign investors penalised for breach of Australian laws](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/foreign-investors-penalised-breach-australian-laws)
-30 January 2026
-Today the Federal Court of Australia has ordered Indian Ocean International Shipping and Service Company Ltd (Indian Ocean) and Ms Jing Tian to pay $14 million in penalties for breaching 
-### [Review of thin capitalisation reforms](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/review-thin-capitalisation-reforms)
-30 January 2026
-We have tasked the Board of Taxation to undertake an independent review of the Albanese Government’s thin capitalisation ref 
-### [New inflation figures](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-inflation-figures-0)
-28 January 2026
-New figures from the Australian Bureau of Statistics show inflation has increased but remains much lower than its peak and much lower than we inherited. 
-### [Latest data shows record number of Australians in work](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/latest-data-shows-record-number-australians-work)
-22 January 2026
-Australia’s job market continues to deliver strong outcomes under the Albanese Government, with a record number of people in work, and the unemployment rate remaining low. 
-### [Labor’s economic management and reform agenda praised by OECD](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/labors-economic-management-and-reform-agenda-praised)
-22 January 2026
-The OECD’s survey on Australia released today highlights the recovery in our economy and the Government’s responsible economic management in uncertain times. 
-### [Critical minerals the focus of G7+ ministers meetings in the US](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/critical-minerals-focus-g7-ministers-meetings-us)
-11 January 2026
-Today I will travel to the United States for a series of meetings with international counterparts about critical minerals and the global economy. 
