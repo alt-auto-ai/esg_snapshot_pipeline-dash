@@ -384,87 +384,27 @@ function pHtml(text) {
 function bulletHtml(text) {
   return '<p class="bullet"><span>&bull;</span><span>' + esc(text) + '</span></p>';
 }
+function narrativeHtml(parts) {
+  return '<p>' + parts.filter(Boolean).join(' ') + '</p>';
+}
 
 /* ====== Build card body per story type (mirrors html_gen_text_blocks_multi.mjs) ====== */
 function buildCardBody(s) {
-  const st = s.Story_Type;
-  const o1 = s.Out1, o2 = s.Out2, o3 = s.Out3, o4 = s.Out4, o5 = s.Out5, o6 = s.Out6;
+  const outputs = [s.Out1, s.Out2, s.Out3, s.Out4, s.Out5, s.Out6]
+    .map(value => String(value || '').trim())
+    .filter(Boolean);
   const hook = (s.Hook || "").trim();
   const oneLiner = (s.OneLiner || "").trim();
-  if (![o1,o2,o3,o4,o5,o6,hook,oneLiner].some(Boolean)) return "";
+  if (![...outputs, hook, oneLiner].some(Boolean)) return "";
   let h = "";
-  switch (st) {
-    case "Community, First Nations, and Social Licence Initiatives":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      break;
-    case "Compliance, Oversight, and Enforcement Actions":
-      if (o1) h += pHtml(o1);
-      break;
-    case "Consultation and Policy Design Opportunities":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      break;
-    case "Corporate and Institutional ESG Actions":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      if (o3) h += pHtml(o3);
-      break;
-    case "Environmental Protection, Biodiversity, and Nature Policy":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      if (o3) h += pHtml(o3);
-      break;
-    case "Funding and Grant Announcements": {
-      if (o1 || o2) {
-        let parts = [];
-        if (o1) parts.push('<strong>' + esc(o1) + '</strong>');
-        if (o2) parts.push(esc(o2));
-        h += '<p>' + parts.join(' ') + '</p>';
-      }
-      if (o3) {
-        const isBul = hasLeadingBullet(o3);
-        const txt = (isBul ? stripBullet(o3) : o3).trim();
-        if (txt) h += isBul ? bulletHtml(txt) : pHtml(txt);
-      }
-      [o4, o5, o6].filter(Boolean).forEach(line => {
-        const t = stripBullet(line); if (t) h += bulletHtml(t);
-      });
-      break;
-    }
-    case "Infrastructure, Project Approvals, and EPBC Developments":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      break;
-    case "Legislative and Statutory Developments":
-      if (o1 || o2) h += '<p><strong>' + esc(o1) + '-</strong>' + esc(o2) + '</p>';
-      if (o3) h += pHtml(o3);
-      if (o4) h += pHtml(o4);
-      break;
-    case "Ministerial, Diplomatic, and International Engagements":
-      if (o1) h += pHtml(o1);
-      break;
-    case "Misc":
-      if (o1) h += pHtml(o1);
-      { const joined = [o2,o3,o4].filter(Boolean).join('. ');
-        if (joined) h += pHtml(joined + '.'); }
-      if (o5) h += pHtml(o5);
-      break;
-    case "Parliamentary and Political Proceedings":
-      if (o1) h += pHtml(o1);
-      break;
-    case "Reports, Data Releases, and Analytical Insights":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      if (o3) h += pHtml(o3);
-      break;
-    case "State and Local Government Programs":
-      if (o1) h += pHtml(o1);
-      if (o2) h += pHtml(o2);
-      break;
-    default:
-      // Unknown type — show whatever outputs exist
-      [o1,o2,o3,o4,o5,o6].filter(Boolean).forEach(x => { h += pHtml(x); });
+  if (outputs.length) {
+    const narrative = outputs.map((text, index) => {
+      if (outputs.length === 1 && s.URL) return '<a href="' + esc(s.URL) + '" target="_blank">' + esc(text) + '</a>';
+      if (index === 0) return '<strong>' + esc(text) + '</strong>';
+      if (index === 1 && s.URL) return '<a href="' + esc(s.URL) + '" target="_blank">' + esc(text) + '</a>';
+      return esc(text);
+    });
+    h = narrativeHtml(narrative);
   }
   if (hook || oneLiner) {
     const hookPart = hook ? '<strong>' + esc(hook) + '</strong>' : '';
@@ -582,7 +522,6 @@ function render() {
       html += '<span class="relevance-badge ' + relClass + '">' + esc(s.ESG_Relevance) + '</span>';
       html += '</div>';
       html += '<div class="card-title">' + esc(s.Title) + '</div>';
-      html += '<div class="card-url"><a href="' + esc(s.URL) + '" target="_blank">' + esc(s.URL) + '</a></div>';
       html += '<div class="card-body">' + buildCardBody(s) + '</div>';
       html += '</div>';
     }
@@ -604,7 +543,6 @@ function render() {
       html += '<span class="relevance-badge ' + relClass + '">' + esc(s.ESG_Relevance) + '</span>';
       html += '</div>';
       html += '<div class="card-title">' + esc(s.Title) + '</div>';
-      html += '<div class="card-url"><a href="' + esc(s.URL) + '" target="_blank">' + esc(s.URL) + '</a></div>';
       html += '<div class="card-body">' + buildCardBody(s) + '</div>';
       html += '</div>';
     }
@@ -832,84 +770,16 @@ document.addEventListener('keydown', (e) => {
 
 /* ====== Markdown Generation ====== */
 function buildMdBody(s) {
-  const st = s.Story_Type;
-  const o1 = s.Out1, o2 = s.Out2, o3 = s.Out3, o4 = s.Out4, o5 = s.Out5, o6 = s.Out6;
-  const lines = [];
-  if (![o1,o2,o3,o4,o5,o6].some(Boolean)) return '';
-
-  switch (st) {
-    case "Community, First Nations, and Social Licence Initiatives":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      break;
-    case "Compliance, Oversight, and Enforcement Actions":
-      if (o1) lines.push(o1);
-      break;
-    case "Consultation and Policy Design Opportunities":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      break;
-    case "Corporate and Institutional ESG Actions":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      if (o3) lines.push(o3);
-      break;
-    case "Environmental Protection, Biodiversity, and Nature Policy":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      if (o3) lines.push(o3);
-      break;
-    case "Funding and Grant Announcements": {
-      if (o1 || o2) {
-        let parts = [];
-        if (o1) parts.push('**' + o1 + '**');
-        if (o2) parts.push(o2);
-        lines.push(parts.join(' '));
-      }
-      if (o3) {
-        const isBul = hasLeadingBullet(o3);
-        const txt = (isBul ? stripBullet(o3) : o3).trim();
-        if (txt) lines.push(isBul ? '- ' + txt : txt);
-      }
-      [o4, o5, o6].filter(Boolean).forEach(line => {
-        const t = stripBullet(line); if (t) lines.push('- ' + t);
-      });
-      break;
-    }
-    case "Infrastructure, Project Approvals, and EPBC Developments":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      break;
-    case "Legislative and Statutory Developments":
-      if (o1 || o2) lines.push('**' + (o1 || '') + '-**' + (o2 || ''));
-      if (o3) lines.push(o3);
-      if (o4) lines.push(o4);
-      break;
-    case "Ministerial, Diplomatic, and International Engagements":
-      if (o1) lines.push(o1);
-      break;
-    case "Misc":
-      if (o1) lines.push(o1);
-      { const joined = [o2,o3,o4].filter(Boolean).join('. ');
-        if (joined) lines.push(joined + '.'); }
-      if (o5) lines.push(o5);
-      break;
-    case "Parliamentary and Political Proceedings":
-      if (o1) lines.push(o1);
-      break;
-    case "Reports, Data Releases, and Analytical Insights":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      if (o3) lines.push(o3);
-      break;
-    case "State and Local Government Programs":
-      if (o1) lines.push(o1);
-      if (o2) lines.push(o2);
-      break;
-    default:
-      [o1,o2,o3,o4,o5,o6].filter(Boolean).forEach(x => { lines.push(x); });
-  }
-  return lines.join('\\n\\n');
+  const outputs = [s.Out1, s.Out2, s.Out3, s.Out4, s.Out5, s.Out6]
+    .map(value => String(value || '').trim())
+    .filter(Boolean);
+  if (!outputs.length) return '';
+  return outputs.map((text, index) => {
+    if (outputs.length === 1 && s.URL) return '[' + text + '](' + s.URL + ')';
+    if (index === 0) return '**' + text + '**';
+    if (index === 1 && s.URL) return '[' + text + '](' + s.URL + ')';
+    return text;
+  }).join(' ');
 }
 
 function generateDoc() {
@@ -935,7 +805,9 @@ function generateDoc() {
     }
     const body = buildMdBody(s);
     if (body) md += body + '\\n\\n';
-    if (s.URL) md += s.URL + '\\n\\n';
+    if (s.Hook) md += '**' + s.Hook + '** ';
+    if (s.OneLiner) md += s.OneLiner;
+    if (s.Hook || s.OneLiner) md += '\\n\\n';
     md += '---\\n\\n';
   }
 

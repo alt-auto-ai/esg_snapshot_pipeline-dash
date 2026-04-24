@@ -34,20 +34,22 @@ else:
 # ----------------- ENV -----------------
 load_dotenv()
 
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
+    os.path.join(PROJECT_ROOT, "source_md_files_cleaned")
 )
 # 🔁 Read from 7_ESG_Relevance.csv
 INPUT_CSV = os.getenv(
     "INPUT_CSV",
-    r"7_esg_relevance.csv"
+    os.path.join(PROJECT_ROOT, "7_esg_relevance.csv")
 )
 # 🆕 Write to 8_esg_draft_multi.csv
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"8_esg_draft_multi.csv"
+    os.path.join(PROJECT_ROOT, "8_esg_draft_multi.csv")
 )
 # API config
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -115,22 +117,23 @@ RAW_STORY_TYPE_PROMPT_PATHS = {
 
 RAW_STORY_TYPE_OUTPUT_COUNTS = {
     "Community, First Nations, and Social Licence Initiatives": 2,
-    "Environmental Protection, Biodiversity, and Nature Policy": 3,
+    "Environmental Protection, Biodiversity, and Nature Policy": 4,
     "Infrastructure, Project Approvals, and EPBC Developments": 2,
     "Reports, Data Releases, and Analytical Insights": 3,
     "Corporate and Institutional ESG Actions": 3,
-    "Consultation and Policy Design Opportunities": 2,
+    "Consultation and Policy Design Opportunities": 4,
     "Legislative and Statutory Developments": 4,
-    "State and Local Government Programs": 2,
-    "Funding and Grant Announcements": 6,
-    "Ministerial, Diplomatic, and International Engagements": 1,
-    "Compliance, Oversight, and Enforcement Actions": 1,
-    "Parliamentary and Political Proceedings": 1,
-    "Misc": 5,
+    "State and Local Government Programs": 4,
+    "Funding and Grant Announcements": 4,
+    "Ministerial, Diplomatic, and International Engagements": 4,
+    "Compliance, Oversight, and Enforcement Actions": 4,
+    "Parliamentary and Political Proceedings": 4,
+    "Misc": 6,
 }
 DEFAULT_OUTPUT_COUNT = 3
 OUTPUT_COLUMN_PREFIX = "Output "
 MAX_OUTPUT_COLUMNS = max(RAW_STORY_TYPE_OUTPUT_COUNTS.values(), default=DEFAULT_OUTPUT_COUNT)
+DEFAULT_STORY_TYPE = "Misc"
 
 def load_prompt_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -155,10 +158,14 @@ STORY_TYPE_OUTPUT_COUNTS = {
 }
 PROMPT_CACHE = {}
 
-def get_prompt_bundle(story_type: str):
+def resolve_story_type(story_type: str) -> str:
     normalized = normalize_story_type(story_type)
-    if not normalized or normalized not in STORY_TYPE_PROMPT_FILES:
-        raise SystemExit(f"[CONFIG ERROR] No prompt mapping found for Story_Type '{story_type}'. Ensure the CSV uses one of the configured labels.")
+    if normalized in STORY_TYPE_PROMPT_FILES:
+        return normalized
+    return normalize_story_type(DEFAULT_STORY_TYPE)
+
+def get_prompt_bundle(story_type: str):
+    normalized = resolve_story_type(story_type)
     prompt_path = STORY_TYPE_PROMPT_FILES[normalized]
     output_count = STORY_TYPE_OUTPUT_COUNTS.get(normalized, DEFAULT_OUTPUT_COUNT)
     if prompt_path not in PROMPT_CACHE:
@@ -167,9 +174,7 @@ def get_prompt_bundle(story_type: str):
     return system_prompt, user_template, profile_hint, prompt_path, output_count
 
 def get_required_output_columns(story_type: str):
-    normalized = normalize_story_type(story_type)
-    if not normalized or normalized not in STORY_TYPE_OUTPUT_COUNTS:
-        raise SystemExit(f"[CONFIG ERROR] No output-column mapping found for Story_Type '{story_type}'.")
+    normalized = resolve_story_type(story_type)
     count = STORY_TYPE_OUTPUT_COUNTS.get(normalized, DEFAULT_OUTPUT_COUNT)
     count = max(1, min(count, MAX_OUTPUT_COLUMNS))
     return [f"{OUTPUT_COLUMN_PREFIX}{i}" for i in range(1, count + 1)]
@@ -382,6 +387,10 @@ async def process_file_async(session, row, sem, idx, total):
         print(f"   📄 [{md_file}] File loaded ({len(md_text)} chars).")
 
         story_type_raw = row.get("Story_Type", "")
+        story_type_normalized = normalize_story_type(story_type_raw)
+        if story_type_normalized not in STORY_TYPE_PROMPT_FILES:
+            fallback_label = DEFAULT_STORY_TYPE
+            print(f"   ⚠️ [{md_file}] Story_Type '{(story_type_raw or '').strip()}' unmapped; falling back to '{fallback_label}'.")
         system_prompt, user_template, profile_hint, prompt_path, expected_outputs = get_prompt_bundle(story_type_raw)
         if story_type_raw:
             print(f"   🧭 [{md_file}] Story type '{story_type_raw.strip()}' → {prompt_path} (expect {expected_outputs} outputs)")
@@ -451,11 +460,11 @@ async def main_async():
     print(f"[OUTPUT]  {OUTPUT_CSV}")
     print(f"[LIMITS]  OPENAI_RPM={OPENAI_RPM} req/min | OPENAI_TIMEOUT_SECONDS={OPENAI_TIMEOUT_SECONDS}s")
 
-    # Candidates: ESG_or_not == 'Yes' AND required columns empty (so we don't overwrite)
+    # Candidates: Relevance is populated AND required columns empty (so we don't overwrite)
     candidates = []
     for r in input_rows:
-        esg_or_not = (r.get("ESG_or_not") or "").strip().lower()
-        if esg_or_not != "yes":
+        relevance = (r.get("Relevance") or "").strip()
+        if not relevance:
             continue
         has_md = bool((r.get("md_file") or "").strip())
         required_cols_row = get_required_output_columns(r.get("Story_Type"))
@@ -478,7 +487,7 @@ async def main_async():
             for r in results:
                 results_map[r["md_file"]] = r
         else:
-            print("[INFO] No rows to draft (ESG_or_not != 'Yes' or outputs already filled).")
+            print("[INFO] No rows to draft (Relevance is blank or outputs already filled).")
 
     # Merge back: write ALL original columns + structured columns (append if missing)
     print("\n📁 Writing results to CSV...")
@@ -492,7 +501,7 @@ async def main_async():
         writer.writeheader()
         for row in input_rows:
             md_file = (row.get("md_file") or "").strip()
-            esg_or_not = (row.get("ESG_or_not") or "").strip().lower()
+            relevance = (row.get("Relevance") or "").strip()
             out_row = {k: (row.get(k) or "").strip() for k in fieldnames}
             out_row["ESG_or_not"] = (row.get("ESG_or_not") or "").strip()
 
@@ -500,9 +509,9 @@ async def main_async():
             for col in ALL_OUTPUT_COLUMNS:
                 out_row[col] = (out_row.get(col) or "").strip()
 
-            required_cols_row = get_required_output_columns(row.get("Story_Type")) if esg_or_not == "yes" else []
+            required_cols_row = get_required_output_columns(row.get("Story_Type")) if relevance else []
 
-            if md_file in results_map and esg_or_not == "yes":
+            if md_file in results_map and relevance:
                 structured = results_map[md_file]
                 outputs = structured.get("outputs", [])
                 for idx, col in enumerate(required_cols_row):
