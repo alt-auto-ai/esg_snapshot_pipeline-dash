@@ -1,4 +1,29 @@
 Media releases 
+  * ### [Former Berndale director Stavro D’Amore pleads guilty to dishonest conduct and misusing nearly $700,000 in company funds](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-088mr-former-berndale-director-stavro-d-amore-pleads-guilty-to-dishonest-conduct-and-misusing-nearly-700-000-in-company-funds/)
+dealing with asicmedia release (26-088MR)
+1 May 2026
+companiesdealing with asicfinancial marketsfinancial reportingfinancial servicesinsolvency
+Former director of collapsed retail over-the-counter (OTC) derivatives provider Berndale Capital Securities Pty Ltd (Berndale), Stavro D’Amore, has pleaded guilty to multiple dishonesty offences, including the illegal transfer of $681,496.98 in company funds between 2017 and 2018.
+  * ### [ASIC discontinues winding up proceedings against Liberty Bell Bay](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-087mr-asic-discontinues-winding-up-proceedings-against-liberty-bell-bay/)
+companiesmedia release (26-087MR)
+30 April 2026
+companiesdealing with asicfinancial reporting
+On 30 April 2026, ASIC discontinued its proceedings to wind up Liberty Bell Bay Pty Ltd.
+  * ### [ASIC cancels AFS licence of ABL Funds Management Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-086mr-asic-cancels-afs-licence-of-abl-funds-management-pty-ltd/)
+bannings and alertsmedia release (26-086MR)
+30 April 2026
+bannings and alertsfinancial servicesmanaged investment schemes
+ASIC has cancelled the Australian financial services (AFS) licence of ABL Funds Management Pty Ltd (ABL).
+  * ### [ASIC disqualifies NSW director Lambros Hilellis for 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-085mr-asic-disqualifies-nsw-director-lambros-hilellis-for-5-years/)
+bannings and alertsmedia release (26-085MR)
+28 April 2026
+bannings and alerts
+ASIC has disqualified Lambros Hilellis, of Kingsgrove, New South Wales, from managing corporations for the maximum period of 5 years due to his involvement in the failure of the following four companies: Grade One Security Monitoring Rangers Pty Ltd; Atlantis Services Aust Pty Ltd; Polyseal Waterproofing Qld Pty Ltd; and Apollo Security Pty Ltd. 
+  * ### [Federal Court orders Money3 to pay $1.55 million penalty for responsible lending breaches](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-084mr-federal-court-orders-money3-to-pay-1-55-million-penalty-for-responsible-lending-breaches/)
+creditmedia release (26-084MR)
+27 April 2026
+credit
+The Federal Court has ordered Money3 Loans Pty Ltd (Money3) to pay penalties of $1.55 million for breaching responsible lending obligations when providing car finance to vulnerable consumers.
   * ### [ASIC accepts cancellation of company auditor registration after raising independence concerns](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-083mr-asic-accepts-cancellation-of-company-auditor-registration-after-raising-independence-concerns/)
 auditorsmedia release (26-083MR)
 24 April 2026
@@ -34,7 +59,9 @@ financial servicesmedia release (26-077MR)
 17 April 2026
 financial services
 Alexander John McCulloch, a former project manager at Beacon Minerals Limited (Beacon Minerals), pleaded guilty yesterday to one rolled-up count of insider trading (amended to include two trades). One count of insider trading was discontinued.
-  * ### [ASIC disqualifies Gold Coast director for maximum 5-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-076mr-asic-disqualifies-gold-coast-director-for-maximum-5-year-period/)
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
+  * ### [ASIC disqualifies Gold Coast director David John Parker for maximum 5-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-076mr-asic-disqualifies-gold-coast-director-david-john-parker-for-maximum-5-year-period/)
 bannings and alertsmedia release (26-076MR)
 14 April 2026
 bannings and alertscompanies
@@ -59,8 +86,6 @@ bannings and alertsmedia release (26-072MR)
 10 April 2026
 bannings and alertsfinancial services
 Former financial adviser Shane Monte Silva has been banned from the financial services industry for five years after ASIC found he failed to act in certain clients’ best interests when recommending they switch their superannuation funds to invest in schemes including the Shield Master Fund (Shield) and the First Guardian Master Fund (First Guardian).
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC suspends AFS licence of Oscar Oliver Capital Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-071mr-asic-suspends-afs-licence-of-oscar-oliver-capital-ltd/)
 bannings and alertsmedia release (26-071MR)
 10 April 2026
@@ -549,7 +574,7 @@ companiesmedia release (25-291MR)
 27 November 2025
 companies
 A Gold Coast husband and wife who ran the ALAMMC Group of companies moved hundreds of thousands of dollars from frozen bank accounts and he failed to disclose his interests in two racehorses, prize money and crypto assets, ASIC alleges in Federal Court contempt proceedings.
-  * ### [Banned SMSF Auditor charged with continuing to act whilst disqualified and falsifying documents](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-290mr-banned-smsf-auditor-charged-with-continuing-to-act-whilst-disqualified-and-falsifying-documents/)
+  * ### [Banned SMSF Auditor Kristian Convery charged with continuing to act while disqualified](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2025-releases/25-290mr-banned-smsf-auditor-kristian-convery-charged-with-continuing-to-act-while-disqualified/)
 auditorsmedia release (25-290MR)
 26 November 2025
 auditorsbannings and alertssuperannuation

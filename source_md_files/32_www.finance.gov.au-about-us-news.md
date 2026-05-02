@@ -1,8 +1,17 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-24/04/2026 
+02/05/2026 
 # Latest News
 ### 2026 
+[ Fri   
+01 May   
+2026  **Nominate your team now** Government Procurement ](https://www.finance.gov.au/about-us/news/2026/nominate-your-team-now)
+[ Thu   
+30 Apr   
+2026  **Enhancing climate literacy: Emissions Reduction Planning and Commonwealth Climate Disclosure courses available now** Government Climate Risk, Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/enhancing-climate-literacy-emissions-reduction-planning-and-commonwealth-climate-disclosure-courses-available-now)
+[ Tue   
+28 Apr   
+2026  **GovAI Chat alpha trial now open – sign up now** Government ICT ](https://www.finance.gov.au/about-us/news/2026/govai-chat-alpha-trial-now-open-sign-now)
 [ Fri   
 24 Apr   
 2026  **Australian Government General Government Sector Monthly Financial Statements for March 2026** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2026/mfs-march)
@@ -85,15 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Thu   
 11 Dec   
 2025  **Congratulations to our 2025 Entry Level Program cohort!** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/congratulations-our-2025-entry-level-program-cohort)
-[ Mon   
-08 Dec   
-2025  **Regulatory Reform Omnibus Bill 2025** Government Regulatory Reform ](https://www.finance.gov.au/about-us/news/2025/regulatory-reform-omnibus-bill-2025)
-[ Fri   
-05 Dec   
-2025  **Digital ID continues to grow and improve 12 months on** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/digital-id-continues-grow-and-improve-12-months)
-[ Wed   
-03 Dec   
-2025  **Finance Census Action Plan 2025-28** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/finance-census-action-plan-2025-28)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

@@ -1,76 +1,77 @@
 # Search results
 * * *
-[](https://www.brighttalk.com/webcast/19313/665334?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Q1 2026- ABN AMRO Parnassus US ESG Equities…
-Todd C. Ahlsten, Chief Investment Officer and Andrew Choi, Portfolio Manager & Senior Research Analyst
-quarterly review…
-16 hours ago| 30 mins
-[](https://www.brighttalk.com/webcast/14001/664580?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Climate risk across public and private markets: Can one  
-framework work?…
-Responsible Investor in partnership with Climate X
-Asset managers increasingly allocate capital across public and private  
-markets, yet climate risk is still often assessed within asset-class silos. As  
-firms aim to build unified frameworks, differences in data, decision timel……
-17 hours ago| 58 mins
-[](https://www.brighttalk.com/webcast/17701/663114?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Spring progress report 2026: Achievements and lessons  
-learned…
-The PRI
-Join us for the launch of the inaugural progress report for Spring — the  
-PRI’s collaborative stewardship initiative on nature. Marking the first 18  
-months of the initiative, this webinar will present key insights on engag……
-2 days ago| 61 mins
+[](https://www.brighttalk.com/webcast/21218/667655?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## From Gatekeeper to Value Architect: Responsible  
+Procurement in the Age of AI…
+Mathias Pollmann-Larsen, Global Sustainable Value Chain Lead, Accenture
+We’re entering the era of the “Autonomous Supply Chain.” As AI  
+automates sourcing, contracting, and risk monitoring, Procurement shifts  
+from process gatekeeper to enterprise value creator and protector. The……
+2 days ago| 10 mins
 [](https://www.brighttalk.com/webcast/19313/665917?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
 ## Q1 2026 review - ABN AMRO Boston Common Emerging  
 Markets ESG Equities…
 Liz Su Portfolio Manager; Lauren Compere Head of Stewardship and Engagement
 Quarterly review…
 May 07 2026, 11:00pm AEST
-[](https://www.brighttalk.com/webcast/17701/664657?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## ACGA x PRI Joint Webinar - Advancing Investor Stewardship  
-in Asia: Regulatory Reforms & the Path to Stronger Ecosy……
-The PRI and ACGA
-Join PRI and the Asian Corporate Governance Association (ACGA) for  
-this joint webinar, launching ACGA’s new report “Stewardship in Asia:  
-Frameworks, codes and practices.” This session will explore the rapidl……
-3 days ago| 82 mins
-[](https://www.brighttalk.com/webcast/2163/663655?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Interpreting the Transition: Using Climate Data to Inform  
-Portfolio Construction…
-Alicia White, Senior Product Manager, Climate Solutions, Morningstar Sustainalytics | Alina Olaru, Lead Analyst, ESG Research, Morningstar Sustainalytics | Varvara Shershneva, Responsible Investments Analyst, Erste Asset Management
-As global climate milestones draw closer, many investors are seeking to  
-understand how companies are positioned for a rapidly evolving  
-low‑carbon economy. In this webinar we will explore the latest insights……
-30 days ago| 59 mins
-[](https://www.brighttalk.com/webcast/17701/662395?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Getting ready for 2026 PRI Reporting…
-The PRI
-This year marks an important point for PRI Reporting. In this session,  
-PRI experts will discuss what matters for the 2026 reporting cycle, how  
-the updated Reporting Framework was developed and tested, and wha……
-8 days ago| 49 mins
-[](https://www.brighttalk.com/webcast/17290/662807?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Advancing the Just Transition: Insights from emerging  
-practice in banking and insurance…
+[](https://www.brighttalk.com/webcast/21218/667671?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## The Imagination Deficit: Why We Cannot Spreadsheet Our  
+Way to the Future…
+Phoebe Tickell, Imagination Activist and Founder, Moral Imaginations
+We have set the targets for 2050, but do we actually have a vision? Too  
+often, leaders are trapped in the "Optimization Game"—trying to solve  
+tomorrow's existential crises with today's compliance tools. In this closi……
+2 days ago| 27 mins
+[](https://www.brighttalk.com/webcast/21218/667659?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## From Audits to Advantage: Real-Time Worker Voice for  
+Smarter Supply Chains…
+Dr. Bonny Ling, Executive Director, Work Better Innovations; Olivier Abellan, CSR Director, Carrefour Global Sourcing; Antoine Heuty, SVP Human Rights, General Manager - Ulula, EcoVadis
+Procurement and sustainability teams are moving beyond periodic audits  
+toward regular human rights monitoring powered by worker voice surveys  
+and supply-chain grievance mechanisms. In this session, we discuss h……
+2 days ago| 46 mins
+[](https://www.brighttalk.com/webcast/21218/667649?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Becoming Net Positive: Why Courageous Leadership  
+Matters Now…
+Paul Polman, Business Leader, Investor, Philanthropist, Former CEO, Unilever
+In this session, Paul Polman reflects on what it takes to lead with  
+confidence in a challenging global environment. He explores why  
+progress is continuing despite the headwinds, where leaders are still h……
+2 days ago| 41 mins
+[](https://www.brighttalk.com/webcast/21218/667651?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## The Great Acceleration: Google's AI and Decarbonization  
+Journey…
+Adam Elman, Director of Sustainability, EMEA Google
+For years, sustainability leaders have been drowning in data but starving  
+for insight. We have spreadsheets for carbon and surveys for labor, but  
+we lack the connective tissue to see the whole picture. In this visionary……
+2 days ago| 19 mins
+[](https://www.brighttalk.com/webcast/21218/667591?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Making Sustainable Purchasing the Easy Choice at Scale…
+Blake Westerdahl, Senior Manager, WW Socially Responsible Purchasing, Amazon Business; Monica Visconti-Patel, CMO, EcoVadis
+For most CPOs, strategic suppliers are under control, but the thousands  
+of decentralized, everyday purchases remain a sustainability blind spot.  
+In this rapid-fire spotlight, Blake Westerdahl shares how the new Amaz……
+3 days ago| 9 mins
+[](https://www.brighttalk.com/webcast/19313/665334?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Q1 2026- ABN AMRO Parnassus US ESG Equities…
+Todd C. Ahlsten, Chief Investment Officer and Andrew Choi, Portfolio Manager & Senior Research Analyst
+quarterly review…
+8 days ago| 30 mins
+[](https://www.brighttalk.com/webcast/17290/666211?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## Prudential Transition Plans: A Supervisory Guide for ESG  
+Risk Management…
 UNEP FI
-As the transition to a low-carbon, climate-resilient economy accelerates,  
-financial institutions have a crucial role to play in ensuring that this shift is  
-fair, inclusive and supportive of long-term economic opportunity. This w……
-22 days ago| 61 mins
-[](https://www.brighttalk.com/webcast/20445/662473?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Bridging the Gap: Data-Driven Solutions for a Global Path to  
-Sustainability…
-David Imbert Head of Finance Product Marketing, SAP I Jonathan Michie OBE, FAcSS, Professor of Innovation and Knowledge Exchange, President of Kellogg College, University of Oxford I Anders Knox Strategic Partner Director, Avalara
-Join experts from Oxford, SAP, and Avalara, as they discuss the  
-challenge of global carbon emissions for businesses. While technology  
-enables granular carbon footprint calculations and data sharing, real su……
-2 months ago| 44 mins
-[](https://www.brighttalk.com/webcast/13051/662585?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
-## Sustainability Webinar: Proxy Voting Season Preview…
-Yu-Ting Fu, David Patt, Nicole Lantigua & Coen Kleinegris
-Welcome to our Sustainability Webinar: Proxy Voting Season Preview,  
-where our global corporate governance specialists will discuss emerging  
-trends and key themes shaping the 2026 proxy voting season. This ses……
-1 month ago| 32 mins
+The EBA’s new Guidelines on ESG Risk Management, in force since  
+January 2026, require banks to develop prudential transition plans. The  
+Guidelines provide information regarding expectations on banks’ mana……
+9 days ago| 63 mins
+[](https://www.brighttalk.com/webcast/19061/667109?size=10&rank=-webcast_relevance&duration=0..&contentType=webcast&q=esg)
+## ESG Resilience in Focus: How Markets Price Risk and What  
+It Means for Portfolios…
+Bin Dong, Kasey Vosburg
+Sustainability risk is often framed as something to minimize or avoid  
+altogether, however the latest research by Morningstar Sustainalytics  
+shows the greater opportunity may lie in understanding how different le……
+May 29 2026, 12:00am AEST
 Load more

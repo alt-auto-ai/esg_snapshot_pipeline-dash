@@ -1,17 +1,17 @@
 [ Skip to main content ](https://www.nacc.gov.au/news-and-media#main-content)
 # News and media releases
-Fast facts as at 22 April 2026
+Fast facts as at 29 April 2026
 29
 Preliminary investigations underway
-35
+36
 Corruption investigations underway
-9
+10
 Joint corruption investigations underway
 4
 Matters before the court
-26
+27
 Investigations by other agencies being overseen or monitored by the Commission
-2032
+2150
 Referrals received this financial year
 Displaying 1 - 12 of 141 results
   * News

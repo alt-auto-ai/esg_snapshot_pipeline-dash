@@ -10,7 +10,13 @@ If we fund your services and fuel supply is an issue, talk to your Funding Arran
 
 ## All news
 Filter
-Showing 1 to 12 of 127 results
+Showing 1 to 12 of 129 results
+News 1 May 2026
+###  [ New urban farming project to increase food access ](https://www.dss.gov.au/news/new-urban-farming-project-increase-food-access)
+More people to gain access to nutritious, low-cost food thanks to staff and volunteers. 
+News 28 April 2026
+###  [ Launch of the National Child and Family Investment Strategy ](https://www.dss.gov.au/news/launch-national-child-and-family-investment-strategy)
+The National Child and Family Investment Strategy shows how all governments will prioritise funding to child and family services. 
 News 23 April 2026
 ###  [ Coming soon: electronic newsletter for community sector ](https://www.dss.gov.au/news/coming-soon-electronic-newsletter-community-sector)
 Subscribe now to our new fortnightly newsletter, Community Sector News. 
@@ -41,12 +47,6 @@ Promoting community awareness, understanding and acceptance of people with disab
 News 26 November 2025
 ###  [ A statement from the Secretary: Progression of amendments to correct an anomaly in child support legislation ](https://www.dss.gov.au/news/statement-secretary-progression-amendments-correct-anomaly-child-support-legislation)
 We are changing child support legislation so the parents who provide the most care for their child get the support they need. 
-News 25 November 2025
-###  [ International Day for the Elimination of Violence Against Women 2025 ](https://www.dss.gov.au/news/international-day-elimination-violence-against-women-2025)
-This day marks the start of the UN’s 16 Days of Activism for the Elimination of Violence Against Women 2025. 
-News 3 November 2025
-###  [ A new approach to programs for families and children ](https://www.dss.gov.au/news/new-approach-programs-families-and-children)
-Consultations are now open on proposed reforms to supports and services for families, children and young people. 
 ####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
 Visit our contact us page. 
 ####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)

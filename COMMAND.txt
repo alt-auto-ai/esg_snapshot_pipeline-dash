@@ -25,7 +25,7 @@ python 10.2_crawl_job_with_main_selector.py
 python 11_job_descriptions.py
 
 node "/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/Dashboard/build2.mjs"
-
+git add -A && git commit -m "update pipeline" && git push origin main
 
 
 # Base: all commands share this prefix

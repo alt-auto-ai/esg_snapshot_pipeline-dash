@@ -1,7 +1,7 @@
 Blog icon
 # All news and articles
 Contact 
-12 of 1083 results (sorted by date)
+12 of 1084 results (sorted by date)
 Clear filters
 Search news
 Dates
@@ -14,6 +14,11 @@ News Types
 
 Apply filter
 ##  Filtering by: 
+  * [ News Release 27 April 2026 3 min read New AI tools find smarter ways to measure pasture A global competition has tested the ability of AI to estimate pasture biomass directly from images, supporting faster, more scalable grazing management.  ](https://www.csiro.au/en/news/All/News/2026/April/New-AI-tools-find-smarter-ways-to-measure-pasture)
+Related Tags
+    * [ Ai ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|Ai)
+    * [ Technology ](https://www.csiro.au/en/news/All?articletags={1420CE14-4771-4E26-AA62-01B08F10AF29}|Technology)
+    * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
   * [ News Release 23 April 2026 3 min read Next generation of marine experts set sail on national sea-training voyage Students from universities across Australia will conduct real-world research at sea, gaining hands-on experience to help shape Australia’s next generation of marine experts.  ](https://www.csiro.au/en/news/All/News/2026/April/Next-generation-of-marine-experts-set-sail-with-CAPSTAN)
 Related Tags
     * [ Rv investigator ](https://www.csiro.au/en/news/All?articletags={84CB5987-6568-4E8C-A056-28CAE615B479}|Rv%20investigator)
@@ -50,10 +55,6 @@ Related Tags
 Related Tags
     * [ Minerals ](https://www.csiro.au/en/news/All?articletags={2442AC8C-6448-4775-B85A-389FE5C735A6}|Minerals)
   * [ News Release 3 March 2026 4 min read CSIRO backs Australian startups tackling some of humanity's biggest challenges CSIRO’s ON Accelerate helps researchers turn ideas into real‑world impact by providing the skills, networks and industry engagement needed to progress their innovation journey.  ](https://www.csiro.au/en/news/All/News/2026/March/On-Accelerate-program)
-  * [ News Release 27 February 2026 2 min read CSIRO partners with AMRF Connect on advanced manufacturing program Innovate to Grow: Advanced Manufacturing is a free program helping small-to-medium enterprises refine their business case, build industry collaborations and gain access to research expertise.  ](https://www.csiro.au/en/news/All/News/2026/February/Innovate-to-Grow-Advanced-Manufacturing)
-Related Tags
-    * [ Sme engagement ](https://www.csiro.au/en/news/All?articletags={5AC0DF3B-2851-4136-AE84-DDEC32B248CB}|Sme%20engagement)
-    * [ Manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|Manufacturing)
 
 
 There is no news match your search term.

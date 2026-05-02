@@ -222,7 +222,13 @@ Get in touch with us or find an expert.
 [Getting to our events](https://iceds.anu.edu.au/news-events/events/getting-our-events)
 Check out our calendar of events and participate in our seminars and public lectures.
 ##  Upcoming events 
-_No events are currently scheduled._
+[](https://iceds.anu.edu.au/news-events/events/strait-hormuz-australian-energy-security-supply-chain-resilience)
+07
+May
+2026
+### [The Strait of Hormuz, Australian Energy Security & Supply Chain Resilience »](https://iceds.anu.edu.au/news-events/events/strait-hormuz-australian-energy-security-supply-chain-resilience)
+5pm 7 May
+This panel discussion will bring together leading experts on Gulf energy, Indo-Pacific maritime security, Chinese energy markets, Australia's renewable energy transition, and agricultural and critical mineral supply chains to assess near- and medium-term risks. 
 ## Past events
   * [2023](https://iceds.anu.edu.au/news-events/events#tabs-0-container-1)
   * [2022](https://iceds.anu.edu.au/news-events/events#tabs-0-container-2)

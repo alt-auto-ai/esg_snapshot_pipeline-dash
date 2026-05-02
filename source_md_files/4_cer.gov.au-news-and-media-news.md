@@ -5,6 +5,21 @@ Stay up to date on the latest news from the Clean Energy Regulator.
 You can also browse our [media releases](https://cer.gov.au/news-and-media/media-centre/media-releases "Media releases").
 ## All news
 RET
+News
+#### Register of solar water heaters version 57 is now available
+01 May 2026
+Version 57 of the register of solar water heaters is now available, listing eligible models for small-scale technology certificates. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/may/register-solar-water-heaters-version-57-now-available)
+RET
+GO
+Renewable energy
+Markets
+News
+#### First certificates approved for the Renewable Electricity Guarantee of Origin
+30 April 2026
+We have approved the first Renewable Electricity Guarantee of Origin certificates. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/april/first-certificates-approved-renewable-electricity-guarantee-origin)
+RET
 ACCU
 Markets
 News
@@ -51,18 +66,4 @@ News
 27 February 2026
 We have published the 2024–25 National Greenhouse and Energy Reporting (NGER) data. 
 [ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/february/2024-25-national-greenhouse-and-energy-reporting-data-now-available)
-RET
-Renewable energy
-News
-#### Changes to rebate for solar batteries from 1 May
-17 February 2026
-From 1 May 2026, there will be changes to the number of small-scale technology certificates batteries are eligible for. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/february/changes-to-rebate-solar-batteries-1-may)
-RET
-Markets
-News
-#### Explore the Q4 2025 QCMR data workbook
-21 January 2026
-The Q4 2025 Quarterly Carbon Market Report (QCMR) data workbook is available now. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/january/explore-q4-2025-qcmr-data-workbook)
 ## Was this page helpful?

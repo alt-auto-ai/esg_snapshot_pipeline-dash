@@ -6,96 +6,96 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1234)
+####  News (1246)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
-  * Press release
-  * 23 April 2026
+  * News announcement
+  * 30 April 2026
 
 
-[EU adopts 20th package of sanctions against Russia](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_869)
-The Commission welcomes the adoption by EU Member States of the 20th package of sanctions against Russia.
-  * 1 min read
+[EU grants worth €600 million available for cross-border energy infrastructure projects](https://energy.ec.europa.eu/news/eu-grants-worth-eu600-million-available-cross-border-energy-infrastructure-projects-2026-04-30_en)
+The Commission has today launched a new call for proposals for key cross-border EU energy infrastructure projects with an indicative budget of €600 million.
+  * 2 min read
 
 
   * News announcement
-  * 22 April 2026
+  * 30 April 2026
 
 
-[Commission recommendation to facilitate Power Purchase Agreement take-up ](https://energy.ec.europa.eu/news/commission-recommendation-facilitate-power-purchase-agreement-take-2026-04-22_en)
-The Commission has today published a Recommendation on removing barriers to the development of power purchase agreements (PPAs) and other energy purchase agreements. PPAs comprise long-term bilateral contracts typically concluded between generators and corporate consumers.
+[Citizens Energy Package: helping households in the energy transition](https://energy.ec.europa.eu/news/citizens-energy-package-helping-households-energy-transition-2026-04-30_en)
+A package of recommendations aimed at protecting and supporting citizens in engaging in the clean energy transition has been presented by the Commission today.
+  * 4 min read
+
+
+  * Daily news
+  * 30 April 2026
+
+
+[Commissioner Jørgensen in Paris for talks on the global clean energy transition and housing affordability ](https://energy.ec.europa.eu/news/commissioner-jorgensen-paris-talks-global-clean-energy-transition-and-housing-affordability-2026-04-30_en)
+Today and Monday, 4 May, Commissioner for Energy and Housing Dan Jørgensen will be in Paris to discuss solutions to the global transition towards clean energy with international partners and representatives of the French government.
+  * 2 min read
+
+
+  * News announcement
+  * 30 April 2026
+
+
+[Commission assesses with EU countries the security of oil and gas supply as the conflict in the Middle East continues ](https://energy.ec.europa.eu/news/commission-assesses-eu-countries-security-oil-and-gas-supply-conflict-middle-east-continues-2026-04-30_en)
+Today’s Oil Coordination Group (OCG) and Energy Union Task Force Security (EUTF Security) meetings gathered experts from the European Commission, industry, EU countries, the International Energy Agency (IEA), and NATO to discuss the gas and oil security of supply situation in Europe.
+  * 1 min read
+
+
+  * Press release
+  * 29 April 2026
+
+
+[Successful first round of the EU Hydrogen Mechanism to support market development, providing value added to the industry ](https://energy.ec.europa.eu/news/successful-first-round-eu-hydrogen-mechanism-support-market-development-providing-value-added-2026-04-29_en)
+The European Commission has successfully closed the first round of activities of the Hydrogen Mechanism operated under the EU Energy and Raw Materials Platform.
   * 2 min read
 
 
   * Press release
-  * 22 April 2026
+  * 29 April 2026
 
 
-[Commission proposes actions to protect Europeans from the fossil energy crisis and accelerate the shift to clean, homegrown energy](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_629)
-AccelerateEU is the Commission's toolbox to bring immediate relief to European households and industries, especially the most vulnerable ones, while putting Europe on a steady pathway to energy independence.
+[Commission adopts temporary State aid framework to support sectors affected by Middle East crisis](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_894)
+The European Commission has adopted a temporary State aid framework to enable Member States to support the EU economy in the context of the Middle East crisis
   * 1 min read
 
 
   * Speech
-  * 22 April 2026
+  * 29 April 2026
 
 
-[Remarks by Executive Vice-President Ribera and Commissioner Jørgensen at the press conference on AccelerateEU](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_863)
-Allow me to start with a smart and short reminder. Today it is Earth Day. It is a day where we remind ourselves of the importance of counting on a healthy planet to ensure life. We know that healthy conditions, environment policies, climate policies have also been part of our discussions dealing...
-  * 1 min read
-
-
-  * News article
-  * 22 April 2026
-
-
-[LIFE Calls for proposals 2026: €601.5 million for a greener, more competitive Europe](https://cinea.ec.europa.eu/news-events/news/life-calls-proposals-2026-eu6015-million-greener-more-competitive-europe-2026-04-22_en)
-Launching amid a renewed energy crisis and increased global geopolitical instability, the LIFE 2026 Calls for proposals supports EU measures to increase competitiveness, close the innovation gap and decarbonise the economy.
-  * 1 min read
-
-
-  * News article
-  * 21 April 2026
-
-
-[Eurostat: Significant increase in fuel prices in March 2026](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260421-1)
-Up to February 2026, the price of fuels and lubricants for personal transport in the EU was generally decreasing, for the EU average and for most of EU countries. However, it increased significantly in March 2026.
+[President von der Leyen at the European Parliament on the EU strategy in response to the ongoing Middle East crisis, including its implications on energy prices](https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_923)
+The way forward is obvious, we must reduce our overdependency on imported fossil fuels and boost our home-grown, affordable, clean energy supply. From renewables to nuclear, in full respect of technology neutrality.
   * 1 min read
 
 
   * News announcement
-  * 21 April 2026
+  * 29 April 2026
 
 
-[Introducing the 2026 cohort of Young Energy Ambassadors](https://energy.ec.europa.eu/news/introducing-2026-cohort-young-energy-ambassadors-2026-04-21_en)
-The Commission is delighted to announce the new 2026 cohort of Young Energy Ambassadors - a dynamic group of young innovators, advocates and visionaries passionate about Europe’s clean energy transition.
-  * 1 min read
+[April infringements package: key decisions on energy](https://energy.ec.europa.eu/news/april-infringements-package-key-decisions-energy-2026-04-29_en)
+In the list of April infringements, there are 2 energy-related reasoned opinions and 1 referral to the Court of Justice.
+  * 5 min read
 
 
   * News article
-  * 20 April 2026
+  * 29 April 2026
 
 
-[In focus: EU energy security explained](https://energy.ec.europa.eu/news/focus-eu-energy-security-explained-2026-04-20_en)
-Ready to get to grips with the EU’s energy security policy? Let’s go.
-  * 8 min read
+[PCI-PMI Transparency Platform publishes data from projects from the 2nd PCI and PMI list](https://cinea.ec.europa.eu/news-events/news/pci-pmi-transparency-platform-publishes-data-projects-2nd-pci-and-pmi-list-2026-04-29_en)
+CINEA published the latest project data from the second Union list of Projects of Common Interest (PCIs) and Projects of Mutual Interest (PMIs) on the PCI-PMI Transparency Platform.
+  * 1 min read
 
 
-  * News announcement
-  * 17 April 2026
+  * Statement
+  * 25 April 2026
 
 
-[Commissioner Jørgensen in Spain to discuss ways to tackle the energy and housing crises](https://energy.ec.europa.eu/news/commissioner-jorgensen-spain-discuss-ways-tackle-energy-and-housing-crises-2026-04-17_en)
-On Monday and Tuesday, 20-21 April, Commissioner for Energy and Housing Dan Jørgensen will be in Madrid and Barcelona to discuss energy security, affordability and ways to tackle the housing crisis with Spanish national and local authorities, as well as sectorial stakeholders and young people.
-  * 2 min read
-
-
-  * Press release
-  * 16 April 2026
-
-
-[Commission approves Bulgarian, German and Slovenian State aid schemes providing temporary electricity price relief for energy-intensive companies](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_815)
-The European Commission has approved State aid schemes to provide temporary electricity price relief for energy-intensive companies in Bulgaria, Germany and Slovenia in line with the objectives of the Clean Industrial Deal.
+[Statement by the Commission and the High Representative ahead of the 40 years since the Chornobyl disaster](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_889)
+Forty years ago, the disaster at the Chornobyl Power Plant marked one of the gravest nuclear disasters in human history. Its true toll, long obscured by Soviet secrecy, has only become clearer over time.
   * 1 min read
 
 

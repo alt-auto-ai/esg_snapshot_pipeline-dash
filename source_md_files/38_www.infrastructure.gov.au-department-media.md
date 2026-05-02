@@ -22,9 +22,9 @@ For information on major infrastructure programs, or to search for information o
 We maintain an 
 You will need to sign up to access the library. If you need assistance with imagery please email 
 ## Latest news
+[ 01 May 2026 $48 million in safety upgrades for Victorian roads  Funded projects address safety concerns raised by local communities across 60 Victorian locations. ](https://www.infrastructure.gov.au/department/media/news/48-million-safety-upgrades-victorian-roads)
+[ 30 Apr 2026 Consultation opens on drone security  The Australian Government is seeking feedback on proposals to address drone security risks, ensuring drone use can continue to be safe, responsible, and innovative. ](https://www.infrastructure.gov.au/department/media/news/consultation-opens-drone-security)
+[ 29 Apr 2026 Applications for the Perth Hills Round of the Mobile Network Hardening Program now open  The round will provide up to $1.2 million to upgrade up to 23 mobile tower sites across the Perth Hills region. ](https://www.infrastructure.gov.au/department/media/news/applications-perth-hills-round-mobile-network-hardening-program-now-open)
 [ 23 Apr 2026 Western Sydney International Airport (WSI) Noise Insulation Program commences  The WSI Noise Insulation Program will deliver noise treatments to help reduce aircraft overflight noise experienced inside noise-sensitive habitable areas in existing eligible buildings. ](https://www.infrastructure.gov.au/department/media/news/western-sydney-international-airport-wsi-noise-insulation-program-commences)
-[ 23 Apr 2026 Road safety set to improve across Queensland  More than $30 million in funding will help improve road safety at 44 locations across Queensland. ](https://www.infrastructure.gov.au/department/media/news/road-safety-set-improve-across-queensland)
-[ 15 Apr 2026 Strengthening online safety for Australians  The Australian Government has published its response to the Statutory Review of the Online Safety Act 2021 and will undertake reforms to better prevent and respond to online harms. ](https://www.infrastructure.gov.au/department/media/news/strengthening-online-safety-australians)
-[ 14 Apr 2026 New National Fuel Security advertising campaign launches  The campaign highlights the National Fuel Security Plan, the important part we all have to play to help our fuel go further, and tips to save fuel. ](https://www.infrastructure.gov.au/department/media/news/new-national-fuel-security-advertising-campaign-launches)
 [See all news](https://www.infrastructure.gov.au/media-centre/news)
 ## Videos

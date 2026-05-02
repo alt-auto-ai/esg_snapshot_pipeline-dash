@@ -2,6 +2,13 @@
 # News and media
 See our latest news and announcements. Discover more about what we do.
 ## Featured
+### [Inaugural National Biosecurity Strategy Annual Report released](https://www.agriculture.gov.au/about/news/inaugural-nbs-annual-report-released)
+  * News
+  * Biosecurity
+
+
+30 April 2026
+Substantial progress has been reported in the delivery of the National Biosecurity Strategy Action…
 ### [Meet Australia’s 2025 Biosecurity Top Dog](https://www.agriculture.gov.au/about/news/meet-australias-2025-biosecurity-top-dog)
   * News
   * Biosecurity
@@ -16,14 +23,14 @@ When it comes to stopping biosecurity threats at the border, some of Australia�
 
 24 March 2026
 Australia and the European Union have concluded negotiations to finalise a new wine agreement that…
-### [Importing cats and dogs into Australia from the Middle East](https://www.agriculture.gov.au/about/news/middle-east-conflict-updates)
+## Latest
+### [Detector dog teams protect Australia from exotic animal diseases](https://www.agriculture.gov.au/about/news/detector-dog-teams-protect)
   * News
   * Biosecurity
 
 
-20 March 2026
-The department is closely monitoring the conflict in the Middle East region.
-## Latest
+01 May 2026
+Detector dog teams operate at key entry points across the country, including international airports…
 ### [Applications for the meat inspector traineeship are now open!](https://www.agriculture.gov.au/about/news/applications-meat-inspector-traineeship-now-open)
   * News
   * Exports
@@ -59,6 +66,13 @@ The pace of growth in Australian broadacre farmland prices is moderating across 
 
 27 March 2026
 Over the past 5 years, biosecurity officers at the border have intercepted 22 detections of…
+### [Importing cats and dogs into Australia from the Middle East](https://www.agriculture.gov.au/about/news/middle-east-conflict-updates)
+  * News
+  * Biosecurity
+
+
+20 March 2026
+The department is closely monitoring the conflict in the Middle East region.
 ### [Australian Government Graduate Program applications open](https://www.agriculture.gov.au/about/news/aust-gov-graduate-applications-open)
   * News
   * Agriculture
@@ -66,20 +80,6 @@ Over the past 5 years, biosecurity officers at the border have intercepted 22 de
 
 19 March 2026
 Applications for our graduate development program are now open and we’re seeking graduates across…
-### [Welfare-first aquaculture: Giant Oystercracker innovation](https://www.agriculture.gov.au/about/news/welfare-first-aquaculture-giant-oystercracker-innovation)
-  * Case study
-  * Animals
-
-
-18 March 2026
-The CSIRO Giant Oystercracker Dart fish project represents a welfare-focused development for…
-### [Ag lending on rise as farmers re-invest in business](https://www.agriculture.gov.au/about/news/ag-lending-on-rise)
-  * Media release
-  * ABARES
-
-
-17 March 2026
-Lending to the farm sector has increased by 5% in real terms, to $142.5 billion, according to the…
 [All news](https://www.agriculture.gov.au/about/news/all)
 ## 
 Stay informed

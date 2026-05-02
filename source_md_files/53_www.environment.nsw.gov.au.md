@@ -1,10 +1,25 @@
 A NSW Government website
 photo_camera Open description
-Waterworks heritage building at Goulburn, NSW.  close Close description
-Credit: John Spencer/DCCEEW 
+A kingfisher bird resting on branch in Moonee Creek, Moonee Beach Nature Reserve.  close Close description
+Credit: Robert Cleary/DCCEEW 
 # Environment and Heritage
 [ Apply for a licence ](https://www.environment.nsw.gov.au/licences-and-permits) [ Search heritage databases ](https://www.environment.nsw.gov.au/topics/heritage/search-heritage-databases) [ Explore biodiversity data ](https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet) [ Browse publications ](https://www.environment.nsw.gov.au/research-and-publications/publications) [ Find information ](https://www.environment.nsw.gov.au/about-us/find-information) [ Report a problem ](https://www.environment.nsw.gov.au/about-us/report-a-problem-or-incident)
 ## Stay up to date
+photo_camera Open description
+Lizard illegally imported into New South Wales.  close Close description
+Credit: DCCEEW 
+[Man sentenced for illegal import of protected native reptiles into NSW](https://www.environment.nsw.gov.au/news/man-sentenced-illegal-import-protected-native-reptiles)
+east
+photo_camera Open description
+Yellow-footed rock-wallaby (Petrogale xanthopus).  close Close description
+Credit: Peter Sherratt/DPE 
+[Welcome home: Yellow-footed rock wallaby to return to Western Ridge at Mutawintji Lands](https://www.environment.nsw.gov.au/news/yellow-footed-rock-wallaby-return-western-ridge-mutawintji-lands)
+east
+photo_camera Open description
+Wentworth Falls Lookout. Grand Cliff Top Walk, Blue Mountains National Park.  close Close description
+Credit: R Brand/DCCEEW 
+[Record visits to NSW national parks drives economic growth and regional jobs](https://www.environment.nsw.gov.au/news/record-visits-nsw-national-parks-drives-economic-growth-and-regional-jobs)
+east
 photo_camera Open description
 A pair of seized lizards in wildlife trafficking.  close Close description
 Credit: DCCEEW 
@@ -29,21 +44,6 @@ photo_camera Open description
 An autumn environmental flow will be delivered to sustain critical wetland habitat for the endangered southern bell frog.  close Close description
 Credit: Amelia Walcott/ DCCEEW 
 [Autumn environmental flow to support southern bell frog habitat in the Cumbung](https://www.environment.nsw.gov.au/news/autumn-environmental-flow-support-southern-bell-frog-habitat-cumbung-news)
-east
-photo_camera Open description
-Inside the new greenhouse.  close Close description
-Credit: SNEL 
-[NSW Koala Strategy funds Armidale greenhouse to expand koala habitat](https://www.environment.nsw.gov.au/news/nsw-koala-strategy-funds-armidale-greenhouse-expand-koala-habitat-news)
-east
-photo_camera Open description
-Tomaree Public School student Florence working with Villous mintbush.  close Close description
-Credit: DCCEEW 
-[Students get hands-on saving rare threatened plant at Tomaree](https://www.environment.nsw.gov.au/news/students-get-hands-saving-rare-threatened-plant-tomaree)
-east
-photo_camera Open description
-Ball-Eastaway House, Glenorie, designed by Glenn Murcutt.  close Close description
-Credit: Paul Lovelace, Alamy 
-[Glenorie’s Ball–Eastaway House and Setting added to the State Heritage Register](https://www.environment.nsw.gov.au/news/glenories-ball-eastaway-house-and-setting-added-state-heritage-register)
 east
 photo_camera Open description
 Aerial view of swimmers at Bronte Beach.  close Close description

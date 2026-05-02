@@ -27,53 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-24 April 2026
-### [Major redevelopment of Gillieston Public School reaches new heights](https://www.nsw.gov.au/ministerial-releases/major-redevelopment-of-gillieston-public-school-reaches-new-heights)
-The Minns Labor Government is delivering another long overdue school upgrade for regional NSW, with Gillieston Public School’s major redevelopment reaching a major construction milestone.
+1 May 2026
+### [More than 25,000 visits to Long Jetty Urgent Care Service](https://www.nsw.gov.au/ministerial-releases/long-jetty-visits-reach-25k)
+Communities in the Central Coast are benefitting from more timely access to urgent care, with more than 25,000 visits made to the Long Jetty Urgent Care Service since it opened in December 2023.
 Ministerial media release
-24 April 2026
-### [$12.3 million to accelerate over 9,800 new homes across regional NSW](https://www.nsw.gov.au/ministerial-releases/123-million-to-accelerate-over-9800-new-homes-across-regional-nsw)
-The Minns Labor Government is accelerating housing delivery in regional communities providing $12.3 million in financial support to councils which will help unlock more than 9,800 new homes through the latest round of the Low Cost Loans Initiative (LCLI).
+1 May 2026
+### [Nurses and midwives at Northern Beaches Hospital to receive expanded opportunities in public health system](https://www.nsw.gov.au/ministerial-releases/career-development-northern-beaches-hospital)
+Nurses and midwives at Northern Beaches Hospital will be able to access additional career development opportunities now that the hospital has transitioned into the public system.
 Ministerial media release
-24 April 2026
-### [Hunter girls fired up for their futures](https://www.nsw.gov.au/ministerial-releases/hunter-girls-fired-up-for-their-futures)
-The Minns Labor Government is empowering young women and girls in Newcastle and the Hunter to seek opportunities in emergency services through the Girls on Fire program, funded as part of our continued investment in women’s advancement. 
+1 May 2026
+### [Northern Beaches Hospital allied health staff to benefit from expanded opportunities in NSW public health system](https://www.nsw.gov.au/ministerial-releases/northern-beaches-hospital-allied-health-staff-to-benefit-from-expanded-opportunities-nsw-public-health-system)
+Allied health staff at Northern Beaches Hospital are now able to access expanded training, and additional professional development and career pathway opportunities following the hospital’s transition to public ownership yesterday.
 Ministerial media release
-24 April 2026
-### [Home stretch: fuel compliance inspections close in on most remote service stations this long weekend](https://www.nsw.gov.au/ministerial-releases/fuel-inspections-remote-stations)
-The Minns Labor Government is urging motorists to continue using FuelCheck while travelling this long weekend as NSW Fair Trading pushes its statewide fuel transparency compliance inspections into the most remote areas of the state.
+1 May 2026
+### [Rebuilding our Force: Largest police class in more than 13 years sworn in to keep NSW safe](https://www.nsw.gov.au/ministerial-releases/rebuilding-our-force)
+The Minns Labor Government will today welcome 349 new probationary constables into the NSW Police Force, with Class 368 attesting at the Goulburn Police Academy.
 Ministerial media release
-24 April 2026
-### [Young families lead the charge at latest Lismore buyback homes auction](https://www.nsw.gov.au/ministerial-releases/young-families-lead-charge-at-latest-lismore-buyback-homes-auction)
-A new generation of homeowners is seizing the opportunity to secure a future in the Northern Rivers, with young families dominating the bidding at Lismore’s third flood buyback auction of the year.
+1 May 2026
+### [New Rouse Hill Hospital moves from planning to delivery](https://www.nsw.gov.au/ministerial-releases/new-rouse-hill-hospital-moves-from-planning-to-delivery)
+North west Sydney is a step closer to a state of the art healthcare facility, with the designs for the $910 million Rouse Hill Hospital officially locked in and early works underway.
 Ministerial media release
-24 April 2026
-### [Applications open to celebrate NSW carers](https://www.nsw.gov.au/ministerial-releases/applications-open-celebrate-carers)
-The Minns Labor Government is supporting the extraordinary contribution of carers across the state with applications now open for the NSW National Carers Week Grants program.
+1 May 2026
+### [Building the Future: Powerhouse Parramatta reaches key construction milestone](https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/powerhouse-parramatta-completed)
+The Minns Labor Government today announced a major construction milestone at Powerhouse Parramatta, with the museum now having reached completion and exhibition fit outs now well and truly underway ahead of opening later this year.
 Ministerial media release
-24 April 2026
-### [More than 15,000 new homes for Punchbowl and Wiley Park](https://www.nsw.gov.au/ministerial-releases/more-than-15000-new-homes-for-punchbowl-and-wiley-park)
-The Minns Labor Government has together with the City of Canterbury-Bankstown unlocked more than 15,000 new homes after finalising planning controls in Punchbowl and Wiley Park Transport Oriented Development (TOD) precincts.
+1 May 2026
+### [New Small Business Commissioner appointed for NSW](https://www.nsw.gov.au/ministerial-releases/new-small-business-commissioner-appointed-for-nsw)
+Ms Kalina Koloff has been appointed as the state’s new Small Business Commissioner.
+Ministerial speech
+1 May 2026
+### [The Daily Telegraph 'Future Western Sydney' Summit 2026](https://www.nsw.gov.au/ministerial-releases/future-western-sydney-summit-2026)
+Thanks, Anna, what a privilege to be here, following the Prime Minister with so many distinguished speakers and guests. Thanks, Simon and your team from this beautiful airport.
 Ministerial media release
-24 April 2026
-### [$50 million relief for community services sector as Minns Labor Government reduces levy](https://www.nsw.gov.au/ministerial-releases/community-services-long-service-levy-reduced)
-The Minns Labor Government is delivering immediate financial relief to thousands of organisations across the community services sector, by reducing the levy for the Community Services Portable Long Service Leave Scheme.
+30 April 2026
+### [Busy storm season wraps up as SES continues to boost capabilities with new flood rescue vehicles](https://www.nsw.gov.au/ministerial-releases/new-flood-rescue-vehicles)
+Preparations are already underway for future severe weather events as a busy storm season comes to an end, with State Emergency Service (SES) volunteers responding to more than 23,000 calls and 1,500 flood related incidents. 
 Ministerial media release
-24 April 2026
-### [World class observatory opens in Mallanganee](https://www.nsw.gov.au/ministerial-releases/mallanganee-observatory-opens)
-The Northern Rivers has a new star in its tourism crown with the official opening of the Mallanganee Observatory-Lookout. 
-Ministerial media release
-24 April 2026
-### [23 retailers closed in targeted tobacco and vaping blitz](https://www.nsw.gov.au/ministerial-releases/23-retailers-closed-targeted-tobacco-and-vaping-blitz)
-Twenty-three retailers on the Central Coast have been shut immediately for 90 days during a joint operation led by NSW Health with support from NSW Police and the Australian Border Force to disrupt the supply of illicit tobacco and vapes in the region.
+30 April 2026
+### [New Warringah Freeway bus lane gives buses an un-interrupted run to the CBD as upgrade nears completion](https://www.nsw.gov.au/ministerial-releases/new%c2%a0warringah-freeway%c2%a0bus-lane%c2%a0gives-buses-an-un-interrupted-run-to-cbd%c2%a0as%c2%a0upgrade-nears-completion)
+The Minns Labor Government is marking another milestone on the Warringah Freeway Upgrade, with a series of traffic switches taking place this weekend including a local dedicated southbound bus lane that will mean safer and more efficient journeys for thousands of commuters travelling into the Sydney CBD.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 553
-  * 554
-  * 555
+  * 557
+  * 558
+  * 559
   * keyboard_arrow_right
 
 

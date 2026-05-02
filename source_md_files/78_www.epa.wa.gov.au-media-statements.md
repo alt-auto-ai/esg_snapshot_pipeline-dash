@@ -13,6 +13,12 @@
 Media statements are also released by the [Minister for Environment](https://www.mediastatements.wa.gov.au/Pages/Ministers/Reece-Whitby.aspx).
 Please note that the email address for general media enquiries is 
 [](https://www.epa.wa.gov.au/subscribe-content)
+##### [Proposed South West quarry’s environmental impacts unacceptable](https://www.epa.wa.gov.au/media-statements/proposed-south-west-quarry%E2%80%99s-environmental-impacts-unacceptable)
+April 29, 2026
+The Environmental Protection Authority (EPA) has recommended a proposal to extract sand and limestone from a South West quarry not be implemented.
+The Carlo Doyle’s Haulage Pty Ltd proposal to operate a [Limestone and Sand Quarry at Lot 1002 Preston Beach](https://www.epa.wa.gov.au/proposals/limestone-and-sand-quarry-lot-1002-preston-beach) would involve extraction, screening and crushing, as well as grading and maintenance of Preston Beach North Road for haul truck access.
+[Read more...](https://www.epa.wa.gov.au/media-statements/proposed-south-west-quarry%E2%80%99s-environmental-impacts-unacceptable)
+* * *
 ##### [Gold mine proposal recommended for environmental approval](https://www.epa.wa.gov.au/media-statements/gold-mine-proposal-recommended-environmental-approval)
 April 8, 2026
 A proposal to develop an underground gold mine in the Great Sandy Desert has been recommended for approval by the Environmental Protection Authority (EPA), subject to strict conditions that include a ban on night-time haulage to protect the critically endangered night parrot.
@@ -65,12 +71,6 @@ September 19, 2025
 A proposal to upgrade and extend wharf infrastructure at the Port of Geraldton has been recommended for approval by the Environmental Protection Authority (EPA), subject to conditions to minimise impacts on the marine environment, seagrass, marine fauna and coastal processes.
 The Mid West Ports Authority wants to replace multiple wharf decks, upgrade the tug harbour and construct a new breakwater extending further north into Champion Bay as part of its proposed [Geraldton Port Maximisation Project](https://www.epa.wa.gov.au/proposals/geraldton-port-maximisation-project).
 [Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-report-and-recommendations-geraldton-port-upgrade)
-* * *
-##### [EPA delivers assessment on Kwinana peaking power proposal](https://www.epa.wa.gov.au/media-statements/epa-delivers-assessment-kwinana-peaking-power-proposal)
-September 11, 2025
-The Environmental Protection Authority (EPA) has completed its assessment of a proposal to increase the capacity of the Kwinana Swift Power Station to supply electricity to the South West Interconnected System (SWIS) network.
-The EPA determined to assess the Western Energy Pty Ltd proposal to construct, install and operate four open-cycle gas turbines in May this year. Today the independent Authority published its report on the [K2 Project](https://www.epa.wa.gov.au/proposals/k2-project), recommending the proposal may be implemented subject to conditions.
-[Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-assessment-kwinana-peaking-power-proposal)
 * * *
 ## Pages
   * 1

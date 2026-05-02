@@ -6,9 +6,27 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (674)
+####  News (676)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News article
+  * 24 April 2026
+
+
+[EU customs education partners meet in Tallinn to strengthen training collaboration](https://taxation-customs.ec.europa.eu/news/eu-customs-education-partners-meet-tallinn-strengthen-training-collaboration-2026-04-24_en)
+On 25–26 March 2026, representatives from European universities, customs administrations, and the European Commission gathered in Tallinn, Estonia, to discuss the future of customs education under the EU Recognition of Customs Academic Programmes initiative.
+  * 1 min read
+
+
+  * News article
+  * 24 April 2026
+
+
+[Provisional Application of the EU-Mercosur Interim Trade Agreement Begins 1 May 2026](https://taxation-customs.ec.europa.eu/news/provisional-application-eu-mercosur-interim-trade-agreement-begins-1-may-2026-2026-04-24_en)
+On 1 May 2026, the EU-Mercosur Interim Trade Agreement (ITA) will enter into provisional application.
+  * 1 min read
+
+
   * News article
   * 23 April 2026
 
@@ -78,24 +96,6 @@ On Thursday 19th March 2026, DG TAXUD hosted the first in a series of webinars o
 
 [Commission welcomes selection of Lille as seat for EU Customs Authority ](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_707)
 The Commission welcomes today's agreement between the European Parliament and the Council selecting Lille as the seat of the EU Customs Authority (‘EUCA').
-  * 1 min read
-
-
-  * News article
-  * 13 March 2026
-
-
-[New deadline announced for CBAM CCP Call for Tenders](https://taxation-customs.ec.europa.eu/news/cbam-call-tender-establish-common-central-platform-ccp-2026-03-02_en)
-The submission deadline for the CBAM CCP Call for Tenders has been extended. The new deadline for submissions is Monday, 6 April 2026 at 5:00 PM (CET).
-  * 1 min read
-
-
-  * News article
-  * 9 March 2026
-
-
-[New EU Economy and Finance account has been launched on Bluesky](https://taxation-customs.ec.europa.eu/news/new-eu-economy-and-finance-account-has-been-launched-bluesky-2026-03-09_en)
-We are pleased to announce that the EU Economy and Finance Bluesky account was launched on 4 March.
   * 1 min read
 
 

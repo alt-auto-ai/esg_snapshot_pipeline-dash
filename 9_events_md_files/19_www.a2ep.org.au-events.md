@@ -4,12 +4,14 @@ Upcoming events
 ## UPCOMING EVENTS
 Here you will find all of our upcoming webinars and in-person events. To receive alerts on our upcoming events and stay up-to-date on all our industry news, 
 ## [Registrations are now open for the 2026 Australasian Renewable Heat Conference in Melbourne!](https://www.a2ep.org.au/post/save-the-date-the-australasian-renewable-heat-conference-is-heading-to-melbourne-in-2026)
-## [EVENT | 23 April: A2EP Member Update + networking drinks - Brisbane & online](https://www.a2ep.org.au/post/event-23-april-a2ep-member-update-networking-drinks-brisbane-online)
-## [WORKSHOP | 28 April: Lowering heating hot water temperature to reduce CAPEX & OPEX - Melbourne](https://www.a2ep.org.au/post/workshop-28-april-lowering-heating-hot-water-temperature-to-reduce-capex-and-opex-melbourne)
 ## [WORKSHOP | 5 May: Lowering heating hot water temperature to reduce CAPEX & OPEX - Sydney](https://www.a2ep.org.au/post/workshop-5-may-lowering-heating-hot-water-temperatures-to-reduce-capex-and-opex-sydney)
 ## [EVENT | 14 May: A2EP Member Update + networking drinks - Melbourne](https://www.a2ep.org.au/post/event-14-may-a2ep-member-update-networking-drinks-melbourne)
+## [WEBINAR | 2 June: Renewable heat options for food & beverage manufacturers](https://www.a2ep.org.au/post/webinar-2-june-renewable-heat-options-for-food-beverage-manufacturers)
+## [WEBINAR | 10 June: Sustainability reporting & climate-related disclosures update](https://www.a2ep.org.au/post/webinar-10-june-sustainability-reporting-climate-related-disclosures-update)
 Recordings
 ## RECORDINGS & PAST EVENTS
+## [EVENT | 23 April: A2EP Member Update + networking drinks - Brisbane & online](https://www.a2ep.org.au/post/event-23-april-a2ep-member-update-networking-drinks-brisbane-online)
+## [WORKSHOP | 28 April: Lowering heating hot water temperature to reduce CAPEX & OPEX - Melbourne](https://www.a2ep.org.au/post/workshop-28-april-lowering-heating-hot-water-temperature-to-reduce-capex-and-opex-melbourne)
 ## [EVENT | 19 March: A2EP Member Update + networking drinks - Sydney](https://www.a2ep.org.au/post/event-19-march-a2ep-member-update-networking-drinks-sydney)
 ## [RECORDING | 18 March: How eTES can support businesses & its Australian market potential](https://www.a2ep.org.au/post/webinar-18-march-how-etes-can-support-businesses-its-australian-market-potential)
 ## [RECORDING | 11 March: XaaS - heat, cooling and energy service models for businesses](https://www.a2ep.org.au/post/webinar-11-march-xaas-heat-cooling-and-energy-service-models-for-businesses)
@@ -23,8 +25,6 @@ Recordings
 ## [EVENT | 9 December: A2EP's Decarbonising Commercial Buildings program launch](https://www.a2ep.org.au/post/decarbonising-commercial-buildings-program-launch)
 ## [RECORDING | 18 November: Developing decarbonisation roadmaps - Making your energy project business case webinar series](https://www.a2ep.org.au/post/webinar-18-november-making-your-energy-project-business-case-series-developing-decarbonisation)
 ## [RECORDING | 10 November: Locking in targets & action plans - Making your energy project business case webinar series](https://www.a2ep.org.au/post/webinar-10-november-making-your-energy-project-business-case-series-locking-in-targets-action)
-## [EVENT | 15 October: A2EP Member Update & networking drinks - Sydney & Online](https://www.a2ep.org.au/post/event-15-october-a2ep-member-drinks-sydney)
-## [ARHC2025 in review: Our wrap-up of the 2025 Australian Renewable Heat Conference](https://www.a2ep.org.au/post/arhc2025-in-review-our-wrap-up-of-the-2025-australian-renewable-heat-conference)
 1[2](https://www.a2ep.org.au/events)[3](https://www.a2ep.org.au/events)[4](https://www.a2ep.org.au/events)[5](https://www.a2ep.org.au/events)[](https://www.a2ep.org.au/events)[](https://www.a2ep.org.au/events)
 bottom of page
 We use cookies on our website to see how you interact with it. By accepting, you agree to our use of such cookies.[Privacy Policy](https://www.a2ep.org.au/privacy)

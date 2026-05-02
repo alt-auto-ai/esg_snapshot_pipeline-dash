@@ -52,10 +52,10 @@ consent.cookiebot.com
 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 Your prior consent is required to use these cookies.
 We do not use cookies of this type.
-  * Statistics  23
+  * Statistics  22
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
 Your prior consent is required to use these cookies.
-    * [Contentsquare7](https://www.globalreporting.org/news/events/)
+    * [Contentsquare6](https://www.globalreporting.org/news/events/)
 **_cs_id** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
 **Maximum Storage Duration** : 13 months**Type** : HTTP Cookie
 **_cs_root-domain** Registers how the user has reached the website to enable pay-out of referral commission fees to partners.
@@ -67,8 +67,6 @@ Your prior consent is required to use these cookies.
 **_hjUserAttributes** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **_cs_same_site** Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. 
-**Maximum Storage Duration** : Session**Type** : HTTP Cookie
-**_cs_t** Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [Google6](https://www.globalreporting.org/news/events/)
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
@@ -99,7 +97,7 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
 **FPLC** Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
-  * Marketing  21
+  * Marketing  23
 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
 Your prior consent is required to use these cookies.
     * [Google5](https://www.globalreporting.org/news/events/)
@@ -122,7 +120,9 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
 **muc_ads** Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. 
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
-    * [YouTube10](https://www.globalreporting.org/news/events/)
+    * [YouTube11](https://www.globalreporting.org/news/events/)
+**__Secure-BUCKET** Pending
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-ROLLOUT_TOKEN** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-YEC** Stores the user's video player preferences using embedded YouTube video
@@ -143,6 +143,9 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **YtIdbMeta#databases** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
+    * [globalreporting.org1](https://www.globalreporting.org/news/events/)
+**_dcid** Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
     * [gtm.globalreporting.org1](https://www.globalreporting.org/news/events/)
 **_/set_cookie** Used by server-side Google Tag Manager to set or update cookies required for analytics or marketing tags.
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
@@ -166,7 +169,7 @@ Your prior consent is required to use these cookies.
 [Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.globalreporting.org/news/events/)
 [#BULK_CONSENT_TITLE#]
 List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
-Cookie declaration last updated on 4/1/26 by 
+Cookie declaration last updated on 4/27/26 by 
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
 [#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]

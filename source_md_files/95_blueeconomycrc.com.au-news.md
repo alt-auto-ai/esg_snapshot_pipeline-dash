@@ -5,6 +5,11 @@
 Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts by Anneka Ferguson")2026-03-06T10:36:24+11:00
 # LATEST
 # News
+  * [Webinar: What’s it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/) [](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
+
+
+## [Webinar: What’s it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-02T09:03:38+10:00April 27th, 2026|
   * [Participants Workshop 2026](https://blueeconomycrc.com.au/participants-workshop-2026/) [](https://blueeconomycrc.com.au/participants-workshop-2026/)
 
 
@@ -19,7 +24,7 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 
 ## [Webinar: SeaFisher Offshore Fish Pen Advancements](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-09T10:55:45+10:00April 1st, 2026|
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-28T14:57:52+10:00April 1st, 2026|
   * [Where has all the King Island Bull Kelp Gone?](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/) [](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/)
 
 
@@ -60,11 +65,6 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 ## [2025 at a Glance](https://blueeconomycrc.com.au/2025-at-a-glance/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-23T10:44:29+11:00December 23rd, 2025|
-  * [Offshore Seaweed Farming is Gaining Momentum](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/) [](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/)
-
-
-## [Offshore Seaweed Farming is Gaining Momentum](https://blueeconomycrc.com.au/offshore-seaweedfarming-is-gaining-momentum/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-18T14:39:26+11:00December 18th, 2025|
 _Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 NEWSLETTERS

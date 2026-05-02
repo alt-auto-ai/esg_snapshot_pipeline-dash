@@ -10,55 +10,55 @@ See our latest news and announcements. Discover more about what we do.
 
 24 April 2026
 The Australian government is taking action to secure our fuel supply. 
-### [Measuring nature’s value for better environmental decisions](https://www.dcceew.gov.au/about/news/measuring-natures-value-better-environmental-decisions)
+### [Public feedback highlights priorities for Snowy Water Deed review](https://www.dcceew.gov.au/about/news/public-feedback-highlights-priorities-snowy-water-deed-review)
+  * News
+  * Water
+
+
+01 May 2026
+The Independent Review Panel asked the public to share their views on the Snowy Water Inquiry…
+### [Statutory consultation now open: MNES standard](https://www.dcceew.gov.au/about/news/statutory-consultation-now-open-mnes-standard)
   * News
   * Environment
 
 
-23 April 2026
-The importance of the environment and its contribution to our economic and social wellbeing is…
-### [Improving Fremantle’s Samson Park for nature](https://www.dcceew.gov.au/about/news/improving-fremantles-samson-park-nature)
+30 April 2026
+We are seeking feedback on the revised National Environmental Standard for Matters of National…
+### [Have your say on proposed ACCU Scheme amendments](https://www.dcceew.gov.au/about/news/hys-proposed-accu-scheme-amendments)
+  * Have your say
+  * Climate change
+
+
+30 April 2026
+Have your say on proposed ACCU Scheme amendments.
+### [Building resilient Reef wetlands](https://www.dcceew.gov.au/about/news/building-resilient-reef-wetlands)
   * News
   * Environment
 
 
-23 April 2026
-$1.7m investment supports habitat restoration at Fremantle’s Samson Park.
-### [Macquarie Harbour water improvement a step closer](https://www.dcceew.gov.au/about/news/macquarie-harbour-water-improvement-step-closer)
+30 April 2026
+The government has announced funding to support healthy Reef wetlands.
+### [Energy upgrades roll out across social housing in TAS](https://www.dcceew.gov.au/about/news/energy-upgrades-roll-out-across-social-housing-tas)
   * News
-  * Environment
+  * Energy
 
 
-22 April 2026
-We are working with researchers and industry to improve conditions in Macquarie Harbour. 
-### [Restoring banksia woodland habitat](https://www.dcceew.gov.au/about/news/restoring-banksia-woodland-habitat)
-  * News
-  * Environment
-
-
-22 April 2026
-Local Environmental Projects Program supports banksia restoration in Western Australia.
-### [Partnering to protect Sea Country](https://www.dcceew.gov.au/about/news/partnering-protect-sea-country)
-  * News
-  * Environment
-
-
-22 April 2026
-Traditional Owners have strong cultural and spiritual connections with the Reef. They also hold…
-### [World Heritage Day: Protecting our unique places](https://www.dcceew.gov.au/about/news/world-heritage-day-protecting-our-unique-places)
-  * News
-  * Heritage
-
-
-17 April 2026
-The ICOMOS International Day for Monuments and Sites is marked each year on 18 April.
-### [Review of NGER Method 2 for open-cut coal mines](https://www.dcceew.gov.au/about/news/review-nger-method-2-open-cut-coal-mines)
+30 April 2026
+Energy upgrades underway in Tasmanian social housing to cut bills and keep homes warm.
+### [Australia advances global energy and climate action at Petersberg Dialogue](https://www.dcceew.gov.au/about/news/australia-advances-global-energy-climate-action-petersberg-dialogue)
   * News
   * Climate change
 
 
-17 April 2026
-Publication of terms of reference for NGER Method 2 review.
+29 April 2026
+Australia joined over 30 countries at the Petersberg Climate Dialogue in Berlin from 21 to 22…
+### [Five species selected for protection statement pilot](https://www.dcceew.gov.au/about/news/protection-statement-pilot)
+  * News
+  * Environment
+
+
+29 April 2026
+Five species have been selected to trial new protection statements.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

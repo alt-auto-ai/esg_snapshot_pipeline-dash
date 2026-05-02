@@ -24,8 +24,9 @@ Menu
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Exploration grants](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * ### [Round 18 successful projects ](https://resourcingtheterritory.nt.gov.au/gdc/current-round-successful-projects)
-  * ### [Successful projects in previous rounds ](https://resourcingtheterritory.nt.gov.au/gdc/successful-projects-in-previous-rounds)
+  * ### [Round 19 2026-27 ](https://resourcingtheterritory.nt.gov.au/gdc/current-grants-round)
+  * ### [Round 18 2025-26 ](https://resourcingtheterritory.nt.gov.au/gdc/current-round-successful-projects)
+  * ### [Round 1 to 17 ](https://resourcingtheterritory.nt.gov.au/gdc/successful-projects-in-previous-rounds)
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Energy](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)

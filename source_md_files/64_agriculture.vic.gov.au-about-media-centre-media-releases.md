@@ -4,8 +4,24 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **298** results 
+Showing **1** to **10** of **302** results 
 Sort by
+## [Hawkesdale farmers guilty of cattle and sheep neglect](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/hawkesdale-farmers-guilty-of-cattle-and-sheep-neglect)
+30 Apr 2026
+The owners of 3 Hawkesdale farming properties have been found guilty and fined after an animal welfare complaint.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/hawkesdale-farmers-guilty-of-cattle-and-sheep-neglect>
+## [Make on-farm upgrades this autumn with a drought grant](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/make-on-farm-upgrades-this-autumn-with-a-drought-grant)
+28 Apr 2026
+Farm Drought Support Grants are available to primary producers to support on-farm infrastructure improvements and essential business activities.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/make-on-farm-upgrades-this-autumn-with-a-drought-grant>
+## [One-on-one support for drought affected producers](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/one-on-one-support-for-drought-affected-producers)
+28 Apr 2026
+Victorian farmers are being encouraged to access free one-on-one consultations to help take stock and develop a tailored drought management plan.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/one-on-one-support-for-drought-affected-producers>
+## [Case study - suspect lesser loosestrife toxicity](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-suspect-lesser-loosestrife-toxicity)
+27 Apr 2026
+In a challenging 2025 that saw limited pasture availability, many animals were grazed in unusual locations and on unconventional forage sources.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-suspect-lesser-loosestrife-toxicity>
 ## [Gippsland Irrigation Expo to help farmers future proof](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof)
 24 Apr 2026
 With more farmers planning for drier years and tightening water allocations, the Gippsland Irrigation Expo is returning on 20 May at the Sale Showgrounds.
@@ -30,22 +46,6 @@ New leadership and new members have been appointed to the VACCC to help the stat
 08 Apr 2026
 Drought impacted farming families and workers in the south west can access financial support to help ease cost‑of‑living pressures.
 <https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/support-for-farmers-and-workers-in-the-south-west>
-## [Surveillance for significant animal diseases in Victoria](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/surveillance-for-significant-animal-diseases-in-victoria)
-07 Apr 2026
-The Significant Disease Investigation (SDI) Program provides subsidies to farmers for initial field investigations of livestock and wildlife disease events.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/surveillance-for-significant-animal-diseases-in-victoria>
-## [Cool weather still driving hay fire danger](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cool-weather-still-driving-hay-fire-danger)
-02 Apr 2026
-Cooler conditions across Victoria may suggest reduced haystack fire risk, but moist hay continues to heat internally and remains a significant hazard.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cool-weather-still-driving-hay-fire-danger>
-## [Managing pests and weeds from introduced fodder](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/managing-pests-and-weeds-from-introduced-fodder)
-30 Mar 2026
-If you’re purchasing fodder for the coming autumn or winter, don’t forget to consider the increased risks of introducing pests and weeds to the property.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/managing-pests-and-weeds-from-introduced-fodder>
-## [Growing our food safety standards](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/growing-our-food-safety-standards)
-26 Mar 2026
-Agriculture Victoria is supporting berry, melon and leafy vegetable growers to implement new national food safety standards.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/growing-our-food-safety-standards>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)

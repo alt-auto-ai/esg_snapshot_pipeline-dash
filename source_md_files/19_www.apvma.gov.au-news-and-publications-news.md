@@ -1,5 +1,4 @@
 [ Skip to main content ](https://www.apvma.gov.au/news-and-publications/news#main-content "Skip to main content")
-The APVMA [Online Services Portal(Opens in a new tab/window)](https://portal.apvma.gov.au/) will be unavailable between 8 pm (AEST) Friday 24 April and 5 am (AEST) Saturday 25 April due to scheduled maintenance.
 # News
 Subscribe to receive 
 ### 2026 
@@ -116,10 +115,6 @@ Subscribe to receive
   * [APVMA March 2021 performance report released](https://www.apvma.gov.au/news-and-publications/news/apvma-march-2021-performance-report-released) - 9 June 2021
   * [New Infringement Notice Guideline](https://www.apvma.gov.au/news-and-publications/news/new-infringement-notice-guideline) - 21 April 2021
   * [Tips for registrants: Information lists and trademarks](https://www.apvma.gov.au/news-and-publications/news/tips-registrants-information-lists-and-trademarks) - 11 March 2021
-  * [The APVMA’s strong performance continues](https://www.apvma.gov.au/news-and-publications/news/apvmas-strong-performance-continues) - 23 February 2021
-
-
-  * [Public consultation opens on a revised stakeholder engagement model](https://www.apvma.gov.au/news-and-publications/news/public-consultation-opens-revised-stakeholder-engagement-model)
 
 
 ## Archive

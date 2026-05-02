@@ -55,7 +55,6 @@ Prior to joining CPA Australia, Patrick worked for the Chartered Institute of Ma
 Patrick also lectured in Finance and Investment Management, and prior to that held several key finance positions in the wealth creation industry in both the United Kingdom and South Africa.
 ## Join us for this Global ESG live stream series
 Deepen your understanding of emerging ESG trends and regulations by registering for this engaging series of live streams.
-Live Chat
 Our website uses cookies to allow us to improve functionality and understand our members’ interests. By using this website, you consent to CPA Australia’s use of cookies. For more information about our website and your privacy please see our [Privacy Policy](https://www.cpaaustralia.com.au/privacy-policy-and-statement)
 Manage settings Reject all cookies Accept all cookies
 ## Privacy preference

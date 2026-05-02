@@ -1,6 +1,10 @@
 [ Skip to main content ](https://www.chiefscientist.gov.au/news/latest-news#main-content)
 # Latest news
 ### 
+[Launch of the ARC Hub for PV Solar Panel Recycling and Sustainability](https://www.chiefscientist.gov.au/news-and-media/launch-arc-hub-pv-solar-panel-recycling-and-sustainability)
+On Tuesday 21 April, Australia’s Chief Scientist Prof Tony Haymet delivered a pre-recorded address for the launch of the Australian Research Council Hub for PV Solar Panel Recycling and Sustainability.
+[](https://www.chiefscientist.gov.au/news-and-media/launch-arc-hub-pv-solar-panel-recycling-and-sustainability)
+### 
 [Chief Scientist delivers speech at the Centre for AI and Digital Ethics](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-speech-centre-ai-and-digital-ethics)
 On Wednesday 22 April 2026, Prof Tony Haymet delivered a speech at the Centre for AI and Digital Ethics in Melbourne.
 [](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-delivers-speech-centre-ai-and-digital-ethics)
@@ -36,8 +40,4 @@ Australia's Chief Scientist, Professor Tony Haymet, discusses climate goals and 
 [Vale Professor Emma Johnston AO](https://www.chiefscientist.gov.au/news-and-media/vale-professor-emma-johnston-ao)
 Australia's Chief Scientist, Professor Tony Haymet, and the Office of the Chief Scientist are saddened to hear of the passing of Professor Emma Johnston AO.
 [](https://www.chiefscientist.gov.au/news-and-media/vale-professor-emma-johnston-ao)
-### 
-[Prof Haymet delivers speech at the Marie Krogh Young Women in Science Prize](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-marie-krogh-young-women-science-prize)
-On 25 November 2025, Prof Tony Haymet delivered a speech for the Marie Krogh Young Women in Science Prize.
-[](https://www.chiefscientist.gov.au/news-and-media/prof-haymet-delivers-speech-marie-krogh-young-women-science-prize)
 [▲Back to top](https://www.chiefscientist.gov.au/news/latest-news#top "Back to top")

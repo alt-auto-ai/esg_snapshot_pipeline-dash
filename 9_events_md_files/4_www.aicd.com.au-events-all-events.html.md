@@ -8,16 +8,16 @@ Got more questions than answers. Unlock clarity with real insights, real case st
 [ ](https://www.aicd.com.au/events/all-events/qld/EVNT-001054.html)
 * * *
 ### All events
-[ Thu 16 Apr event Bunbury, WA 11:45am AWST South-West WA Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/wa/EVNT-001125.html)
+[ Tue 17 Mar event Brisbane, QLD 5:15pm AEST Brisbane Directors Briefing: Boardroom Culture Organisational Impact ](https://www.aicd.com.au/events/all-events/qld/EVNT-001059.html)
 [ Thu 23 Apr event Hobart, TAS 5:15pm AEST Hobart Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/tas/EVNT-001109.html)
-[ Thu 23 Apr event PERTH, WA 5:30pm AWST Perth Graduates Networking Evening ](https://www.aicd.com.au/events/all-events/wa/EVNT-001088.html)
 [ Tue 28 Apr event Wollongong, NSW 5:15pm AEST Illawarra Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001104.html)
-[ Wed 29 Apr event DARWIN, NT 5:15pm ACST Darwins Directors Download: Crisis Leadership: Steering Through the Storms of Public Outcry ](https://www.aicd.com.au/events/all-events/nt/EVNT-001121.html)
-[ Thu 30 Apr event Albury, NSW 11:45am AEST Albury-Wodonga Directors Briefing: Boardroom Culture and Organisational Impact ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001049.html)
-[ Thu 30 Apr event SYDNEY, NSW 5:15pm AEST Sydney Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001105.html)
-[ Thu 30 Apr event Melbourne, VIC 5:15pm AEST Melbourne Director Download - Geopolitical Disruption and Resilience Planning ](https://www.aicd.com.au/events/all-events/vic/EVNT-001087.html)
 [ Tue 05 May event Sydney, NSW 8:45am AEST Sydney Directors Workshop: Finding Board Positions ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001126.html)
 [ Tue 05 May event ADELAIDE, SA 8:30am ACST Adelaide Finding Board Positions ](https://www.aicd.com.au/events/all-events/sa/EVNT-001145.html)
+[ Thu 07 May event 12:00pm AEST Energy Shock and Supply Chain Resilience - Governing for the short and long term ](https://www.aicd.com.au/events/all-events/online/EVNT-001202.html)
+[ Thu 07 May event Geraldton, WA 11:45am AWST Mid West Directors Briefing: AI is a Capability (more than a technology) ](https://www.aicd.com.au/events/all-events/wa/EVNT-001151.html)
+[ Mon 11 May event Perth, WA 2:30pm AWST First Nations Young Directors Masterclass ](https://www.aicd.com.au/events/all-events/wa/EVNT-001124.html)
+[ Tue 12 May event SOUTH BRISBANE, QLD 8:00am AEST Tech Governance Forum 2026 ](https://www.aicd.com.au/events/all-events/qld/EVNT-001054.html)
+[ Tue 12 May event 9:00am AEST Tech Governance Forum 2026 - Virtual ](https://www.aicd.com.au/events/all-events/online/EVNT-001055.html)
 No current events match your criteria. Please try again. 
 Australia’s leading magazine for directors 
 Delivering timely insights, expert perspectives and practical guidance for today’s boards. 

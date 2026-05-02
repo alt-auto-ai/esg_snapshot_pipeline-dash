@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#0e9b3714-1917-4ed7-8ee4-3f1777ec5db8)
+[Storage Preferences](https://www.wri.org/events#ed836ab8-5efa-40a1-9c83-bffdc2568948)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -50,9 +50,9 @@ Not sure where to find something? Search all of the site's content.
 # Events
 #### All Topics
 [All Topics](https://www.wri.org/events)
-[Cities ](https://www.wri.org/events)
 [Climate ](https://www.wri.org/events)
 [Energy ](https://www.wri.org/events)
+[Forests ](https://www.wri.org/events)
 Filters
 ### Event Type
   * In-Person [In-Person ](https://www.wri.org/events)
@@ -62,30 +62,12 @@ Filters
 ### Language
   * English [English ](https://www.wri.org/events)
   * French [French ](https://www.wri.org/events)
+  * Indonesian [Indonesian ](https://www.wri.org/events)
   * Portuguese [Portuguese ](https://www.wri.org/events)
   * Spanish [Spanish ](https://www.wri.org/events)
 
 
-7 Resources for 
-[Cities](https://www.wri.org/cities)
-Event 
-Past Event April 23, 2026
-###  [Introduction to Cool Cities Lab: Assessing Heat Risks and Prioritizing Cooling Solutions (Option 2/2)](http://hub.wri.org/introduction-cool-cities-lab-assessing-heat-risks-and-prioritizing-cooling-solutions-option-2?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Climate](https://www.wri.org/climate)
-Event 
-April 24, 2026
-###  [ISO-GHG Protocol Product-Level Carbon Accounting: What’s Next?](https://hub.wri.org/iso-ghg-protocol-product-level-carbon-accounting-whats-next?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/iso-ghg-protocol-product-level-carbon-accounting-whats-next#register)
-[Climate](https://www.wri.org/climate)
-Event 
-April 28, 2026
-###  [The Latest Trends in Global Emissions](https://hub.wri.org/latest-trends-global-emissions?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/latest-trends-global-emissions#register)
-[Climate](https://www.wri.org/climate)
-Event 
-April 30, 2026
-###  [Frontline Climate Defenders: A Call for Recognition, Inclusion and Protection](https://hub.wri.org/events/2026/4/frontline-climate-defenders-call-recognition-inclusion-and-protection?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/4/frontline-climate-defenders-call-recognition-inclusion-and-protection#register)
+6 Resources for 
 [Energy](https://www.wri.org/energy)
 Event 
 May 7, 2026
@@ -94,8 +76,22 @@ May 7, 2026
 [Climate](https://www.wri.org/climate)
 Event 
 May 12, 2026
-###  [Saving Lives in a Warming World: Investing in Climate Services for Health](https://hub.wri.org/saving-lives-warming-world-investing-climate-services-health?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/saving-lives-warming-world-investing-climate-services-health#register)
+###  [2nd National Dialogue on Long-Term Climate Strategy in Brazil](https://hub.wri.org/events/2026/5/2nd-national-dialogue-long-term-climate-strategy-brazil?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Climate](https://www.wri.org/climate)
+Event 
+May 12, 2026
+###  [Saving Lives in a Warming World: Investing in Climate Services for Health](https://hub.wri.org/events/2026/5/saving-lives-warming-world-investing-climate-services-health?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/5/saving-lives-warming-world-investing-climate-services-health#register)
+[Forests](https://www.wri.org/forests)
+Event 
+May 13, 2026
+###  [The State of Forests in 2025 and Why it Matters for 2026](https://hub.wri.org/events/2026/5/state-forests-2025-and-why-it-matters-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/5/state-forests-2025-and-why-it-matters-2026#register)
+[Climate](https://www.wri.org/climate)
+Event 
+May 28, 2026
+###  [Navigating Systems Change Lab: Governance Deep Dive](https://hub.wri.org/node/4314?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/node/4314#register)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026

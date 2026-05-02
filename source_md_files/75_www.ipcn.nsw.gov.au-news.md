@@ -5,6 +5,11 @@ After something specific? expand_more
 View by
 apps
 menu
+Published on: 30 Apr 2026 
+[Marrickville's Maronite Sisters Seniors Housing approved subject to conditions](https://www.ipcn.nsw.gov.au/news/marrickvilles-maronite-sisters-seniors-housing-approved-subject-conditions)
+Published on: 30 Apr 2026 
+[Marrickville's Maronite Sisters Seniors Housing approved subject to conditions](https://www.ipcn.nsw.gov.au/news/marrickvilles-maronite-sisters-seniors-housing-approved-subject-conditions)
+The NSW Independent Planning Commission has today approved a seniors housing development application (SSD-69377980), located at 28 Marrickville Avenue... 
 Published on: 09 Apr 2026 
 [Chain Valley Colliery Consolidation Project approved, limited to supplying Vales Point Power Station](https://www.ipcn.nsw.gov.au/news/chain-valley-colliery-consolidation-project-approved-limited-supplying-vales-point-power)
 Published on: 09 Apr 2026 
@@ -40,11 +45,6 @@ Published on: 26 Feb 2026
 Published on: 26 Feb 2026 
 [Minarah College in the South West growth area approved subject to strict conditions](https://www.ipcn.nsw.gov.au/news/minarah-college-south-west-growth-area-approved-subject-strict-conditions)
 The NSW Independent Planning Commission has today approved the development application for&nbsp;Minarah College (SSD-30759158), located at&nbsp;268-27... 
-Published on: 20 Feb 2026 
-[Submissions invited on proposed Steel River East Battery Energy Storage System (SSD-77450458)](https://www.ipcn.nsw.gov.au/news/submissions-invited-proposed-steel-river-east-battery-energy-storage-system-ssd-77450458)
-Published on: 20 Feb 2026 
-[Submissions invited on proposed Steel River East Battery Energy Storage System (SSD-77450458)](https://www.ipcn.nsw.gov.au/news/submissions-invited-proposed-steel-river-east-battery-energy-storage-system-ssd-77450458)
-The Independent Planning Commission is inviting the community to provide written submissions on the proposed Steel River East Battery Energy Storage S... 
 Published on: 20 Feb 2026 
 [Public meeting on Dinawan Solar Farm to be replaced by individual stakeholder meetings](https://www.ipcn.nsw.gov.au/news/public-meeting-dinawan-solar-farm-be-replaced-individual-stakeholder-meetings)
 Published on: 20 Feb 2026 

@@ -3,33 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
-  * 24 Apr 2026
-### [Free TAFE: Bigger, Better, Guaranteed](https://www.premier.vic.gov.au/free-tafe-bigger-better-guaranteed)
-Free TAFE changes lives – and the Allan Labor Government is guaranteeing it. This 2026/27 Victorian Budget backs Free TAFE as part of a $459.4 millio...
-  * 23 Apr 2026
-### [Backing Volunteer and Forest Firefighters to Keep Victorians Safe](https://www.premier.vic.gov.au/backing-volunteer-and-forest-firefighters-keep-victorians-safe)
-Victoria is one of the most fire-prone areas in the world, with disasters becoming more frequent and severe. That’s why the Allan Labor Government kee...
-  * 23 Apr 2026
-### [New $50 Million Renewable Energy Tafe Centre Of Excellence Driving Gippsland’s Big Transition](https://www.premier.vic.gov.au/new-50-million-renewable-energy-tafe-centre-excellence-driving-gippslands-big-transition)
-Gippslanders will be at the forefront of training opportunities for Australia’s renewable energy future, with the establishment of a $50 million centr...
-  * 23 Apr 2026
-### [The Violence Reduction Unit Is Here To Stay](https://www.premier.vic.gov.au/violence-reduction-unit-here-stay)
-Labor is delivering serious consequences for youth violence with Adult Time for Violent Crime. But the causes of violence are complex – we also need t...
-  * 22 Apr 2026
-### [Honouring The Lifetime Contributions Of Victorian Seniors](https://www.premier.vic.gov.au/honouring-lifetime-contributions-victorian-seniors)
-The Allan Labor Government is celebrating the extraordinary contributions of older Victorians. Minister for Ageing Ingrid Stitt today opened nominatio...
-  * 22 Apr 2026
-### [More Resources For Police To Keep Victorians Safe](https://www.premier.vic.gov.au/more-resources-police-keep-victorians-safe)
-The latest crime data shows Australia’s toughest bail laws are working, and male youth offending is falling. But crime rates are still too high. That...
-  * 22 Apr 2026
-### [Tiny Towns, Big Upgrades](https://www.premier.vic.gov.au/tiny-towns-big-upgrades)
-Labor has delivered new spaces in two small towns outside Ballarat that the whole community can be proud of. The upgrades to Burrumbeet Soldiers Memor...
-  * 21 Apr 2026
-### [Upgraded Police Station For Narre Warren](https://www.premier.vic.gov.au/upgraded-police-station-narre-warren)
-The Allan Labor Government is backing Victoria Police to keep Victorians safe. Minister for Police Anthony Carbines today open the new 24/7 Narre Warr...
-  * 21 Apr 2026
-### [Statement From The Premier](https://www.premier.vic.gov.au/statement-premier-166)
-Today I am announcing new Parliamentary Secretaries – part of our strong, united Labor team focused on what matters most: making life easier, safer an...
+  * 2 May 2026
+### [Backing Emergency Call-Takers To Keep Victorians Safe](https://www.premier.vic.gov.au/backing-emergency-call-takers-keep-victorians-safepdf)
+Last year, Triple Zero Victoria answered almost 3.1 million calls for help. That’s 8,500 calls a day or one every 10 seconds. As demand continues to ...
+  * 2 May 2026
+### [More Affordable Fertility Care For Victorians](https://www.premier.vic.gov.au/more-affordable-fertility-care-victorians)
+No Victorian should miss out on their dream of becoming a parent just because IVF is too expensive. That’s why the Allan Labor Government is boosting ...
+  * 1 May 2026
+### [Monitors To Be Appointed For Wyndham City Council](https://www.premier.vic.gov.au/monitors-be-appointed-wyndham-city-council)
+Two municipal monitors will be appointed at Wyndham City Council to support good governance. Minister for Local Government Paul Hamer has today nomin...
+  * 1 May 2026
+### [Statement On Bondi Royal Commission Interim Report](https://www.premier.vic.gov.au/statement-bondi-royal-commission-interim-report)
+The Interim Report of the Royal Commission into Antisemitism and Social Cohesion contains lessons for all of us. While its first key recommendation is...
+  * 1 May 2026
+### [10 Million More Fish](https://www.premier.vic.gov.au/10-million-more-fish)
+Labor is making it easier and cheaper for families to get hooked on the great outdoors. The Victorian Budget 26/27 includes $5 million to extend t...
+  * 1 May 2026
+### [Labor Invests In Our Children's Future](https://www.premier.vic.gov.au/labor-invests-our-childrens-future)
+Nothing is more important than our children’s future. That’s why the Allan Labor Government is ensuring every child can attend a great local public sc...
+  * 1 May 2026
+### [Backing Bendigo’s Livestock Industry](https://www.premier.vic.gov.au/backing-bendigos-livestock-industry)
+Labor is helping Victorian farmers get their livestock to market quickly and safely. Farmers are essential to our economy, our regions and our food se...
+  * 30 Apr 2026
+### [Stronger Laws Against Emergency Worker Attacks](https://www.premier.vic.gov.au/stronger-laws-against-emergency-worker-attacks)
+This act of senseless violence against a paramedic today is horrific. My thoughts are with the victim and his loved ones and I thank Victoria Police f...
+  * 30 Apr 2026
+### [Labor Is Building And Opening New Hospitals](https://www.premier.vic.gov.au/labor-building-and-opening-new-hospitals)
+Victoria’s health system is caring for more Victorians than ever before. The Victorian Budget 2026/27 will open and expand more hospitals in growing o...
 
 
 ## Subscribe to our media releases

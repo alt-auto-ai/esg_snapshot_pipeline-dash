@@ -13,11 +13,19 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 19 Jobs Found
+#### 13 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 sustainabilityFull-Time
+Posted: 30/04/2026
+Great Barrier Reef Marine Park Authority
+### [ICT Business Systems Analyst - Great Barrier Reef Aquarium](https://www.apsjobs.gov.au/s/job-details?title=ict-business-systems-analyst-great-barrier-reef-aquarium&Id=a05OY00000OKYisYAH)
+$99,733 to $111,702
+Posted: 27/04/2026
+Department of Agriculture, Fisheries and Forestry
+### [Assistant Director - Property Services](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-property-services&Id=a05OY00000OD8htYAD)
+$129,106 to $138,861
 Posted: 24/04/2026
 Department of Agriculture, Fisheries and Forestry
 ### [Intranet Team Leader](https://www.apsjobs.gov.au/s/job-details?title=intranet-team-leader&Id=a05OY00000OEZcnYAH)
@@ -46,38 +54,21 @@ Posted: 20/04/2026
 Department of Defence
 ### [Assistant Technical Airworthiness Compliance Manager](https://www.apsjobs.gov.au/s/job-details?title=assistant-technical-airworthiness-compliance-manager&Id=a05OY00000O0LHxYAN)
 $89,841 to $96,829
-Posted: 17/04/2026
-Australian Sports Commission
-### [Supplier, Contract & Asset Officer](https://www.apsjobs.gov.au/s/job-details?title=supplier-contract-asset-officer&Id=a05OY00000O4J1UYAV)
-$106,019 to $102,233
-Posted: 17/04/2026
-National Disability Insurance Agency
-### [APS6 Finance officer (Professional Stream)](https://www.apsjobs.gov.au/s/job-details?title=aps6-finance-officer-professional-stream-&Id=a05OY00000O403dYAB)
-$103,622 to $111,701
-Posted: 16/04/2026
-Aged Care Quality and Safety Commission
-### [Assistant Director, External Budgets & Revenue](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-external-budgets-revenue&Id=a05OY00000O1u40YAB)
-$122,620 to $139,850
 Posted: 15/04/2026
 Department of Defence
 ### [Fleet Governance Knowledge Manager](https://www.apsjobs.gov.au/s/job-details?title=fleet-governance-knowledge-manager&Id=a05OY00000NnM73YAF)
 $124,393 to $140,315
-Posted: 14/04/2026
-Australian Federal Police
-### [Developer Programmer- Specialist Capability Systems](https://www.apsjobs.gov.au/s/job-details?title=developer-programmer-specialist-capability-systems&Id=a05OY00000Nvnl7YAB)
-$111,861 to $123,420
 Posted: 13/04/2026
 Australian National Audit Office
 ### [SES Band 3 Deputy Auditor-General](https://www.apsjobs.gov.au/s/job-details?title=ses-band-3-deputy-auditor-general&Id=a05OY00000NrHYYYA3)
 $363,682 to $500,758
-Posted: 10/04/2026
-Australian Radiation Protection and Nuclear Safety Agency
-### [Director of Finance (CFO)](https://www.apsjobs.gov.au/s/job-details?title=director-of-finance-cfo-&Id=a05OY00000Nm4FNYAZ)
-$150,742 to $171,140
-Posted: 10/04/2026
-Department of Defence
-### [Assistant Technical Airworthiness Compliance Manager](https://www.apsjobs.gov.au/s/job-details?title=assistant-technical-airworthiness-compliance-manager&Id=a05OY00000NYPtBYAX)
-$89,841 to $96,829
-Load More
+Posted: 02/03/2026
+Australian Digital Health Agency
+### [Graduate Program](https://www.apsjobs.gov.au/s/job-details?title=graduate-program&Id=a05OY00000MKp89YAD)
+$84,492 to $84,492
+Posted: 01/07/2025
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+### [Temporary Employment Register - 2025/26](https://www.apsjobs.gov.au/s/job-details?title=temporary-employment-register-2025-26&Id=a05OY00000E0p2VYAR)
+$55,639 to $173,095
 Loading
 Job Search | APS Jobs

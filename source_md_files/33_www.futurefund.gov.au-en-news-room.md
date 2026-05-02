@@ -2,7 +2,7 @@
   * 
 
 #  Newsroom 
-## For media enquiries, please contact our media team on +61 3 8656 6400 or andrew.white@futurefund.gov.au
+## For media enquiries please contact our media team on +61 3 8656 6400 or Sophie.Trumble@futurefund.gov.au
   
 
 ## FILTER

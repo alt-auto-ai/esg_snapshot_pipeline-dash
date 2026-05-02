@@ -1,4 +1,10 @@
 [ Skip to main content ](https://www.ansto.gov.au/news#main-content)
+[ ](https://www.ansto.gov.au/news/landmark-achievement-opens-pathway-for-treatment-of-drug-resistant-tuberculosis)
+30th April 2026
+###  Landmark achievement opens pathway for treatment of drug-resistant tuberculosis
+News
+Read More
+[Read More](https://www.ansto.gov.au/news/landmark-achievement-opens-pathway-for-treatment-of-drug-resistant-tuberculosis)
 [ ](https://www.ansto.gov.au/news/deuteration-supports-blood-test-to-help-diagnose-breast-cancer)
 23rd April 2026
 ###  Deuteration supports blood test to help diagnose breast cancer
@@ -48,10 +54,4 @@ Read More
 News
 Read More
 [Read More](https://www.ansto.gov.au/news/as-australia%E2%80%99s-native-food-industry-booms-experts-say-commercial-companies-must-stop)
-[ ](https://www.ansto.gov.au/news/new-flow-chemistry-capability-saves-deuteration-time-high-yields)
-25th March 2026
-###  New flow chemistry capability saves deuteration time with high yields
-News
-Read More
-[Read More](https://www.ansto.gov.au/news/new-flow-chemistry-capability-saves-deuteration-time-high-yields)
 ## Pagination

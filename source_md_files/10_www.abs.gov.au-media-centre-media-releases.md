@@ -10,7 +10,17 @@ Filter by theme
 
 
 Filtered by:
-1 - 20 of 1137 media releases
+1 - 20 of 1142 media releases
+01 May 2026
+##  [New insights into Aboriginal and Torres Strait Islander peoples’ physical activity and sleep](https://www.abs.gov.au/media-centre/media-releases/new-insights-aboriginal-and-torres-strait-islander-peoples-physical-activity-and-sleep)
+30 April 2026
+##  [Import prices flat despite rising fuel prices](https://www.abs.gov.au/media-centre/media-releases/import-prices-flat-despite-rising-fuel-prices)
+29 April 2026
+##  [8 things of interest about Australia’s overseas-born population](https://www.abs.gov.au/media-centre/media-releases/8-things-interest-about-australias-overseas-born-population)
+29 April 2026
+##  [CPI rose 4.6% in the year to March 2026](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-46-year-march-2026)
+29 April 2026
+##  [Drug offences down 15% in criminal courts](https://www.abs.gov.au/media-centre/media-releases/drug-offences-down-15-criminal-courts)
 20 April 2026
 ##  [ABS calls for Norfolk Islanders to fill 2026 Census jobs](https://www.abs.gov.au/media-centre/media-releases/abs-calls-norfolk-islanders-fill-2026-census-jobs)
 20 April 2026
@@ -32,25 +42,15 @@ Filtered by:
 26 March 2026
 ##  [Household wealth rose by 2.5% in December](https://www.abs.gov.au/media-centre/media-releases/household-wealth-rose-25-december)
 25 March 2026
-##  [Nearly 400,000 Australians assaulted in the last 12 months](https://www.abs.gov.au/media-centre/media-releases/nearly-400000-australians-assaulted-last-12-months)
-25 March 2026
 ##  [CPI rose 3.7% in the year to February 2026](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-37-year-february-2026)
+25 March 2026
+##  [Nearly 400,000 Australians assaulted in the last 12 months](https://www.abs.gov.au/media-centre/media-releases/nearly-400000-australians-assaulted-last-12-months)
 24 March 2026
 ##  [Wrist-worn devices give insights into Aussies’ physical activity](https://www.abs.gov.au/media-centre/media-releases/wrist-worn-devices-give-insights-aussies-physical-activity)
 19 March 2026
-##  [Unemployment rate rises to 4.3% in February](https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-rises-43-february)
-19 March 2026
 ##  [Australia’s population grows 1.6% in September 2025](https://www.abs.gov.au/media-centre/media-releases/australias-population-grows-16-september-2025)
-18 March 2026
-##  [Family and domestic violence offenders rise by 8 per cent](https://www.abs.gov.au/media-centre/media-releases/family-and-domestic-violence-offenders-rise-8-cent)
-17 March 2026
-##  [Australians continue to need more calcium](https://www.abs.gov.au/media-centre/media-releases/australians-continue-need-more-calcium)
-12 March 2026
-##  [1 in 7 Australians experienced personal fraud](https://www.abs.gov.au/media-centre/media-releases/1-7-australians-experienced-personal-fraud)
-10 March 2026
-##  [Total Value of Dwellings Reaches $12 Trillion](https://www.abs.gov.au/media-centre/media-releases/total-value-dwellings-reaches-12-trillion)
-06 March 2026
-##  [15 million people employed in December 2025](https://www.abs.gov.au/media-centre/media-releases/15-million-people-employed-december-2025)
+19 March 2026
+##  [Unemployment rate rises to 4.3% in February](https://www.abs.gov.au/media-centre/media-releases/unemployment-rate-rises-43-february)
 [ Back to top of the page ](https://www.abs.gov.au/media-centre/media-releases "Back to top")
 tiktoksocial-twitterarrow-downarrow-leftarrow-rightarrow-upcav-downcav-rightclosedownloadexternal-linkfeedbackfilemenusearchsign-checksign-infosign-warningsocial-facebooksocial-instagramtriangle-downlinkprintquotes-leftcalendardate-addquestionyoutubelinkedin2sphere
 Feedback

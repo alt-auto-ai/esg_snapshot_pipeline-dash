@@ -1,5 +1,12 @@
 [ Skip to main content ](https://minister.agriculture.gov.au/Collins/media-releases#main) [ Skip to search](https://minister.agriculture.gov.au/Collins/media-releases#global-search-query)
 # Media releases
+### May 2026
+## [New Inspector General appointed to oversee animal welfare and live animal exports](https://minister.agriculture.gov.au/collins/media-release/media-release-inspector-general-of-animal-welfare-and-live-animal-exports-ashley-bunce)
+1 May 2026
+The Albanese Labor Government has today announced the appointment of Dr Ashley Bunce as the next Inspector General of Animal Welfare and Live Animal Exports (IGAWLAE).
+## [New market access to Indonesia for five export meat establishments](https://minister.agriculture.gov.au/collins/media-release/media-release-five-new-export-meat-establishments-approved-for-indonesia)
+1 May 2026
+The Albanese Labor Government is delivering new opportunities for Australia’s red meat industry with the approval of five additional export beef establishments for exports to Indonesia, including one establishment also receiving approval for sheep and goa
 ### April 2026
 ## [Joint media release: Securing more fuel and fertiliser](https://minister.agriculture.gov.au/collins/media-releases/securing-more-fuel-and-fertiliser)
 22 April 2026
@@ -24,10 +31,3 @@ The Albanese Labor Government is working with industry to design a new Australia
 ## [Joint media release: Funding boost for H5 bird flu preparedness across the NT](https://minister.agriculture.gov.au/collins/media-releases/funding-boost-h5-bird-flu-preparedness-across-nt)
 8 April 2026
 The Albanese Government is investing more than $500,000 to support the Northern Territory prepare native species for a potential H5 avian influenza (bird flu) outbreak. 
-## [Regional and remote Queensland communities receive further disaster support](https://minister.agriculture.gov.au/collins/media-release/regional-remote-queensland-communities-further-disaster-support)
-1 April 2026
-The Albanese and Crisafulli Governments have extended further disaster assistance to support the recovery of flood and cyclone affected communities across Queensland.
-### March 2026
-## [Keeping our farmers farming and our exports moving](https://minister.agriculture.gov.au/collins/media-releases/keeping-our-farmers-farming-and-our-exports-moving)
-31 March 2026
-The Albanese Labor Government continues to work with farmers, fishers and producers to manage the impacts of the conflict in the Middle East.

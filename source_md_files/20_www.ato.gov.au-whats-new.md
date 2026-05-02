@@ -2,81 +2,75 @@
 # What's new
 Find new or recently updated information from the last month.
 Search
-**Showing** 1 - 10 of 94
+**Showing** 1 - 10 of 67
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * Auditors (2)
-  * Banking and finance (1)
-  * Business preparedness (2)
-  * Employer information (4)
+  * Auditors (1)
+  * Employer information (2)
   * GST (1)
-  * General (15)
-  * International (1)
+  * General (8)
   * Large business (1)
-  * New legislation (7)
-  * New legislation and policy (2)
-  * Payday Super (4)
-  * Superannuation (3)
+  * Looking after your workers (1)
+  * New legislation (5)
+  * Payday Super (1)
+  * Superannuation (1)
   * Tax time and reporting (2)
   * Trusts (1)
-  * Your practice (2)
+  * Your practice (1)
 
 
-Show 94 results
+Show 67 results
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * Auditors (2)
-  * Banking and finance (1)
-  * Business preparedness (2)
-  * Employer information (4)
+  * Auditors (1)
+  * Employer information (2)
   * GST (1)
-  * General (15)
-  * International (1)
+  * General (8)
   * Large business (1)
-  * New legislation (7)
-  * New legislation and policy (2)
-  * Payday Super (4)
-  * Superannuation (3)
+  * Looking after your workers (1)
+  * New legislation (5)
+  * Payday Super (1)
+  * Superannuation (1)
   * Tax time and reporting (2)
   * Trusts (1)
-  * Your practice (2)
+  * Your practice (1)
 
 
-Show 94 results
-## [Reminder: income tax returns due soon for taxable NFPs](https://www.ato.gov.au/businesses-and-organisations/not-for-profit-organisations/not-for-profit-newsroom/reminder-income-tax-returns-due-soon-for-taxable-nfps)
-Taxable not-for-profit (NFP) organisations must lodge income tax returns and pay income tax on taxable income.
-24 April 2026
-## [A word from Tom Wheeler - April 2026](https://www.ato.gov.au/businesses-and-organisations/not-for-profit-organisations/not-for-profit-newsroom/a-word-from-tom-wheeler-april-2026)
-In this month's column, Tom explores the mutuality principle for taxable NFPs
-24 April 2026
-## [Nominate for our Not-for-profit Stewardship Group](https://www.ato.gov.au/businesses-and-organisations/not-for-profit-organisations/not-for-profit-newsroom/nominate-for-our-not-for-profit-stewardship-group)
-If you represent a not-for-profit and want to join the stewardship group, submit your nomination by 31 May.
-24 April 2026
-## [Updated transfer pricing guideline published](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/updated-transfer-pricing-guideline-published)
-We've set out our compliance approach on transfer pricing issues related to inbound distribution arrangements.
-22 April 2026
-## [Unexpected contact about your super or SMSF? Check this first](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/unexpected-contact-about-your-super-or-smsf-check-this-first)
-Learn how to recognise the early signs of suspicious contact about your super or SMSF before you respond.
-21 April 2026
-## [Super funds and CIVs required to lodge RTP schedule for TT26](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/super-funds-and-civs-required-to-lodge-rtp-schedule-for-tt26)
-Large APRA-regulated super funds and large CIVs will need to lodge a RTP schedule from 1 July 2026.
-21 April 2026
-## [Increased visibility for trust elections](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/increased-visibility-for-trust-elections)
-More information is now available for family trust and interposed entity elections.
-20 April 2026
-## [Section D: Declaration and signature – Super funds](https://www.ato.gov.au/forms-and-instructions/reportable-tax-position-schedule-and-instructions-2026/rtp-schedule-instructions-2026-super-funds/section-d-declaration-and-signature-super-funds)
-How to complete Section D: Declaration and signature in the RTP schedule for super funds.
-20 April 2026
-## [How to get the RTP schedule 2026 – Super funds](https://www.ato.gov.au/forms-and-instructions/reportable-tax-position-schedule-and-instructions-2026/rtp-schedule-instructions-2026-super-funds/how-to-get-the-rtp-schedule-2026-super-funds)
-How to get a copy of the Reportable tax position (RTP) schedule, instructions and other lodgment options.
-20 April 2026
-## [RTP schedule instructions 2026 – Super funds](https://www.ato.gov.au/forms-and-instructions/reportable-tax-position-schedule-and-instructions-2026/rtp-schedule-instructions-2026-super-funds)
-How to get and complete the Reportable tax position (RTP) schedule 2026 for super funds (NAT 74066).
-20 April 2026
+Show 67 results
+## [为遭遇个人危机、经济困难或自然灾害的人士提供税务支持](https://www.ato.gov.au/other-languages/simplified-chinese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-chinese-simplified)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Simplified Chinese translation.
+30 April 2026
+## [संकट, आर्थिक कठिनाइ वा प्राकृतिक प्रकोपको लागि कर सहयोग](https://www.ato.gov.au/other-languages/nepali/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-nepali)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Nepali translation.
+30 April 2026
+## [위기, 재정적 어려움 또는 자연 재해에 대한 세무 지원](https://www.ato.gov.au/other-languages/korean/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-korean)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Korean translation.
+30 April 2026
+## [ការគាំទ្រផ្នែកពន្ធដារក្នុងគ្រាមានវិបត្តិ ការលំបាកផ្នែកហិរញ្ញវត្ថុ ឬគ្រោះមហន្តរាយធម្មជាតិ](https://www.ato.gov.au/other-languages/khmer/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-khmer)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Khmer translation.
+30 April 2026
+## [حمایت مالیاتی در مواقع بحران، تنگنای مالی یا بلایای طبیعی](https://www.ato.gov.au/other-languages/farsi/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-farsi)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Farsi translation.
+30 April 2026
+## [الدعم الضريبي في حالات اللأزمات أوالصعوبات المالية أوالكوارث الطبيعية](https://www.ato.gov.au/other-languages/arabic/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-arabic)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Arabic translation.
+30 April 2026
+## [Hỗ trợ thuế cho các trường hợp khủng hoảng, khó khăn tài chính hoặc thiên tai](https://www.ato.gov.au/other-languages/vietnamese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-vietnamese)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Vietnamese translation.
+30 April 2026
+## [為遭遇個人危機、經濟困難或自然災害的人士提供稅務支援](https://www.ato.gov.au/other-languages/traditional-chinese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-chinese-traditional)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Traditional Chinese translation.
+30 April 2026
+## [การสนับสนุนด้านภาษีเมื่อเผชิญภาวะวิกฤติ ความลำบากทางการเงิน หรือภัยพิบัติทางธรรมชาติ](https://www.ato.gov.au/other-languages/thai/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-thai)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Thai translation.
+30 April 2026
+## [Suporta sa buwis para sa isang krisis, paghihirap sa pananalapi o likas na sakuna](https://www.ato.gov.au/other-languages/filipino/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-filipino)
+Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Filipino translation.
+30 April 2026
 Report webpage issue

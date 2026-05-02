@@ -4,6 +4,10 @@ cross close
 [ Copernicus | Europe's eyes on Earth ](http://www.copernicus.eu/)
 #  News 
 Latest news on the Copernicus Climate Change Service
+29th April 2026
+### [Ten charts to discover the European State of the Climate 2025 report ](https://climate.copernicus.eu/ten-charts-discover-european-state-climate-2025-report)
+Europe is Earth’s fastest-warming continent. In 2025, the continent saw record heatwaves from the Mediterranean to the Arctic, over land and in the ocean. As the climate warms, impacts are widespread – from loss of glacier ice to widespread drought, and impacts on biodiversity. 
+[ ](https://climate.copernicus.eu/ten-charts-discover-european-state-climate-2025-report)
 15th April 2026
 ### [Sea surface temperatures approach record levels in March](https://climate.copernicus.eu/sea-surface-temperatures-approach-record-levels-march)
 March 2026 had its second-warmest global sea surface temperature (SST) on record, behind March 2025, reflecting a likely transition toward El Niño conditions, as reported in the latest Climate Bulletin by the Copernicus Climate Change Service (C3S). Strong or very strong El Niño conditions could contribute to another record-breaking year, with warmer surface waters across the equatorial Pacific releasing additional heat into the atmosphere. 
@@ -40,10 +44,6 @@ The Copernicus Climate Change Service (C3S) released its Global Climate Highligh
 ### [Advancing energy resilience in the Mediterranean: E-DREAM workshop charts path for climate action](https://climate.copernicus.eu/advancing-energy-resilience-mediterranean-e-dream-workshop-charts-path-climate-action)
 The Energy Droughts and Resource Energy Assessment in the Mediterranean (E-DREAM) demonstrator activity, funded by Copernicus, recently held its inaugural User Requirements Workshop, “Advancing Energy Resilience in the Mediterranean.” 
 [ ](https://climate.copernicus.eu/advancing-energy-resilience-mediterranean-e-dream-workshop-charts-path-climate-action)
-10th December 2025
-### [2025 on track to be joint-second warmest year](https://climate.copernicus.eu/2025-track-be-joint-second-warmest-year)
-Findings in the latest Climate Bulletin published by the Copernicus Climate Change Service (C3S) confirm November 2025 as the third-warmest November globally. With just one month left in the calendar year, this means 2025 will finish as the second- or third-warmest year on record after 2024, potentially tied with 2023, currently the second-warmest year. It also sets the global three-year average temperature for 2023–2025 on track to exceed 1.5°C above pre-industrial levels for the first time in the instrumental period, according to the ERA5 dataset. 
-[ ](https://climate.copernicus.eu/2025-track-be-joint-second-warmest-year)
 ## Use of personal data and cookies
 We use cookies to operate our site, improve the user experience and site performance.
 [Settings](https://climate.copernicus.eu/news "Open consent dialog")

@@ -31,6 +31,7 @@ Our priorities
 Victorian Critical Minerals Roadmap
   * [Understanding Victoria’s critical minerals and strategic materials potential](https://resources.vic.gov.au/critical-minerals/understanding-victorias-critical-minerals-and-strategic-materials-potential)
   * [Support for northwest Victorian communities near mineral sands projects](https://resources.vic.gov.au/critical-minerals/support-for-northwest-victorian-communities-near-mineral-sands-projects)
+  * [Advancing Antimony Grants program guidelines](https://resources.vic.gov.au/critical-minerals/advancing-antimony-grants-program-guidelines)
 
 
 Geology and data
@@ -108,6 +109,16 @@ Recreational prospecting
 We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
 [Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 ## Latest news
+[ ](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
+### [Advancing the potential for antimony processing](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
+29/04/2026
+We are guiding efforts to develop a local critical minerals supply chain to boost the state’s advanced manufacturing, support regional economic development and potentially create new well-paid local jobs.
+[Read more](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
+[ ](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
+### [Securing future quarry resources](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
+27/04/2026
+Strategic Extractive Resource Areas (SERAs) are now in place at Lang Lang, Oaklands Junction and Trafalgar.
+[Read more](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
 [ ](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 ### [Minerals industry updates for February and March 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 10/04/2026
@@ -128,14 +139,4 @@ New Advancing Antimony Grants will support creating an antimony processing facil
 27/02/2026
 Resources Victoria will be promoting the State’s growing minerals sector at the Prospectors & Developers Association of Canada (PDAC) conference next week.
 [Read more](https://resources.vic.gov.au/about-us/news/victorias-minerals-in-the-spotlight)
-[ ](https://resources.vic.gov.au/about-us/news/resources-regulator-continues-to-monitor-ballarat-mine)
-### [Resources regulator continues to monitor Ballarat mine](https://resources.vic.gov.au/about-us/news/resources-regulator-continues-to-monitor-ballarat-mine)
-26/02/2026
-Resources Victoria has issued Infringement Notices to Victory Minerals after a site inspection identified unauthorised construction, changed infrastructure and vegetation removal at Ballarat Gold Mine.
-[Read more](https://resources.vic.gov.au/about-us/news/resources-regulator-continues-to-monitor-ballarat-mine)
-[ ](https://resources.vic.gov.au/about-us/news/showcasing-victorian-geoscience-on-the-national-stage)
-### [Showcasing Victorian geoscience on the national stage](https://resources.vic.gov.au/about-us/news/showcasing-victorian-geoscience-on-the-national-stage)
-09/02/2026
-Victoria’s geoscience capability was on full display last week. Resources Victoria took to the Australian Earth Sciences Convention in Melbourne to share its expertise with a national and global audience.
-[Read more](https://resources.vic.gov.au/about-us/news/showcasing-victorian-geoscience-on-the-national-stage)
 Feedback

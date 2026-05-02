@@ -235,6 +235,13 @@ The Australian Passport Office and its agents are committed to providing a secur
 ## 
 Latest news
   * ### 
+[Australian National Statement in the IMO Marine Environment Protection Committee’s 84th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-marine-environment-protection-committees-84th-session)
+Australia commends the work of the IMO to safeguard the safety of stranded civilian seafarers and re-open the Strait of Hormuz.
+1 May 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-marine-environment-protection-committees-84th-session)
+  * ### 
 [Australian National Statement in the IMO Legal Committee’s 113th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-legal-committees-113th-session)
 Australia commends the work of the International Maritime Organization, in concert with broader diplomatic initiatives, to help safeguard the safety of stranded civilian seafarers, and re-open the Strait of Hormuz.
 15 April 2026
@@ -569,14 +576,6 @@ The Australian Government is seeking expressions of interest from suitably quali
 Category
 Trade and investment
 [ Read more ](https://www.dfat.gov.au/trade/agreements/in-force/cptpp/news#expressions-interest)
-  * ### 
-[Joint media release on the 20th Australia–Viet Nam Human Rights Dialogue](https://www.dfat.gov.au/news/media-release/joint-media-release-20th-australia-viet-nam-human-rights-dialogue)
-Viet Nam and Australia held the 20th Australia–Viet Nam Human Rights Dialogue on 12 August 2025 in Hanoi, Viet Nam. The Dialogue is an important part of Viet Nam and Australia’s bilateral architecture and involved broad representation from both sides, including the Australian Human Rights Commission.  
-
-29 September 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/media-release/joint-media-release-20th-australia-viet-nam-human-rights-dialogue)
 
 
 Site map +

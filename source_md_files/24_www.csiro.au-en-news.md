@@ -33,11 +33,10 @@ Article 16 April 2026  8 min read
   * [ AI ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|AI)
 
 
-Article 24 April 2026  4 min read 
-### [ The hidden mechanics of connected care: Ensuring better outcomes for patients ](https://www.csiro.au/en/news/All/Articles/2026/April/Interoperability-as-the-hidden-mechanics-of-connected-care)
-  * [ human health ](https://www.csiro.au/en/news/All?articletags={01A8A1CA-2C53-4E17-81C8-4EC5D15117F4}|human%20health)
+Article 1 May 2026  5 min read 
+### [ Ticked off: how a bite can turn meat against you ](https://www.csiro.au/en/news/All/Articles/2026/May/Mammalian-meat-allergy)
   * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
-  * [ e-health ](https://www.csiro.au/en/news/All?articletags={89688F5B-1251-4F61-8143-2CF87D58FCB6}|e-health)
+  * [ human health ](https://www.csiro.au/en/news/All?articletags={01A8A1CA-2C53-4E17-81C8-4EC5D15117F4}|human%20health)
 
 
 [ View more news ](https://www.csiro.au/en/news/All?type={60727734-1BF6-4FD4-88DA-028304CF3D74}|{01DD0A16-96BC-4001-ACA4-F82DBB83B26C}|{6B6F9B5C-3CB2-42DD-A714-2A012B3720FD}|{49F817AF-74EB-43C4-A51B-CE2B14F46215}|{9E28CCA8-AAC8-475C-AEB3-7BDE93F6155E})

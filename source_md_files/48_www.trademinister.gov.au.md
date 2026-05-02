@@ -10,16 +10,16 @@
 
 # Latest news
 ## Media releases
+  * [Additional jet fuel and additional diesel secured](https://www.trademinister.gov.au/minister/don-farrell/media-release/additional-jet-fuel-and-additional-diesel-secured)
+1 May 2026
+  * [Communique – Tourism Ministers' meeting](https://www.trademinister.gov.au/minister/don-farrell/media-release/communique-tourism-ministers-meeting-3)
+30 April 2026
   * [Securing more fuel for the regions](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-regions)
 24 April 2026
   * [Securing more fuel and fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-and-fertiliser)
 22 April 2026
   * [Protocol on economic resilience and essential supplies](https://www.trademinister.gov.au/minister/don-farrell/media-release/protocol-economic-resilience-and-essential-supplies)
 17 April 2026
-  * [First fuel shipments secured under new strategic reserve powers](https://www.trademinister.gov.au/minister/don-farrell/media-release/first-fuel-shipments-secured-under-new-strategic-reserve-powers)
-16 April 2026
-  * [New dedicated trade service for Australian exporters](https://www.trademinister.gov.au/minister/don-farrell/media-release/new-dedicated-trade-service-australian-exporters)
-15 April 2026
 
 
 ## Transcripts

@@ -16,6 +16,12 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Productivity package to turbocharge construction and businesses across NSW](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/productivity-package-turbocharge-construction-and)
+1 May 2026
+The Albanese Government is funding reforms to fast‑track approvals and get businesses up and running as quickly as possible in New South Wales. 
+### [New inflation figures](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-inflation-figures-2)
+29 April 2026
+New figures from the Australian Bureau of Statistics show that inflation ticked up as expected in the month of March largely because of global pressures. 
 ### [Engagements with NZ Finance Minister and trans-Tasman businesses on fuel security](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/engagements-nz-finance-minister-and-trans-tasman)
 24 April 2026
 Today I’ll host New Zealand Finance Minister Nicola Willis in Brisbane for a bilateral engagement on trade, investment and fuel security. 
@@ -70,9 +76,3 @@ The Albanese Government is taking action to help consumers get a fair go at the 
 ### [The government’s super reforms pass the parliament](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/governments-super-reforms-pass-parliament)
 10 March 2026
 The Albanese Government has passed important superannuation reforms to help low income workers and make the super system fairer from top to bottom. 
-### [Government another step closer to delivering super reforms](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/government-another-step-closer-delivering-super-reforms)
-10 March 2026
-The Albanese Government is another step closer to delivering its superannuation reforms.These changes will help low income workers and make the super system fairer from top to bottom. 
-### [Meeting with Canada’s Minister of Finance and National Revenue](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/meeting-canadas-minister-finance-and-national-revenue)
-5 March 2026
-Today I met with Canada’s Minister of Finance and National Revenue, the Honourable François‑Philippe Champagne, to advance our shared commitment to boosting economic resilience, productivity a 

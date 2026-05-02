@@ -14,128 +14,64 @@ Clear All
 Next week
 Clear All
   * Sales Ended
-Fri, 1 May, 9:00 am
-Sydney · Regus - Sydney, Balmain
-From $572.03
+Friday at 9:00 AM
+Surfers Paradise · Regus Surfers Paradise
+From $562.51
 MG Aussie
-353 followers
-_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Sydney_ _Share this event: Aligning Social Impact & Profitability: 1 Day Course in Sydney_
+372 followers
+_Save this event: Aligning Social Impact & Profitability: 1 Day Course in Gold Coast_ _Share this event: Aligning Social Impact & Profitability: 1 Day Course in Gold Coast_
 Sales Ended
-Fri, 1 May, 9:00 am
-Sydney · Regus - Sydney, Balmain
-From $572.03
-_Share this event: Aligning Social Impact & Profitability: 1 Day Course in Sydney_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Sydney_
-  * [](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
-### [SISN 'Sustainability and Climate Resilience Event'](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
-Wednesday at 12:30 PM
-North Sydney · View Sydney
-From $89.00
-_Save this event: SISN 'Sustainability and Climate Resilience Event'__Share this event: SISN 'Sustainability and Climate Resilience Event'_
-[](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
-### [SISN 'Sustainability and Climate Resilience Event'](https://www.eventbrite.com.au/e/sisn-sustainability-and-climate-resilience-event-tickets-1986403999836?aff=ebdssbdestsearch)
-Wednesday at 12:30 PM
-North Sydney · View Sydney
-From $89.00
-_Share this event: SISN 'Sustainability and Climate Resilience Event'__Save this event: SISN 'Sustainability and Climate Resilience Event'_
-  * Thursday at 7:00 AM
-South Brisbane · Olio Cafe & Bar
+Friday at 9:00 AM
+Surfers Paradise · Regus Surfers Paradise
+From $562.51
+_Share this event: Aligning Social Impact & Profitability: 1 Day Course in Gold Coast_ _Save this event: Aligning Social Impact & Profitability: 1 Day Course in Gold Coast_
+View 5 similar results
+  * Thursday at 5:30 PM
+Sydney · Pyrmont Bridge Hotel
 Free
 Small99
 9.4k followers
-_Save this event: Brisbane, Australia - Small99's People, Planet, Pastry_ _Share this event: Brisbane, Australia - Small99's People, Planet, Pastry_
-Thursday at 7:00 AM
-South Brisbane · Olio Cafe & Bar
+_Save this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_ _Share this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_
+Thursday at 5:30 PM
+Sydney · Pyrmont Bridge Hotel
 Free
-_Share this event: Brisbane, Australia - Small99's People, Planet, Pastry_ _Save this event: Brisbane, Australia - Small99's People, Planet, Pastry_
-  * [](https://www.eventbrite.com.au/e/save-money-energy-and-the-earth-tickets-1977351790434?aff=ebdssbdestsearch)
-### [Save money, energy and the earth](https://www.eventbrite.com.au/e/save-money-energy-and-the-earth-tickets-1977351790434?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Modbury · Community Learning Centre at the Tea Tree Gully Library
+_Share this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_ _Save this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_
+  * Thursday at 6:00 PM
+South Melbourne · Free Studio
 Free
-City of Tea Tree Gully
-6.6k followers
-_Save this event: Save money, energy and the earth_ _Share this event: Save money, energy and the earth_
-[](https://www.eventbrite.com.au/e/save-money-energy-and-the-earth-tickets-1977351790434?aff=ebdssbdestsearch)
-### [Save money, energy and the earth](https://www.eventbrite.com.au/e/save-money-energy-and-the-earth-tickets-1977351790434?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Modbury · Community Learning Centre at the Tea Tree Gully Library
+Small99
+9.4k followers
+_Save this event: Melbourne - Small99's People, Planet, Pint™: Sustainability Meetup_ _Share this event: Melbourne - Small99's People, Planet, Pint™: Sustainability Meetup_
+Thursday at 6:00 PM
+South Melbourne · Free Studio
 Free
-_Share this event: Save money, energy and the earth_ _Save this event: Save money, energy and the earth_
-  * [](https://www.eventbrite.com.au/e/sustainable-clean-up-for-everyday-kitchens-tickets-1984705498573?aff=ebdssbdestsearch)
-### [Sustainable Clean-up for Everyday Kitchens](https://www.eventbrite.com.au/e/sustainable-clean-up-for-everyday-kitchens-tickets-1984705498573?aff=ebdssbdestsearch)
-Monday at 6:30 PM
-Ringwood · Central Ringwood Community Centre
-From $45.00
-_Save this event: Sustainable Clean-up for Everyday Kitchens_ _Share this event: Sustainable Clean-up for Everyday Kitchens_
-[](https://www.eventbrite.com.au/e/sustainable-clean-up-for-everyday-kitchens-tickets-1984705498573?aff=ebdssbdestsearch)
-### [Sustainable Clean-up for Everyday Kitchens](https://www.eventbrite.com.au/e/sustainable-clean-up-for-everyday-kitchens-tickets-1984705498573?aff=ebdssbdestsearch)
-Monday at 6:30 PM
-Ringwood · Central Ringwood Community Centre
-From $45.00
-_Share this event: Sustainable Clean-up for Everyday Kitchens_ _Save this event: Sustainable Clean-up for Everyday Kitchens_
-  * Thursday at 11:00 AM
-Sydney · ICC Sydney
-Free
-Oliver Kinross
-1.7k followers
-_Save this event: Sustainability Professionals Forum - Sydney Build Expo 2026_ _Share this event: Sustainability Professionals Forum - Sydney Build Expo 2026_
-Thursday at 11:00 AM
-Sydney · ICC Sydney
-Free
-_Share this event: Sustainability Professionals Forum - Sydney Build Expo 2026_ _Save this event: Sustainability Professionals Forum - Sydney Build Expo 2026_
-  * [](https://www.eventbrite.com.au/e/reclaiming-yourself-after-domestic-violence-tulsi-wellness-tickets-1986113786801?aff=ebdssbdestsearch)
-### [Reclaiming Yourself after Domestic Violence @ Tulsi Wellness](https://www.eventbrite.com.au/e/reclaiming-yourself-after-domestic-violence-tulsi-wellness-tickets-1986113786801?aff=ebdssbdestsearch)
-Sunday at 11:00 AM
-Langwarrin · Tulsi Wellness
-From $45.00
-_Save this event: Reclaiming Yourself after Domestic Violence @ Tulsi Wellness_ _Share this event: Reclaiming Yourself after Domestic Violence @ Tulsi Wellness_
-[](https://www.eventbrite.com.au/e/reclaiming-yourself-after-domestic-violence-tulsi-wellness-tickets-1986113786801?aff=ebdssbdestsearch)
-### [Reclaiming Yourself after Domestic Violence @ Tulsi Wellness](https://www.eventbrite.com.au/e/reclaiming-yourself-after-domestic-violence-tulsi-wellness-tickets-1986113786801?aff=ebdssbdestsearch)
-Sunday at 11:00 AM
-Langwarrin · Tulsi Wellness
-From $45.00
-_Share this event: Reclaiming Yourself after Domestic Violence @ Tulsi Wellness_ _Save this event: Reclaiming Yourself after Domestic Violence @ Tulsi Wellness_
+_Share this event: Melbourne - Small99's People, Planet, Pint™: Sustainability Meetup_ _Save this event: Melbourne - Small99's People, Planet, Pint™: Sustainability Meetup_
   * Sales Ended
-Tuesday at 9:00 AM
-Toowoomba · For more information on venue address, reach out to "eventbrite@mgaussie.com"
-From $544.50
+Wednesday at 9:00 AM
+Melbourne · Regus 120 Collins Street
+From $515.91
 MG Aussie
-353 followers
-_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Toowoomba_ _Share this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Toowoomba_
+372 followers
+_Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Melbourne_ _Share this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Melbourne_
 Sales Ended
-Tuesday at 9:00 AM
-Toowoomba · For more information on venue address, reach out to "eventbrite@mgaussie.com"
-From $544.50
-_Share this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Toowoomba_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Toowoomba_
-View 2 similar results
-  * [](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986871650592?aff=ebdssbdestsearch)
-### [City of Stirling | Reusable Gift Wrapping Workshop](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986871650592?aff=ebdssbdestsearch)
-Sat, 2 May, 10:30 am
-Mirrabooka · Stirling Libraries - Mirrabooka
-From $5.00
+Wednesday at 9:00 AM
+Melbourne · Regus 120 Collins Street
+From $515.91
+_Share this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Melbourne_ _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Melbourne_
+  * [](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986872291509?aff=ebdssbdestsearch)
+### [City of Stirling |Reusable Gift Wrapping Workshop](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986872291509?aff=ebdssbdestsearch)
+Thursday at 5:30 PM
+Dianella · Stirling Libraries - Dianella
+From $2.50
 City of Stirling
-472 followers
-_Save this event: City of Stirling | Reusable Gift Wrapping Workshop_ _Share this event: City of Stirling | Reusable Gift Wrapping Workshop_
-[](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986871650592?aff=ebdssbdestsearch)
-### [City of Stirling | Reusable Gift Wrapping Workshop](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986871650592?aff=ebdssbdestsearch)
-Sat, 2 May, 10:30 am
-Mirrabooka · Stirling Libraries - Mirrabooka
-From $5.00
-_Share this event: City of Stirling | Reusable Gift Wrapping Workshop_ _Save this event: City of Stirling | Reusable Gift Wrapping Workshop_
-  * [](https://www.eventbrite.com.au/e/river-guardians-family-festival-tickets-1985491361109?aff=ebdssbdestsearch)
-### [River Guardians Family Festival](https://www.eventbrite.com.au/e/river-guardians-family-festival-tickets-1985491361109?aff=ebdssbdestsearch)
-Sat, 2 May, 9:00 am
-South Perth · Sir James Mitchell Park Playground
-Free
-Josh Byrne & Associates
-77 followers
-_Save this event: River Guardians Family Festival_ _Share this event: River Guardians Family Festival_
-[](https://www.eventbrite.com.au/e/river-guardians-family-festival-tickets-1985491361109?aff=ebdssbdestsearch)
-### [River Guardians Family Festival](https://www.eventbrite.com.au/e/river-guardians-family-festival-tickets-1985491361109?aff=ebdssbdestsearch)
-Sat, 2 May, 9:00 am
-South Perth · Sir James Mitchell Park Playground
-Free
-_Share this event: River Guardians Family Festival_ _Save this event: River Guardians Family Festival_
+478 followers
+_Save this event: City of Stirling |Reusable Gift Wrapping Workshop_ _Share this event: City of Stirling |Reusable Gift Wrapping Workshop_
+[](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986872291509?aff=ebdssbdestsearch)
+### [City of Stirling |Reusable Gift Wrapping Workshop](https://www.eventbrite.com.au/e/city-of-stirling-reusable-gift-wrapping-workshop-tickets-1986872291509?aff=ebdssbdestsearch)
+Thursday at 5:30 PM
+Dianella · Stirling Libraries - Dianella
+From $2.50
+_Share this event: City of Stirling |Reusable Gift Wrapping Workshop_ _Save this event: City of Stirling |Reusable Gift Wrapping Workshop_
   * [](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
 ### [Yin Yoga and Sound Healing](https://www.eventbrite.com.au/e/yin-yoga-and-sound-healing-tickets-1250990509289?aff=ebdssbdestsearch)
 Monday at 6:30 PM
@@ -150,129 +86,188 @@ Monday at 6:30 PM
 Tamarama · Tamarama SLSC
 From $27.78
 _Share this event: Yin Yoga and Sound Healing_ _Save this event: Yin Yoga and Sound Healing_
-  * [](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
-### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Melbourne · Melbourne
-Free
-_Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
-[](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
-### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Melbourne · Melbourne
-Free
-_Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
-View 5 similar results
-  * [](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Sydney · Sydney
-Free
-_Save this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)__Share this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)_
-[](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
-### [Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)](https://www.eventbrite.com.au/e/doughnut-design-for-businesstm-organisational-workshops-enquiry-only-tickets-1979104308262?aff=ebdssbdestsearch)
-Monday at 9:00 AM
-Sydney · Sydney
-Free
-_Share this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)__Save this event: Doughnut Design for Business™ | Organisational Workshops (Enquiry Only)_
-View 5 similar results
-  * [](https://www.eventbrite.com.au/e/detox-your-home-geelong-registration-1981660926175?aff=ebdssbdestsearch)
-### [Detox Your Home – Geelong](https://www.eventbrite.com.au/e/detox-your-home-geelong-registration-1981660926175?aff=ebdssbdestsearch)
-Sat, 2 May, 8:00 am
-Lovely Banks · Council Depot
-Free
-Sustainability Victoria - Detox Your Home
-2.7k followers
-_Save this event: Detox Your Home – Geelong_ _Share this event: Detox Your Home – Geelong_
-[](https://www.eventbrite.com.au/e/detox-your-home-geelong-registration-1981660926175?aff=ebdssbdestsearch)
-### [Detox Your Home – Geelong](https://www.eventbrite.com.au/e/detox-your-home-geelong-registration-1981660926175?aff=ebdssbdestsearch)
-Sat, 2 May, 8:00 am
-Lovely Banks · Council Depot
-Free
-_Share this event: Detox Your Home – Geelong_ _Save this event: Detox Your Home – Geelong_
   * Sales Ended
-Wednesday at 9:00 AM
-Sydney · ICC Sydney
-Free
-Oliver Kinross
-1.7k followers
-_Save this event: Sydney Build Expo 2026_ _Share this event: Sydney Build Expo 2026_
+Tuesday at 9:00 AM
+Melbourne · Regus 120 Collins Street
+From $491.56
+MG Aussie
+372 followers
+_Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_ _Share this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_
 Sales Ended
+Tuesday at 9:00 AM
+Melbourne · Regus 120 Collins Street
+From $491.56
+_Share this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_ _Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_
+View 4 similar results
+  * Sales Ended
+Friday at 9:00 AM
+Newcastle · Regus Newcastle, NSW
+From $554.03
+MG Aussie
+372 followers
+_Save this event: Growth Mindset for Small Business Owners – 1 Day Course in Newcastle_ _Share this event: Growth Mindset for Small Business Owners – 1 Day Course in Newcastle_
+Sales Ended
+Friday at 9:00 AM
+Newcastle · Regus Newcastle, NSW
+From $554.03
+_Share this event: Growth Mindset for Small Business Owners – 1 Day Course in Newcastle_ _Save this event: Growth Mindset for Small Business Owners – 1 Day Course in Newcastle_
+  * Sales Ended
+Friday at 9:00 AM
+Perth · Regus St Martins Tower
+From $743.56
+MG Aussie
+372 followers
+_Save this event: Practical DEI for Everyday Work – 1 Day Workshop in Perth_ _Share this event: Practical DEI for Everyday Work – 1 Day Workshop in Perth_
+Sales Ended
+Friday at 9:00 AM
+Perth · Regus St Martins Tower
+From $743.56
+_Share this event: Practical DEI for Everyday Work – 1 Day Workshop in Perth_ _Save this event: Practical DEI for Everyday Work – 1 Day Workshop in Perth_
+View 4 similar results
+  * Sales Ended
+Tuesday at 9:00 AM
+Lismore · For more information on venue address, reach out to "eventbrite@mgaussie.com"
+From $743.56
+MG Aussie
+372 followers
+_Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_ _Share this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_
+Sales Ended
+Tuesday at 9:00 AM
+Lismore · For more information on venue address, reach out to "eventbrite@mgaussie.com"
+From $743.56
+_Share this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_ _Save this event: Sustainable Agriculture & Eco-Business Practices – 1 Day Workshop, Lismore_
+  * [](https://www.eventbrite.com.au/e/italian-style-olive-curing-workshop-bindoon-tickets-1983668788746?aff=ebdssbdestsearch)
+### [Italian-Style Olive Curing Workshop: BINDOON](https://www.eventbrite.com.au/e/italian-style-olive-curing-workshop-bindoon-tickets-1983668788746?aff=ebdssbdestsearch)
+Tomorrow at 11:00 AM
+Bindoon · Rosie's Cottage Bindoon
+From $185.00
+Concetta Sultan
+72 followers
+_Save this event: Italian-Style Olive Curing Workshop: BINDOON_ _Share this event: Italian-Style Olive Curing Workshop: BINDOON_
+[](https://www.eventbrite.com.au/e/italian-style-olive-curing-workshop-bindoon-tickets-1983668788746?aff=ebdssbdestsearch)
+### [Italian-Style Olive Curing Workshop: BINDOON](https://www.eventbrite.com.au/e/italian-style-olive-curing-workshop-bindoon-tickets-1983668788746?aff=ebdssbdestsearch)
+Tomorrow at 11:00 AM
+Bindoon · Rosie's Cottage Bindoon
+From $185.00
+_Share this event: Italian-Style Olive Curing Workshop: BINDOON_ _Save this event: Italian-Style Olive Curing Workshop: BINDOON_
+  * Sales Ended
+Tuesday at 9:00 AM
+Newcastle · Regus - Newcastle, NSW
+From $648.27
+MG Aussie
+372 followers
+_Save this event: Port & Logistics Management Workshop – 1 Day Training in Newcastle, NSW_ _Share this event: Port & Logistics Management Workshop – 1 Day Training in Newcastle, NSW_
+Sales Ended
+Tuesday at 9:00 AM
+Newcastle · Regus - Newcastle, NSW
+From $648.27
+_Share this event: Port & Logistics Management Workshop – 1 Day Training in Newcastle, NSW_ _Save this event: Port & Logistics Management Workshop – 1 Day Training in Newcastle, NSW_
+  * [](https://www.eventbrite.com.au/e/sustainable-skincare-with-sage-cosmetics-tickets-1986041717239?aff=ebdssbdestsearch)
+### [Sustainable Skincare with Sage Cosmetics](https://www.eventbrite.com.au/e/sustainable-skincare-with-sage-cosmetics-tickets-1986041717239?aff=ebdssbdestsearch)
+Thursday at 6:30 PM
+Paddington · Paddington Library
+From $11.73
+Woollahra Municipal Council
+2.4k followers
+_Save this event: Sustainable Skincare with Sage Cosmetics_ _Share this event: Sustainable Skincare with Sage Cosmetics_
+[](https://www.eventbrite.com.au/e/sustainable-skincare-with-sage-cosmetics-tickets-1986041717239?aff=ebdssbdestsearch)
+### [Sustainable Skincare with Sage Cosmetics](https://www.eventbrite.com.au/e/sustainable-skincare-with-sage-cosmetics-tickets-1986041717239?aff=ebdssbdestsearch)
+Thursday at 6:30 PM
+Paddington · Paddington Library
+From $11.73
+_Share this event: Sustainable Skincare with Sage Cosmetics_ _Save this event: Sustainable Skincare with Sage Cosmetics_
+  * [](https://www.eventbrite.com.au/e/low-and-no-cost-home-upgrades-for-comfort-and-efficiency-tickets-1980306069763?aff=ebdssbdestsearch)
+### [Low and no-cost home upgrades for comfort and efficiency](https://www.eventbrite.com.au/e/low-and-no-cost-home-upgrades-for-comfort-and-efficiency-tickets-1980306069763?aff=ebdssbdestsearch)
+Monday at 5:55 PM
+Doncaster · Doncaster Library
+Free
+Environment and Sustainability
+274 followers
+_Save this event: Low and no-cost home upgrades for comfort and efficiency_ _Share this event: Low and no-cost home upgrades for comfort and efficiency_
+[](https://www.eventbrite.com.au/e/low-and-no-cost-home-upgrades-for-comfort-and-efficiency-tickets-1980306069763?aff=ebdssbdestsearch)
+### [Low and no-cost home upgrades for comfort and efficiency](https://www.eventbrite.com.au/e/low-and-no-cost-home-upgrades-for-comfort-and-efficiency-tickets-1980306069763?aff=ebdssbdestsearch)
+Monday at 5:55 PM
+Doncaster · Doncaster Library
+Free
+_Share this event: Low and no-cost home upgrades for comfort and efficiency_ _Save this event: Low and no-cost home upgrades for comfort and efficiency_
+  * [](https://www.eventbrite.com.au/e/family-fun-club-with-little-sprouts-williams-landing-library-lounge-tickets-1983741680768?aff=ebdssbdestsearch)
+### [Family Fun Club with Little Sprouts - Williams Landing Library Lounge](https://www.eventbrite.com.au/e/family-fun-club-with-little-sprouts-williams-landing-library-lounge-tickets-1983741680768?aff=ebdssbdestsearch)
+Fri, 8 May, 4:00 pm
+Williams Landing · Williams Landing Library Lounge
+Free
+Wyndham City Libraries
+3.8k followers
+_Save this event: Family Fun Club with Little Sprouts - Williams Landing Library Lounge_ _Share this event: Family Fun Club with Little Sprouts - Williams Landing Library Lounge_
+[](https://www.eventbrite.com.au/e/family-fun-club-with-little-sprouts-williams-landing-library-lounge-tickets-1983741680768?aff=ebdssbdestsearch)
+### [Family Fun Club with Little Sprouts - Williams Landing Library Lounge](https://www.eventbrite.com.au/e/family-fun-club-with-little-sprouts-williams-landing-library-lounge-tickets-1983741680768?aff=ebdssbdestsearch)
+Fri, 8 May, 4:00 pm
+Williams Landing · Williams Landing Library Lounge
+Free
+_Share this event: Family Fun Club with Little Sprouts - Williams Landing Library Lounge_ _Save this event: Family Fun Club with Little Sprouts - Williams Landing Library Lounge_
+  * [](https://www.eventbrite.com.au/e/ai-masterclass-for-brisbane-business-tickets-1982739508243?aff=ebdssbdestsearch)
+### [AI Masterclass for Brisbane Business](https://www.eventbrite.com.au/e/ai-masterclass-for-brisbane-business-tickets-1982739508243?aff=ebdssbdestsearch)
 Wednesday at 9:00 AM
-Sydney · ICC Sydney
+Nundah · Suburban Business Hub
 Free
-_Share this event: Sydney Build Expo 2026_ _Save this event: Sydney Build Expo 2026_
-  * [](https://www.eventbrite.com.au/e/mend-a-gnome-meetup-tickets-1984515022855?aff=ebdssbdestsearch)
-### [Mend-A-Gnome meetup](https://www.eventbrite.com.au/e/mend-a-gnome-meetup-tickets-1984515022855?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-Golden Grove · Harpers Field Community Hub (Wellbeing hub)
-From $10.00
-City of Tea Tree Gully
-6.6k followers
-_Save this event: Mend-A-Gnome meetup_ _Share this event: Mend-A-Gnome meetup_
-[](https://www.eventbrite.com.au/e/mend-a-gnome-meetup-tickets-1984515022855?aff=ebdssbdestsearch)
-### [Mend-A-Gnome meetup](https://www.eventbrite.com.au/e/mend-a-gnome-meetup-tickets-1984515022855?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-Golden Grove · Harpers Field Community Hub (Wellbeing hub)
-From $10.00
-_Share this event: Mend-A-Gnome meetup_ _Save this event: Mend-A-Gnome meetup_
-  * [](https://www.eventbrite.com.au/e/keynote-talk-costa-georgiadis-tickets-1987284966832?aff=ebdssbdestsearch)
-### [Keynote Talk - Costa Georgiadis](https://www.eventbrite.com.au/e/keynote-talk-costa-georgiadis-tickets-1987284966832?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Tusmore · City of Burnside Civic Centre
+Brisbane City Council
+16.4k followers
+_Save this event: AI Masterclass for Brisbane Business_ _Share this event: AI Masterclass for Brisbane Business_
+[](https://www.eventbrite.com.au/e/ai-masterclass-for-brisbane-business-tickets-1982739508243?aff=ebdssbdestsearch)
+### [AI Masterclass for Brisbane Business](https://www.eventbrite.com.au/e/ai-masterclass-for-brisbane-business-tickets-1982739508243?aff=ebdssbdestsearch)
+Wednesday at 9:00 AM
+Nundah · Suburban Business Hub
 Free
-City of Burnside
-569 followers
-_Save this event: Keynote Talk - Costa Georgiadis_ _Share this event: Keynote Talk - Costa Georgiadis_
-[](https://www.eventbrite.com.au/e/keynote-talk-costa-georgiadis-tickets-1987284966832?aff=ebdssbdestsearch)
-### [Keynote Talk - Costa Georgiadis](https://www.eventbrite.com.au/e/keynote-talk-costa-georgiadis-tickets-1987284966832?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Tusmore · City of Burnside Civic Centre
+_Share this event: AI Masterclass for Brisbane Business_ _Save this event: AI Masterclass for Brisbane Business_
+  * Sat, 9 May, 12:30 pm
+West Perth · 1 Prospect Pl
+From $43.66
+REmida WA
+86 followers
+_Save this event: Totes Amazing - Fabric Extravaganza_ _Share this event: Totes Amazing - Fabric Extravaganza_
+Sat, 9 May, 12:30 pm
+West Perth · 1 Prospect Pl
+From $43.66
+_Share this event: Totes Amazing - Fabric Extravaganza_ _Save this event: Totes Amazing - Fabric Extravaganza_
+  * [](https://www.eventbrite.com.au/e/moora-moora-coop-visitors-day-3rd-may-2026-tickets-1984234385461?aff=ebdssbdestsearch)
+### [Moora Moora Coop Visitors' Day - 3rd May 2026](https://www.eventbrite.com.au/e/moora-moora-coop-visitors-day-3rd-may-2026-tickets-1984234385461?aff=ebdssbdestsearch)
+Tomorrow at 2:00 PM
+Mount Toolebewong · Moora Moora Community Cooperative
 Free
-_Share this event: Keynote Talk - Costa Georgiadis_ _Save this event: Keynote Talk - Costa Georgiadis_
-  * [](https://www.eventbrite.com.au/e/learn-2-sew-at-the-nest-tickets-1980350868758?aff=ebdssbdestsearch)
-### [Learn 2 Sew at The Nest](https://www.eventbrite.com.au/e/learn-2-sew-at-the-nest-tickets-1980350868758?aff=ebdssbdestsearch)
-Sat, 2 May, 9:30 am
-Brendale · The Nest Community, The Sheds, South Pine Road, Brendale QLD, Australia
-From $73.91
-The Nest Community
-575 followers
-_Save this event: Learn 2 Sew at The Nest_ _Share this event: Learn 2 Sew at The Nest_
-[](https://www.eventbrite.com.au/e/learn-2-sew-at-the-nest-tickets-1980350868758?aff=ebdssbdestsearch)
-### [Learn 2 Sew at The Nest](https://www.eventbrite.com.au/e/learn-2-sew-at-the-nest-tickets-1980350868758?aff=ebdssbdestsearch)
-Sat, 2 May, 9:30 am
-Brendale · The Nest Community, The Sheds, South Pine Road, Brendale QLD, Australia
-From $73.91
-_Share this event: Learn 2 Sew at The Nest_ _Save this event: Learn 2 Sew at The Nest_
-View 2 similar results
-  * [](https://www.eventbrite.com.au/e/2026-enviro-expo-registration-of-interest-tickets-1982611772181?aff=ebdssbdestsearch)
-### [2026 Enviro Expo - Registration of Interest](https://www.eventbrite.com.au/e/2026-enviro-expo-registration-of-interest-tickets-1982611772181?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Tusmore · Burnside Civic Centre
+Moora Moora Community Cooperative
+16 followers
+_Save this event: Moora Moora Coop Visitors' Day - 3rd May 2026_ _Share this event: Moora Moora Coop Visitors' Day - 3rd May 2026_
+[](https://www.eventbrite.com.au/e/moora-moora-coop-visitors-day-3rd-may-2026-tickets-1984234385461?aff=ebdssbdestsearch)
+### [Moora Moora Coop Visitors' Day - 3rd May 2026](https://www.eventbrite.com.au/e/moora-moora-coop-visitors-day-3rd-may-2026-tickets-1984234385461?aff=ebdssbdestsearch)
+Tomorrow at 2:00 PM
+Mount Toolebewong · Moora Moora Community Cooperative
 Free
-City of Burnside
-569 followers
-_Save this event: 2026 Enviro Expo - Registration of Interest_ _Share this event: 2026 Enviro Expo - Registration of Interest_
-[](https://www.eventbrite.com.au/e/2026-enviro-expo-registration-of-interest-tickets-1982611772181?aff=ebdssbdestsearch)
-### [2026 Enviro Expo - Registration of Interest](https://www.eventbrite.com.au/e/2026-enviro-expo-registration-of-interest-tickets-1982611772181?aff=ebdssbdestsearch)
-Sat, 2 May, 10:00 am
-Tusmore · Burnside Civic Centre
+_Share this event: Moora Moora Coop Visitors' Day - 3rd May 2026_ _Save this event: Moora Moora Coop Visitors' Day - 3rd May 2026_
+  * [](https://www.eventbrite.com.au/e/agribusiness-australia-vic-event-building-resilience-in-agribusiness-ma-tickets-1986174514439?aff=ebdssbdestsearch)
+### [Agribusiness Australia VIC Event | Building Resilience in Agribusiness M&A](https://www.eventbrite.com.au/e/agribusiness-australia-vic-event-building-resilience-in-agribusiness-ma-tickets-1986174514439?aff=ebdssbdestsearch)
+Thursday at 5:30 PM
+Docklands · Grant Thornton Australia Ltd
+From $18.35
+_Save this event: Agribusiness Australia VIC Event | Building Resilience in Agribusiness M &A_ _Share this event: Agribusiness Australia VIC Event | Building Resilience in Agribusiness M &A_
+[](https://www.eventbrite.com.au/e/agribusiness-australia-vic-event-building-resilience-in-agribusiness-ma-tickets-1986174514439?aff=ebdssbdestsearch)
+### [Agribusiness Australia VIC Event | Building Resilience in Agribusiness M&A](https://www.eventbrite.com.au/e/agribusiness-australia-vic-event-building-resilience-in-agribusiness-ma-tickets-1986174514439?aff=ebdssbdestsearch)
+Thursday at 5:30 PM
+Docklands · Grant Thornton Australia Ltd
+From $18.35
+_Share this event: Agribusiness Australia VIC Event | Building Resilience in Agribusiness M &A_ _Save this event: Agribusiness Australia VIC Event | Building Resilience in Agribusiness M &A_
+  * [](https://www.eventbrite.com.au/e/burnie-seed-library-session-at-burnie-library-tickets-1225657016129?aff=ebdssbdestsearch)
+### [Burnie Seed Library Session at Burnie Library](https://www.eventbrite.com.au/e/burnie-seed-library-session-at-burnie-library-tickets-1225657016129?aff=ebdssbdestsearch)
+Tuesday at 4:30 PM
+Burnie · Burnie Library
 Free
-_Share this event: 2026 Enviro Expo - Registration of Interest_ _Save this event: 2026 Enviro Expo - Registration of Interest_
-  * [](https://www.eventbrite.com.au/e/non-profit-grant-writing-training-melbourne-april-2026-registration-1983493970861?aff=ebdssbdestsearch)
-### [Non Profit Grant Writing Training - Melbourne - April 2026](https://www.eventbrite.com.au/e/non-profit-grant-writing-training-melbourne-april-2026-registration-1983493970861?aff=ebdssbdestsearch)
-Thursday at 10:00 AM
-Melbourne · Melbourne
-From $380.00
-Non Profit Training
-1.4k followers
-_Save this event: Non Profit Grant Writing Training - Melbourne - April 2026_ _Share this event: Non Profit Grant Writing Training - Melbourne - April 2026_
-[](https://www.eventbrite.com.au/e/non-profit-grant-writing-training-melbourne-april-2026-registration-1983493970861?aff=ebdssbdestsearch)
-### [Non Profit Grant Writing Training - Melbourne - April 2026](https://www.eventbrite.com.au/e/non-profit-grant-writing-training-melbourne-april-2026-registration-1983493970861?aff=ebdssbdestsearch)
-Thursday at 10:00 AM
-Melbourne · Melbourne
-From $380.00
-_Share this event: Non Profit Grant Writing Training - Melbourne - April 2026_ _Save this event: Non Profit Grant Writing Training - Melbourne - April 2026_
+Burnie Library
+382 followers
+_Save this event: Burnie Seed Library Session at Burnie Library_ _Share this event: Burnie Seed Library Session at Burnie Library_
+[](https://www.eventbrite.com.au/e/burnie-seed-library-session-at-burnie-library-tickets-1225657016129?aff=ebdssbdestsearch)
+### [Burnie Seed Library Session at Burnie Library](https://www.eventbrite.com.au/e/burnie-seed-library-session-at-burnie-library-tickets-1225657016129?aff=ebdssbdestsearch)
+Tuesday at 4:30 PM
+Burnie · Burnie Library
+Free
+_Share this event: Burnie Seed Library Session at Burnie Library_ _Save this event: Burnie Seed Library Session at Burnie Library_
 
 
 View map
@@ -281,43 +276,19 @@ View map
 [Things to do in Alice Springs](https://www.eventbrite.com.au/ttd/australia--alice-springs/)[](https://www.eventbrite.com.au/ttd/australia--alice-springs/)
 [Things to do in Ciccone](https://www.eventbrite.com.au/ttd/australia--ciccone/)[](https://www.eventbrite.com.au/ttd/australia--ciccone/)
 [Things to do in Flynn](https://www.eventbrite.com.au/ttd/australia--flynn--105133/)[](https://www.eventbrite.com.au/ttd/australia--flynn--105133/)
-[](https://www.eventbrite.com.au/e/from-overlooked-to-seen-heard-valued-tickets-1987374364222?aff=ebdssbdestsearch)
-### [From Overlooked to Seen Heard & Valued](https://www.eventbrite.com.au/e/from-overlooked-to-seen-heard-valued-tickets-1987374364222?aff=ebdssbdestsearch)
-Monday at 7:00 PM AEST
-Free
-Christine Stow
-95 followers
-Promoted
-_Save this event: From Overlooked to Seen Heard & Valued_ _Share this event: From Overlooked to Seen Heard & Valued_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/build-wealth-avoid-traps-invest-with-confidence-tickets-1987874708766?aff=ebdssbdestsearch)
-### [Build wealth, avoid traps, invest with confidence.](https://www.eventbrite.com.au/e/build-wealth-avoid-traps-invest-with-confidence-tickets-1987874708766?aff=ebdssbdestsearch)
-Tuesday at 8:00 PM AEST
-Free
-Webinars - Property Club
-65 followers
-Promoted
-_Save this event: Build wealth, avoid traps, invest with confidence.__Share this event: Build wealth, avoid traps, invest with confidence._
-_Promoted event actions_
-Sunday at 10:00 AM AEST
-Free
-Diane Bellchambers (Hons Psych)
-1.7k followers
-Promoted
-_Save this event: Thriving Through Transitions_ _Share this event: Thriving Through Transitions_
- _Promoted event actions_
+[Things to do in Stuart](https://www.eventbrite.com.au/ttd/australia--stuart--69165/)[](https://www.eventbrite.com.au/ttd/australia--stuart--69165/)
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Live music](https://www.eventbrite.com.au/d/australia/live-music/)
 ### [2. Event](https://www.eventbrite.com.au/d/australia/event/)
 ### [3. Rave party](https://www.eventbrite.com.au/d/australia/rave-party/)
-### [4. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
-### [5. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
-### [6. Ai](https://www.eventbrite.com.au/d/australia/ai/)
-### [7. Food events](https://www.eventbrite.com.au/d/australia/food-events/)
-### [8. Australia](https://www.eventbrite.com.au/d/australia/australia/)
-### [9. May](https://www.eventbrite.com.au/d/australia/may/)
-### [10. Brisbane](https://www.eventbrite.com.au/d/australia/brisbane/)
-### [11. Mma fight](https://www.eventbrite.com.au/d/australia/mma-fight/)
-### [12. Dating](https://www.eventbrite.com.au/d/australia/dating/)
+### [4. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
+### [5. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [6. Food events](https://www.eventbrite.com.au/d/australia/food-events/)
+### [7. Ai](https://www.eventbrite.com.au/d/australia/ai/)
+### [8. May](https://www.eventbrite.com.au/d/australia/may/)
+### [9. Australia](https://www.eventbrite.com.au/d/australia/australia/)
+### [10. Mma fight](https://www.eventbrite.com.au/d/australia/mma-fight/)
+### [11. Gold coast](https://www.eventbrite.com.au/d/australia/gold-coast/)
+### [12. Darwin](https://www.eventbrite.com.au/d/australia/darwin/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)

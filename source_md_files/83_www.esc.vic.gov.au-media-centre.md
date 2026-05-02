@@ -3,6 +3,10 @@
 View our latest media releases, staff articles and speeches.
 Filters
 News update
+27 April 2026
+###  [Liquidator appointed for Victorian Energy Upgrades accredited business, Glower](https://www.esc.vic.gov.au/media-centre/liquidator-appointed-victorian-energy-upgrades-accredited-business-glower)
+The Essential Services Commission suspended the Victorian Energy Upgrades (VEU) accreditation of Glower Pty Ltd on 9 April 2026. This action follows advice that Glower has entered external administration and is no longer operating. 
+News update
 21 April 2026
 ###  [PowerUp Victoria: regulator’s partnership with Women’s Health in the North](https://www.esc.vic.gov.au/media-centre/powerup-victoria-regulators-partnership-womens-health-north)
 The Essential Services Commission partnered with Women’s Health in the North last year for the PowerUp Victoria project. The pilot program delivered eight energy information workshops to migrant and refugee women in English, Dari, Nepalese, Arabic and Urdu. 
@@ -38,10 +42,6 @@ Media releases
 18 March 2026
 ###  [Regulator accepts court-enforceable undertaking over regional Victorian Energy Upgrades installations ](https://www.esc.vic.gov.au/media-centre/regulator-accepts-court-enforceable-undertaking-over-regional-victorian-energy-upgrades)
 The Essential Services Commission has accepted a court-enforceable undertaking requiring Victorian Energy Upgrades accredited business Ecovantage Pty Ltd to rectify non-compliant water heater installations at its own cost. 
-Media releases
-12 March 2026
-###  [Victorian regulator publishes draft default electricity price](https://www.esc.vic.gov.au/media-centre/victorian-regulator-publishes-draft-default-electricity-price)
-The Essential Services Commission’s draft decision on the 2026-27 Victorian Default Offer (VDO) proposes a reduction in each of the state’s five electricity distribution zones. 
 ## For general enquiries
 Phone:   
 Email: 

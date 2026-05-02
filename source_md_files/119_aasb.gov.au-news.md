@@ -5,6 +5,13 @@
 Select category:
 [All](https://aasb.gov.au/news/) [Standards](https://aasb.gov.au/news/?category=Standards)
 Filter by date range:
+01
+MAY
+2026
+AASB
+### AASB May 2026 Board Meeting Public Agenda and Papers out now
+The [public agenda](https://aasb.gov.au/media/e12aopyw/aasbpublicagendam220_14may26.pdf) and [public papers](https://aasb.gov.au/board-centre/current-board-papers/) for AASB Board Meeting 220, to be held on 14 May 2026, are now available.
+[Read more](https://aasb.gov.au/news/aasb-may-2026-board-meeting-public-agenda-and-papers-out-now/)
 23
 APRIL
 2026
@@ -19,13 +26,14 @@ AASB
 ### e-learning modules for sustainability reporting developed with ASIC
 The AASB has partnered with ASIC to develop and publish e-learning modules to assist entities in understanding the foundational concepts underpinning climate-related financial disclosures.
 [Read more](https://aasb.gov.au/news/e-learning-modules-for-sustainability-reporting-developed-with-asic/)
-25
-MARCH
-2026
-AASB
 ### March Reporting Roundup
+25 Mar
+2026
+25 March 2026
 In the March edition of 
+  * Sustainability Reporting Event
   * 2027–2031 Agenda Consultation
+  * New AASB S2 Guidance
 
 [Read more](https://aasb.gov.au/news/march-reporting-roundup/)
 ### Action Alert No. 246

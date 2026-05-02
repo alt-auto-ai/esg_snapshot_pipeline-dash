@@ -3,7 +3,21 @@
 ## News and media
 This page contains news items and media releases related to the Authority’s work. For speeches and opinion pieces delivered by the Authority’s Chair and other representatives, go to [Speeches and opinion pieces](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces "Speeches and opinion pieces ").
 #### Latest news 
-Showing 1 - 9 of 102
+Showing 1 - 9 of 104
+30 Apr 2026
+[Delivering emissions reduction while maintaining energy reliability](https://www.climatechangeauthority.gov.au/delivering-emissions-reduction-while-maintaining-energy-reliability)
+During the CEDA Climate and Energy Summit, Climate Change Authority Chair Matt Kean outlined Australia’s climate and energy outlook, highlighting observed… 
+  * News 
+  * Speeches 
+
+
+29 Apr 2026
+[On Good Authority - 22 April 2026](https://www.climatechangeauthority.gov.au/good-authority-22-april-2026)
+Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
+  * News 
+  * On Good Authority 
+
+
 8 Apr 2026
 [On Good Authority - 8 April 2026](https://www.climatechangeauthority.gov.au/good-authority-8-april-2026)
 Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
@@ -51,20 +65,6 @@ Australia’s growing climate‑related financial risks and the significant inve
 Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
   * News 
   * On Good Authority 
-
-
-6 Mar 2026
-[Innovation, resilience and opportunity for Australian horticulture](https://www.climatechangeauthority.gov.au/innovation-resilience-and-opportunity-australian-horticulture)
-Stronger national targets, climate-smart practices, and innovations like biochar and enhanced rock weathering can help growers boost resilience, cut emissions… 
-  * News 
-  * Speeches 
-
-
-3 Mar 2026
-[Climate resilience adds revenue options for Australia’s farmers](https://www.climatechangeauthority.gov.au/climate-resilience-adds-revenue-options-australias-farmers)
-Decarbonisation and better land management can strengthen regional communities by boosting farm resilience, reducing emissions and unlocking new economic… 
-  * News 
-  * Speeches 
 
 
 [ Click here to view speeches ](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces)

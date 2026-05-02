@@ -13,6 +13,9 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Consultation on the News Bargaining Incentive now open](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consultation-news-bargaining-incentive-now-open)
+28 April 2026
+The Albanese Government is taking the next step to ensure Australian journalism is sustainable now and into the future. 
 ### [Appointment of members to the Takeovers Panel](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/appointment-members-takeovers-panel)
 13 April 2026
 The Governor‑General has recently appointed and reappointed the following part‑time members to the Takeovers Panel (the Panel) for a three‑year period beginning on 2 April 2026. 
@@ -71,6 +74,3 @@ We have tasked the Board of Taxation to undertake an independent review of the A
 ### [Action against Netwealth welcomed](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/action-against-netwealth-welcomed)
 18 December 2025
 The Albanese Government welcomes the announcements by the Australian Securities and Investments Commission (ASIC) and the Australian Prudential Regulation Authority (APRA) today regarding action ag 
-### [Commonwealth overrules exclusion clauses for Bondi attack insurance claims](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/commonwealth-overrules-exclusion-clauses-bondi-attack)
-16 December 2025
-Today, we have declared Sunday’s Bondi attack a terrorist incident for the purposes of the Terrorism and Cyclone Insurance Act 2003, based on advice from relevant agencies and followi 

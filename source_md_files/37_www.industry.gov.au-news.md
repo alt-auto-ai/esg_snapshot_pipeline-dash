@@ -27,7 +27,7 @@ Mar 2026
 Australia and the European Union are starting formal treaty negotiations on Australia’s access to the EU’s flagship research and innovation program. 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 80. Showing results from 1 to 12 of 959.
+Page 1 of 59. Showing results from 1 to 12 of 707.
   * 23 April 2026 
 ### [The Australian Government has signed a memorandum of understanding (MOU) with tech giant Microsoft](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft)
 Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
@@ -66,6 +66,6 @@ Round 19 of the Cooperative Research Centres Projects (CRC-P) includes a focus o
 The independent panel’s report outlines recommendations to the Australian Government to reform Australia’s research and development (R&D) system. 
 
 
-Page 1 of 80. Showing results from 1 to 12 of 959.
-Page 1 of 80. Showing results from 1 to 12 of 959.
+Page 1 of 59. Showing results from 1 to 12 of 707.
+Page 1 of 59. Showing results from 1 to 12 of 707.
 [Back to top](https://www.industry.gov.au/news#skip-links)

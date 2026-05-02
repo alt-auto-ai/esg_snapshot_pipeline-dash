@@ -6,9 +6,63 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (991)
+####  News (1000)
 [RSS](https://environment.ec.europa.eu/node/92/rss_en)
 Showing results 1 to 10
+  * News article
+  * 30 April 2026
+
+
+[Commission holds high-level talks on Circular Economy Act](https://environment.ec.europa.eu/news/commission-holds-high-level-talks-circular-economy-act-2026-04-30_en)
+Executive Vice-President Stéphane Séjourné and Commissioner Jessika Roswall led the discussions with key stakeholders.
+  * 1 min read
+
+
+  * News article
+  * 29 April 2026
+
+
+[Commission proposes change to waste shipment rules](https://environment.ec.europa.eu/news/commission-proposes-change-waste-shipment-rules-2026-04-29_en)
+Under current EU rules, the export of mixed municipal waste for recovery to non-EEA countries, such as Switzerland, will soon be banned.
+  * 2 min read
+
+
+  * News article
+  * 28 April 2026
+
+
+[Commission seeks views on battery removability exemptions](https://environment.ec.europa.eu/news/commission-seeks-views-battery-removability-exemptions-2026-04-28_en)
+The Commission launched a public consultation on new rules exempting more products from battery removability and replaceability rules.
+  * 2 min read
+
+
+  * News blog
+  * 24 April 2026
+
+
+[How Ghana’s youth are reimagining agriculture](https://environment.ec.europa.eu/news/how-ghanas-youth-are-reimagining-agriculture-2026-04-24_en)
+Led by Social Enterprise Ghana and partners, the ACTIVATE Project aims to empower up to 25,000 young people by 2028 through innovative agricultural training.
+  * 2 min read
+
+
+  * News article
+  * 24 April 2026
+
+
+[New platform to help unlock funding for a bio-based future ](https://environment.ec.europa.eu/news/new-platform-help-unlock-funding-bio-based-future-2026-04-24_en)
+The Bioeconomy Investment Deployment Group (BIDG) will help Europe’s bioeconomy access the funding it needs to grow.
+  * 5 min read
+
+
+  * News article
+  * 24 April 2026
+
+
+[Successful circular economy conference ends with crucial message](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/ecesp-annual-conference-successful-event-important-messages)
+The European Circular Economy Stakeholder Platform's (ECESP) annual gathering redefined the circular economy as a vital economic and security strategy necessary for Europe's industrial resilience and resource independence.
+  * 1 min read
+
+
   * News article
   * 23 April 2026
 
@@ -36,67 +90,13 @@ This year's Commission and European External Action Service campaign is all abou
   * 2 min read
 
 
-  * News announcement
-  * 21 April 2026
-
-
-[Why the EU Ecolabel is young consumers’ roadmap to more conscious consumption ](https://environment.ec.europa.eu/news/why-eu-ecolabel-young-consumers-roadmap-more-conscious-consumption-2026-04-21_en)
-Ethical consumerism is on the rise among young people, who increasingly want their values to be reflected in how they spend their money. Read why the EU Ecolabel is a valuable tool for consumers and businesses alike!
-  * 4 min read
-
-
   * News article
-  * 21 April 2026
+  * 22 April 2026
 
 
-[Creating win-win for business and people key to success of circular economy](https://www.eea.europa.eu/en/newsroom/news/creating-win-win-for-business-and-people-key-to-success-of-circular-economy)
-Two new European Environment Agency (EEA) reports argue that turning Europe’s circular economy ambitions into reality will depend on making it people-focused, in particular by ensuring that EU rules work to succeed for entrepreneurs, business owners, citizens and workers alike.
-  * 1 min read
-
-
-  * News article
-  * 20 April 2026
-
-
-[Help shape Europe’s Circular Economy Act: Join the final stakeholder workshop ](https://environment.ec.europa.eu/news/help-shape-europes-circular-economy-act-join-final-stakeholder-workshop-2026-04-20_en)
-Discover how Europe can strengthen its access to secondary raw materials and accelerate the transition to a competitive circular economy.
-  * 1 min read
-
-
-  * News blog
-  * 20 April 2026
-
-
-[Blooming, beautiful, and chemical-free: Great gardens can also be pollinator havens](https://environment.ec.europa.eu/news/blooming-beautiful-and-chemical-free-great-gardens-can-also-be-pollinator-havens-2026-04-20_en)
-Avoiding pesticides and boosting biodiversity in urban ecosystems.
-  * 4 min read
-
-
-  * News blog
-  * 19 April 2026
-
-
-[Sow, Grow, Unite: A garden for every generation in Gozo](https://environment.ec.europa.eu/news/sow-grow-unite-garden-every-generation-gozo-2026-04-19_en)
-The Sow, Grow, Unite Community Garden is a shared outdoor space where students, parents, hospital staff, and elderly residents work side-by-side.
-  * 2 min read
-
-
-  * News blog
-  * 17 April 2026
-
-
-[How a tourism project is helping protect nature and jobs in Colombia](https://environment.ec.europa.eu/news/how-tourism-project-helping-protect-nature-and-jobs-colombia-2026-04-17_en)
-CHECK is turning travel into conservation and helping to build green skills throughout the Latin American country.
-  * 2 min read
-
-
-  * News blog
-  * 17 April 2026
-
-
-[Bringing soil science to life for the next generation ](https://environment.ec.europa.eu/news/bringing-soil-science-life-next-generation-2026-04-17_en)
-Happy Toppy is a new initiative helping children discover the hidden world beneath their feet and understand why it matters.
-  * 3 min read
+[Research finds far-reaching ‘forever chemical’ pollution in the Danube Basin](https://environment.ec.europa.eu/news/research-finds-far-reaching-forever-chemical-pollution-danube-basin-2026-04-22_en)
+A study of PFAS contamination in the Upper Danube Basin reveals the extent of pollution, including industrial hotspots and groundwater contaminated by old landfill sites and previous application of fire-fighting foam. Remediation is urgently needed.
+  * 5 min read
 
 
 Share this page 

@@ -1,39 +1,39 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
-### [Government's take joint action to support Liberty Bell Bay workers during sale process](https://www.pm.gov.au/media/governments-take-joint-action-support-liberty-bell-bay-workers-during-sale-process)
-Friday 24 April 2026
+### [Question and answer - Daily Telegraph Future Western Sydney Forum](https://www.pm.gov.au/media/question-and-answer-daily-telegraph-future-western-sydney-forum)
+Friday 1 May 2026
+Transcript
+### [Daily Telegraph Future Western Sydney Forum](https://www.pm.gov.au/media/daily-telegraph-future-western-sydney-forum)
+Friday 1 May 2026
+Speech, Transcript
+### [Doorstop - Sydney](https://www.pm.gov.au/media/doorstop-sydney-8)
+Friday 1 May 2026
+Transcript
+### [Additional jet fuel and additional diesel secured](https://www.pm.gov.au/media/additional-jet-fuel-and-additional-diesel-secured)
+Friday 1 May 2026
 Media release
-### [Television interview - ABC Afternoon Briefing](https://www.pm.gov.au/media/television-interview-abc-afternoon-briefing-7)
-Thursday 23 April 2026
+### [Television interview - SBS](https://www.pm.gov.au/media/television-interview-sbs)
+Thursday 30 April 2026
 Transcript
-### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-32)
-Thursday 23 April 2026
+### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-33)
+Thursday 30 April 2026
 Transcript
-### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-31)
-Thursday 23 April 2026
+### [Interim Report of the Royal Commission on Antisemitism and Social Cohesion](https://www.pm.gov.au/media/interim-report-royal-commission-antisemitism-and-social-cohesion)
+Thursday 30 April 2026
+Media statement
+### [Doorstop - Perth](https://www.pm.gov.au/media/doorstop-perth-2)
+Wednesday 29 April 2026
 Transcript
-### [Podcast interview - The Daily Aus](https://www.pm.gov.au/media/podcast-interview-daily-aus-1)
-Thursday 23 April 2026
-Transcript
-### [Radio interview - ABC Sydney](https://www.pm.gov.au/media/radio-interview-abc-sydney-21)
-Thursday 23 April 2026
-Transcript
-### [Radio interview - ABC Sydney](https://www.pm.gov.au/media/radio-interview-abc-sydney-20)
-Wednesday 22 April 2026
-Transcript
-### [Securing more fuel and fertiliser](https://www.pm.gov.au/media/securing-more-fuel-and-fertiliser)
-Wednesday 22 April 2026
+### [Delivering $1.1 billion to strengthen supply chains and boost productivity in Western Australia](https://www.pm.gov.au/media/delivering-1-1-billion-strengthen-supply-chains-and-boost-productivity-western-australia)
+Wednesday 29 April 2026
 Media release
-### [Press conference - Port Botany](https://www.pm.gov.au/media/press-conference-port-botany)
-Tuesday 21 April 2026
-Transcript
-### [Television interview - ABC 7:30](https://www.pm.gov.au/media/television-interview-abc-730-18)
-Monday 20 April 2026
-Transcript
-### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-30)
-Saturday 18 April 2026
-Transcript
-### [Press conference - Viva Refinery, Geelong](https://www.pm.gov.au/media/press-conference-viva-refinery-geelong)
-Friday 17 April 2026
+### [Faster environmental approvals with states and territories](https://www.pm.gov.au/media/faster-environmental-approvals-states-and-territories)
+Wednesday 29 April 2026
+Media release
+### [The Chamber of Minerals and Energy of Western Australia](https://www.pm.gov.au/media/chamber-minerals-and-energy-western-australia)
+Wednesday 29 April 2026
+Speech, Transcript
+### [Radio interview - ABC Perth](https://www.pm.gov.au/media/radio-interview-abc-perth-7)
+Tuesday 28 April 2026
 Transcript

@@ -4,7 +4,15 @@ News and articles
 # News and articles
 # News and articles
 Latest news and announcements from the department, showcasing the people, projects and programs that make Victoria the best place to live, work, stay, experience, invest and study
-Showing **1** to 12 of 225 items.
+Showing **1** to 12 of 227 items.
+News
+29 April 2026
+## [More First Peoples economic opportunities in Shepparton](https://djsir.vic.gov.au/news-and-articles/more-first-peoples-economic-opportunities-in-shepparton)
+The Yorta Yorta Nation Aboriginal Corporation has created a new economic hub on High Street in Shepparton
+News
+28 April 2026
+## [Victoria’s TAFEs leading the nation in clean energy training](https://djsir.vic.gov.au/news-and-articles/victorias-tafes-leading-the-nation-in-clean-energy-training)
+A Renewable Energy TAFE Centre of Excellence is coming to Victoria.
 News
 23 April 2026
 ## [ACE scholarships for teaching in adult and community education ](https://djsir.vic.gov.au/news-and-articles/ace-scholarships-for-teaching-in-adult-and-community-education)
@@ -45,12 +53,4 @@ News
 02 April 2026
 ## [Accessible tourism: exploring without barriers](https://djsir.vic.gov.au/news-and-articles/accessible-tourism-exploring-without-barriers)
 In 2024 travellers with accessible needs took more than 70 million trips across Australia.
-News
-30 March 2026
-## [Melbourne smashes hotel records for Formula 1 Australian Grand Prix](https://djsir.vic.gov.au/news-and-articles/melbourne-smashes-hotel-occupancy-records-for-formula-1-australian-grand-prix)
-Hotel occupancy hit an all-time high with Formula 1 fans flocking to Melbourne in March
-News
-26 March 2026
-## [Creating more digital career opportunities for Victorians](https://djsir.vic.gov.au/news-and-articles/creating-more-digital-career-opportunities-for-victorians)
-The Victorian Digital Skills Compact is a shared commitment between government, industry and the education sector.
 Previous  1 [2](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) [3](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=3) [4](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=4) [5](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=5) [6](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=6) [7](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=7) [8](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=8) [9](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=9) [10](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=10) [ [Next](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) ] 

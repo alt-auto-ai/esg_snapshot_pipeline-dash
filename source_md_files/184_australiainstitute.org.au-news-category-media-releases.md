@@ -1,8 +1,20 @@
-Fri 24 Apr
 Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/sa-political-parties-set-to-receive-tens-of-millions-in-taxpayer-dollars-including-6-million-for-one-nation/)
+With the final result of the South Australian election expected next week, new analysis by The Australia Institute reveals the true scale of the taxpayer-funded payments political parties and candidates will receive thanks to rushed changes to the state’s political donation laws.
+[](https://australiainstitute.org.au/post/acclaimed-lawyer-and-author-josh-bornstein-to-join-the-australia-institute-to-tackle-corporate-power/)
+The Australia Institute is proud to announce that acclaimed lawyer and author, Josh Bornstein, will be joining the organisation in the newly created role of Director, Corporate Regulation.
+# April 2026
+[](https://australiainstitute.org.au/post/sicker-for-longer-and-dying-younger-how-medicare-treats-regional-australians-like-second-class-citizens/)
+Medicare is failing regional and remote Australians, with rural people getting sicker and dying younger than their city counterparts, according to new research by The Australia Institute.
+[](https://australiainstitute.org.au/post/pms-delay-to-cost-billions-as-new-national-and-wa-polls-reveal-growing-support-for-gas-tax/)
+Any decision from the Albanese Government to delay the implementation of a 25% gas export tax will cost the Australian public over a billion dollars per month, The Australia Institute has warned.
+[](https://australiainstitute.org.au/post/medical-misogyny-alive-and-well-in-australia-as-new-poll-shows-just-1-in-7-young-women-feel-their-gp-always-takes-them-seriously/)
+A new poll conducted for The Australia Institute reveals a significant gulf between the experiences of young women and older men when they see a doctor in Australia.
+[](https://australiainstitute.org.au/post/colombia-fossil-fuel-meeting-presents-more-gas-policy-headaches-for-australian-government/)
+While dealing with political problems over gas in Australia, federal government representatives are also attending the world’s first meeting to transition away from fossil fuels.
 [](https://australiainstitute.org.au/post/japanese-government-collects-more-tax-from-australian-gas-than-australian-government/)
 New Australia Institute research published today shows that the Japanese Government makes more revenue taxing its imports of Australian gas than the Australian Government makes from the export of our gas. Key findings: Japan has imposed a tax on oil and gas imports since 1978, expanding the tax to cover coal in 2003. Over the last
 [](https://australiainstitute.org.au/post/high-court-gives-victoria-a-chance-to-rethink-its-unconstitutional-undemocratic-political-donation-laws/)
@@ -53,20 +65,6 @@ New polling conducted by the RedBridge Group reveals strong nationwide support f
 A scheme designed to help the economies of Pacific Island nations while filling labour shortages in Australia is putting workers at risk of modern slavery, according to a new report by The Australia Institute.
 [](https://australiainstitute.org.au/post/hasty-decision-inflicts-more-pain-and-will-cost-jobs/)
 By its own standards, today’s decision by the Reserve Bank of Australia to raise interest rates from 3.6 percent to 3.85 percent seems rushed and inconsistent.
-[](https://australiainstitute.org.au/post/new-data-reveals-record-spending-ahead-of-2025-election-but-taxpayer-funding-will-increase-for-2028/)
-The Australian Electoral Commission has today released its political contributions data for 2024-25, which reveals the major political parties raised and spent hundreds of millions of dollars last year. 
-[](https://australiainstitute.org.au/post/australian-high-schools-the-most-expensive-in-the-world-new-research/)
-As the 2026 school year gets underway, new research by The Australia Institute reveals that Australia is the most expensive place in the developed world for families to send a child to high school.
-# January 2026
-[](https://australiainstitute.org.au/post/how-to-re-ausify-the-hottest-100/)
-On the eve of this year’s Triple J Hottest 100, new analysis by The Australia Institute reveals a bleak outlook for Australian music, and also how to fix it.
-[](https://australiainstitute.org.au/post/fewer-guns-will-make-us-all-safer/)
-The Albanese government’s new gun laws, which passed the federal parliament with the support of the Greens and crossbench, will make all Australians safer. 
-[](https://australiainstitute.org.au/post/statement-from-the-australia-institute/)
-ADELAIDE WRITERS’ WEEK
-# December 2025
-[](https://australiainstitute.org.au/post/federal-governments-gas-policy-acknowledges-there-is-no-gas-shortage/)
-The Albanese Government’s announcement of a gas reserve for Australians is an acknowledgement that there is no gas shortage, and that excessive exports have driven up energy prices for Australians. The Gas Market Review Report acknowledges that unrestricted exports linked Australian prices to world prices, tripling the cost of gas on Australia’s east coast over
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

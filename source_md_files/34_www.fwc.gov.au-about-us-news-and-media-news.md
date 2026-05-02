@@ -6,6 +6,12 @@ News about the Commission and our services. [Subscribe to receive updates](https
 Content
 View
 News Listing 
+##  General Manager statement: Mark Irving KC resignation 
+Date
+29 Apr 2026
+Deck
+Administration of the CFMEU Construction and General Division.
+[ General Manager statement: Mark Irving KC resignation  ](https://www.fwc.gov.au/about-us/news-and-media/news/general-manager-statement-mark-irving-kc-resignation "General Manager statement: Mark Irving KC resignation")
 ##  Road transport contractual chain order issued 
 Date
 20 Apr 2026
@@ -30,12 +36,6 @@ Date
 Deck
 Submissions on our draft order are due by 12 noon (AEST) on Friday 17 April.
 [ Consultation opens for proposed road transport contractual chain order  ](https://www.fwc.gov.au/about-us/news-and-media/news/consultation-opens-proposed-road-transport-contractual-chain-order "Consultation opens for proposed road transport contractual chain order")
-##  Fairer Fuel Act commences and new major case announced 
-Date
-02 Apr 2026
-Deck
-We can now expedite emergency road transport contractual chain order cases.
-[ Fairer Fuel Act commences and new major case announced  ](https://www.fwc.gov.au/about-us/news-and-media/news/fairer-fuel-act-commences-and-new-major-case-announced "Fairer Fuel Act commences and new major case announced")
 **Published by the Fair Work Commission (www.fwc.gov.au)**
 **Last updated:** 11 Mar 2025 
 **Location on last update:** https://www.fwc.gov.au/about-us/news-and-media/news 

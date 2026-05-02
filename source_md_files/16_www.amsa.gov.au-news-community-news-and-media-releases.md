@@ -1,6 +1,4 @@
 [ Skip to main content ](https://www.amsa.gov.au/news-community/news-and-media-releases#main-content)
-AMSA Connect will be closed on Monday 27 April 2026, reopening on Tuesday 28 April 2026. Our search and rescue team will continue to operate during this time.
-Close alert banner
 # News and updates
 Read our latest news articles and updates.
 Media releases are published on the [AMSA Media Centre.](https://media.amsa.gov.au/?utm_source=AMSA+Website&utm_medium=website&utm_campaign=AMSA+News+Media) Archived media releases are available on the 

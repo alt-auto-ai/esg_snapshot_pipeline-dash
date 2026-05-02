@@ -25,7 +25,7 @@ Infographic (4)
 Innovation and technology (12)
 Integrated System Plan (11)
 Major Reports and Publications (4)
-Media release (221)
+Media release (222)
 Metering (1)
 National Electricity Market (63)
 News (3)
@@ -36,7 +36,7 @@ Planning (1)
 Podcast (7)
 Publication (1)
 QLD (5)
-Quarterly Energy Dynamics (19)
+Quarterly Energy Dynamics (20)
 Renewables (23)
 Report (27)
 SA (10)
@@ -66,7 +66,7 @@ x
 2023 (33)
 2024 (28)
 2025 (24)
-2026 (4)
+2026 (5)
 # Media Releases
 Search 
 Sort by 
@@ -80,6 +80,7 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [30/04/2026Renewables lift supply share as batteries re-shape energy markets Renewable generation growth and rising battery participation continued to reshape Australia’s electricity system in the first quarter of 2026, alongside a year‑on‑year decline in wholesale prices, according to AEMO’s Quarterly Energy Dynamics (QED) report published today.](https://www.aemo.com.au/newsroom/media-release/renewables-lift-supply-share-as-batteries-re-shape-energy-markets "Renewables lift supply share as batteries re-shape energy markets")
   * [23/04/2026Batteries continue to dominate NEM connections as pipeline grows A surge in grid‑scale batteries is driving strong growth in the pipeline of new generation and storage projects seeking to connect to the National Electricity Market (NEM), with total proposed capacity now nearing today’s installed levels. ](https://www.aemo.com.au/newsroom/media-release/batteries-continue-to-dominate-nem-connections-as-pipeline-grows "Batteries continue to dominate NEM connections as pipeline grows")
   * [26/03/2026Near-term gas supply outlook improves, longer-term investment needed The Australian Energy Market Operator’s (AEMO) latest gas adequacy outlook shows improved near-term supply conditions, with risks of extreme peak-day shortfalls in southern Australia now expected to emerge a year later than previously forecast, and new investment required from 2030 onwards. ](https://www.aemo.com.au/newsroom/media-release/2026-gsoo "2026 GSOO")
   * [29/01/2026Renewables supply more than half of quarterly energy supply Wholesale electricity prices for the National Electricity Market (NEM) nearly halved in the December 2025 quarter, driven by record renewable generation supplying more than half of total energy needs for the first time.](https://www.aemo.com.au/newsroom/media-release/renewables-supply-more-than-half-of-quarterly-energy-supply "Renewables supply more than half of quarterly energy supply")
@@ -89,7 +90,6 @@ Date published (Newest) **▾**
   * [01/12/2025AEMO publishes system security plan Australian Energy Market Operator (AEMO) has today released its 2025 Transition Plan for System Security, a plan to meet system security needs in the National Electricity Market (NEM) over the next decade to support Australia’s energy transition. ](https://www.aemo.com.au/newsroom/media-release/aemo-publishes-system-security-plan "AEMO publishes system security plan")
   * [27/11/2025AEMO prepares energy systems for upcoming hot season The Australian Energy Market Operator (AEMO) has briefed industry on expected conditions for the upcoming summer, including the extensive preparations undertaken to support Australia’s main energy systems over the hotter months.](https://www.aemo.com.au/newsroom/media-release/aemo-prepares-energy-systems-for-upcoming-hot-season "AEMO prepares energy systems for upcoming hot season")
   * [17/11/2025Ongoing MSATS incident AEMO continues to implement a resolution to a technical issue identified in the Market Settlements and Transfer Solutions (MSATS) system.](https://www.aemo.com.au/newsroom/media-release/ongoing-msats-incident "Ongoing MSATS incident")
-  * [31/10/2025AEMO supports VicGrid’s new role in leading Victoria’s transmission planning On 1 November, Victoria’s electricity transmission network planning responsibilities will transition from the Australian Energy Market Operator (AEMO), through its AEMO Victorian Planning (AVP) division, to VicGrid.](https://www.aemo.com.au/newsroom/media-release/aemo-supports-vicgrids-new-role-in-leading-victorias-transmission-planning "AEMO supports VicGrids new role in leading Victorias transmission planning")
 
 
   * [First](https://www.aemo.com.au/newsroom/media-release)

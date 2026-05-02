@@ -63,7 +63,7 @@ Close Search
     * [ Toggle filter Transport (8) ](https://www.iea.org/news?sector%5B0%5D=transport)
     * [ Toggle filter Low-Emissions Fuels (2) ](https://www.iea.org/news?sector%5B0%5D=low-emissions-fuels)
   * TopicChevron down
-    * [ Toggle filter Energy Security (207) ](https://www.iea.org/news?topic%5B0%5D=energy-security)
+    * [ Toggle filter Energy Security (208) ](https://www.iea.org/news?topic%5B0%5D=energy-security)
     * [ Toggle filter Climate Change (162) ](https://www.iea.org/news?topic%5B0%5D=climate-change)
     * [ Toggle filter Investment (99) ](https://www.iea.org/news?topic%5B0%5D=investment)
     * [ Toggle filter Access and Affordability (79) ](https://www.iea.org/news?topic%5B0%5D=access-and-affordability)
@@ -72,7 +72,7 @@ Close Search
     * [ Toggle filter Energy Innovation (50) ](https://www.iea.org/news?topic%5B0%5D=energy-innovation)
     * [ Toggle filter Covid-19 (49) ](https://www.iea.org/news?topic%5B0%5D=covid-19)
     * [ Toggle filter Russia's War on Ukraine (38) ](https://www.iea.org/news?topic%5B0%5D=russias-war-on-ukraine)
-    * [ Toggle filter Critical Minerals (33) ](https://www.iea.org/news?topic%5B0%5D=critical-minerals)
+    * [ Toggle filter Critical Minerals (34) ](https://www.iea.org/news?topic%5B0%5D=critical-minerals)
     * [ Toggle filter Artificial Intelligence (20) ](https://www.iea.org/news?topic%5B0%5D=artificial-intelligence)
     * [ Toggle filter Energy and Gender (16) ](https://www.iea.org/news?topic%5B0%5D=energy-and-gender)
     * [ Toggle filter Energy and Water (15) ](https://www.iea.org/news?topic%5B0%5D=energy-and-water)
@@ -94,11 +94,11 @@ Close Search
     * [ Toggle filter Data-Driven Electrification in Africa (2) ](https://www.iea.org/news?programme%5B0%5D=data-driven-electrification-in-africa)
     * [ Toggle filter Transport Project Partnership (1) ](https://www.iea.org/news?programme%5B0%5D=transport-project-partnership)
   * TypeChevron down
-    * [ Toggle filter News (1249) ](https://www.iea.org/news?type=news)
+    * [ Toggle filter News (1253) ](https://www.iea.org/news?type=news)
     * [ Toggle filter Commentary (349) ](https://www.iea.org/news?type=commentary)
     * [ Toggle filter Press release (173) ](https://www.iea.org/news?type=press-release)
   * YearChevron down
-    * [ Toggle filter 2026 (65) ](https://www.iea.org/news?year=2026)
+    * [ Toggle filter 2026 (69) ](https://www.iea.org/news?year=2026)
     * [ Toggle filter 2025 (167) ](https://www.iea.org/news?year=2025)
     * [ Toggle filter 2024 (148) ](https://www.iea.org/news?year=2024)
     * [ Toggle filter 2023 (159) ](https://www.iea.org/news?year=2023)
@@ -116,6 +116,9 @@ Close Search
 
 
 Filter
+[ News  IEA hosts high-level energy dialogue with Türkiye and Australia 30 April 2026  ](https://www.iea.org/news/iea-hosts-high-level-energy-dialogue-with-turkiye-and-australia)
+[ Energy Security  Battery recycling innovation surging as countries seek to strengthen critical mineral supply and energy security 29 April 2026  ](https://www.iea.org/news/battery-recycling-innovation-surging-as-countries-seek-to-strengthen-critical-mineral-supply-and-energy-security)
+[ News  New podcast episode focuses on the risks in critical mineral supply chains 24 April 2026  ](https://www.iea.org/news/new-podcast-episode-focuses-on-the-risks-in-critical-mineral-supply-chains)
 [ Natural Gas  Middle East crisis disrupts international natural gas markets and delays global LNG supply wave 24 April 2026  ](https://www.iea.org/news/middle-east-crisis-disrupts-international-natural-gas-markets-and-delays-global-lng-supply-wave)
 [ News  IEA Executive Director meets German Chancellor to discuss energy security and industrial competitiveness 22 April 2026  ](https://www.iea.org/news/iea-executive-director-meets-german-chancellor-to-discuss-energy-security-and-industrial-competitiveness)
 [ Energy Security  How governments can best support consumers during this energy crisis 21 April 2026  ](https://www.iea.org/commentaries/how-governments-can-best-support-consumers-during-this-energy-crisis)
@@ -128,6 +131,7 @@ Filter
 [ News  Global shocks have driven a surge in energy policy activity and government spending 10 April 2026  ](https://www.iea.org/news/global-shocks-have-driven-a-surge-in-energy-policy-activity-and-government-spending)
 [ Energy Security  New projects, partnerships and policies are needed to address supply chain risks for rare earth elements 08 April 2026  ](https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements)
 [ News  New podcast episode explores energy crisis impacts in Southeast Asia 02 April 2026  ](https://www.iea.org/news/new-podcast-episode-explores-energy-crisis-impacts-in-southeast-asia)
+[ News  Romania begins accession process towards IEA membership 02 April 2026  ](https://www.iea.org/news/romania-begins-accession-process-towards-iea-membership)
 [ News  Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, and World Bank Group 01 April 2026  ](https://www.iea.org/news/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-and-world-bank-group)
 [ The Middle East and Global Energy Markets  IEA launches tracker to monitor policy responses to energy market impacts of Middle East conflict 30 March 2026  ](https://www.iea.org/news/iea-launches-tracker-to-monitor-policy-responses-to-energy-market-impacts-of-middle-east-conflict)
 [ Carbon Capture Utilisation and Storage  Policy and financing momentum sustain CCUS progress despite setbacks 27 March 2026  ](https://www.iea.org/commentaries/policy-and-financing-momentum-sustain-ccus-progress-despite-setbacks)
@@ -136,10 +140,6 @@ Filter
 [ Energy Security  Strengthening supply chains can improve resilience and reduce economic security risks for key energy technologies 26 March 2026  ](https://www.iea.org/news/strengthening-supply-chains-can-improve-resilience-and-reduce-economic-security-risks-for-key-energy-technologies)
 [ Commentary  Businesses see competitive value of energy efficiency, but smaller firms struggle to access solutions 25 March 2026  ](https://www.iea.org/commentaries/businesses-see-competitive-value-of-energy-efficiency-but-smaller-firms-struggle-to-access-solutions)
 [ News  Executive Director meets with Prime Minister of Australia to discuss urgent energy challenges facing Asia-Pacific region 23 March 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-australia-to-discuss-urgent-energy-challenges-facing-asia-pacific-region)
-[ Energy and Water  Wired for water: How electrification is transforming desalination 22 March 2026  ](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination)
-[ News  New podcast episode delves into IEA’s historic release of emergency oil stocks 20 March 2026  ](https://www.iea.org/news/new-podcast-episode-delves-into-iea-s-historic-release-of-emergency-oil-stocks)
-[ News  New IEA report highlights options to ease oil price pressures on consumers in response to Middle East supply disruptions 20 March 2026  ](https://www.iea.org/news/new-iea-report-highlights-options-to-ease-oil-price-pressures-on-consumers-in-response-to-middle-east-supply-disruptions)
-[ The Middle East and Global Energy Markets  IEA confirms Member country contributions to collective action to release oil stocks in response to Middle East disruptions 19 March 2026  ](https://www.iea.org/news/iea-confirms-member-country-contributions-to-collective-action-to-release-oil-stocks-in-response-to-middle-east-disruptions)
 Previous page Prev
   * 1
   * [2](https://www.iea.org/news?page=2)

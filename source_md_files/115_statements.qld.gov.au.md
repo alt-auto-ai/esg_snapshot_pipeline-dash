@@ -2,47 +2,47 @@
   * [Search](https://statements.qld.gov.au/?Search=True)
 
 
-Today at 02:59 PM
-[Experienced leader takes helm of Safe Food Queensland ](https://statements.qld.gov.au/statements/104950)
-The Crisafulli Government has announced the appoin...
-Today at 12:43 PM
-[Crisafulli Government delivering eight Neuro Wellness Hubs in regional Queensland ](https://statements.qld.gov.au/statements/104945)
-The Crisafulli Government is delivering on a key e...
-Today at 11:30 AM
-[Statement from the Attorney-General ](https://statements.qld.gov.au/statements/104946)
-No sentence will ever bring grandmother Vyleen Whi...
-Today at 11:22 AM
-[Crisafulli Government helping power the future with Australia-first facility in Townsville](https://statements.qld.gov.au/statements/104941)
-The Crisafulli Government is cementing Queensland’...
 Today at 10:00 AM
-[London and Canberra calling: Inaugural Westminster Prize launches](https://statements.qld.gov.au/statements/104937)
-The Crisafulli Government is delivering a once-in-...
-Today at 09:30 AM
-[Crisafulli Government takes key step to fast-track the Taroom Trough](https://statements.qld.gov.au/statements/104942)
-The Crisafulli Government has taken swift and deci...
-Yesterday at 03:02 PM
-[A safer, more reliable journey delivered for Mount Warren Park residents](https://statements.qld.gov.au/statements/104938)
-The Albanese and Crisafulli Governments have compl...
-Yesterday at 01:05 PM
-[Crisafulli Government expands landmark Adult Crime, Adult Time ](https://statements.qld.gov.au/statements/104935)
-The Crisafulli Government is making Queensland saf...
-Yesterday at 12:15 PM
-[Safety upgrade on Bruce Highway at Tully to begin ahead of schedule](https://statements.qld.gov.au/statements/104936)
-Main construction has begun ahead of schedule on a...
-Yesterday at 12:00 PM
-[Bruce Highway safety upgrade underway for 22 kilometres in Central Queensland](https://statements.qld.gov.au/statements/104932)
-The Albanese and Crisafulli Governments continue t...
-Wed 22 Apr 26 at 01:00 PM
-[Crisafulli Government future-proofing water security in Longreach ](https://statements.qld.gov.au/statements/104929)
+[The Crisafulli Government unlocks the door for thousands of first home buyers ](https://statements.qld.gov.au/statements/104997)
+The Crisafulli Government is delivering more Queen...
+Yesterday at 01:25 PM
+[Crisafulli Government delivers more support for victims of crime ](https://statements.qld.gov.au/statements/105007)
+The Crisafulli Government is putting victims first...
+Yesterday at 12:56 PM
+[Caloundra congestion-busting milestone reached with planning for the next upgrade fast-tracked](https://statements.qld.gov.au/statements/105006)
+Caloundra’s busiest intersections are a step close...
+Yesterday at 11:30 AM
+[$820,000 to protect turtle nests on Queensland beaches](https://statements.qld.gov.au/statements/105001)
+The Albanese and Crisafulli Governments are delive...
+Yesterday at 10:45 AM
+[Queensland Small Business Month delivers program to strengthen and support sector](https://statements.qld.gov.au/statements/105000)
+Queensland Small Business Month starts today, deli...
+Yesterday at 10:30 AM
+[Backing Far North Queensland with major Betterment investments ](https://statements.qld.gov.au/statements/105003)
+Vital disaster infrastructure will be delivered fo...
+Yesterday at 09:30 AM
+[Unlocking Water Project studies make a splash ](https://statements.qld.gov.au/statements/104999)
+The Crisafulli Government is delivering on a key ...
+Yesterday at 09:00 AM
+[Premier’s Anzac Prize recipients welcomed home ](https://statements.qld.gov.au/statements/105002)
+The 2026 Premier’s Anzac Prize recipients have ret...
+Yesterday at 08:45 AM
+[Funding boost for men’s mental health support in Rockhampton ](https://statements.qld.gov.au/statements/104998)
+The Crisafulli Government is delivering better hea...
+Thu 30 Apr 26 at 01:00 PM
+[$2 million funding boost to back economic development in Cape communities ](https://statements.qld.gov.au/statements/104996)
 The Crisafulli Government is delivering on a key e...
-Wed 22 Apr 26 at 12:00 PM
-[New Coomera Hospital reaches important redesign milestone](https://statements.qld.gov.au/statements/104928)
-The Crisafulli Government’s commitment to deliver ...
+Thu 30 Apr 26 at 12:29 PM
+[$12.5 million upgrade completed at Gold Coast Recreation Precinct ](https://statements.qld.gov.au/statements/104980)
+The Crisafulli Government has completed $12.5 mill...
+Thu 30 Apr 26 at 11:00 AM
+[More Queenslanders hit the road with Digital Licence app ](https://statements.qld.gov.au/statements/104975)
+The Crisafulli Government is delivering a plan for...
   * [2](https://statements.qld.gov.au/?pageIndex=2)
   * [3](https://statements.qld.gov.au/?pageIndex=3)
   * [4](https://statements.qld.gov.au/?pageIndex=4)
   * [5](https://statements.qld.gov.au/?pageIndex=5)
   * [>](https://statements.qld.gov.au/?pageIndex=2)
-  * [>>](https://statements.qld.gov.au/?pageIndex=173)
+  * [>>](https://statements.qld.gov.au/?pageIndex=175)
 
 

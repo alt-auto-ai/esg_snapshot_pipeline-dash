@@ -13,70 +13,70 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 53 Jobs Found
+#### 56 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 Australian Prudential Regulatory AuthorityProductivity CommissionCommonwealth Scientific and Industrial Research Organisation (CSIRO)Department of Climate Change, Energy, the Environment and Water (DCCEEW)Australian Renewable Energy AgencyClimate Change AuthorityDepartment of Industry, Science and Resources (DISR)Department of Infrastructure, Transport, Regional Development, Communications, Sport and the ArtsAustralian Competition and Consumer CommissionClean Energy RegulatorDepartment of the TreasuryWorkplace Gender Equality AgencyFull-Time
-Posted: 24/04/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Business Analyst](https://www.apsjobs.gov.au/s/job-details?title=business-analyst&Id=a05OY00000OE4vZYAT)
-$88,834 to $96,829
-Posted: 24/04/2026
-Productivity Commission
-### [Senior Policy Analyst (Affirmative Measures Position)](https://www.apsjobs.gov.au/s/job-details?title=senior-policy-analyst-affirmative-measures-position-&Id=a05OY00000ODaz7YAD)
-$121,755 to $151,068
-Posted: 24/04/2026
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [APS6 - Airport Environment Officer, Airports Environment Branch](https://www.apsjobs.gov.au/s/job-details?title=aps6-airport-environment-officer-airports-environment-branch&Id=a05OY00000ODN4DYAX)
-$99,733 to $118,084
-Posted: 24/04/2026
-Climate Change Authority
-### [Business Support Advisor and Senior Business Support Advisor](https://www.apsjobs.gov.au/s/job-details?title=business-support-advisor-and-senior-business-support-advisor&Id=a05OY00000ODJztYAH)
-$88,834 to $111,701
-Posted: 24/04/2026
+Posted: 01/05/2026
 Australian Competition and Consumer Commission
-### [Finance Officer](https://www.apsjobs.gov.au/s/job-details?title=finance-officer&Id=a05OY00000OBTbxYAH)
+### [Executive General Manager, Network Regulation](https://www.apsjobs.gov.au/s/job-details?title=executive-general-manager-network-regulation&Id=a05OY00000OM8KTYA1)
+Posted: 01/05/2026
+Australian Competition and Consumer Commission
+### [Freedom of Information Officer and Corporate Law Support Officer](https://www.apsjobs.gov.au/s/job-details?title=freedom-of-information-officer-and-corporate-law-support-officer&Id=a05OY00000OLnuLYAT)
 $93,004 to $98,617
-Posted: 24/04/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Assistant Director - Regulatory Support](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-regulatory-support&Id=a05OY00000OBEkzYAH)
-$129,106 to $138,861
-Posted: 24/04/2026
+Posted: 01/05/2026
 Australian Competition and Consumer Commission
-### [Senior Human Resources Officer, Capability](https://www.apsjobs.gov.au/s/job-details?title=senior-human-resources-officer-capability&Id=a05OY00000OAfwvYAD)
+### [Corporate Compliance Officer](https://www.apsjobs.gov.au/s/job-details?title=corporate-compliance-officer&Id=a05OY00000OLcCYYA1)
+$93,004 to $98,617
+Posted: 01/05/2026
+Australian Competition and Consumer Commission
+### [Senior Assurance and Integrity Officer](https://www.apsjobs.gov.au/s/job-details?title=senior-assurance-and-integrity-officer&Id=a05OY00000OLWezYAH)
 $102,947 to $115,384
-Posted: 24/04/2026
+Posted: 01/05/2026
 Australian Competition and Consumer Commission
-### [Assistant Director, Technical Business Analyst](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-technical-business-analyst&Id=a05OY00000OARqjYAH)
+### [Lawyer/Senior Lawyer](https://www.apsjobs.gov.au/s/job-details?title=lawyer-senior-lawyer&Id=a05OY00000OKt5lYAD)
+$102,947 to $159,112
+Posted: 01/05/2026
+Australian Competition and Consumer Commission
+### [Principal Lawyer](https://www.apsjobs.gov.au/s/job-details?title=principal-lawyer&Id=a05OY00000OKqSrYAL)
+$168,148 to $178,224
+Posted: 01/05/2026
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+### [EL1 - Assistant Director, Business Architect (IT Front Door & Architecture)](https://www.apsjobs.gov.au/s/job-details?title=el1-assistant-director-business-architect-it-front-door-architecture-&Id=a05OY00000OKmvVYAT)
+$126,838 to $144,278
+Posted: 01/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Trades Officer (Carpentry)](https://www.apsjobs.gov.au/s/job-details?title=trades-officer-carpentry-&Id=a05OY00000OKWYzYAP)
+$80,371 to $87,496
+Posted: 01/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Indigenous Business and Economic Development Program Liaison Officer](https://www.apsjobs.gov.au/s/job-details?title=indigenous-business-and-economic-development-program-liaison-officer&Id=a05OY00000OK2avYAD)
+$80,371 to $87,496
+Posted: 01/05/2026
+Australian Competition and Consumer Commission
+### [Assistant Director, EL1 , Governance and Coordination, AER](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-el1-governance-and-coordination-aer&Id=a05OY00000OJAAkYAP)
 $127,908 to $141,555
-Posted: 21/04/2026
-Department of the Treasury
-### [EL1 Senior Developer (Full-Stack), Digital Delivery Team](https://www.apsjobs.gov.au/s/job-details?title=el1-senior-developer-full-stack-digital-delivery-team&Id=a05OY00000O0WLRYA3)
-$137,301 to $157,498
-Posted: 20/04/2026
+Posted: 30/04/2026
 Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Legal Division Section 26 Register](https://www.apsjobs.gov.au/s/job-details?title=legal-division-section-26-register&Id=a05OY00000O6sCnYAJ)
-$77,125 to $176,631
-Posted: 20/04/2026
+### [Director CIS Payments Validation and Modelling](https://www.apsjobs.gov.au/s/job-details?title=director-cis-payments-validation-and-modelling&Id=a05OY00000OIwqwYAD)
+$151,938 to $176,530
+Posted: 30/04/2026
 Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Principal Legal Officer (Various Positions)](https://www.apsjobs.gov.au/s/job-details?title=principal-legal-officer-various-positions-&Id=a05OY00000NxCUaYAN)
-$167,644 to $182,636
-Posted: 20/04/2026
-Clean Energy Regulator
-### [Platform Enablement Manager - Products & Services](https://www.apsjobs.gov.au/s/job-details?title=platform-enablement-manager-products-services&Id=a05OY00000NqRRtYAN)
-$125,863 to $143,171
-Posted: 17/04/2026
-Australian Competition and Consumer Commission
-### [Director, IT Strategy & Architecture](https://www.apsjobs.gov.au/s/job-details?title=director-it-strategy-architecture&Id=a05OY00000O3w03YAB)
-$148,287 to $173,778
-Posted: 17/04/2026
-Australian Competition and Consumer Commission
-### [ACCC Graduate Program 2027](https://www.apsjobs.gov.au/s/job-details?title=accc-graduate-program-2027&Id=a05OY00000O3tlJYAR)
-Posted: 17/04/2026
-Australian Competition and Consumer Commission
-### [Director, Applications Management](https://www.apsjobs.gov.au/s/job-details?title=director-applications-management&Id=a05OY00000Nz6mQYAR)
-$148,287 to $173,778
+### [Invasive Species Field Supervisor](https://www.apsjobs.gov.au/s/job-details?title=invasive-species-field-supervisor&Id=a05OY00000OFIgLYAX)
+$80,371 to $87,496
+Posted: 29/04/2026
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+### [EL1 - Assistant Director, Information Management Unit](https://www.apsjobs.gov.au/s/job-details?title=el1-assistant-director-information-management-unit&Id=a05OY00000OJA7VYAX)
+$126,838 to $144,278
+Posted: 29/04/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Horticulture Coordinator](https://www.apsjobs.gov.au/s/job-details?title=horticulture-coordinator&Id=a05OY00000OAkbdYAD)
+$88,834 to $96,829
+Posted: 28/04/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Training Team Leader - Affirmative measure (Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=training-team-leader-affirmative-measure-indigenous-&Id=a05OY00000OFPrVYAX)
+$99,734 to $112,044
 Load More
 Loading
 Job Search | APS Jobs

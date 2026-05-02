@@ -7,6 +7,11 @@
 
 The Northern Australia Infrastructure Facility (NAIF) will provide a loan for around $70 million to build more than 400 new purpose-built student accommodation beds in Darwin.
 [Continue Reading](https://www.naif.gov.au/media-centre/albanese-government-backs-darwin-student-accommodation/)
+### [Quarterly Snapshot Q3 2025-26
+  * 29 Apr 2026
+  * Quarterly Snapshots
+
+View the Q3 2025-26 snapshot including updated financial data for committed loans, public benefit, jobs, Indigenous engagement, and project pipeline. Continue reading ](https://www.naif.gov.au/media-centre/quarterly-snapshot-q3-2025-26/)
 ### [Boosting Affordable Housing in North Queensland
   * 23 Apr 2026
   * Government Statement
@@ -47,12 +52,7 @@ View the Q2 2025-26 snapshot including updated financial data for committed loan
   * News Article
 
 Start your NAIF finance journey: check eligibility, engage early, prepare due diligence and submit your proposal for northern Australia projects. Continue reading ](https://www.naif.gov.au/media-centre/how-to-get-started-with-naif-finance/)
-### [Heritage Minerals Mount Morgan Project Case Study
-  * 11 Dec 2025
-  * Case Study
-
-Read our case study on Heritage Minerals’ Mount Morgan project, driving critical minerals supply, environmental and economic benefits to the region.  Continue reading ](https://www.naif.gov.au/media-centre/heritage-minerals-mount-morgan-tailings-processing-and-rehabilitation-project/)
-Displaying 1-9 of 201 
+Displaying 1-9 of 202 
 January February March April May June July August September October November December
 SunMonTueWedThuFriSat 
-293031123456789101112131415161718192021222324252627282930123456789
+262728293012345678910111213141516171819202122232425262728293031123456

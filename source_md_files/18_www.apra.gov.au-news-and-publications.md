@@ -9,6 +9,22 @@
   * [Speeches](https://www.apra.gov.au/news-and-publications/40)
 
 
+30 April 2026
+#### APRA releases Monthly Authorised Deposit-taking Institution Statistics for March 2026
+Media Releases 
+[APRA releases Monthly Authorised Deposit-taking Institution Statistics for March 2026](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-71)
+30 April 2026
+#### APRA calls for a step-change in AI-related risk management and governance
+Media Releases 
+[APRA calls for a step-change in AI-related risk management and governance](https://www.apra.gov.au/news-and-publications/apra-calls-for-a-step-change-ai-related-risk-management-and-governance)
+30 April 2026
+#### APRA finalises targeted amendments to CPS 230 Operational Risk Management
+Media Releases 
+[APRA finalises targeted amendments to CPS 230 Operational Risk Management](https://www.apra.gov.au/news-and-publications/apra-finalises-targeted-amendments-to-cps-230-operational-risk-management)
+29 April 2026
+#### APRA and ASIC publish latest data on life insurance claims and disputes - December 2025
+Media Releases 
+[APRA and ASIC publish latest data on life insurance claims and disputes - December 2025](https://www.apra.gov.au/news-and-publications/apra-and-asic-publish-latest-data-on-life-insurance-claims-and-disputes-12)
 24 April 2026
 #### APRA consults on amendments to reporting standards for life insurers
 Media Releases 
@@ -77,22 +93,6 @@ Media Releases
 #### APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum
 Speeches 
 [APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum](https://www.apra.gov.au/news-and-publications/apra-publishes-therese-mccarthy-hockeys-remarks-to-2026-coba)
-16 March 2026
-#### APRA to consult on enhancements to bank capital and liquidity frameworks
-Media Releases 
-[APRA to consult on enhancements to bank capital and liquidity frameworks](https://www.apra.gov.au/news-and-publications/apra-to-consult-on-enhancements-to-bank-capital-and-liquidity-frameworks)
-16 March 2026
-#### APRA publishes John Lonsdale's remarks to the 2026 AFR Banking Summit
-Speeches 
-[APRA publishes John Lonsdale's remarks to the 2026 AFR Banking Summit](https://www.apra.gov.au/news-and-publications/apra-publishes-john-lonsdales-remarks-to-2026-afr-banking-summit)
-12 March 2026
-#### APRA releases quarterly authorised deposit-taking institution statistics for December 2025
-Media Releases 
-[APRA releases quarterly authorised deposit-taking institution statistics for December 2025](https://www.apra.gov.au/news-and-publications/apra-releases-quarterly-authorised-deposit-taking-institution-statistics-26)
-3 March 2026
-#### APRA statement on gender pay gap
-Media Releases 
-[APRA statement on gender pay gap](https://www.apra.gov.au/news-and-publications/apra-statement-on-gender-pay-gap)
 #### Subscribe for updates
 To receive media releases, publications, speeches and other industry-related information by email 
 [Subscribe](https://www.apra.gov.au/newsletter-signup)

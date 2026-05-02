@@ -215,6 +215,10 @@ Get in touch with us or find an expert.
 # News
 Find out about the latest news, announcements and stories about the ANU Institute for Climate, Energy & Disaster Solutions.
 ##  Search 
+[](https://iceds.anu.edu.au/news-events/news/betting-hydrogen-stand-alone-energy-systems-economic-outlook-doesnt-look-good)
+29 Apr 2026 
+## [Betting on hydrogen in stand-alone energy systems? The economic outlook doesn't look good »](https://iceds.anu.edu.au/news-events/news/betting-hydrogen-stand-alone-energy-systems-economic-outlook-doesnt-look-good)
+This ANU Policy Brief considers hydrogen as a solution in stand-alone energy systems. It synthesises the research of Dan Virah-Sawmy, Fiona J Beck and Bjorn... 
 [](https://iceds.anu.edu.au/news-events/news/%25E2%2580%2598business-usual%25E2%2580%2599-won%25E2%2580%2599t-help-australians-fully-recover-natural-disasters)
 14 Apr 2026 
 ## [‘Business as usual’ won’t help Australians fully recover from natural disasters »](https://iceds.anu.edu.au/news-events/news/%E2%80%98business-usual%E2%80%99-won%E2%80%99t-help-australians-fully-recover-natural-disasters)
@@ -259,10 +263,6 @@ There’s a reason political commentators refer to Australia’s “climate wars
 14 Jan 2026 
 ## [As we begin to assess the fire damage in Victoria, we must not overlook these hidden costs »](https://iceds.anu.edu.au/news-events/news/we-begin-assess-fire-damage-victoria-we-must-not-overlook-these-hidden-costs)
 Beyond the headline losses, disasters can lead to ongoing socio-economic problems, write Associate Professor Sonia Akter, Manh-Tien Bui and Professor Quentin... 
-[](https://iceds.anu.edu.au/news-events/news/water-cycle-instability-drove-global-water-related-disasters-2025)
-13 Jan 2026 
-## [Water cycle instability drove global water-related disasters in 2025 »](https://iceds.anu.edu.au/news-events/news/water-cycle-instability-drove-global-water-related-disasters-2025)
-New research led by Professor Albert van Dijk revealed water-related disasters in 2025 caused nearly 5,000 deaths, displaced around 8 million people, and... 
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/news?page=1 "Go to page 2")

@@ -55,11 +55,10 @@ While incentives can enhance the environmental, social and corporate governance 
 
 
 ### Job Board
+  * ##### [Research Operations Manager](https://jobs.theconversation.com/jobs/525512934-research-operations-manager-at-university-of-melbourne?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
   * ##### [Manager, Academic Services](https://jobs.theconversation.com/jobs/524928113-manager-academic-services-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
-  * ##### [Executive Assistant](https://jobs.theconversation.com/jobs/524875188-executive-assistant-at-university-of-melbourne?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
   * ##### [Research Assistant, Energy Storage](https://jobs.theconversation.com/jobs/524734219-research-assistant-energy-storage-at-rmit-university?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
   * ##### [Executive Director, Future Students | UTS College](https://jobs.theconversation.com/jobs/524654833-executive-director-future-students-uts-college-at-uts-college-university-of-technology-sydney?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
-  * ##### [Visiting Professor - 2027 Australia-Korea Chair in Australian Studies at Seoul National University](https://jobs.theconversation.com/jobs/516195059-visiting-professor-2027-australia-korea-chair-in-australian-studies-at-seoul-national-university-at-australia-korea-foundation-in-conjunction-with-inasa-and-seoul-national-university?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
 
 [ More Jobs ](https://jobs.theconversation.com?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_more)
 ### Top contributors

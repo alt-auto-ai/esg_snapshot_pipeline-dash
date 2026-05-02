@@ -7,9 +7,6 @@ Below you can view the latest news as well as our upcoming seminars, workshops a
 
 
 Events
-Wed 29 Apr 
-[ Transitioning your home from gas to all-electric. Online workshop.  In this workshop, you’ll learn how to transition to an all-electric home with confidence and the support and rebates available through the ACT Government.  ](https://www.climatechoices.act.gov.au/events-news/events/transitioning-your-home-from-gas-to-all-electric-20251213)
-Free 
 Thu 14 May 
 [ Keeping your home warm for less (featuring insulation). Online workshop.  In this workshop, you’ll discover where your home loses heat and simple actions to keep in the warmth so you can save on energy costs during the colder months.  ](https://www.climatechoices.act.gov.au/events-news/events/keeping-your-home-warm-for-less-featuring-insulation9)
 Free 

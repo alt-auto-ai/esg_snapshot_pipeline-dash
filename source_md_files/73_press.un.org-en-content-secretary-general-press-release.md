@@ -10,43 +10,53 @@ English Search
 [](https://press.un.org/en/content/secretary-general/press-release#main-content)
 # Secretary-General: Press Release
 * * *
-22 April 2026
-SG/SM/23099
-### [Secretary-General Saddened by Death of Second French Peacekeeper in Lebanon Attack, Calls for ‘Prompt’ Investigation, Accountability](https://press.un.org/en/2026/sgsm23099.doc.htm)
+1 May 2026
+Press Release
+SG/SM/23112
+### [Secretary-General Celebrates Power of Portuguese to Unite 256 Million Voices around World, in World Language Day Message](https://press.un.org/en/2026/sgsm23112.doc.htm)
+Following is UN Secretary-General António Guterres’ message for World Portuguese Language Day, observed on 5 May:
+1 May 2026
+Press Release
+SG/SM/23111
+### [Secretary-General Notes Transfer of Aung San Suu Kyi, Reiterates Call for Inclusive Political Process in Myanmar](https://press.un.org/en/2026/sgsm23111.doc.htm)
 The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
-22 April 2026
-SG/SM/23096
-### [Seize Opportunity to Lend Your Insights, Judgements on Crucial Issue of Artificial Intelligence, Secretary-General Tell Welcoming Reception for AI Scientific Panel ](https://press.un.org/en/2026/sgsm23096.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message to the reception welcoming members of the Independent International Scientific Panel on Artificial Intelligence (AI) to Spain for their first in-person meeting, in Madrid today: 
-22 April 2026
-SG/SM/23098
-### [Antidote to Turmoil Found in Buddha’s ‘Timeless’ Teachings of Non-violence, Secretary-General Says on International Vesak Day](https://press.un.org/en/2026/sgsm23098.doc.htm)
-Following is UN Secretary-General António Guterres’ message on the International Day of Vesak, observed on 1 May:
-22 April 2026
-SG/SM/23097
-### [With Intention, Foresight, International Community Can Build Safer Communities, Secretary-General Says in Message for Earthquake Victims’ Remembrance Day ](https://press.un.org/en/2026/sgsm23097.doc.htm)
-Following is UN Secretary-General António Guterres’ message for the International Day in Memory of the Victims of Earthquakes, observed on 26 April:
-21 April 2026
-SG/T/3461
-### [Activities of Secretary-General in Washington, D.C., 15 April](https://press.un.org/en/2026/sgt3461.doc.htm)
-On the morning of Wednesday, 15 April, UN Secretary-General António Guterres arrived in Washington, D.C., to participate in the Spring Meetings of the World Bank and the International Monetary Fund (IMF).
-21 April 2026
-SG/SM/23095
-### [Unleash Renewable Energy Revolution for Cleaner, Safer Planet, Secretary-General Urges in Video Message for Petersberg Climate Dialogue](https://press.un.org/en/2026/sgsm23095.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message for the Petersberg Climate Dialogue, in Berlin today:
-20 April 2026
-SG/A/2408
-### [Secretary-General Appoints Rania A. al-Mashat of Egypt Executive Secretary of Economic and Social Commission for Western Asia](https://press.un.org/en/2026/sga2408.doc.htm)
-United Nations Secretary-General António Guterres announced today the appointment of Rania A. al-Mashat of Egypt as the next Executive Secretary of the United Nations Economic and Social Commission for Western Asia (ESCWA).
-20 April 2026
-SG/SM/23094
-### [Secretary-General, at Permanent Forum Opening Ceremony, Says World Must Listen, Learn from Indigenous Peoples, Lays Out Ways to Erase Practical, Institutional Barriers ](https://press.un.org/en/2026/sgsm23094.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks at the opening ceremony of the twenty-fifth session of the UN Permanent Forum on Indigenous Issues, in New York today: 
-20 April 2026
-SG/SM/23092
-### [Scale Up, Expedite Financing Citing Fast-Growing $4 Trillion Sustainable Development Funding Gap, Secretary-General Urges as Development Financing Forum Opens](https://press.un.org/en/2026/sgsm23092.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks to the opening session of the 2026 Economic and Social Council Forum on Financing for Development Follow-Up, in New York today:
-20 April 2026
-SG/SM/23093
-### [May Spanish Language that Connects Shores, Preserves Memories and Brings World Together Continue Fostering Cooperation, Secretary-General Says in Observance Message](https://press.un.org/en/2026/sgsm23093.doc.htm)
-Following is UN Secretary-General António Guterres’ message for World Spanish Language Day, observed on 23 April:
+29 April 2026
+Biographical Note
+SG/A/2414*
+### [Secretary-General Appoints Claudia Mojica of El Salvador Deputy Special Representative for United Nations Verification Mission in Colombia](https://press.un.org/en/2026/sga2414.doc.htm)
+United Nations Secretary-General António Guterres announced today the appointment of Claudia Mojica of El Salvador as his new Deputy Special Representative in the United Nations Verification Mission in Colombia.
+29 April 2026
+Biographical Note
+SG/A/2411
+### [Secretary-General Appoints Arnhild Spence of Norway United Nations Resident Coordinator in Bosnia and Herzegovina](https://press.un.org/en/2026/sga2411.doc.htm)
+United Nations Secretary-General António Guterres appointed Arnhild Spence of Norway as United Nations Resident Coordinator in Bosnia and Herzegovina, with the host Government’s approval. She took up her post on 1 September 2025.
+29 April 2026
+Biographical Note
+SG/A/2410*
+### [United Nations Secretary-General Appoints Denise Brown of Canada United Nations Resident and Humanitarian Coordinator in Sudan](https://press.un.org/en/2026/sga2410.doc.htm)
+United Nations Secretary-General António Guterres appointed Denise Brown of Canada as the United Nations Resident Coordinator in Sudan, with the host Government’s approval, effective 1 September 2025.
+29 April 2026
+Biographical Note
+SG/A/2413
+### [Secretary-General Appoints Gaurav Ray of Australia United Nations Resident Coordinator in Bhutan](https://press.un.org/en/2026/sga2413.doc.htm)
+United Nations Secretary-General António Guterres appointed Gaurav Ray of Australia as the United Nations Resident Coordinator in Bhutan, with the host Government’s approval, effective on 8 November 2025.
+29 April 2026
+Biographical Note
+SG/A/2412
+### [Secretary-General Appoints Mamadou Kane of Mauritania United Nations Resident Coordinator in Micronesia](https://press.un.org/en/2026/sga2412.doc.htm)
+United Nations Secretary-General António Guterres has appointed Mamadou Kane of Mauritania as the United Nations Resident Coordinator in Micronesia, with the host Government’s approval.
+28 April 2026
+Biographical Note
+SG/A/2409*
+### [Secretary-General Appoints Bruno Georges Lemarquis of France Deputy Special Representative, UN Assistance Mission in Afghanistan (UNAMA), Resident Coordinator](https://press.un.org/en/2026/sga2409.doc.htm)
+United Nations Secretary-General António Guterres announced today the appointment of Bruno Georges Lemarquis of France as his new Deputy Special Representative for Afghanistan with the United Nations Assistance Mission in Afghanistan (UNAMA) and Resident Coordinator in Afghanistan. Mr. Lemarquis will also serve as the Humanitarian Coordinator.
+28 April 2026
+Press Release
+SG/SM/23110
+### [Press Freedom under Unprecedented Strain, Secretary-General Warns, Calls for Protecting Journalists ‘Who Risk Everything’, in International Day Message](https://press.un.org/en/2026/sgsm23110.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video message on World Press Freedom Day, observed 3 May:
+28 April 2026
+Press Release
+SG/SM/23109
+### [‘Turn the Tide’ for Africa by Investing in Integrated Solutions, Reforming Global Financial Architecture, Secretary-General Stresses at Regional Forum](https://press.un.org/en/2026/sgsm23109.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video message to the twelfth session of the Africa Regional Forum on Sustainable Development, in Addis Ababa today:

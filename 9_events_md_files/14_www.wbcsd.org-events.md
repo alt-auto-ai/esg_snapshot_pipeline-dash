@@ -215,9 +215,10 @@ Deny Allow selection Customize Allow all
 
 
   * [Careers ](https://www.wbcsd.org/careers/)
-  * [Contact Us ](https://www.wbcsd.org/contact-us/)
+  * [ Become a member  ](https://www.wbcsd.org/become-a-member/)
 
 
+[ Login ](https://www.wbcsd.org/wp-json/wbcsd-auth/v1/login)
 1 / 1
 # WBCSD Annual Meeting 2026
 **27–30 Apr 2026 | Montreux, Switzerland**
@@ -227,7 +228,7 @@ WBCSD Annual Meeting 2026
 ## Discover & register for our events on the WBCSD Events Portal
 [View all Events](https://registration.wbcsd.org/)
 ## Upcoming events
-[ Flagship events WBCSD Annual Meeting 27 Apr 2026 Businesses are navigating a world that is rapidly changing and presenting numerous challenges. In that context, we believe that effective leadership, collaboration, and careful implementation (…) ](https://www.wbcsd.org/events/wbcsd-annual-meeting/) [ Regional events WBCSD Connect at Ecosperity Week 2026  18 May 2026 Asia sits at the center of the global sustainability transition. As economies across the region pursue growth, industrial transformation, and energy security, they must also navigate rising (…) ](https://www.wbcsd.org/events/wbcsd-connect-at-ecosperity-week-2026/) [ Regional events The Scope 3 Innovation Forum 2026 16 Jun 2026 Join 200+ senior leaders from sustainability, procurement, finance, and operations at Innovation Forum’s The Scope 3 Innovation Forum 2026 — a two-day, high-level gathering focused (…) ](https://www.wbcsd.org/events/the-scope-3-innovation-forum-2026/)
+[ Regional events WBCSD Connect at Ecosperity Week 2026  18 May 2026 Asia sits at the center of the global sustainability transition. As economies across the region pursue growth, industrial transformation, and energy security, they must also navigate rising (…) ](https://www.wbcsd.org/events/wbcsd-connect-at-ecosperity-week-2026/) [ Regional events The Scope 3 Innovation Forum 2026 16 Jun 2026 Join 200+ senior leaders from sustainability, procurement, finance, and operations at Innovation Forum’s The Scope 3 Innovation Forum 2026 — a two-day, high-level gathering focused (…) ](https://www.wbcsd.org/events/the-scope-3-innovation-forum-2026/) [ Strategic events WBCSD at London Climate Action Week (LCAW) 20 Jun 2026 At London Climate Action Week, WBCSD will convene a series of high‑impact discussions and networking events designed to support business leaders as they navigate critical (…) ](https://www.wbcsd.org/events/wbcsd-at-london-climate-action-week-lcaw/)
 ## Past events
 [ View All ](https://www.wbcsd.org/past-events/)
 [ Strategic events WBCSD at GreenBiz26  17 Feb 2026 As a convening partner of Trellis (formerly GreenBiz), WBCSD will once again bring an exciting agenda to Phoenix, Arizona, for GreenBiz 26, taking place from (…) ](https://www.wbcsd.org/events/wbcsd-at-greenbiz26/) [ Regional events WBCSD India Connect at Mumbai Climate Week 2026 16 Feb 2026 India is central to the global sustainability transition because it sits at the intersection of rapid economic growth, rising emissions, and massive development needs. With (…) ](https://www.wbcsd.org/events/wbcsd-india-connect-at-mumbai-climate-week-2026/) [ Strategic events WBCSD at the World Economic Forum Annual Meeting 2026 19 Jan 2026 At the 56th Annual Meeting of the World Economic Forum in January 2026, global leaders will gather in Davos under the theme “A Spirit of (…) ](https://www.wbcsd.org/events/wbcsd-at-the-world-economic-forum-annual-meeting-2026/)
