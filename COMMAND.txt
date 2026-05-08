@@ -9,7 +9,7 @@ python 4.1_story_type.py
 python 5_story_filter_jurisdiction.py
 python 7_esg_relevance.py
 python 7.1_esg_relevance_score.py
-python 8_esg_draft_multi_prompt.py
+python 8_esg_draft_single.py
 python 8.1_esg_highlights.py
 python 9_delete_event_mds.py
 python 9_delete_event_page_mds.py

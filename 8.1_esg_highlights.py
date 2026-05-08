@@ -37,7 +37,7 @@ load_dotenv()
 
 # Paths
 SOURCE_DIR = r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
-INPUT_CSV = r"8_esg_draft_multi.csv"
+INPUT_CSV = r"8_esg_draft_single.csv"
 # 🆕 Write to 8.1_esg_highlights.csv (per request)
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
