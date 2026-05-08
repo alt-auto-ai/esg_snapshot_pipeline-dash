@@ -469,11 +469,11 @@ function buildCardBody(s) {
   let h = "";
   if (outputs.length) {
     const narrative = outputs.map((text, index) => {
-      if (outputs.length === 1 && s.URL) return '<a href="' + esc(s.URL) + '" target="_blank">' + esc(text) + '</a>';
+      if (outputs.length === 1 && s.URL) return esc(text);
       if (index === 0) return '<strong>' + esc(text) + '</strong>';
-      if (index === 1 && s.URL) return '<a href="' + esc(s.URL) + '" target="_blank">' + esc(text) + '</a>';
       return esc(text);
     });
+    if (s.URL) narrative.push('<a href="' + esc(s.URL) + '" target="_blank">Read more</a>');
     h = narrativeHtml(narrative);
   }
   if (hook || oneLiner) {
@@ -922,12 +922,12 @@ function buildMdBody(s) {
     .map(value => String(value || '').trim())
     .filter(Boolean);
   if (!outputs.length) return '';
-  return outputs.map((text, index) => {
-    if (outputs.length === 1 && s.URL) return '[' + text + '](' + s.URL + ')';
+  const body = outputs.map((text, index) => {
+    if (outputs.length === 1 && s.URL) return text;
     if (index === 0) return '**' + text + '**';
-    if (index === 1 && s.URL) return '[' + text + '](' + s.URL + ')';
     return text;
   }).join(' ');
+  return body + (s.URL ? ' [Read more](' + s.URL + ')' : '');
 }
 
 function generateDoc() {
