@@ -247,6 +247,7 @@
   * [GreenBiz 2026](https://www.erm.com/about/events/greenbiz-2026/)
   * [FOWT 2026 Montpellier](https://www.erm.com/about/events/fowt-2026-montpellier/)
   * [ERM at Pharma Sustainability Integrates 2026](https://www.erm.com/about/events/erm-at-pharma-sustainability-integrates-2026/)
+  * [Battelle 2026 Chlorinated Conference](https://www.erm.com/about/events/battelle-2026-chlorinated-conference/)
   * [EHS Audit Briefing - Webinar](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
   * [SETAC 2026](https://www.erm.com/about/events/setac-2026/)
   * [ERM Webinar: Managing Water Constraints in Data Center and Semiconductor Growth](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)

@@ -1,39 +1,39 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
-### [Question and answer - Daily Telegraph Future Western Sydney Forum](https://www.pm.gov.au/media/question-and-answer-daily-telegraph-future-western-sydney-forum)
-Friday 1 May 2026
+### [Doorstop - Burwood, Victoria](https://www.pm.gov.au/media/doorstop-burwood-victoria)
+Friday 8 May 2026
 Transcript
-### [Daily Telegraph Future Western Sydney Forum](https://www.pm.gov.au/media/daily-telegraph-future-western-sydney-forum)
-Friday 1 May 2026
-Speech, Transcript
-### [Doorstop - Sydney](https://www.pm.gov.au/media/doorstop-sydney-8)
-Friday 1 May 2026
-Transcript
-### [Additional jet fuel and additional diesel secured](https://www.pm.gov.au/media/additional-jet-fuel-and-additional-diesel-secured)
-Friday 1 May 2026
+### [Investing in suburban Rail Loop East for a more productive and better-connected Melbourne](https://www.pm.gov.au/media/investing-suburban-rail-loop-east-more-productive-and-better-connected-melbourne)
+Friday 8 May 2026
 Media release
-### [Television interview - SBS](https://www.pm.gov.au/media/television-interview-sbs)
-Thursday 30 April 2026
+### [Radio interview - Nova Melbourne](https://www.pm.gov.au/media/radio-interview-nova-melbourne-3)
+Friday 8 May 2026
 Transcript
-### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-33)
-Thursday 30 April 2026
+### [Press conference - Sydney](https://www.pm.gov.au/media/press-conference-sydney-6-may-2026)
+Wednesday 6 May 2026
 Transcript
-### [Interim Report of the Royal Commission on Antisemitism and Social Cohesion](https://www.pm.gov.au/media/interim-report-royal-commission-antisemitism-and-social-cohesion)
-Thursday 30 April 2026
-Media statement
-### [Doorstop - Perth](https://www.pm.gov.au/media/doorstop-perth-2)
-Wednesday 29 April 2026
-Transcript
-### [Delivering $1.1 billion to strengthen supply chains and boost productivity in Western Australia](https://www.pm.gov.au/media/delivering-1-1-billion-strengthen-supply-chains-and-boost-productivity-western-australia)
-Wednesday 29 April 2026
+### [Government securing more fuel reserves - the Australian Fuel Security and Resilience package ](https://www.pm.gov.au/media/government-securing-more-fuel-reserves-australian-fuel-security-and-resilience-package)
+Wednesday 6 May 2026
 Media release
-### [Faster environmental approvals with states and territories](https://www.pm.gov.au/media/faster-environmental-approvals-states-and-territories)
-Wednesday 29 April 2026
-Media release
-### [The Chamber of Minerals and Energy of Western Australia](https://www.pm.gov.au/media/chamber-minerals-and-energy-western-australia)
-Wednesday 29 April 2026
-Speech, Transcript
-### [Radio interview - ABC Perth](https://www.pm.gov.au/media/radio-interview-abc-perth-7)
-Tuesday 28 April 2026
+### [Doorstop - Murrumba Downs, QLD](https://www.pm.gov.au/media/doorstop-murrumba-downs-qld)
+Tuesday 5 May 2026
 Transcript
+### [Media statements - Parliament House, Canberra](https://www.pm.gov.au/media/media-statements-parliament-house-canberra)
+Monday 4 May 2026
+Transcript
+### [Opening remarks - Parliament House](https://www.pm.gov.au/media/opening-remarks-parliament-house)
+Monday 4 May 2026
+Transcript
+### [Enhanced defence and security cooperation with Japan](https://www.pm.gov.au/media/enhanced-defence-and-security-cooperation-japan)
+Monday 4 May 2026
+Media release
+### [Australia - Japan leadership dialogue](https://www.pm.gov.au/media/australia-japan-leadership-dialogue)
+Monday 4 May 2026
+Media release
+### [Strengthening energy security with Japan](https://www.pm.gov.au/media/strengthening-energy-security-japan)
+Monday 4 May 2026
+Media release
+### [Cyber partnership with Japan](https://www.pm.gov.au/media/cyber-partnership-japan)
+Monday 4 May 2026
+Media release

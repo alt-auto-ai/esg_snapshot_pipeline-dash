@@ -10,6 +10,26 @@ English Search
 [](https://press.un.org/en/content/secretary-general/press-release#main-content)
 # Secretary-General: Press Release
 * * *
+7 May 2026
+Press Release
+SG/SM/23116
+### [Warning at Least 200,000 Victims Were Trafficked in Past Four Years, Secretary-General Urges More Action to Prioritize Human Rights, at International Migration Review Forum ](https://press.un.org/en/2026/sgsm23116.doc.htm)
+Following are UN Secretary-General António Guterres’ remarks at the International Migration Review Forum, in New York today:
+7 May 2026
+Press Release
+SG/SM/23115
+### [At Moment of Peril, Promise, Secretary-General Hails Parliamentary Assembly of the Mediterranean for Role in Advancing Peace, Sustainable Development](https://press.un.org/en/2026/sgsm23115.doc.htm)
+Following is UN Secretary-General António Guterres’ message to the twentieth plenary session and the first Summit of Speakers and Presidents of the Parliamentary Assembly of the Mediterranean, in Budva, Montenegro, today:
+6 May 2026
+Press Release
+SG/SM/23114
+### [Secretary-General Deeply Saddened by Death of Ted Turner, Whose ‘Audacious Spirit’ Left Lasting Imprint on United Nations](https://press.un.org/en/2026/sgsm23114.doc.htm)
+The following statement by UN Secretary-General António Guterres was issued today:
+6 May 2026
+Press Release
+SG/SM/23113
+### [Sport ‘Can Show Us the Way’ to Peace, Secretary-General Says in Video Message for UN Inter-Agency Games ](https://press.un.org/en/2026/sgsm23113.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video message for the United Nations Inter-Agency Games, in Heraklion, Greece, today:
 1 May 2026
 Press Release
 SG/SM/23112
@@ -40,23 +60,3 @@ Biographical Note
 SG/A/2413
 ### [Secretary-General Appoints Gaurav Ray of Australia United Nations Resident Coordinator in Bhutan](https://press.un.org/en/2026/sga2413.doc.htm)
 United Nations Secretary-General António Guterres appointed Gaurav Ray of Australia as the United Nations Resident Coordinator in Bhutan, with the host Government’s approval, effective on 8 November 2025.
-29 April 2026
-Biographical Note
-SG/A/2412
-### [Secretary-General Appoints Mamadou Kane of Mauritania United Nations Resident Coordinator in Micronesia](https://press.un.org/en/2026/sga2412.doc.htm)
-United Nations Secretary-General António Guterres has appointed Mamadou Kane of Mauritania as the United Nations Resident Coordinator in Micronesia, with the host Government’s approval.
-28 April 2026
-Biographical Note
-SG/A/2409*
-### [Secretary-General Appoints Bruno Georges Lemarquis of France Deputy Special Representative, UN Assistance Mission in Afghanistan (UNAMA), Resident Coordinator](https://press.un.org/en/2026/sga2409.doc.htm)
-United Nations Secretary-General António Guterres announced today the appointment of Bruno Georges Lemarquis of France as his new Deputy Special Representative for Afghanistan with the United Nations Assistance Mission in Afghanistan (UNAMA) and Resident Coordinator in Afghanistan. Mr. Lemarquis will also serve as the Humanitarian Coordinator.
-28 April 2026
-Press Release
-SG/SM/23110
-### [Press Freedom under Unprecedented Strain, Secretary-General Warns, Calls for Protecting Journalists ‘Who Risk Everything’, in International Day Message](https://press.un.org/en/2026/sgsm23110.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message on World Press Freedom Day, observed 3 May:
-28 April 2026
-Press Release
-SG/SM/23109
-### [‘Turn the Tide’ for Africa by Investing in Integrated Solutions, Reforming Global Financial Architecture, Secretary-General Stresses at Regional Forum](https://press.un.org/en/2026/sgsm23109.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message to the twelfth session of the Africa Regional Forum on Sustainable Development, in Addis Ababa today:

@@ -1,6 +1,18 @@
 [ Skip to main content ](https://minister.agriculture.gov.au/Collins/media-releases#main) [ Skip to search](https://minister.agriculture.gov.au/Collins/media-releases#global-search-query)
 # Media releases
 ### May 2026
+## [$3 million Green Sheep Project launched at Agfest](https://minister.agriculture.gov.au/collins/media-releases/green-sheep-project-launch-agfest)
+7 May 2026
+The Albanese Labor Government is working closely with farmers and producers to improve climate resilience with the launch of the $3 million Green Sheep Project at Tasmania’s iconic Agfest field day today.
+## [Joint media release: Government securing more fuel reserves](https://minister.agriculture.gov.au/collins/media-releases/government-securing-more-fuel-reserves)
+6 May 2026
+The Albanese Labor Government has announced today that the Federal Budget next week will include an Australian Fuel Security and Resilience package to ensure energy sovereignty and protect our nation’s energy interests.
+## [Joint media release: Boosting the resilience of Tasmanian farmers](https://minister.agriculture.gov.au/collins/media-releases/farm-business-resilience-program-second-phase-tasmania)
+6 May 2026
+The Albanese and Rockliff governments are extending the highly successful Farm Business Resilience (FBR) program through to 2029, with a further $6.2 million for the second phase of the program announced today.
+## [Celebrating biosecurity champions across the country](https://minister.agriculture.gov.au/collins/media-releases/celebrating-biosecurity-champions-across-country)
+5 May 2026
+The Albanese Labor Government is committed to celebrating everyday Australians who are champions of biosecurity with nominations now open for the 2026 Australian Biosecurity Awards.
 ## [New Inspector General appointed to oversee animal welfare and live animal exports](https://minister.agriculture.gov.au/collins/media-release/media-release-inspector-general-of-animal-welfare-and-live-animal-exports-ashley-bunce)
 1 May 2026
 The Albanese Labor Government has today announced the appointment of Dr Ashley Bunce as the next Inspector General of Animal Welfare and Live Animal Exports (IGAWLAE).
@@ -20,14 +32,3 @@ The Albanese Labor Government has worked with industry and the Indonesian Govern
 ## [Australia-Malaysia halal partnership good news for producers](https://minister.agriculture.gov.au/collins/media-release/media-release-australia-malayssia-halal-red-meat-partnership)
 16 April 2026
 The Albanese Labor Government is delivering new opportunities for Australian red meat producers with an Australia-Malaysia Strategic Halal Red Meat Partnership to strengthen collaboration between the two countries on trade in halal red meat and meat produ
-## [Getting fertiliser to farmers faster](https://minister.agriculture.gov.au/collins/media-releases/getting-fertiliser-to-farmers-faster)
-16 April 2026
-The Albanese Labor Government is helping to get fertiliser to Australian farmers faster with the introduction of streamlined border processes for imported fertiliser that does not compromise on biosecurity. 
-## [Joint media release: Beefing up carbon credits for Aussie livestock farmers](https://minister.agriculture.gov.au/collins/media-releases/carbon-credits-livestock-farmers)
-15 April 2026
-The Albanese Labor Government is working with industry to design a new Australian Carbon Credit Unit (ACCU) Scheme livestock method that will enable farmers to diversify their income through herd management practices that reduce methane emissions.
-## [Joint media release: Embryo transfer costs now eligible under Disaster Recovery Grant funding](https://minister.agriculture.gov.au/collins/media-release/joint-release-perrett-embryo-transfers-eligible-under-disaster-recovery)
-9 April 2026
-## [Joint media release: Funding boost for H5 bird flu preparedness across the NT](https://minister.agriculture.gov.au/collins/media-releases/funding-boost-h5-bird-flu-preparedness-across-nt)
-8 April 2026
-The Albanese Government is investing more than $500,000 to support the Northern Territory prepare native species for a potential H5 avian influenza (bird flu) outbreak. 

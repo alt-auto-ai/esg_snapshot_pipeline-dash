@@ -3,16 +3,19 @@
 # Newsroom
 ### [Prosecution of Naveed Akram ](https://www.cdpp.gov.au/prosecution-naveed-akram)  
 ---  
-**Last updated: Wednesday 8 April 2026**  
-On 17 December 2025, the NSW Joint Counter Terrorism Team (JCTT) (comprising the New South Wales Police Force, the Australian Federal Police, the Australian Security Intelligence Organisation and the NSW Crime Commission) formally referred the prosecution of charges against Naveed Akram (the defendant) to the Office of the Director of Public Prosecutions (Cth) (CDPP).  
+**Last updated: Wednesday 6 May 2026**  
+The CDPP and parties interested in the orders for the suppression of information relating to the identity of a number of victims applied to further extend the orders so the CDPP’s application to vary and confirm the suppression orders could be heard at a later date. The Court extended the existing suppression orders until 29 June 2026. This means that information relating to the identity of a number of victims named in the Statement of Facts and Court Attendance Notices remains protected. The matter is next listed on 10 June 2026 for committal mention. The matter is also listed on 29 June 2026 to hear any application by the CDPP to vary and confirm the suppression orders.  
 ### [Prosecution of Liam Alexander Hall](https://www.cdpp.gov.au/prosecution-liam-alexander-hall)  
 ---  
 **Last updated: Tuesday 31 March 2026**  
 On 4 February 2026, the WA Joint Counter Terrorism Team (JCTT) (comprising the Western Australian Police Force, the Australian Federal Police and the Australian Security Intelligence Organisation) charged Liam Alexander Hall (the defendant) with one charge of committing a terrorist act.  
 ### [Attorney-General (Cth) v Benjamin Roberts-Smith](https://www.cdpp.gov.au/attorney-general-cth-v-benjamin-roberts-smith)  
 ---  
-**Last updated: Thursday 23 April 2026**  
-The defendant’s bail was varied. The defendant applied for and was granted a non-publication order.  
+**Last updated: Monday 4 May 2026**  
+The defendant’s bail was varied. The prosecution applied for and was granted a final non-publication order.  
+### [Federal Counsel at the CDPP](https://www.cdpp.gov.au/news/federal-counsel-cdpp)
+Wednesday, May 6, 2026 - 12:00
+Following a competitive recruitment process, with quality applicants from around the country, the CDPP has appointed Mr Patrick Dixon, Mr Hadi Mazloum and Ms Katie McCann, as Federal Counsel, for fixed terms.
 ### [Recognition for long-term support for the Open Employment Scheme](https://www.cdpp.gov.au/news/recognition-long-term-support-open-employment-scheme)
 Wednesday, December 3, 2025 - 12:00
 On 20 November the Office of the Director of Public Prosecutions (Cth) (CDPP) and a long-term staff member, Nelson, received awards presented by the Minister for Social Services Tanya Plibersek, in support and recognition of the Open Employment Scheme.
@@ -87,9 +90,6 @@ On 11 February 2022, the Commonwealth Director of Public Prosecutions Ms Sarah M
 ### [CDPP 2020-21 Annual Report and 2021-25 Corporate Plan available](https://www.cdpp.gov.au/news/cdpp-2020-21-annual-report-and-2021-25-corporate-plan-available)
 Friday, October 22, 2021 - 12:00
 The [CDPP 2020-21 Annual Report](https://www.cdpp.gov.au/publications/annual-report-2020-21) was tabled in Parliament on Wednesday 20 October 2021. 
-### [Sarah McNaughton extended as Commonwealth Director of Public Prosecutions](https://www.cdpp.gov.au/news/sarah-mcnaughton-extended-commonwealth-director-public-prosecutions)
-Monday, May 17, 2021 - 12:00
-The Commonwealth Director of Public Prosecutions, Sarah McNaughton SC, has been extended in the role for a further two years.
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

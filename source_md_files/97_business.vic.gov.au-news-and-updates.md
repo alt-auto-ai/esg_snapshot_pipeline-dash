@@ -8,8 +8,12 @@ Location
 metropolitanregional
 Topic
 Bushfire supportEventsFinanceGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStaff managementStarting a businessSustainabilityTourism industry
-22 Apr 2026 
-Marketing
+5 May 2026 
+Tourism industry
+## [Autumn festivals and markets that will leaf you blown away](https://business.vic.gov.au/news-and-updates/2026/autumn-festivals-and-markets-that-will-leaf-you-blown-away)
+Rake in the last of Autumn with Victoria’s festivals and markets.
+2026April22
+Marketing 
 ## [Navigating the world of intellectual property](https://business.vic.gov.au/news-and-updates/2026/navigating-the-world-of-intellectual-property)
 World Intellectual Property Day – ready, set, innovate.
 2026March24
@@ -56,10 +60,6 @@ Marketing
 Events 
 ## [3 small businesses making Halloween their business](https://business.vic.gov.au/news-and-updates/2025/3-small-businesses-making-halloween-their-business)
 From broomstick creators to cauldron makers, here are 3 businesses that are taking advantage of Halloween this October.
-2025October8
-Risk and resilience 
-## [Cyber Month 2025: building a cyber safe culture](https://business.vic.gov.au/news-and-updates/2025/cyber-month-2025-building-a-cyber-safe-culture)
-How safe is your small business from a $47,400 cyber attack?
   * [1](https://business.vic.gov.au/news-and-updates)
   * [2](https://business.vic.gov.au/news-and-updates)
   * [3](https://business.vic.gov.au/news-and-updates)

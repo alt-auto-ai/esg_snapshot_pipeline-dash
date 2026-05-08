@@ -16,6 +16,15 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Strengthening the Annual Superannuation Performance Test](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/strengthening-annual-superannuation-performance-test)
+8 May 2026
+The Albanese Labor Government is acting to strengthen the annual superannuation performance test. 
+### [Reserve Bank decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/reserve-bank-decision-1)
+5 May 2026
+Today the independent Reserve Bank Monetary Policy Board increased the cash rate by 25 basis points. 
+### [Fairer tax treatment to encourage affordable EVs](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/fairer-tax-treatment-encourage-affordable-evs)
+5 May 2026
+Joint media release with the Hon Chris Bowen MP, Minister for Climate Change and Energy 
 ### [Productivity package to turbocharge construction and businesses across NSW](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/productivity-package-turbocharge-construction-and)
 1 May 2026
 The Albanese Government is funding reforms to fast‑track approvals and get businesses up and running as quickly as possible in New South Wales. 
@@ -67,12 +76,3 @@ The Albanese Government has introduced new legislation to help consumers get a f
 ### [Treasurer convenes financial regulators](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/treasurer-convenes-financial-regulators)
 20 March 2026
 Today I convened a special meeting of the Council of Financial Regulators to discuss the conflict in the Middle East, its potential implications for our economy and financial markets, and actions b 
-### [Reserve Bank decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/reserve-bank-decision-0)
-17 March 2026
-Today the independent Reserve Bank Monetary Policy Board increased the cash rate by 25 basis points. 
-### [Fair go for consumers at the bowser](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/fair-go-consumers-bowser)
-11 March 2026
-The Albanese Government is taking action to help consumers get a fair go at the petrol pump, with more scrutiny and surveillance of the fuel sector, bigger penalties for misconduct, and action to s 
-### [The government’s super reforms pass the parliament](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/governments-super-reforms-pass-parliament)
-10 March 2026
-The Albanese Government has passed important superannuation reforms to help low income workers and make the super system fairer from top to bottom. 

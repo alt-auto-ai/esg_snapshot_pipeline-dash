@@ -27,7 +27,7 @@ Close Search
     * [ Toggle filter Italy (14) ](https://www.iea.org/news?country%5B0%5D=italy)
     * [ Toggle filter France (13) ](https://www.iea.org/news?country%5B0%5D=france)
     * [ Toggle filter Germany (13) ](https://www.iea.org/news?country%5B0%5D=germany)
-    * [ Toggle filter Morocco (13) ](https://www.iea.org/news?country%5B0%5D=morocco)
+    * [ Toggle filter Mexico (13) ](https://www.iea.org/news?country%5B0%5D=mexico)
   * RegionChevron down
     * [ Toggle filter Europe (38) ](https://www.iea.org/news?region%5B0%5D=europe)
     * [ Toggle filter Africa (28) ](https://www.iea.org/news?region%5B0%5D=africa)
@@ -79,26 +79,26 @@ Close Search
     * [ Toggle filter Saving Energy (13) ](https://www.iea.org/news?topic%5B0%5D=saving-energy)
     * [ Toggle filter COP28: Tracking the Energy Outcomes (6) ](https://www.iea.org/news?topic%5B0%5D=cop28-tracking-the-energy-outcomes)
   * ProgrammeChevron down
-    * [ Toggle filter Clean Energy Transitions Programme (264) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-transitions-programme)
+    * [ Toggle filter Clean Energy Transitions Programme (274) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-transitions-programme)
     * [ Toggle filter Clean Energy Transitions in Emerging Economies (23) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-transitions-in-emerging-economies)
     * [ Toggle filter Energy Sub-Saharan Africa (23) ](https://www.iea.org/news?programme%5B0%5D=energy-sub-saharan-africa)
-    * [ Toggle filter Technology Collaboration Programme (20) ](https://www.iea.org/news?programme%5B0%5D=technology-collaboration-programme)
+    * [ Toggle filter Technology Collaboration Programme (21) ](https://www.iea.org/news?programme%5B0%5D=technology-collaboration-programme)
     * [ Toggle filter EU4Energy (18) ](https://www.iea.org/news?programme%5B0%5D=eu4energy)
+    * [ Toggle filter Energy Efficiency in Emerging Economies (17) ](https://www.iea.org/news?programme%5B0%5D=energy-efficiency-in-emerging-economies)
     * [ Toggle filter People-Centred Clean Energy Transitions (17) ](https://www.iea.org/news?programme%5B0%5D=people-centred-clean-energy-transitions)
-    * [ Toggle filter Energy Efficiency in Emerging Economies (16) ](https://www.iea.org/news?programme%5B0%5D=energy-efficiency-in-emerging-economies)
     * [ Toggle filter Digital Demand-Driven Electricity Networks Initiative (15) ](https://www.iea.org/news?programme%5B0%5D=digital-demand-driven-electricity-networks-initiative)
     * [ Toggle filter Global Commission for Urgent Action on Energy Efficiency (14) ](https://www.iea.org/news?programme%5B0%5D=global-commission-for-urgent-action-on-energy-efficiency)
     * [ Toggle filter Designing for fairness (8) ](https://www.iea.org/news?programme%5B0%5D=designing-for-fairness)
     * [ Toggle filter Clean Energy Ministerial (6) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-ministerial)
-    * [ Toggle filter Critical Minerals Security Programme (4) ](https://www.iea.org/news?programme%5B0%5D=critical-minerals-security-programme)
+    * [ Toggle filter Critical Minerals Security Programme (5) ](https://www.iea.org/news?programme%5B0%5D=critical-minerals-security-programme)
     * [ Toggle filter Data-Driven Electrification in Africa (2) ](https://www.iea.org/news?programme%5B0%5D=data-driven-electrification-in-africa)
     * [ Toggle filter Transport Project Partnership (1) ](https://www.iea.org/news?programme%5B0%5D=transport-project-partnership)
   * TypeChevron down
-    * [ Toggle filter News (1253) ](https://www.iea.org/news?type=news)
+    * [ Toggle filter News (1256) ](https://www.iea.org/news?type=news)
     * [ Toggle filter Commentary (349) ](https://www.iea.org/news?type=commentary)
     * [ Toggle filter Press release (173) ](https://www.iea.org/news?type=press-release)
   * YearChevron down
-    * [ Toggle filter 2026 (69) ](https://www.iea.org/news?year=2026)
+    * [ Toggle filter 2026 (72) ](https://www.iea.org/news?year=2026)
     * [ Toggle filter 2025 (167) ](https://www.iea.org/news?year=2025)
     * [ Toggle filter 2024 (148) ](https://www.iea.org/news?year=2024)
     * [ Toggle filter 2023 (159) ](https://www.iea.org/news?year=2023)
@@ -116,6 +116,9 @@ Close Search
 
 
 Filter
+[ News  Executive Director meets with Prime Minister of Canada on energy market turmoil amid Middle East conflict 07 May 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-canada-on-energy-market-turmoil-amid-middle-east-conflict)
+[ News  New podcast episode delves into evolving relationship between energy and AI 07 May 2026  ](https://www.iea.org/news/new-podcast-episode-delves-into-evolving-relationship-between-energy-and-ai)
+[ Methane Abatement  Tackling methane emissions would strengthen energy security amid crisis 04 May 2026  ](https://www.iea.org/news/tackling-methane-emissions-would-strengthen-energy-security-amid-crisis)
 [ News  IEA hosts high-level energy dialogue with Türkiye and Australia 30 April 2026  ](https://www.iea.org/news/iea-hosts-high-level-energy-dialogue-with-turkiye-and-australia)
 [ Energy Security  Battery recycling innovation surging as countries seek to strengthen critical mineral supply and energy security 29 April 2026  ](https://www.iea.org/news/battery-recycling-innovation-surging-as-countries-seek-to-strengthen-critical-mineral-supply-and-energy-security)
 [ News  New podcast episode focuses on the risks in critical mineral supply chains 24 April 2026  ](https://www.iea.org/news/new-podcast-episode-focuses-on-the-risks-in-critical-mineral-supply-chains)
@@ -137,9 +140,6 @@ Filter
 [ Carbon Capture Utilisation and Storage  Policy and financing momentum sustain CCUS progress despite setbacks 27 March 2026  ](https://www.iea.org/commentaries/policy-and-financing-momentum-sustain-ccus-progress-despite-setbacks)
 [ News  New podcast episode highlights 10 options to ease impacts of rising oil prices on consumers 26 March 2026  ](https://www.iea.org/news/new-podcast-episode-highlights-10-options-to-ease-impacts-of-rising-oil-prices-on-consumers)
 [ News  Executive Director meets with Prime Minister of Japan to discuss energy security amid war in Middle East 26 March 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-japan-to-discuss-energy-security-amid-war-in-middle-east)
-[ Energy Security  Strengthening supply chains can improve resilience and reduce economic security risks for key energy technologies 26 March 2026  ](https://www.iea.org/news/strengthening-supply-chains-can-improve-resilience-and-reduce-economic-security-risks-for-key-energy-technologies)
-[ Commentary  Businesses see competitive value of energy efficiency, but smaller firms struggle to access solutions 25 March 2026  ](https://www.iea.org/commentaries/businesses-see-competitive-value-of-energy-efficiency-but-smaller-firms-struggle-to-access-solutions)
-[ News  Executive Director meets with Prime Minister of Australia to discuss urgent energy challenges facing Asia-Pacific region 23 March 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-australia-to-discuss-urgent-energy-challenges-facing-asia-pacific-region)
 Previous page Prev
   * 1
   * [2](https://www.iea.org/news?page=2)
@@ -152,8 +152,8 @@ Previous page Prev
   * [9](https://www.iea.org/news?page=9)
   * [10](https://www.iea.org/news?page=10)
   * ...
-  * [73](https://www.iea.org/news?page=73)
   * [74](https://www.iea.org/news?page=74)
+  * [75](https://www.iea.org/news?page=75)
 
 [ Next Next page ](https://www.iea.org/news?page=2)
 #### Subscription successful

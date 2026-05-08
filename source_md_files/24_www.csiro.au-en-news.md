@@ -4,42 +4,42 @@ Explore the science behind the headlines with our leading experts.
 Contact 
 ## Latest news and articles
 Featured 
+Article 6 May 2026  4 min read 
+### [ Hantavirus: the ‘silent’ virus ](https://www.csiro.au/en/news/All/Articles/2026/May/Hantavirus-explainer)
+  * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
+  * [ health and wellbeing ](https://www.csiro.au/en/news/All?articletags={022BBFB6-2C6E-41FE-BC9A-BBD50D65C296}|health%20and%20wellbeing)
+  * [ human health ](https://www.csiro.au/en/news/All?articletags={01A8A1CA-2C53-4E17-81C8-4EC5D15117F4}|human%20health)
+  * [ ACDP ](https://www.csiro.au/en/news/All?articletags={2FB92775-84B2-4FAD-8BD9-A4F39FED230B}|ACDP)
+
+
+## Featured
+  * ### [ Energy resilience: Why consumers – and their vehicles – are central to Australia’s energy independence ](https://www.csiro.au/en/news/All/Articles/2026/April/Energy-Resilience-DER)
+  * ### [ Expert commentary: How quantum can make AI safer ](https://www.csiro.au/en/news/All/Articles/2026/May/How-quantum-can-make-AI-safer)
+
+
 Article 15 April 2026  7 min read 
 ### [ From the air to the field: how nitrogen fertiliser helps feed the world – and why supply chains matter ](https://www.csiro.au/en/news/All/Articles/2026/April/Nitrogen-fertiliser-explainer)
   * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
   * [ farming ](https://www.csiro.au/en/news/All?articletags={A45DC177-07AB-48D5-982C-1B8AF9069487}|farming)
 
 
-## Featured
-  * ### [ The rise of the ‘Super-K’ flu: what you need to know ](https://www.csiro.au/en/news/All/Articles/2026/January/Super-K)
-  * ### [ Revealing deep-sea life: memorable new species discovered by RV _Investigator_ ](https://www.csiro.au/en/news/All/Articles/2026/April/Memorable-new-species-from-RV-Investigator)
-
-
-Article 9 April 2026  5 min read 
-### [ How science is rewriting the rules of marine taxonomy, one seaweed at a time ](https://www.csiro.au/en/news/All/Articles/2026/April/Rewriting-the-rules-of-marine-taxonomy-through-seaweed)
-  * [ collections ](https://www.csiro.au/en/news/All?articletags={BD01C0DB-AA7F-4713-A8A1-8F06C9F7972B}|collections)
-  * [ National Research Collections Australia ](https://www.csiro.au/en/news/All?articletags={5095CFC7-26F0-470B-A881-CBCEA1A2E06B}|National%20Research%20Collections%20Australia)
-  * [ algae ](https://www.csiro.au/en/news/All?articletags={489A83F4-9657-470E-94A8-84FCAC7527C0}|algae)
-  * [ Oceans ](https://www.csiro.au/en/news/All?articletags={1892615F-CFDD-4AAA-B6E8-F49FE5C7FA81}|Oceans)
-  * [ marine ](https://www.csiro.au/en/news/All?articletags={B6812BC5-EBC2-4BF5-8269-12D63903289B}|marine)
-
-
-Article 16 April 2026  8 min read 
-### [ Boots on the Moon and beyond. Where next after Artemis II mission success? ](https://www.csiro.au/en/news/All/Articles/2026/April/What-is-next-after-Artemis-II)
-  * [ Moon ](https://www.csiro.au/en/news/All?articletags={278F3E31-D22E-4DEC-8BEB-026BA3B63AAC}|Moon)
-  * [ space ](https://www.csiro.au/en/news/All?articletags={6B856034-F842-4F9A-AC72-0DC27811877B}|space)
-  * [ csiro space ](https://www.csiro.au/en/news/All?articletags={C2C6F4E8-C766-46DB-83B4-C621CECFB532}|csiro%20space)
+Article 8 May 2026  6 min read 
+### [ Copper: The metal connecting Australia’s geology to a net zero world ](https://www.csiro.au/en/news/All/Articles/2026/May/copper)
   * [ Mining ](https://www.csiro.au/en/news/All?articletags={C7AA6DC6-2CA5-44AB-A315-CA7115091111}|Mining)
-  * [ AI ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|AI)
 
 
-Article 1 May 2026  5 min read 
-### [ Ticked off: how a bite can turn meat against you ](https://www.csiro.au/en/news/All/Articles/2026/May/Mammalian-meat-allergy)
-  * [ Health ](https://www.csiro.au/en/news/All?articletags={F98BDF28-BA5F-4F16-86E8-3F54E70A1A88}|Health)
-  * [ human health ](https://www.csiro.au/en/news/All?articletags={01A8A1CA-2C53-4E17-81C8-4EC5D15117F4}|human%20health)
+Article 8 May 2026  5 min read 
+### [ Science lighting the way on Australia's roads ](https://www.csiro.au/en/news/All/Articles/2026/May/Science-lighting-the-way-on-roads)
+  * [ Verification and Testing ](https://www.csiro.au/en/news/All?articletags={036912CC-E6F8-48B6-AAFF-64887CC778CB}|Verification%20and%20Testing)
+  * [ safety ](https://www.csiro.au/en/news/All?articletags={79CBEEAC-8821-49FC-B181-A448ADDF6F2C}|safety)
+  * [ innovation ](https://www.csiro.au/en/news/All?articletags={D7D60678-DE1C-460F-9DCC-D8C4005E0A34}|innovation)
+  * [ Industry Innovation ](https://www.csiro.au/en/news/All?articletags={63747C20-B173-41DE-84FF-436F619D57DA}|Industry%20Innovation)
+  * [ Infrastructure ](https://www.csiro.au/en/news/All?articletags={933C76B7-0FBB-4336-83F9-F37FBF752D13}|Infrastructure)
+  * [ manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|manufacturing)
+  * [ Paint ](https://www.csiro.au/en/news/All?articletags={82124074-E8F2-4B00-BE6F-9BB276ADD4AA}|Paint)
 
 
-[ View more news ](https://www.csiro.au/en/news/All?type={60727734-1BF6-4FD4-88DA-028304CF3D74}|{01DD0A16-96BC-4001-ACA4-F82DBB83B26C}|{6B6F9B5C-3CB2-42DD-A714-2A012B3720FD}|{49F817AF-74EB-43C4-A51B-CE2B14F46215}|{9E28CCA8-AAC8-475C-AEB3-7BDE93F6155E})
+[ View more news ](https://www.csiro.au/en/news/All?type={60727734-1BF6-4FD4-88DA-028304CF3D74}|{01DD0A16-96BC-4001-ACA4-F82DBB83B26C}|{6B6F9B5C-3CB2-42DD-A714-2A012B3720FD}|{9E28CCA8-AAC8-475C-AEB3-7BDE93F6155E})
 ## Media Centre
 ### [ Media releases Official announcements highlighting recent stories and newsworthy information. ](https://www.csiro.au/en/news/All?type={49F817AF-74EB-43C4-A51B-CE2B14F46215})
 ### [ Expert commentary Explanation, interpretations, and opinions from CSIRO experts. ](https://www.csiro.au/en/news/All?type={6B6F9B5C-3CB2-42DD-A714-2A012B3720FD})

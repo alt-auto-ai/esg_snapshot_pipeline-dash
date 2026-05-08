@@ -4,7 +4,19 @@ News and articles
 # News and articles
 # News and articles
 Latest news and announcements from the department, showcasing the people, projects and programs that make Victoria the best place to live, work, stay, experience, invest and study
-Showing **1** to 12 of 227 items.
+Showing **1** to 12 of 230 items.
+News
+06 May 2026
+## [2026 to 2027 Victorian State Budget released](https://djsir.vic.gov.au/news-and-articles/2026-to-2027-victorian-state-budget-released)
+Read the budget outcomes for the department
+News
+05 May 2026
+## [Victorians are finding success through TAFE](https://djsir.vic.gov.au/news-and-articles/victorians-are-finding-success-through-tafe)
+Five Victorians share how TAFE is helping them reach their goals
+News
+04 May 2026
+## [Two renowned First Peoples women join the Yuma Yirramboi Council](https://djsir.vic.gov.au/news-and-articles/two-renowned-first-peoples-women-join-the-yuma-yirramboi-council)
+New members join the Yuma Yirramboi Council’s Koori Caucus to support First Peoples economic self-determination.
 News
 29 April 2026
 ## [More First Peoples economic opportunities in Shepparton](https://djsir.vic.gov.au/news-and-articles/more-first-peoples-economic-opportunities-in-shepparton)
@@ -41,16 +53,4 @@ News
 13 April 2026
 ## [Victoria is shaping the future of wellness travel](https://djsir.vic.gov.au/news-and-articles/victoria-is-shaping-the-future-of-wellness-travel)
 Victoria is emerging as a leader in wellness tourism, offering mineral springs, coastal thermal baths, lush retreats, and unique natural experiences, all within easy reach of Melbourne.
-News
-08 April 2026
-## [Over 50 events booked and more than 100 jobs up for grabs at Nyaal Banyul](https://djsir.vic.gov.au/news-and-articles/over-50-events-booked-and-more-than-100-jobs-up-for-grabs-at-nyaal-banyul)
-The convention and event centre has secured more than 56 events and are hiring for over 100 casual jobs ahead of its July 2026 launch.
-News
-08 April 2026
-## [Victorian med tech innovation achieving overseas success](https://djsir.vic.gov.au/news-and-articles/victorian-med-tech-innovation-achieving-overseas-success)
-Atmo Biosciences produces a world-first medical device, providing hope to millions of people with common gut disorders
-News
-02 April 2026
-## [Accessible tourism: exploring without barriers](https://djsir.vic.gov.au/news-and-articles/accessible-tourism-exploring-without-barriers)
-In 2024 travellers with accessible needs took more than 70 million trips across Australia.
 Previous  1 [2](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) [3](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=3) [4](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=4) [5](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=5) [6](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=6) [7](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=7) [8](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=8) [9](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=9) [10](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=10) [ [Next](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) ] 

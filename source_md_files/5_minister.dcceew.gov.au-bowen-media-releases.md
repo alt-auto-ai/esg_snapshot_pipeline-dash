@@ -1,5 +1,27 @@
 [ Skip to main content ](https://minister.dcceew.gov.au/bowen/media-releases#main-content)
 # Media releases
+### May 2026 
+## [Joint media release: Albanese Government to secure Australian gas for Australian users ](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-albanese-government-secure-australian-gas-australian-users)
+7 May 2026
+The Albanese Labor Government will introduce a domestic gas reservation scheme that will require gas exporters supply a proportion of their total production to the Australian market – equivalent to 20 per cent of exports, from 1 July 2027.
+## [Joint media release: Australia and Fiji ratify Pacific Resilience Facility Treaty](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-australia-and-fiji-ratify-pacific-resilience-facility-treaty)
+6 May 2026
+Australia and Fiji are pleased to announce the formal ratification of the Pacific Resilience Facility (PRF) Treaty, a landmark agreement that places Pacific communities in control of their own resilience financing.
+## [Joint media release: Government securing more fuel reserves - The Australian Fuel Security Resilience package](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-government-securing-more-fuel-reserves-australian-fuel-security-resilience-package)
+6 May 2026
+The Albanese Labor Government has announced today that the federal budget next week will include an Australian Fuel Security and Resilience package to ensure energy sovereignty and protect our nation’s energy interests.
+## [Electric trucks ready to deliver cleaner, cheaper freight in Australia's biggest cities](https://minister.dcceew.gov.au/bowen/media-releases/electric-trucks-ready-deliver-cleaner-cheaper-freight-australias-biggest-cities)
+5 May 2026
+A new fleet of 30 electric trucks is set to start delivering appliances across Sydney and Melbourne, cutting pollution, noise and fuel costs on some of Australia’s busiest roads.
+## [Joint media release: Fairer tax treatment to encourage affordable EVs](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-fairer-tax-treatment-encourage-affordable-evs)
+5 May 2026
+The Albanese Government will continue to support Australians into cheaper to run cars while making sensible changes to the fringe benefits tax (FBT) exemption for electric vehicles. 
+## [Joint media release: Strengthening energy security with Japan](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-strengthening-energy-security-japan)
+4 May 2026
+Australia and Japan have reached an agreement to further strengthen energy security in our region.
+## [Joint media release: Biggest electricity boost in West Australian history](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-biggest-electricity-boost-west-australian-history)
+2 May 2026
+The Albanese and Cook Labor Governments are delivering an historic boost to WA’s energy system with 1.9 gigawatts of cheaper, cleaner renewable generation and 482 megawatts of storage as part of 10 new projects set to be built across regional WA.
 ### April 2026 
 ## [Joint media release: Australia-ROK joint statement on energy security](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-australia-rok-joint-statement-energy-security)
 30 April 2026
@@ -10,24 +32,3 @@ Over 350,000 households, small businesses and community organisations have now i
 ## [Australia's energy transition gathers pace](https://minister.dcceew.gov.au/bowen/media-releases/australias-energy-transition-gathers-pace)
 30 April 2026
 The first three months of the year saw record energy demand matched by record renewables in Australia’s energy grid, as batteries and solar helped push wholesale prices down. 
-## [Joint media release: Securing more fuel for the regions](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-securing-more-fuel-regions)
-24 April 2026
-The Albanese Labor Government has secured another 100 million litres of diesel for Australia as a result of our efforts to work with industry to keep Australia moving.
-## [Joint media release: Securing more fuel and fertiliser ](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-securing-more-fuel-and-fertiliser)
-22 April 2026
-Under the Albanese Government’s new Strategic Reserve powers, a further 200 million litres of additional diesel for Australia has been secured, and work has commenced with leading fertiliser companies to secure more supply.
-## [Joint media release: First fuel shipments secured under new strategic reserve powers](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-first-fuel-shipments-secured-under-new-strategic-reserve-powers)
-16 April 2026
-The Albanese Labor Government has secured approximately 100 million litres of additional diesel for Australians, with two shipments coming from Brunei and South Korea.
-## [Australian emissions falling as industry upgrades and electrifies](https://minister.dcceew.gov.au/bowen/media-releases/australian-emissions-falling-industry-upgrades-and-electrifies)
-15 April 2026
-Australian industries have made significant investments in new technologies – shielding businesses and jobs from global energy price shocks while delivering record reductions in carbon emissions.
-## [Joint media release: Better ACCU methods to deliver more income opportunities and emissions cuts](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-better-accu-methods-deliver-more-income-opportunities-and-emissions-cuts)
-10 April 2026
-The Albanese Government is expanding the opportunities for Australian farmers, businesses and communities to tackle dangerous climate change by diversifying their income through emissions reduction activities with the introduction of new and updated...
-## [Joint media release: Building our economic resilience through the investor front door](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-building-our-economic-resilience-through-investor-front-door)
-9 April 2026
-The Albanese Labor government is unlocking investment in Australia’s fuel security, supply chain resilience and critical minerals through the Investor Front Door’s first pilot projects.
-## [Joint media release: Securing Australia's future fuel supply and critical minerals strategic reserve](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-securing-australias-future-fuel-supply-and-critical-minerals-strategic-reserve)
-1 April 2026
-The Albanese Labor Government has secured new laws to shield Australians from global fuel supply disruptions.

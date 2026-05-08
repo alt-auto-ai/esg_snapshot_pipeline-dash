@@ -27,53 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-1 May 2026
-### [More than 25,000 visits to Long Jetty Urgent Care Service](https://www.nsw.gov.au/ministerial-releases/long-jetty-visits-reach-25k)
-Communities in the Central Coast are benefitting from more timely access to urgent care, with more than 25,000 visits made to the Long Jetty Urgent Care Service since it opened in December 2023.
+8 May 2026
+### [Minns Labor Government invests $600,000 to make Central Coast’s Peninsula greener and cooler](https://www.nsw.gov.au/ministerial-releases/minns-labor-government-invests-600000-to-make-central-coasts-peninsula-greener-and-cooler)
+The Minns Labor Government is investing $600,000 to help transform the streets, parks, and public spaces of Ettalong, Umina and Woy Woy into cooler, greener environments
 Ministerial media release
-1 May 2026
-### [Nurses and midwives at Northern Beaches Hospital to receive expanded opportunities in public health system](https://www.nsw.gov.au/ministerial-releases/career-development-northern-beaches-hospital)
-Nurses and midwives at Northern Beaches Hospital will be able to access additional career development opportunities now that the hospital has transitioned into the public system.
+8 May 2026
+### [Sydney Metro probity investigation referred to police and integrity agencies](https://www.nsw.gov.au/ministerial-releases/sydney-metro-probity-investigation-referred-to-police-and-integrity-agencies)
+A major contractor on the Western Sydney Airport Metro project has been terminated after a probity investigation into supply chains.
 Ministerial media release
-1 May 2026
-### [Northern Beaches Hospital allied health staff to benefit from expanded opportunities in NSW public health system](https://www.nsw.gov.au/ministerial-releases/northern-beaches-hospital-allied-health-staff-to-benefit-from-expanded-opportunities-nsw-public-health-system)
-Allied health staff at Northern Beaches Hospital are now able to access expanded training, and additional professional development and career pathway opportunities following the hospital’s transition to public ownership yesterday.
+8 May 2026
+### [Milestone reached in fix for major Central Coast traffic pinch point](https://www.nsw.gov.au/ministerial-releases/fix-for-major-central-coast-traffic-pinch-point)
+Over 26,000 Central Coast motorists are a step closer to ditching one of the region’s worst bottlenecks, with the first construction stage of the Tumbi Road intersection upgrade wrapping up this week.
 Ministerial media release
-1 May 2026
-### [Rebuilding our Force: Largest police class in more than 13 years sworn in to keep NSW safe](https://www.nsw.gov.au/ministerial-releases/rebuilding-our-force)
-The Minns Labor Government will today welcome 349 new probationary constables into the NSW Police Force, with Class 368 attesting at the Goulburn Police Academy.
+8 May 2026
+### [NSW Government initiates emergency response to address homelessness in Wagga Wagga](https://www.nsw.gov.au/ministerial-releases/emergency-homelessness-response-wagga-wagga)
+The NSW Government has brought together an emergency working group following the heartbreaking death of a newborn baby in a Wagga Wagga homeless encampment.
 Ministerial media release
-1 May 2026
-### [New Rouse Hill Hospital moves from planning to delivery](https://www.nsw.gov.au/ministerial-releases/new-rouse-hill-hospital-moves-from-planning-to-delivery)
-North west Sydney is a step closer to a state of the art healthcare facility, with the designs for the $910 million Rouse Hill Hospital officially locked in and early works underway.
+8 May 2026
+### [$1.2 million grant program to support community-led resilience projects](https://www.nsw.gov.au/ministerial-releases/12-million-grant-program-to-support-community-led-resilience-projects)
+Community organisations are invited to apply for funding under a special round of the Community Partnership Action (COMPACT) Program, which will deliver $1.2 million to projects supporting whole-of-community initiatives.
 Ministerial media release
-1 May 2026
-### [Building the Future: Powerhouse Parramatta reaches key construction milestone](https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/powerhouse-parramatta-completed)
-The Minns Labor Government today announced a major construction milestone at Powerhouse Parramatta, with the museum now having reached completion and exhibition fit outs now well and truly underway ahead of opening later this year.
+8 May 2026
+### [Turning up the volume on Sydney’s waterfront with new busking spots at Sydney Fish Market](https://www.nsw.gov.au/ministerial-releases/new-busking-spots-at-fish-market)
+The Minns Labor Government is expanding opportunities for street performers, with four new busking sites added at the Sydney Fish Markets.
 Ministerial media release
-1 May 2026
-### [New Small Business Commissioner appointed for NSW](https://www.nsw.gov.au/ministerial-releases/new-small-business-commissioner-appointed-for-nsw)
-Ms Kalina Koloff has been appointed as the state’s new Small Business Commissioner.
-Ministerial speech
-1 May 2026
-### [The Daily Telegraph 'Future Western Sydney' Summit 2026](https://www.nsw.gov.au/ministerial-releases/future-western-sydney-summit-2026)
-Thanks, Anna, what a privilege to be here, following the Prime Minister with so many distinguished speakers and guests. Thanks, Simon and your team from this beautiful airport.
+8 May 2026
+### [New recruitment rules in place for early learning providers offer better protection for children thanks to new laws](https://www.nsw.gov.au/ministerial-releases/new-recruitment-rulesl-early-learning)
+New rules requiring early learning services to undertake strict screening checks and verify suitability to work with children are now in place as part of the Minns Labor Government reforms to keep children safe.
 Ministerial media release
-30 April 2026
-### [Busy storm season wraps up as SES continues to boost capabilities with new flood rescue vehicles](https://www.nsw.gov.au/ministerial-releases/new-flood-rescue-vehicles)
-Preparations are already underway for future severe weather events as a busy storm season comes to an end, with State Emergency Service (SES) volunteers responding to more than 23,000 calls and 1,500 flood related incidents. 
+8 May 2026
+### [A better run home: M5 West upgrade begins](https://www.nsw.gov.au/ministerial-releases/m5-west-upgrade-begins)
+Safety on the M5 is set for a major boost, with work now underway on the $380 million M5 Westbound upgrade to eliminate dangerous weaving and deliver a smoother, more reliable journey for thousands of motorists. 
 Ministerial media release
-30 April 2026
-### [New Warringah Freeway bus lane gives buses an un-interrupted run to the CBD as upgrade nears completion](https://www.nsw.gov.au/ministerial-releases/new%c2%a0warringah-freeway%c2%a0bus-lane%c2%a0gives-buses-an-un-interrupted-run-to-cbd%c2%a0as%c2%a0upgrade-nears-completion)
-The Minns Labor Government is marking another milestone on the Warringah Freeway Upgrade, with a series of traffic switches taking place this weekend including a local dedicated southbound bus lane that will mean safer and more efficient journeys for thousands of commuters travelling into the Sydney CBD.
+8 May 2026
+### [Two new services transforming mental healthcare in Kempsey](https://www.nsw.gov.au/ministerial-releases/transforming-mental-healthcare-kempsey)
+This Minns Labor Government is transforming mental health care in Kempsey, with two new initiatives improving access to critical mental health support.
+Ministerial media release
+7 May 2026
+### [Final plan for Moore Park South delivers new park and 12-hole golf course for Sydney](https://www.nsw.gov.au/ministerial-releases/final-plan-for-moore-park-south-delivers-new-park-and-12-hole-golf-course-for-sydney)
+Mums, dads and young people from across Sydney are a step closer to being able to enjoy a brand-new park with sports fields, courts, outdoor fitness equipment, a nature playground, shaded picnic spaces with barbecues and more.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 557
-  * 558
-  * 559
+  * 561
+  * 562
+  * 563
   * keyboard_arrow_right
 
 

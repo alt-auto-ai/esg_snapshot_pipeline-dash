@@ -4,8 +4,16 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **302** results 
+Showing **1** to **10** of **304** results 
 Sort by
+## [Tap into valuable soil moisture data this season](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/tap-into-valuable-soil-moisture-data-this-season)
+07 May 2026
+Farmers statewide are encouraged to subscribe to Agriculture Victoria's Soil Moisture Monitoring Cropping Report e-newsletter for real-time soil water data.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/tap-into-valuable-soil-moisture-data-this-season>
+## [Case study – avocado and domestic ducks don’t mix](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-avocado-and-domestic-ducks-dont-mix)
+04 May 2026
+In April 2025, Agriculture Victoria investigated the sudden deaths of ducks in a backyard setup in south west Victoria.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-avocado-and-domestic-ducks-dont-mix>
 ## [Hawkesdale farmers guilty of cattle and sheep neglect](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/hawkesdale-farmers-guilty-of-cattle-and-sheep-neglect)
 30 Apr 2026
 The owners of 3 Hawkesdale farming properties have been found guilty and fined after an animal welfare complaint.
@@ -38,14 +46,6 @@ The Ballarat BetterBeef Group is hosting an on-farm pasture walks for beef produ
 09 Apr 2026
 A south-west drone spraying business was convicted and fined $15,000 in the Colac Magistrates’ Court recently, as a result of charges relating to spray drift.
 <https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/drone-operator-fined-following-spray-drift-incident>
-## [New faces for climate action](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/new-faces-for-climate-action)
-08 Apr 2026
-New leadership and new members have been appointed to the VACCC to help the state’s agriculture sector prepare for and respond to the impacts of climate change.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/new-faces-for-climate-action>
-## [Support for farmers and workers in the south west](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/support-for-farmers-and-workers-in-the-south-west)
-08 Apr 2026
-Drought impacted farming families and workers in the south west can access financial support to help ease cost‑of‑living pressures.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/support-for-farmers-and-workers-in-the-south-west>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)

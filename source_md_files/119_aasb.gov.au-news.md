@@ -5,6 +5,13 @@
 Select category:
 [All](https://aasb.gov.au/news/) [Standards](https://aasb.gov.au/news/?category=Standards)
 Filter by date range:
+05
+MAY
+2026
+AASB
+### AASB Dialogue Series – R&D Reporting under IFRS: Evidence, Insights and Implications
+Join us for an insightful webinar on the latest evidence in R&D (Research and Development) reporting under IFRS. **Register**
+[Read more](https://aasb.gov.au/news/aasb-dialogue-series-r-d-reporting-under-ifrs-evidence-insights-and-implications/)
 01
 MAY
 2026
@@ -19,11 +26,10 @@ AASB
 ### April Reporting Roundup
 The _Reporting Roundup_ features the upcoming Dialogue Series event, key partnerships with ASIC and CSIRO and new AASB S2 educational materials.
 [Read more](https://aasb.gov.au/news/april-reporting-roundup/)
-27
-MARCH
-2026
-AASB
 ### e-learning modules for sustainability reporting developed with ASIC
+27 Mar
+2026
+27 March 2026
 The AASB has partnered with ASIC to develop and publish e-learning modules to assist entities in understanding the foundational concepts underpinning climate-related financial disclosures.
 [Read more](https://aasb.gov.au/news/e-learning-modules-for-sustainability-reporting-developed-with-asic/)
 ### March Reporting Roundup

@@ -35,6 +35,10 @@ Datekeyboard_arrow_up
 From
 To
 Clear all filters
+News
+1 May 2026
+### [Coomba Bay landholders connect koala habitat](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/coomba-bay)
+High on a steep ridgeline in northern NSW, mixed eucalypt forest sweeps across Wallingat National Park and into a private property playing an important role in protecting and connecting important koala habitat. 
 Departmental release
 16 April 2026
 ### [New co-investment opportunity to boost large scale conservation in NSW](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/co-invest)
@@ -71,10 +75,6 @@ News
 16 March 2026
 ### [Garry and Robyn Ostini’s commitment to conservation](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/daydawn)
 In the heart of the Central West, Garry and Robyn Ostini have spent the past 13 years at Daydawn , carrying forward a family legacy of caring for the land.
-News
-24 February 2026
-### [BCT welcomes new Board member Angela Schuster](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/welcome-angela-schuster)
-The NSW Biodiversity Conservation Trust welcomes the appointment of Angela Schuster to its Board.
   * keyboard_arrow_left
   * 1
   * 2

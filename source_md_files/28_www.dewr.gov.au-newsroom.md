@@ -1,6 +1,8 @@
 [ Skip to main content ](https://www.dewr.gov.au/newsroom#main-content)
 #  Newsroom 
-### [ Victorian TAFE Centre of Excellence to power clean energy workforce  17 April 2026 ](https://www.dewr.gov.au/newsroom/articles/victorian-tafe-centre-excellence-power-clean-energy-workforce)
+### [ Turning experience into opportunity: Paul’s career comeback 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/turning-experience-opportunity-pauls-career-comeback)
+  * ### [ Queensland TAFE Centre of Excellence - Construction Tech to boost major projects 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/queensland-tafe-centre-excellence-construction-tech-boost-major-projects)
+  * ### [ Victorian TAFE Centre of Excellence to power clean energy workforce  17 April 2026 ](https://www.dewr.gov.au/newsroom/articles/victorian-tafe-centre-excellence-power-clean-energy-workforce)
   * ### [ Recognition of Prior Learning 16 April 2026 ](https://www.dewr.gov.au/newsroom/articles/recognition-prior-learning)
   * ### [ Digital TAFE Centre of Excellence for New South Wales 14 April 2026 ](https://www.dewr.gov.au/newsroom/articles/digital-tafe-centre-excellence-new-south-wales)
   * ### [ A VET qualification helped Lara pursue her passion for teaching 7 April 2026 ](https://www.dewr.gov.au/newsroom/articles/vet-qualification-helped-lara-pursue-her-passion-teaching)
@@ -23,8 +25,6 @@
   * ### [ Final report of the Safety, Rehabilitation and Compensation Act 1988 review 12 December 2025 ](https://www.dewr.gov.au/newsroom/articles/final-report-safety-rehabilitation-and-compensation-act-1988-review)
   * ### [ VET helped Lauryn find her true calling 11 December 2025 ](https://www.dewr.gov.au/newsroom/articles/vet-helped-lauryn-find-her-true-calling)
   * ### [ Hyunjin’s small business journey: a simple idea goes international 9 December 2025 ](https://www.dewr.gov.au/newsroom/articles/hyunjins-small-business-journey-simple-idea-goes-international)
-  * ### [ Review of the Closing Loopholes Act and Closing Loopholes No. 2 Act (the Closing Loopholes Review)  5 December 2025 ](https://www.dewr.gov.au/newsroom/articles/review-closing-loopholes-act-and-closing-loopholes-no2-act-closing-loopholes-review)
-  * ### [ Hannah’s small business journey: Inspiring others to create their own path to success 3 December 2025 ](https://www.dewr.gov.au/newsroom/articles/hannahs-small-business-journey-inspiring-others-create-their-own-path-success)
 
 
 Back to top

@@ -2,6 +2,13 @@
 # News and media
 See our latest news and announcements. Discover more about what we do.
 ## Featured
+### [Nominate now for the 2026 Australian Biosecurity Awards](https://www.agriculture.gov.au/about/news/nominate-now-2026-aba)
+  * Newsletter
+  * Biosecurity
+
+
+05 May 2026
+Across Australia, people are taking action every day to protect our agriculture, environment and…
 ### [Inaugural National Biosecurity Strategy Annual Report released](https://www.agriculture.gov.au/about/news/inaugural-nbs-annual-report-released)
   * News
   * Biosecurity
@@ -16,13 +23,6 @@ Substantial progress has been reported in the delivery of the National Biosecuri
 
 17 April 2026
 When it comes to stopping biosecurity threats at the border, some of Australia’s most effective…
-### [New Australia–EU Wine Agreement to improve market access and cut red tape](https://www.agriculture.gov.au/about/news/aust-eu-wine-agreement-improve-access)
-  * Media release
-  * Trade
-
-
-24 March 2026
-Australia and the European Union have concluded negotiations to finalise a new wine agreement that…
 ## Latest
 ### [Detector dog teams protect Australia from exotic animal diseases](https://www.agriculture.gov.au/about/news/detector-dog-teams-protect)
   * News
@@ -66,6 +66,13 @@ The pace of growth in Australian broadacre farmland prices is moderating across 
 
 27 March 2026
 Over the past 5 years, biosecurity officers at the border have intercepted 22 detections of…
+### [New Australia–EU Wine Agreement to improve market access and cut red tape](https://www.agriculture.gov.au/about/news/aust-eu-wine-agreement-improve-access)
+  * Media release
+  * Trade
+
+
+24 March 2026
+Australia and the European Union have concluded negotiations to finalise a new wine agreement that…
 ### [Importing cats and dogs into Australia from the Middle East](https://www.agriculture.gov.au/about/news/middle-east-conflict-updates)
   * News
   * Biosecurity
@@ -73,13 +80,6 @@ Over the past 5 years, biosecurity officers at the border have intercepted 22 de
 
 20 March 2026
 The department is closely monitoring the conflict in the Middle East region.
-### [Australian Government Graduate Program applications open](https://www.agriculture.gov.au/about/news/aust-gov-graduate-applications-open)
-  * News
-  * Agriculture
-
-
-19 March 2026
-Applications for our graduate development program are now open and we’re seeking graduates across…
 [All news](https://www.agriculture.gov.au/about/news/all)
 ## 
 Stay informed

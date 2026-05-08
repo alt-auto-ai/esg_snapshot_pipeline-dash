@@ -92,7 +92,7 @@
     * [Indonesia (IA-CEPA)](https://www.dfat.gov.au/trade/agreements/in-force/iacepa/indonesia-australia-comprehensive-economic-partnership-agreement "Indonesia-Australia Comprehensive Economic Partnership Agreement")
     * [Japan (JAEPA)](https://www.dfat.gov.au/trade/agreements/in-force/jaepa/japan-australia-economic-partnership-agreement "Japan-Australia Economic Partnership Agreement")
     * [Korea (KAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/kafta/korea-australia-fta "Korea–Australia Free Trade Agreement")
-    * [Malaysia (MAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/mafta/Pages/malaysia-australia-fta "Malaysia-Australia Free Trade Agreement")
+    * [Malaysia (MAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/mafta "Malaysia-Australia Free Trade Agreement \(MAFTA\)")
     * [New Zealand (ANZCERTA)](https://www.dfat.gov.au/trade/agreements/in-force/anzcerta/australia-new-zealand-closer-economic-relations-trade-agreement "Australia-New Zealand Closer Economic Relations Trade Agreement")
     * [PACER Plus](https://www.dfat.gov.au/trade/agreements/in-force/pacer/pacific-agreement-on-closer-economic-relations-plus "Pacific Agreement on Closer Economic Relations Plus")
     * [Peru (PAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/pafta/Pages/peru-australia-fta "Peru-Australia Free Trade Agreement")
@@ -234,6 +234,13 @@ The Australian Passport Office and its agents are committed to providing a secur
 #  News
 ## 
 Latest news
+  * ### 
+[Listings under Parts 3 and 4 of the Charter of the United Nations Act 1945](https://www.dfat.gov.au/news/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
+In accordance with section 15 of the Charter of the United Nations Act 1945 (COTUNA), the Minister for Foreign Affairs (the Minister) has listed three persons and one entity for targeted financial sanctions by legislative instrument (Charter of the United Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
+8 May 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
   * ### 
 [Australian National Statement in the IMO Marine Environment Protection Committee’s 84th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-marine-environment-protection-committees-84th-session)
 Australia commends the work of the IMO to safeguard the safety of stranded civilian seafarers and re-open the Strait of Hormuz.
@@ -570,12 +577,6 @@ International relations
 1 October 2025
 Category
 Travel
-  * ###  [ Expressions of Interest: Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP) Roster of Panel Chairs ](https://www.dfat.gov.au/trade/agreements/in-force/cptpp/news#expressions-interest)
-The Australian Government is seeking expressions of interest from suitably qualified individuals to be considered for nomination to the roster of panel chairs pursuant to the Dispute Settlement Chapter of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).
-30 September 2025
-Category
-Trade and investment
-[ Read more ](https://www.dfat.gov.au/trade/agreements/in-force/cptpp/news#expressions-interest)
 
 
 Site map +

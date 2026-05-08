@@ -5,11 +5,11 @@
 Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts by Anneka Ferguson")2026-03-06T10:36:24+11:00
 # LATEST
 # News
-  * [Webinar: What’s it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/) [](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
+  * [Webinar: What does it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/) [](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
 
 
-## [Webinar: What’s it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-02T09:03:38+10:00April 27th, 2026|
+## [Webinar: What does it take to develop offshore wind in Australia?](https://blueeconomycrc.com.au/webinar-offshore-wind-australia/)
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-04T12:18:42+10:00April 27th, 2026|
   * [Participants Workshop 2026](https://blueeconomycrc.com.au/participants-workshop-2026/) [](https://blueeconomycrc.com.au/participants-workshop-2026/)
 
 
@@ -24,7 +24,7 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 
 ## [Webinar: SeaFisher Offshore Fish Pen Advancements](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-28T14:57:52+10:00April 1st, 2026|
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-06T14:42:07+10:00April 1st, 2026|
   * [Where has all the King Island Bull Kelp Gone?](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/) [](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/)
 
 

@@ -13,297 +13,296 @@ Clear All
 (1)
 Next week
 Clear All
-  * [](https://www.eventbrite.com.au/e/the-hidden-connections-that-build-climate-resilience-tickets-1986129506820?aff=ebdssbdestsearch)
-### [The hidden connections that build climate resilience](https://www.eventbrite.com.au/e/the-hidden-connections-that-build-climate-resilience-tickets-1986129506820?aff=ebdssbdestsearch)
-Thursday at 8:00 PM
-Newtown · Bank Hotel
+  * [](https://www.eventbrite.com.au/e/healthy-planet-healthy-people-climate-change-and-health-go-hand-in-hand-tickets-1985836926705?aff=ebdssbdestsearch)
+### [Healthy planet, healthy people: climate change and health go hand in hand](https://www.eventbrite.com.au/e/healthy-planet-healthy-people-climate-change-and-health-go-hand-in-hand-tickets-1985836926705?aff=ebdssbdestsearch)
+Wednesday at 6:00 PM
+Melbourne · Morris House
 Free
 Raising the Bar
 1.3k followers
-_Save this event: The hidden connections that build climate resilience_ _Share this event: The hidden connections that build climate resilience_
-[](https://www.eventbrite.com.au/e/the-hidden-connections-that-build-climate-resilience-tickets-1986129506820?aff=ebdssbdestsearch)
-### [The hidden connections that build climate resilience](https://www.eventbrite.com.au/e/the-hidden-connections-that-build-climate-resilience-tickets-1986129506820?aff=ebdssbdestsearch)
-Thursday at 8:00 PM
-Newtown · Bank Hotel
+_Save this event: Healthy planet, healthy people: climate change and health go hand in hand_ _Share this event: Healthy planet, healthy people: climate change and health go hand in hand_
+[](https://www.eventbrite.com.au/e/healthy-planet-healthy-people-climate-change-and-health-go-hand-in-hand-tickets-1985836926705?aff=ebdssbdestsearch)
+### [Healthy planet, healthy people: climate change and health go hand in hand](https://www.eventbrite.com.au/e/healthy-planet-healthy-people-climate-change-and-health-go-hand-in-hand-tickets-1985836926705?aff=ebdssbdestsearch)
+Wednesday at 6:00 PM
+Melbourne · Morris House
 Free
-_Share this event: The hidden connections that build climate resilience_ _Save this event: The hidden connections that build climate resilience_
+_Share this event: Healthy planet, healthy people: climate change and health go hand in hand_ _Save this event: Healthy planet, healthy people: climate change and health go hand in hand_
+  * [](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+Monday at 9:00 AM
+Melbourne · Melbourne
+Free
+_Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
+[](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+### [Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)](https://www.eventbrite.com.au/e/climate-literacy-workshop-for-teams-climate-fresk-enquiry-only-tickets-1979449442568?aff=ebdssbdestsearch)
+Monday at 9:00 AM
+Melbourne · Melbourne
+Free
+_Share this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)__Save this event: Climate Literacy Workshop for Teams | Climate Fresk® (Enquiry Only)_
+View 5 similar results
   * Sales Ended
-Wednesday at 9:00 AM
-Darwin City · Regus-Darwin, 66 Smith Street
+Monday at 9:00 AM
+Hobart · For more information on venue address, reach out to "eventbrite@mgaussie.com"
 From $648.27
 MG Aussie
-372 followers
-_Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_ _Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_
+387 followers
+_Save this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_ _Share this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_
+Sales Ended
+Monday at 9:00 AM
+Hobart · For more information on venue address, reach out to "eventbrite@mgaussie.com"
+From $648.27
+_Share this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_ _Save this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_
+  * [](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1987797161821?aff=ebdssbdestsearch)
+### [Launceston Planetarium Shows - We Are Guardians](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1987797161821?aff=ebdssbdestsearch)
+Sunday at 11:30 AM
+Invermay · Queen Victoria Museum at Inveresk
+From $0.00
+QVMAG
+1.4k followers
+_Save this event: Launceston Planetarium Shows - We Are Guardians_ _Share this event: Launceston Planetarium Shows - We Are Guardians_
+[](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1987797161821?aff=ebdssbdestsearch)
+### [Launceston Planetarium Shows - We Are Guardians](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1987797161821?aff=ebdssbdestsearch)
+Sunday at 11:30 AM
+Invermay · Queen Victoria Museum at Inveresk
+From $0.00
+_Share this event: Launceston Planetarium Shows - We Are Guardians_ _Save this event: Launceston Planetarium Shows - We Are Guardians_
+View 11 similar results
+  * Sales Ended
+Thursday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
+From $648.27
+MG Aussie
+387 followers
+_Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Canberra_ _Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Canberra_
+Sales Ended
+Thursday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
+From $648.27
+_Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Canberra_ _Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Canberra_
+View 5 similar results
+  * Sales Ended
+Wednesday at 9:00 AM
+Darwin City · Regus 66 Smith Street
+From $619.67
+MG Aussie
+387 followers
+_Save this event: Managing Change Effectively – 1 Day Workshop in Darwin_ _Share this event: Managing Change Effectively – 1 Day Workshop in Darwin_
 Sales Ended
 Wednesday at 9:00 AM
-Darwin City · Regus-Darwin, 66 Smith Street
-From $648.27
-_Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_ _Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_
+Darwin City · Regus 66 Smith Street
+From $619.67
+_Share this event: Managing Change Effectively – 1 Day Workshop in Darwin_ _Save this event: Managing Change Effectively – 1 Day Workshop in Darwin_
 View 2 similar results
   * Sales Ended
-Friday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $619.67
-MG Aussie
-372 followers
-_Save this event: Managing Change Effectively – 1 Day Workshop in Wollongong_ _Share this event: Managing Change Effectively – 1 Day Workshop in Wollongong_
-Sales Ended
-Friday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $619.67
-_Share this event: Managing Change Effectively – 1 Day Workshop in Wollongong_ _Save this event: Managing Change Effectively – 1 Day Workshop in Wollongong_
-  * [](https://www.eventbrite.com.au/e/2026-sir-kenneth-bailey-memorial-lecture-tickets-1982252230783?aff=ebdssbdestsearch)
-### [2026 Sir Kenneth Bailey Memorial Lecture](https://www.eventbrite.com.au/e/2026-sir-kenneth-bailey-memorial-lecture-tickets-1982252230783?aff=ebdssbdestsearch)
-Wednesday at 6:00 PM
-Carlton · Theatre G08, Melbourne Law School (Building 106)
-Free
-Melbourne Law School
-721 followers
-_Save this event: 2026 Sir Kenneth Bailey Memorial Lecture_ _Share this event: 2026 Sir Kenneth Bailey Memorial Lecture_
-[](https://www.eventbrite.com.au/e/2026-sir-kenneth-bailey-memorial-lecture-tickets-1982252230783?aff=ebdssbdestsearch)
-### [2026 Sir Kenneth Bailey Memorial Lecture](https://www.eventbrite.com.au/e/2026-sir-kenneth-bailey-memorial-lecture-tickets-1982252230783?aff=ebdssbdestsearch)
-Wednesday at 6:00 PM
-Carlton · Theatre G08, Melbourne Law School (Building 106)
-Free
-_Share this event: 2026 Sir Kenneth Bailey Memorial Lecture_ _Save this event: 2026 Sir Kenneth Bailey Memorial Lecture_
-  * Sales Ended
-Thursday at 9:00 AM
-Brisbane · Regus-Brisbane – Spaces Jubilee Place
+Monday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
 From $1,142.75
 MG Aussie
-372 followers
-_Save this event: Change Management Practitioner: 2 Days Workshop in Brisbane_ _Share this event: Change Management Practitioner: 2 Days Workshop in Brisbane_
+387 followers
+_Save this event: Change Management Practitioner: 2 Days Workshop in Canberra_ _Share this event: Change Management Practitioner: 2 Days Workshop in Canberra_
 Sales Ended
-Thursday at 9:00 AM
-Brisbane · Regus-Brisbane – Spaces Jubilee Place
+Monday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
 From $1,142.75
-_Share this event: Change Management Practitioner: 2 Days Workshop in Brisbane_ _Save this event: Change Management Practitioner: 2 Days Workshop in Brisbane_
-View 4 similar results
-  * [](https://www.eventbrite.com.au/e/icrr-seminar-dr-joanna-aldridge-tickets-1986277485428?aff=ebdssbdestsearch)
-### [ICRR Seminar: Dr Joanna Aldridge](https://www.eventbrite.com.au/e/icrr-seminar-dr-joanna-aldridge-tickets-1986277485428?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-UNSW · CCRC Seminar Room - (HYBRID)
+_Share this event: Change Management Practitioner: 2 Days Workshop in Canberra_ _Save this event: Change Management Practitioner: 2 Days Workshop in Canberra_
+View 2 similar results
+  * [](https://www.eventbrite.com.au/e/sustainability-upgrades-in-heritage-overlay-tickets-1985969327720?aff=ebdssbdestsearch)
+### [Sustainability Upgrades in Heritage Overlay](https://www.eventbrite.com.au/e/sustainability-upgrades-in-heritage-overlay-tickets-1985969327720?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+North Fitzroy · Bargoonga Nganjin North Fitzroy Library - Community Room
 Free
-UNSW Institute for Climate Risk & Response
-168 followers
-_Save this event: ICRR Seminar: Dr Joanna Aldridge_ _Share this event: ICRR Seminar: Dr Joanna Aldridge_
-[](https://www.eventbrite.com.au/e/icrr-seminar-dr-joanna-aldridge-tickets-1986277485428?aff=ebdssbdestsearch)
-### [ICRR Seminar: Dr Joanna Aldridge](https://www.eventbrite.com.au/e/icrr-seminar-dr-joanna-aldridge-tickets-1986277485428?aff=ebdssbdestsearch)
-Wednesday at 10:30 AM
-UNSW · CCRC Seminar Room - (HYBRID)
+Yarra City Council
+1.1k followers
+_Save this event: Sustainability Upgrades in Heritage Overlay_ _Share this event: Sustainability Upgrades in Heritage Overlay_
+[](https://www.eventbrite.com.au/e/sustainability-upgrades-in-heritage-overlay-tickets-1985969327720?aff=ebdssbdestsearch)
+### [Sustainability Upgrades in Heritage Overlay](https://www.eventbrite.com.au/e/sustainability-upgrades-in-heritage-overlay-tickets-1985969327720?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+North Fitzroy · Bargoonga Nganjin North Fitzroy Library - Community Room
 Free
-_Share this event: ICRR Seminar: Dr Joanna Aldridge_ _Save this event: ICRR Seminar: Dr Joanna Aldridge_
-  * [](https://www.eventbrite.com.au/e/ceramic-snails-with-linda-bates-tickets-1986295286672?aff=ebdssbdestsearch)
-### [Ceramic Snails with Linda Bates](https://www.eventbrite.com.au/e/ceramic-snails-with-linda-bates-tickets-1986295286672?aff=ebdssbdestsearch)
-Sat, 9 May, 9:00 am
-Atherton · The Old Post Office Gallery
-From $40.00
-Tablelands Regional Council
-386 followers
-_Save this event: Ceramic Snails with Linda Bates_ _Share this event: Ceramic Snails with Linda Bates_
-[](https://www.eventbrite.com.au/e/ceramic-snails-with-linda-bates-tickets-1986295286672?aff=ebdssbdestsearch)
-### [Ceramic Snails with Linda Bates](https://www.eventbrite.com.au/e/ceramic-snails-with-linda-bates-tickets-1986295286672?aff=ebdssbdestsearch)
-Sat, 9 May, 9:00 am
-Atherton · The Old Post Office Gallery
-From $40.00
-_Share this event: Ceramic Snails with Linda Bates_ _Save this event: Ceramic Snails with Linda Bates_
-  * Sales Ended
-[](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-### [Koala Conservation Day: Weeding and Wildlife Walk](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-Tomorrow at 9:30 AM
-Little River · Little River Reserve
-From $22.49
-Koala Clancy Foundation
-198 followers
-_Save this event: Koala Conservation Day: Weeding and Wildlife Walk_ _Share this event: Koala Conservation Day: Weeding and Wildlife Walk_
-Sales Ended
-[](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-### [Koala Conservation Day: Weeding and Wildlife Walk](https://www.eventbrite.com.au/e/koala-conservation-day-weeding-and-wildlife-walk-tickets-712808016967?aff=ebdssbdestsearch)
-Tomorrow at 9:30 AM
-Little River · Little River Reserve
-From $22.49
-_Share this event: Koala Conservation Day: Weeding and Wildlife Walk_ _Save this event: Koala Conservation Day: Weeding and Wildlife Walk_
-  * [](https://www.eventbrite.com.au/e/film-screening-celebrating-100-years-of-david-attenborough-tickets-1987796161830?aff=ebdssbdestsearch)
-### [Film Screening - Celebrating 100 years of David Attenborough](https://www.eventbrite.com.au/e/film-screening-celebrating-100-years-of-david-attenborough-tickets-1987796161830?aff=ebdssbdestsearch)
-Fri, 8 May, 6:00 pm
-Caulfield East · Monash University Caulfield Campus, Lecture Theatre G104
+_Share this event: Sustainability Upgrades in Heritage Overlay_ _Save this event: Sustainability Upgrades in Heritage Overlay_
+  * [](https://www.eventbrite.com.au/e/brisscience-the-heat-is-on-growing-food-in-a-warmer-world-tickets-1987363789593?aff=ebdssbdestsearch)
+### [BrisScience: The heat is on - growing food in a warmer world](https://www.eventbrite.com.au/e/brisscience-the-heat-is-on-growing-food-in-a-warmer-world-tickets-1987363789593?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+South Bank · The Edge
 Free
-Sustainable Glen Eira
-192 followers
-_Save this event: Film Screening - Celebrating 100 years of David Attenborough_ _Share this event: Film Screening - Celebrating 100 years of David Attenborough_
-[](https://www.eventbrite.com.au/e/film-screening-celebrating-100-years-of-david-attenborough-tickets-1987796161830?aff=ebdssbdestsearch)
-### [Film Screening - Celebrating 100 years of David Attenborough](https://www.eventbrite.com.au/e/film-screening-celebrating-100-years-of-david-attenborough-tickets-1987796161830?aff=ebdssbdestsearch)
-Fri, 8 May, 6:00 pm
-Caulfield East · Monash University Caulfield Campus, Lecture Theatre G104
+BrisScience, The University of Queensland
+901 followers
+_Save this event: BrisScience: The heat is on - growing food in a warmer world_ _Share this event: BrisScience: The heat is on - growing food in a warmer world_
+[](https://www.eventbrite.com.au/e/brisscience-the-heat-is-on-growing-food-in-a-warmer-world-tickets-1987363789593?aff=ebdssbdestsearch)
+### [BrisScience: The heat is on - growing food in a warmer world](https://www.eventbrite.com.au/e/brisscience-the-heat-is-on-growing-food-in-a-warmer-world-tickets-1987363789593?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+South Bank · The Edge
 Free
-_Share this event: Film Screening - Celebrating 100 years of David Attenborough_ _Save this event: Film Screening - Celebrating 100 years of David Attenborough_
-  * [](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022475714?aff=ebdssbdestsearch)
-### [Devilbend Biolink Restoration - Moorooduc Saddle Club](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022475714?aff=ebdssbdestsearch)
-Tomorrow at 10:00 AM
+_Share this event: BrisScience: The heat is on - growing food in a warmer world_ _Save this event: BrisScience: The heat is on - growing food in a warmer world_
+  * [](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022627167?aff=ebdssbdestsearch)
+### [Devilbend Biolink Restoration - Moorooduc Saddle Club](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022627167?aff=ebdssbdestsearch)
+Thursday at 10:00 AM
 Moorooduc · Moorooduc Saddle Club
 Free
 Mornington Peninsula Landcare Network
-61 followers
+62 followers
 _Save this event: Devilbend Biolink Restoration - Moorooduc Saddle Club_ _Share this event: Devilbend Biolink Restoration - Moorooduc Saddle Club_
-[](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022475714?aff=ebdssbdestsearch)
-### [Devilbend Biolink Restoration - Moorooduc Saddle Club](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022475714?aff=ebdssbdestsearch)
-Tomorrow at 10:00 AM
+[](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022627167?aff=ebdssbdestsearch)
+### [Devilbend Biolink Restoration - Moorooduc Saddle Club](https://www.eventbrite.com.au/e/devilbend-biolink-restoration-moorooduc-saddle-club-tickets-1987022627167?aff=ebdssbdestsearch)
+Thursday at 10:00 AM
 Moorooduc · Moorooduc Saddle Club
 Free
 _Share this event: Devilbend Biolink Restoration - Moorooduc Saddle Club_ _Save this event: Devilbend Biolink Restoration - Moorooduc Saddle Club_
+  * [](https://www.eventbrite.com.au/e/ellerman-park-bushcare-group-2nd-sunday-of-the-month-9am-12pm-tickets-369626592087?aff=ebdssbdestsearch)
+### [Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)](https://www.eventbrite.com.au/e/ellerman-park-bushcare-group-2nd-sunday-of-the-month-9am-12pm-tickets-369626592087?aff=ebdssbdestsearch)
+Sunday at 9:00 AM
+Dural · Ellerman Park
+Free
+The Hills Shire Council - Bushland
+611 followers
+_Save this event: Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)__Share this event: Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)_
+[](https://www.eventbrite.com.au/e/ellerman-park-bushcare-group-2nd-sunday-of-the-month-9am-12pm-tickets-369626592087?aff=ebdssbdestsearch)
+### [Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)](https://www.eventbrite.com.au/e/ellerman-park-bushcare-group-2nd-sunday-of-the-month-9am-12pm-tickets-369626592087?aff=ebdssbdestsearch)
+Sunday at 9:00 AM
+Dural · Ellerman Park
+Free
+_Share this event: Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)__Save this event: Ellerman Park Bushcare Group (2nd Sunday of the month 9am - 12pm)_
   * Sales Ended
-Wednesday at 9:00 AM
-Melbourne · Regus 120 Collins Street
+Monday at 9:00 AM
+Townsville · Regus Northtown
 From $810.27
 MG Aussie
-372 followers
-_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_
+387 followers
+_Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Townsville_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Townsville_
 Sales Ended
-Wednesday at 9:00 AM
-Melbourne · Regus 120 Collins Street
+Monday at 9:00 AM
+Townsville · Regus Northtown
 From $810.27
-_Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Melbourne_
+_Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Townsville_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Townsville_
 View 2 similar results
+  * [](https://www.eventbrite.com.au/e/embracing-change-with-certainty-in-an-uncertain-time-tickets-1988258065396?aff=ebdssbdestsearch)
+### [Embracing Change with Certainty in an Uncertain time](https://www.eventbrite.com.au/e/embracing-change-with-certainty-in-an-uncertain-time-tickets-1988258065396?aff=ebdssbdestsearch)
+Wednesday at 10:00 AM
+Hoppers Crossing · level 1/283 Old Geelong Rd
+Free
+ISOARe with Jacqui G
+208 followers
+_Save this event: Embracing Change with Certainty in an Uncertain time_ _Share this event: Embracing Change with Certainty in an Uncertain time_
+[](https://www.eventbrite.com.au/e/embracing-change-with-certainty-in-an-uncertain-time-tickets-1988258065396?aff=ebdssbdestsearch)
+### [Embracing Change with Certainty in an Uncertain time](https://www.eventbrite.com.au/e/embracing-change-with-certainty-in-an-uncertain-time-tickets-1988258065396?aff=ebdssbdestsearch)
+Wednesday at 10:00 AM
+Hoppers Crossing · level 1/283 Old Geelong Rd
+Free
+_Share this event: Embracing Change with Certainty in an Uncertain time_ _Save this event: Embracing Change with Certainty in an Uncertain time_
+  * [](https://www.eventbrite.com.au/e/swell-sessions-at-the-scarborough-outdoor-cinema-fundraiser-tickets-1987794962242?aff=ebdssbdestsearch)
+### [Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser](https://www.eventbrite.com.au/e/swell-sessions-at-the-scarborough-outdoor-cinema-fundraiser-tickets-1987794962242?aff=ebdssbdestsearch)
+Fri, 15 May, 6:00 pm
+Scarborough · The Scarborough Hotel
+From $12.68
+The Scarborough Hotel
+_Save this event: Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser_ _Share this event: Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser_
+[](https://www.eventbrite.com.au/e/swell-sessions-at-the-scarborough-outdoor-cinema-fundraiser-tickets-1987794962242?aff=ebdssbdestsearch)
+### [Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser](https://www.eventbrite.com.au/e/swell-sessions-at-the-scarborough-outdoor-cinema-fundraiser-tickets-1987794962242?aff=ebdssbdestsearch)
+Fri, 15 May, 6:00 pm
+Scarborough · The Scarborough Hotel
+From $12.68
+_Share this event: Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser_ _Save this event: Swell Sessions at The Scarborough | Outdoor Cinema Fundraiser_
   * Sales Ended
-Tuesday at 9:00 AM
-Wollongong · Regus Burelli Street
+Sunday at 9:00 AM
+Perth · Regus St Martins Tower
 From $810.27
 MG Aussie
-372 followers
-_Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Wollongong_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Wollongong_
+387 followers
+_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_
 Sales Ended
-Tuesday at 9:00 AM
-Wollongong · Regus Burelli Street
+Sunday at 9:00 AM
+Perth · Regus St Martins Tower
 From $810.27
-_Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Wollongong_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Wollongong_
-  * Sales Ended
-Friday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $552.97
-MG Aussie
-372 followers
-_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Melbourne_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Melbourne_
-Sales Ended
-Friday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $552.97
-_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Melbourne_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Melbourne_
-View 2 similar results
-  * Thursday at 6:00 PM
-Alice Springs · Alice Springs Cinema
-From $0.00
-_Save this event: Mparntwe/ Alice Springs premiere screening of Earth's Greatest Enemy_ _Share this event: Mparntwe/ Alice Springs premiere screening of Earth's Greatest Enemy_
-Thursday at 6:00 PM
-Alice Springs · Alice Springs Cinema
-From $0.00
-_Share this event: Mparntwe/ Alice Springs premiere screening of Earth's Greatest Enemy_ _Save this event: Mparntwe/ Alice Springs premiere screening of Earth's Greatest Enemy_
-  * [](https://www.eventbrite.com.au/e/coaching-and-conversations-for-change-coomera-tickets-1984595719220?aff=ebdssbdestsearch)
-### [Coaching and Conversations for Change - Coomera](https://www.eventbrite.com.au/e/coaching-and-conversations-for-change-coomera-tickets-1984595719220?aff=ebdssbdestsearch)
-Upper Coomera · The Wattle Hotel
-From $220.00
-QASEL - Professional Development
-34 followers
-_Save this event: Coaching and Conversations for Change - Coomera_ _Share this event: Coaching and Conversations for Change - Coomera_
-[](https://www.eventbrite.com.au/e/coaching-and-conversations-for-change-coomera-tickets-1984595719220?aff=ebdssbdestsearch)
-### [Coaching and Conversations for Change - Coomera](https://www.eventbrite.com.au/e/coaching-and-conversations-for-change-coomera-tickets-1984595719220?aff=ebdssbdestsearch)
-Upper Coomera · The Wattle Hotel
-From $220.00
-_Share this event: Coaching and Conversations for Change - Coomera_ _Save this event: Coaching and Conversations for Change - Coomera_
-  * [](https://www.eventbrite.com.au/e/aiw-nsw-ncc-changes-diploma-of-waterproofing-design-and-survey-tickets-1978359927800?aff=ebdssbdestsearch)
-### [AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey](https://www.eventbrite.com.au/e/aiw-nsw-ncc-changes-diploma-of-waterproofing-design-and-survey-tickets-1978359927800?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Silverwater · Waterproofing Integrity
-Free
-Australian Institute of Waterproofing
-211 followers
-_Save this event: AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey_ _Share this event: AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey_
-[](https://www.eventbrite.com.au/e/aiw-nsw-ncc-changes-diploma-of-waterproofing-design-and-survey-tickets-1978359927800?aff=ebdssbdestsearch)
-### [AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey](https://www.eventbrite.com.au/e/aiw-nsw-ncc-changes-diploma-of-waterproofing-design-and-survey-tickets-1978359927800?aff=ebdssbdestsearch)
-Tuesday at 5:30 PM
-Silverwater · Waterproofing Integrity
-Free
-_Share this event: AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey_ _Save this event: AIW NSW - NCC Changes / Diploma of Waterproofing Design and Survey_
+_Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_
   * Sales Ended
 Wednesday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $2,383.73
+Darwin · Regus-Darwin, 66 Smith Street
+From $533.91
 MG Aussie
-372 followers
-_Save this event: Practical Change Management – 3 Day Workshop in Wollongong_ _Share this event: Practical Change Management – 3 Day Workshop in Wollongong_
+387 followers
+_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_
 Sales Ended
 Wednesday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $2,383.73
-_Share this event: Practical Change Management – 3 Day Workshop in Wollongong_ _Save this event: Practical Change Management – 3 Day Workshop in Wollongong_
-View 4 similar results
-  * [](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-Monday at 7:00 PM
-Northcote · Northcote
-From $30.00
-International College of Meditation & Healing
-67 followers
-_Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
-[](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-Monday at 7:00 PM
-Northcote · Northcote
-From $30.00
-_Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
-  * [](https://www.eventbrite.com.au/e/nfacr-unsw-acap-special-dialogue-tickets-1986981108985?aff=ebdssbdestsearch)
-### [NFACR-UNSW-ACAP Special Dialogue](https://www.eventbrite.com.au/e/nfacr-unsw-acap-special-dialogue-tickets-1986981108985?aff=ebdssbdestsearch)
-Tuesday at 11:45 AM
-Kensington · Theatre C, Colombo Building (B16)
+Darwin · Regus-Darwin, 66 Smith Street
+From $533.91
+_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_
+View 3 similar results
+  * [](https://www.eventbrite.com.au/e/meet-deborah-abela-childrens-author-orange-city-library-tickets-1988048659056?aff=ebdssbdestsearch)
+### [Meet Deborah Abela - children's author - Orange City Library](https://www.eventbrite.com.au/e/meet-deborah-abela-childrens-author-orange-city-library-tickets-1988048659056?aff=ebdssbdestsearch)
+Tuesday at 4:30 PM
+Orange · Orange City Library
 Free
-_Save this event: NFACR-UNSW-ACAP Special Dialogue_ _Share this event: NFACR-UNSW-ACAP Special Dialogue_
-[](https://www.eventbrite.com.au/e/nfacr-unsw-acap-special-dialogue-tickets-1986981108985?aff=ebdssbdestsearch)
-### [NFACR-UNSW-ACAP Special Dialogue](https://www.eventbrite.com.au/e/nfacr-unsw-acap-special-dialogue-tickets-1986981108985?aff=ebdssbdestsearch)
-Tuesday at 11:45 AM
-Kensington · Theatre C, Colombo Building (B16)
+Central West Libraries
+1.3k followers
+_Save this event: Meet Deborah Abela - children's author - Orange City Library_ _Share this event: Meet Deborah Abela - children's author - Orange City Library_
+[](https://www.eventbrite.com.au/e/meet-deborah-abela-childrens-author-orange-city-library-tickets-1988048659056?aff=ebdssbdestsearch)
+### [Meet Deborah Abela - children's author - Orange City Library](https://www.eventbrite.com.au/e/meet-deborah-abela-childrens-author-orange-city-library-tickets-1988048659056?aff=ebdssbdestsearch)
+Tuesday at 4:30 PM
+Orange · Orange City Library
 Free
-_Share this event: NFACR-UNSW-ACAP Special Dialogue_ _Save this event: NFACR-UNSW-ACAP Special Dialogue_
-  * [](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353489516?aff=ebdssbdestsearch)
-### [Brisbane Stepping Forward Session: Stages of Change for Families](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353489516?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Windsor · Avive Clinic Brisbane
+_Share this event: Meet Deborah Abela - children's author - Orange City Library_ _Save this event: Meet Deborah Abela - children's author - Orange City Library_
+  * [](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-arno-station-tickets-1986300624638?aff=ebdssbdestsearch)
+### [AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-arno-station-tickets-1986300624638?aff=ebdssbdestsearch)
+Wednesday at 9:00 AM
+Isisford · Arno Station Shearing Shed
 Free
-Family Drug Support
-767 followers
-_Save this event: Brisbane Stepping Forward Session: Stages of Change for Families_ _Share this event: Brisbane Stepping Forward Session: Stages of Change for Families_
-[](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353489516?aff=ebdssbdestsearch)
-### [Brisbane Stepping Forward Session: Stages of Change for Families](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353489516?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Windsor · Avive Clinic Brisbane
+AgForce
+599 followers
+_Save this event: AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION_ _Share this event: AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION_
+[](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-arno-station-tickets-1986300624638?aff=ebdssbdestsearch)
+### [AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-arno-station-tickets-1986300624638?aff=ebdssbdestsearch)
+Wednesday at 9:00 AM
+Isisford · Arno Station Shearing Shed
 Free
-_Share this event: Brisbane Stepping Forward Session: Stages of Change for Families_ _Save this event: Brisbane Stepping Forward Session: Stages of Change for Families_
+_Share this event: AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION_ _Save this event: AgForce: Vegetation, Fire, Mapping & Safety – ARNO STATION_
+  * [](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-stainburn-downs-tickets-1986300765058?aff=ebdssbdestsearch)
+### [AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-stainburn-downs-tickets-1986300765058?aff=ebdssbdestsearch)
+Thursday at 9:00 AM
+Aramac · Stainburn Downs
+Free
+AgForce
+599 followers
+_Save this event: AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS_ _Share this event: AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS_
+[](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-stainburn-downs-tickets-1986300765058?aff=ebdssbdestsearch)
+### [AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS](https://www.eventbrite.com.au/e/agforce-vegetation-fire-mapping-safety-stainburn-downs-tickets-1986300765058?aff=ebdssbdestsearch)
+Thursday at 9:00 AM
+Aramac · Stainburn Downs
+Free
+_Share this event: AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS_ _Save this event: AgForce: Vegetation, Fire, Mapping & Safety – STAINBURN DOWNS_
+  * [](https://www.eventbrite.com.au/e/reading-between-the-lines-too-much-lip-presented-by-andrew-mclean-tickets-1982472398310?aff=ebdssbdestsearch)
+### [Reading between the Lines: Too Much Lip presented by Andrew McLean](https://www.eventbrite.com.au/e/reading-between-the-lines-too-much-lip-presented-by-andrew-mclean-tickets-1982472398310?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Leichhardt · Leichhardt Library
+Free
+Inner West Council Libraries
+7.8k followers
+_Save this event: Reading between the Lines: Too Much Lip presented by Andrew McLean_ _Share this event: Reading between the Lines: Too Much Lip presented by Andrew McLean_
+[](https://www.eventbrite.com.au/e/reading-between-the-lines-too-much-lip-presented-by-andrew-mclean-tickets-1982472398310?aff=ebdssbdestsearch)
+### [Reading between the Lines: Too Much Lip presented by Andrew McLean](https://www.eventbrite.com.au/e/reading-between-the-lines-too-much-lip-presented-by-andrew-mclean-tickets-1982472398310?aff=ebdssbdestsearch)
+Wednesday at 6:30 PM
+Leichhardt · Leichhardt Library
+Free
+_Share this event: Reading between the Lines: Too Much Lip presented by Andrew McLean_ _Save this event: Reading between the Lines: Too Much Lip presented by Andrew McLean_
 
 
 View map
 ## [Things to do around Australia](https://www.eventbrite.com.au/ttd/australia/)
-[Things to do in Melbourne](https://www.eventbrite.com.au/ttd/australia--melbourne/)[](https://www.eventbrite.com.au/ttd/australia--melbourne/)
-[Things to do in Sydney](https://www.eventbrite.com.au/ttd/australia--sydney/)[](https://www.eventbrite.com.au/ttd/australia--sydney/)
-[Things to do in Perth](https://www.eventbrite.com.au/ttd/australia--perth--4807/)[](https://www.eventbrite.com.au/ttd/australia--perth--4807/)
-[Things to do in Surfers Paradise](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)[](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)
-[Things to do in Wollongong](https://www.eventbrite.com.au/ttd/australia--wollongong/)[](https://www.eventbrite.com.au/ttd/australia--wollongong/)
-[Things to do in Adelaide](https://www.eventbrite.com.au/ttd/australia--adelaide/)[](https://www.eventbrite.com.au/ttd/australia--adelaide/)
-[Things to do in Wayville](https://www.eventbrite.com.au/ttd/australia--wayville/)[](https://www.eventbrite.com.au/ttd/australia--wayville/)
-[Things to do in Brisbane City](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)[](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)
-[Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
-[Things to do in Darwin City](https://www.eventbrite.com.au/ttd/australia--darwin-city/)[](https://www.eventbrite.com.au/ttd/australia--darwin-city/)
-[Things to do in Symonston](https://www.eventbrite.com.au/ttd/australia--symonston/)[](https://www.eventbrite.com.au/ttd/australia--symonston/)
-[Things to do in Fortitude Valley](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)[](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)
+[Things to do in Alice Springs](https://www.eventbrite.com.au/ttd/australia--alice-springs/)[](https://www.eventbrite.com.au/ttd/australia--alice-springs/)
+[Things to do in Ross](https://www.eventbrite.com.au/ttd/australia--ross--77687/)[](https://www.eventbrite.com.au/ttd/australia--ross--77687/)
+[Things to do in Ciccone](https://www.eventbrite.com.au/ttd/australia--ciccone/)[](https://www.eventbrite.com.au/ttd/australia--ciccone/)
+[Things to do in Flynn](https://www.eventbrite.com.au/ttd/australia--flynn--105133/)[](https://www.eventbrite.com.au/ttd/australia--flynn--105133/)
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Live music](https://www.eventbrite.com.au/d/australia/live-music/)
 ### [2. Event](https://www.eventbrite.com.au/d/australia/event/)
 ### [3. Rave party](https://www.eventbrite.com.au/d/australia/rave-party/)
-### [4. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
-### [5. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [4. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
+### [5. Comedy](https://www.eventbrite.com.au/d/australia/comedy/)
 ### [6. Food events](https://www.eventbrite.com.au/d/australia/food-events/)
 ### [7. Ai](https://www.eventbrite.com.au/d/australia/ai/)
 ### [8. May](https://www.eventbrite.com.au/d/australia/may/)
 ### [9. Australia](https://www.eventbrite.com.au/d/australia/australia/)
 ### [10. Mma fight](https://www.eventbrite.com.au/d/australia/mma-fight/)
-### [11. Gold coast](https://www.eventbrite.com.au/d/australia/gold-coast/)
-### [12. Darwin](https://www.eventbrite.com.au/d/australia/darwin/)
+### [11. Darwin](https://www.eventbrite.com.au/d/australia/darwin/)
+### [12. Gold coast](https://www.eventbrite.com.au/d/australia/gold-coast/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)

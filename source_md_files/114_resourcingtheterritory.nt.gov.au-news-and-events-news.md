@@ -31,20 +31,16 @@ Menu
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Energy](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
   * [Open submenu (Oil and Gas)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-5)### [Oil and Gas](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas)
-  * ### [Naturally occurring Hydrogen and Helium ](https://resourcingtheterritory.nt.gov.au/energy/naturally-occurring-hydrogen-and-helium)
-  * ### [Geothermal ](https://resourcingtheterritory.nt.gov.au/energy/geothermal)
-  * ### [Carbon capture and storage ](https://resourcingtheterritory.nt.gov.au/energy/carbon-capture-and-storage)
   * [Open submenu (Onshore sedimentary basin inventories)](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-6)### [Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/energy/onshore-sedimentary-basin-inventories)
-  * ### [Uranium ](https://resourcingtheterritory.nt.gov.au/energy/uranium)
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Oil and Gas](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)
-  * [ Producing basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/producing-basins)
-  * [ Advanced basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/advanced-basins)
-  * [ Frontier basins ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/frontier-basins)
   * [ Conventional oil and gas ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/conventional-oil-and-gas)
   * [ Shale gas and liquids ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/shale-gas-and-liquids)
-  * [ Onshore exploration activity ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/onshore-exploration-highlights)
+  * [ Carbon capture and storage ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/carbon-capture-and-storage)
+  * [ Naturally occurring Hydrogen and Helium ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/naturally-occurring-hydrogen-and-helium)
+  * [ Geothermal ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/geothermal)
+  * [ Uranium ](https://resourcingtheterritory.nt.gov.au/energy/oil-and-gas/uranium)
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)[Onshore sedimentary basin inventories](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-4)
@@ -126,7 +122,7 @@ Menu
 
 
 [Close submenu](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)[Toolbox](https://resourcingtheterritory.nt.gov.au/news-and-events/news#mm-0)
-  * [ **Strike** Tenure and Geoscience Information Systems ](http://strike.nt.gov.au/wss.html)
+  * [ **Strike** Tenure and Geoscience Information Systems ](https://strike.nt.gov.au/)
   * [ **Gemis** NTGS Products and Industry Reports ](https://geoscience.nt.gov.au/gemis/ntgsjspui/community-list)
   * [ **NTGS** Northern Territory Geological Survey ](https://resourcingtheterritory.nt.gov.au/northern-territory-geological-survey-ntgs)
   * [ **DME** Department of Mining and Energy ](https://dme.nt.gov.au/)

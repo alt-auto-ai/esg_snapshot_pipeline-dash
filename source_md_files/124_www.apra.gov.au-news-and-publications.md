@@ -9,6 +9,18 @@
   * [Speeches](https://www.apra.gov.au/news-and-publications/40)
 
 
+7 May 2026
+#### APRA temporarily withdraws Guidelines on Recognition of an External Credit Assessment Institution
+Media Releases 
+[APRA temporarily withdraws Guidelines on Recognition of an External Credit Assessment Institution](https://www.apra.gov.au/news-and-publications/apra-temporarily-withdraws-guidelines-on-recognition-of-an-external-credit)
+5 May 2026
+#### Revised Frequently Asked Questions – APS 221 Large Exposures
+Media Releases 
+[Revised Frequently Asked Questions – APS 221 Large Exposures](https://www.apra.gov.au/news-and-publications/revised-frequently-asked-questions-%E2%80%93-aps-221-large-exposures)
+4 May 2026
+#### APRA revokes in1Bank’s authorised deposit-taking institution licence
+Media Releases 
+[APRA revokes in1Bank’s authorised deposit-taking institution licence](https://www.apra.gov.au/news-and-publications/apra-revokes-in1bank%E2%80%99s-authorised-deposit-taking-institution-licence)
 30 April 2026
 #### APRA releases Monthly Authorised Deposit-taking Institution Statistics for March 2026
 Media Releases 
@@ -81,18 +93,6 @@ Media Releases
 #### APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience 
 Media Releases 
 [APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience ](https://www.apra.gov.au/news-and-publications/apra-stress-test-shows-how-widening-home-insurance-protection-gap-may-impact)
-23 March 2026
-#### APRA consults on implementation of the Government’s Retirement Reporting Framework
-Media Releases 
-[APRA consults on implementation of the Government’s Retirement Reporting Framework](https://www.apra.gov.au/news-and-publications/apra-consults-on-implementation-of-government%E2%80%99s-retirement-reporting)
-18 March 2026
-#### in1Bank completes return of deposits process
-Media Releases 
-[in1Bank completes return of deposits process](https://www.apra.gov.au/news-and-publications/in1bank-completes-return-of-deposits-process)
-17 March 2026
-#### APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum
-Speeches 
-[APRA publishes Therese McCarthy Hockey's remarks to the 2026 COBA CEO and Director Forum](https://www.apra.gov.au/news-and-publications/apra-publishes-therese-mccarthy-hockeys-remarks-to-2026-coba)
 #### Subscribe for updates
 To receive media releases, publications, speeches and other industry-related information by email 
 [Subscribe](https://www.apra.gov.au/newsletter-signup)

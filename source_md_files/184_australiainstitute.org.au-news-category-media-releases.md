@@ -2,6 +2,18 @@ Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/half-baked-gas-reservation-a-distraction-that-wont-raise-a-cent-in-revenue/)
+The government’s gas reservation policy – announced a short time ago – has been branded a “half-baked solution” to a problem which has been deliberately created by foreign gas companies to gouge Australians for their own gas.
+[](https://australiainstitute.org.au/post/world-record-18-years-in-balance-of-power-as-shane-rattenbury-retires-from-act-parliament/)
+The retirement of ACT Greens MLA Shane Rattenbury marks the end of his 18-year period in the ACT Legislative Assembly, making him the world’s longest-ever serving balance of power MP in a Westminster democracy.
+[](https://australiainstitute.org.au/post/its-not-me-its-you-australians-ready-to-break-up-with-trumps-america/)
+A new poll conducted for The Australia Institute reveals that more than half of Australian voters believe Donald Trump is a greater threat to global security than Russian President Vladimir Putin or Chinese President Xi Jinping.
+[](https://australiainstitute.org.au/post/rate-rise-wont-open-strait-of-hormuz-but-will-push-australia-towards-recession/)
+The Reserve Bank of Australia’s decision to hit borrowers with a third straight interest rate rise heaps more unnecessary pain on home buyers and pushes Australia towards a recession, according to senior economists. 
+[](https://australiainstitute.org.au/post/australian-banks-now-make-228900-profit-from-the-average-home-loan-new-research/)
+New research by The Australia Institute reveals the big four banks are raking in $228,900 profit over the 30-year life of an average $736,000 home loan.
+[](https://australiainstitute.org.au/post/new-ad-congratulates-japanese-pm-for-collecting-more-tax-on-australian-gas-exports-than-australia-has/)
+The Australia Institute congratulates the Japanese Prime Minister Sanae Takaichi and her government for collecting more revenue from Australian gas exports than Australia has.
 [](https://australiainstitute.org.au/post/sa-political-parties-set-to-receive-tens-of-millions-in-taxpayer-dollars-including-6-million-for-one-nation/)
 With the final result of the South Australian election expected next week, new analysis by The Australia Institute reveals the true scale of the taxpayer-funded payments political parties and candidates will receive thanks to rushed changes to the state’s political donation laws.
 [](https://australiainstitute.org.au/post/acclaimed-lawyer-and-author-josh-bornstein-to-join-the-australia-institute-to-tackle-corporate-power/)
@@ -52,19 +64,6 @@ New analysis by The Australia Institute reveals the impact the war in the Middle
 Exploitation and poor living conditions have led an estimated 7000 people to walk away from the Pacific Australia Labour Mobility (PALM) scheme.
 [](https://australiainstitute.org.au/post/exclusive-farrer-poll-one-nation-ahead-but-faces-preference-challenge-huge-support-for-gas-tax/)
 Polling conducted for The Australia Institute reveals One Nation narrowly leads Independent Michelle Milthorpe in Farrer on primary votes, but that may not be enough to secure the once-safe Liberal seat.
-# February 2026
-[](https://australiainstitute.org.au/post/__trashed-2/)
-New research by The Australia Institute reveals rural and regional electorates, particularly those currently held by the National Party, would be the largest beneficiaries of proposed reforms to the Low-Income Tax Offset (LITO).
-[](https://australiainstitute.org.au/post/rba-wrong-to-punish-workers/)
-Workers are being unfairly punished for increasing inflation, according to a new report by The Australia Institute.
-[](https://australiainstitute.org.au/post/carbon-conference-more-about-capturing-taxpayer-dollars-than-emissions/)
-A conference claiming to be “Australia’s premier carbon capture and storage (CCS) event”, which began in Melbourne yesterday, is less about climate action and more about subsidies for fossil fuel industries, according to The Australia Institute.
-[](https://australiainstitute.org.au/post/one-nation-and-greens-voters-strongly-support-25-gas-export-tax-poll/)
-New polling conducted by the RedBridge Group reveals strong nationwide support for a 25 per cent tax on gas exports, an idea supported by the Australian Council of Trade Unions.
-[](https://australiainstitute.org.au/post/lopsided-labour-scheme-a-modern-slavery-risk-new-analysis/)
-A scheme designed to help the economies of Pacific Island nations while filling labour shortages in Australia is putting workers at risk of modern slavery, according to a new report by The Australia Institute.
-[](https://australiainstitute.org.au/post/hasty-decision-inflicts-more-pain-and-will-cost-jobs/)
-By its own standards, today’s decision by the Reserve Bank of Australia to raise interest rates from 3.6 percent to 3.85 percent seems rushed and inconsistent.
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

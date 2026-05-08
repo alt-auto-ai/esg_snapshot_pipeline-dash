@@ -13,6 +13,16 @@
 Media statements are also released by the [Minister for Environment](https://www.mediastatements.wa.gov.au/Pages/Ministers/Reece-Whitby.aspx).
 Please note that the email address for general media enquiries is 
 [](https://www.epa.wa.gov.au/subscribe-content)
+##### [Fauna the focus of EPA assessment of proposed lithium expansion ](https://www.epa.wa.gov.au/media-statements/fauna-focus-epa-assessment-proposed-lithium-expansion)
+May 7, 2026
+The Environmental Protection Authority (EPA) has completed its assessment  
+of Covalent Lithium Pty Ltd’s proposal to expand existing lithium mining,  
+processing and transport operations and has recommended it for environmental  
+approval. 
+[  
+The Earl Grey Lithium Project – Life of Mine](https://www.epa.wa.gov.au/proposals/earl-grey-lithium-project-life-mine-proposal) proposal is located at the Mt Holland mine about 100km south-east of Southern Cross. 
+[Read more...](https://www.epa.wa.gov.au/media-statements/fauna-focus-epa-assessment-proposed-lithium-expansion)
+* * *
 ##### [Proposed South West quarry’s environmental impacts unacceptable](https://www.epa.wa.gov.au/media-statements/proposed-south-west-quarry%E2%80%99s-environmental-impacts-unacceptable)
 April 29, 2026
 The Environmental Protection Authority (EPA) has recommended a proposal to extract sand and limestone from a South West quarry not be implemented.
@@ -65,12 +75,6 @@ October 2, 2025
 Stakeholders and community members have seven days to have their say on whether or not the proposed Perth Entertainment and Sporting Precinct should be assessed by the Environmental Protection Authority (EPA).
 The public comment period, accessible via the [EPA’s Consultation Hub](https://consultation.epa.wa.gov.au/), provides an opportunity for people to submit a view on the consideration of the Burswood proposal under Part IV of the Environmental Protection Act 1986.
 [Read more...](https://www.epa.wa.gov.au/media-statements/public-comment-opens-proposed-burswood-entertainment-precinct)
-* * *
-##### [EPA delivers report and recommendations on Geraldton port upgrade](https://www.epa.wa.gov.au/media-statements/epa-delivers-report-and-recommendations-geraldton-port-upgrade)
-September 19, 2025
-A proposal to upgrade and extend wharf infrastructure at the Port of Geraldton has been recommended for approval by the Environmental Protection Authority (EPA), subject to conditions to minimise impacts on the marine environment, seagrass, marine fauna and coastal processes.
-The Mid West Ports Authority wants to replace multiple wharf decks, upgrade the tug harbour and construct a new breakwater extending further north into Champion Bay as part of its proposed [Geraldton Port Maximisation Project](https://www.epa.wa.gov.au/proposals/geraldton-port-maximisation-project).
-[Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-report-and-recommendations-geraldton-port-upgrade)
 * * *
 ## Pages
   * 1

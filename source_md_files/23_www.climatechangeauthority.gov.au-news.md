@@ -3,7 +3,28 @@
 ## News and media
 This page contains news items and media releases related to the Authority’s work. For speeches and opinion pieces delivered by the Authority’s Chair and other representatives, go to [Speeches and opinion pieces](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces "Speeches and opinion pieces ").
 #### Latest news 
-Showing 1 - 9 of 104
+Showing 1 - 9 of 107
+7 May 2026
+[On Good Authority - 6 May 2026](https://www.climatechangeauthority.gov.au/good-authority-6-may-2026)
+Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
+  * News 
+  * On Good Authority 
+
+
+7 May 2026
+[Energy leadership in action](https://www.climatechangeauthority.gov.au/energy-leadership-action)
+At the Smart Energy Awards, Authority Chair Matt Kean honours leaders and John Grimes and discusses how solar and batteries are shaping a cleaner future. 
+  * News 
+  * Speeches 
+
+
+5 May 2026
+[Smarter buildings, stronger energy system](https://www.climatechangeauthority.gov.au/smarter-buildings-stronger-energy-system)
+Authority Chair Matt Keen urges the electrification of efficient buildings to cut costs, improve health, and strengthen energy security. 
+  * News 
+  * Speeches 
+
+
 30 Apr 2026
 [Delivering emissions reduction while maintaining energy reliability](https://www.climatechangeauthority.gov.au/delivering-emissions-reduction-while-maintaining-energy-reliability)
 During the CEDA Climate and Energy Summit, Climate Change Authority Chair Matt Kean outlined Australia’s climate and energy outlook, highlighting observed… 
@@ -44,27 +65,6 @@ Strong public climate science is essential for understanding emerging risks, imp
 Households are becoming central participants in Australia’s energy transformation. With the right regulatory framework and ongoing innovation, electrification,… 
   * News 
   * Speeches 
-
-
-19 Mar 2026
-[Australia highlights strong renewable energy progress during Danish royal visit](https://www.climatechangeauthority.gov.au/australia-highlights-strong-renewable-energy-progress-during-danish-royal-visit)
-During the Danish royal visit Renewable Energy Seminar, Authority Chair Matt Kean outlined Australia’s accelerating shift to renewables, highlighting record… 
-  * News 
-  * Speeches 
-
-
-17 Mar 2026
-[Super funds urged to seize transition opportunities](https://www.climatechangeauthority.gov.au/super-funds-urged-seize-transition-opportunities)
-Australia’s growing climate‑related financial risks and the significant investment opportunities are emerging as the economy moves toward net zero. 
-  * News 
-  * Speeches 
-
-
-13 Mar 2026
-[On Good Authority - 11 March 2026](https://www.climatechangeauthority.gov.au/good-authority-11-march-2026)
-Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
-  * News 
-  * On Good Authority 
 
 
 [ Click here to view speeches ](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces)

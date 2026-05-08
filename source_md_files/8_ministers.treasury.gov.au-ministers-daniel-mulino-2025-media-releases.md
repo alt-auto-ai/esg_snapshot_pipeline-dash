@@ -13,6 +13,12 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Strengthening the Annual Superannuation Performance Test](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/strengthening-annual-superannuation-performance-test)
+8 May 2026
+The Albanese Labor Government is acting to strengthen the annual superannuation performance test. 
+### [Regulatory Initiatives Grid continues to strengthen transparency and coordination](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/regulatory-initiatives-grid-continues-strengthen)
+6 May 2026
+The Albanese Government is building a stronger, more productive economy supported by regulation that is clear, efficient and fit for purpose. 
 ### [Consultation on the News Bargaining Incentive now open](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consultation-news-bargaining-incentive-now-open)
 28 April 2026
 The Albanese Government is taking the next step to ensure Australian journalism is sustainable now and into the future. 
@@ -67,10 +73,3 @@ The Albanese government is releasing the first of the consultation papers to imp
 ### [Government begins consultation on Superannuation and Victims of Crime legislation](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/government-begins-consultation-superannuation-and)
 2 February 2026
 The Albanese Government has today commenced public consultation on draft legislation designed to prevent convicted child sexual abusers from hiding their assets in superannuation to avoid paying co 
-### [Review of thin capitalisation reforms](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/review-thin-capitalisation-reforms)
-30 January 2026
-We have tasked the Board of Taxation to undertake an independent review of the Albanese Government’s thin capitalisation ref 
-### 2025
-### [Action against Netwealth welcomed](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/action-against-netwealth-welcomed)
-18 December 2025
-The Albanese Government welcomes the announcements by the Australian Securities and Investments Commission (ASIC) and the Australian Prudential Regulation Authority (APRA) today regarding action ag 

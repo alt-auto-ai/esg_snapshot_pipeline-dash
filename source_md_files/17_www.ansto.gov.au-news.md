@@ -1,4 +1,10 @@
 [ Skip to main content ](https://www.ansto.gov.au/news#main-content)
+[ ](https://www.ansto.gov.au/news/netflix-series-radioactive-emergency-reviewed-by-an-ansto-health-physicist)
+8th May 2026
+###  Netflix series 'Radioactive Emergency' reviewed by an ANSTO health physicist
+News
+Read More
+[Read More](https://www.ansto.gov.au/news/netflix-series-radioactive-emergency-reviewed-by-an-ansto-health-physicist)
 [ ](https://www.ansto.gov.au/news/landmark-achievement-opens-pathway-for-treatment-of-drug-resistant-tuberculosis)
 30th April 2026
 ###  Landmark achievement opens pathway for treatment of drug-resistant tuberculosis
@@ -48,10 +54,4 @@ News
 Australian Synchrotron
 Read More
 [Read More](https://www.ansto.gov.au/news/powerful-non-destructive-synchrotron-technique-provided-insights-into-rare-renaissance)
-[ ](https://www.ansto.gov.au/news/as-australia%E2%80%99s-native-food-industry-booms-experts-say-commercial-companies-must-stop)
-26th March 2026
-###  As Australia’s native food industry booms, experts say commercial companies must stop exploiting native food knowledge
-News
-Read More
-[Read More](https://www.ansto.gov.au/news/as-australia%E2%80%99s-native-food-industry-booms-experts-say-commercial-companies-must-stop)
 ## Pagination

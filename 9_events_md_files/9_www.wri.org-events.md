@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#ed836ab8-5efa-40a1-9c83-bffdc2568948)
+[Storage Preferences](https://www.wri.org/events#665d9913-570e-4bd3-841b-8384bf9c2b6c)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -70,9 +70,8 @@ Filters
 6 Resources for 
 [Energy](https://www.wri.org/energy)
 Event 
-May 7, 2026
-###  [Integrated Resource Planning: What It Is and How Local Governments Can Engage](https://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage#register)
+Past Event May 7, 2026
+###  [Integrated Resource Planning: What It Is and How Local Governments Can Engage](http://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
 [Climate](https://www.wri.org/climate)
 Event 
 May 12, 2026

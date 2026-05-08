@@ -1,18 +1,20 @@
 Welcome to our new URL – www.seek.com.au is now au.seek.com. Sign in for the same great experience. [Learn more](https://help.au.seek.com/s/article/Why-has-the-website-address-changed-AU)
-# 145 climate change jobs in Australia - Full Time
+# 136 climate change jobs in Australia - Full Time
 Skip to content
-climate change in All Classifications
-More options⁠
 Refine by location
-  * [Launceston TAS 7250](https://au.seek.com/climate-change-jobs/in-Launceston-TAS-7250/full-time?daterange=3)
+  * [All Hobart TAS](https://au.seek.com/climate-change-jobs/in-All-Hobart-TAS/full-time?daterange=3)
+  * [Wollongbar NSW 2477](https://au.seek.com/climate-change-jobs/in-Wollongbar-NSW-2477/full-time?daterange=3)
+  * [All Brisbane QLD](https://au.seek.com/climate-change-jobs/in-All-Brisbane-QLD/full-time?daterange=3)
+  * [Preston VIC 3072](https://au.seek.com/climate-change-jobs/in-Preston-VIC-3072/full-time?daterange=3)
   * [All Sydney NSW](https://au.seek.com/climate-change-jobs/in-All-Sydney-NSW/full-time?daterange=3)
-  * [Parramatta NSW 2150](https://au.seek.com/climate-change-jobs/in-Parramatta-NSW-2150/full-time?daterange=3)
-  * [All Perth WA](https://au.seek.com/climate-change-jobs/in-All-Perth-WA/full-time?daterange=3)
-  * [Newcastle NSW 2300](https://au.seek.com/climate-change-jobs/in-Newcastle-NSW-2300/full-time?daterange=3)
-  * [Rose Park SA 5067](https://au.seek.com/climate-change-jobs/in-Rose-Park-SA-5067/full-time?daterange=3)
+  * [Northam WA 6401](https://au.seek.com/climate-change-jobs/in-Northam-WA-6401/full-time?daterange=3)
 
 
 Related resources
+  * [What’s it like to be a Project Officer?](https://au.seek.com/career-advice/role/project-officer)
+  * [Project Officer salary insights](https://au.seek.com/career-advice/role/project-officer/salary)
+
+
 Read More⁠
 #### Related searches
   * [](https://au.seek.com/climate-change-analyst-jobs/in-All-Australia)
@@ -29,504 +31,519 @@ Read More⁠
   * [](https://au.seek.com/change-jobs/in-All-Australia)
 
 
-145 jobs
+136 jobs
 New
 New to you
 Done
 Modify my search
-[](https://au.seek.com/job/91854889?type=promoted&ref=search-standalone#sol=9b79d5682b7b8754f1ed99ba619b24e80383668a)
-[](https://au.seek.com/job/91854889?type=promoted&ref=search-standalone&origin=jobCard#sol=9b79d5682b7b8754f1ed99ba619b24e80383668a)
+[](https://au.seek.com/job/91909684?type=promoted&ref=search-standalone#sol=d5c2448d65260515b1a1c6c5529af9ec5b1ea3c7)
+[](https://au.seek.com/job/91909684?type=promoted&ref=search-standalone&origin=jobCard#sol=d5c2448d65260515b1a1c6c5529af9ec5b1ea3c7)
 This is a featured job
+[](https://au.seek.com/companies/sfm-agribusiness-169818798064678)
 ### 
-[Carbon Projects Officer](https://au.seek.com/job/91854889?type=promoted&ref=search-standalone&origin=cardTitle#sol=9b79d5682b7b8754f1ed99ba619b24e80383668a)
+[Sustainability and Compliance Officer](https://au.seek.com/job/91909684?type=promoted&ref=search-standalone&origin=cardTitle#sol=d5c2448d65260515b1a1c6c5529af9ec5b1ea3c7)
 at [SFM Agribusiness Pty Ltd](https://au.seek.com/SFM-Agribusiness-jobs "Jobs at SFM Agribusiness")
 This is a Full time job
-Launceston, Launceston & North East TAS
+Hobart TAS
   * Be part of a growing and innovative natural asset management company
-  * Supporting, diverse and collaborative work
+  * Supporting, diverse and collaborative work environment
+  * Contribute to positive environmental outcomes
 
 
   * Be part of a growing and innovative natural asset management company
-  * Supporting, diverse and collaborative work
+  * Supporting, diverse and collaborative work environment
+  * Contribute to positive environmental outcomes
 
 
-A unique opportunity to build your career at the intersection of forestry, climate policy and carbon markets
-A unique opportunity to build your career at the intersection of forestry, climate policy and carbon markets
+A meaningful, hands-on role working across systems and the field to keep forestry operations safe, sustainable and always improving.
+A meaningful, hands-on role working across systems and the field to keep forestry operations safe, sustainable and always improving.
 subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
 Featured
 Featured
-[](https://au.seek.com/job/91808353?type=promoted&ref=search-standalone#sol=d829fb17ec0617dd646699cfdb7b98ad86da3679)
-[](https://au.seek.com/job/91808353?type=promoted&ref=search-standalone&origin=jobCard#sol=d829fb17ec0617dd646699cfdb7b98ad86da3679)
-This is a featured job
+[](https://au.seek.com/job/91985304?type=standard&ref=search-standalone#sol=08d53ae7bff8f2ca4a9ea4fb722c6e09c9d0e08d)
+[](https://au.seek.com/job/91985304?type=standard&ref=search-standalone&origin=jobCard#sol=08d53ae7bff8f2ca4a9ea4fb722c6e09c9d0e08d)
+Listed three hours ago
+[](https://au.seek.com/companies/department-of-primary-industries-and-regional-development-nsw-159615424683371)
 ### 
-[Carbon Delivery Projects Analyst](https://au.seek.com/job/91808353?type=promoted&ref=search-standalone&origin=cardTitle#sol=d829fb17ec0617dd646699cfdb7b98ad86da3679)
-at [Corporate Carbon Advisory Pty Ltd](https://au.seek.com/Corporate-Carbon-jobs "Jobs at Corporate Carbon")
-Immediate start
+[Project Officer Climate Vulnerability Assessment](https://au.seek.com/job/91985304?type=standard&ref=search-standalone&origin=cardTitle#sol=08d53ae7bff8f2ca4a9ea4fb722c6e09c9d0e08d)
+at [Department of Primary Industries & Regional Development](https://au.seek.com/Department-of-Primary-Industries-and-Regional-Development-NSW-jobs "Jobs at Department of Primary Industries and Regional Development NSW")
+Be an early applicant
 This is a Full time job
-Sydney NSW(Hybrid)
-  * Direct impact — Deliver projects that contribute to Australia’s climate goals
-  * Innovative environment — Work with a high-performing team
-  * Flexible, hybrid work — Meaningful work with flexibility and benefits
+Wollongbar, Lismore & Far North Coast NSW
+Salary from $75,728 up to $145,442 pa plus super
+  * Impact government and industry through strategic collaboration
+  * Drive climate resilience for NSW primary industries
+  * Use advanced spatial modelling and complex data analysis
 
 
-  * Direct impact — Deliver projects that contribute to Australia’s climate goals
-  * Innovative environment — Work with a high-performing team
-  * Flexible, hybrid work — Meaningful work with flexibility and benefits
+  * Impact government and industry through strategic collaboration
+  * Drive climate resilience for NSW primary industries
+  * Use advanced spatial modelling and complex data analysis
 
 
-Deliver high-impact carbon projects with a leading developer, driving climate solutions in a collaborative, flexible, and fast-paced team.
-Deliver high-impact carbon projects with a leading developer, driving climate solutions in a collaborative, flexible, and fast-paced team.
+Drive the future of primary industries by researching climate impacts and building biophysical models to safeguard our regional communities.
+Drive the future of primary industries by researching climate impacts and building biophysical models to safeguard our regional communities.
 subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
-Featured
-Featured
-[](https://au.seek.com/job/91837338?type=standard&ref=search-standalone#sol=3330086a2f4fffb8165dc67d78ce5190803579a0)
-[](https://au.seek.com/job/91837338?type=standard&ref=search-standalone&origin=jobCard#sol=3330086a2f4fffb8165dc67d78ce5190803579a0)
-Listed one day ago
-### 
-[Sustainability and Resilience Consultant](https://au.seek.com/job/91837338?type=standard&ref=search-standalone&origin=cardTitle#sol=3330086a2f4fffb8165dc67d78ce5190803579a0)
-at [AECOM Australia PTY LTD](https://au.seek.com/AECOM-jobs "Jobs at AECOM")
-This is a Full time job
-Sydney NSW(Hybrid)
-  * Work on major projects
-  * Shape climate resilience, sustainability and net zero strategies
-  * Global team, real-world sustainability work
-
-
-  * Work on major projects
-  * Shape climate resilience, sustainability and net zero strategies
-  * Global team, real-world sustainability work
-
-
-Work on climate resilience and sustainability projects with leading clients, delivering net zero and infrastructure solutions that create real impact
-Work on climate resilience and sustainability projects with leading clients, delivering net zero and infrastructure solutions that create real impact
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-1d ago
-1d ago
-[](https://au.seek.com/job/91854889?type=standard&ref=search-standalone#sol=a28df7cbb67780626359f509c2cca52f77ee4060)
-[](https://au.seek.com/job/91854889?type=standard&ref=search-standalone&origin=jobCard#sol=a28df7cbb67780626359f509c2cca52f77ee4060)
+3h ago
+3h ago
+[](https://au.seek.com/job/91964669?type=standard&ref=search-standalone#sol=3e9305f3c31af1284b36a14bacd5c90f88794c1b)
+[](https://au.seek.com/job/91964669?type=standard&ref=search-standalone&origin=jobCard#sol=3e9305f3c31af1284b36a14bacd5c90f88794c1b)
 Listed twenty three hours ago
 ### 
-[Carbon Projects Officer](https://au.seek.com/job/91854889?type=standard&ref=search-standalone&origin=cardTitle#sol=a28df7cbb67780626359f509c2cca52f77ee4060)
-at [SFM Agribusiness Pty Ltd](https://au.seek.com/SFM-Agribusiness-jobs "Jobs at SFM Agribusiness")
-This is a Full time job
-Launceston, Launceston & North East TAS
-  * Be part of a growing and innovative natural asset management company
-  * Supporting, diverse and collaborative work
-
-
-  * Be part of a growing and innovative natural asset management company
-  * Supporting, diverse and collaborative work
-
-
-A unique opportunity to build your career at the intersection of forestry, climate policy and carbon markets
-A unique opportunity to build your career at the intersection of forestry, climate policy and carbon markets
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-23h ago
-23h ago
-[](https://au.seek.com/job/91853862?type=standard&ref=search-standalone#sol=1ccfa03bba400d1c1fe7c6fa8f112dba6abe8c4b)
-[](https://au.seek.com/job/91853862?type=standard&ref=search-standalone&origin=jobCard#sol=1ccfa03bba400d1c1fe7c6fa8f112dba6abe8c4b)
-Listed twenty three hours ago
-### 
-[Senior Policy Officer](https://au.seek.com/job/91853862?type=standard&ref=search-standalone&origin=cardTitle#sol=1ccfa03bba400d1c1fe7c6fa8f112dba6abe8c4b)
-at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
-Be an early applicant
-This is a Full time job
-Parramatta, Sydney NSW(Hybrid)
-Salary ranges from $129,464 up to $142,665 pa
-  * Seeking someone with technical energy market or power systems expertise
-  * Hybrid work options available, 3 days per week in the office
-  * Fitness Passport Available
-
-
-  * Seeking someone with technical energy market or power systems expertise
-  * Hybrid work options available, 3 days per week in the office
-  * Fitness Passport Available
-
-
-Proactively identify policy gaps and issues and developing strategic recommendations for this team!
-Proactively identify policy gaps and issues and developing strategic recommendations for this team!
-subClassification: PolicyPolicyclassification: Consulting & Strategy(Consulting & Strategy)
-23h ago
-23h ago
-[](https://au.seek.com/job/91853168?type=standard&ref=search-standalone#sol=ebbce408845895435991deeb5e609ea7ef525c34)
-[](https://au.seek.com/job/91853168?type=standard&ref=search-standalone&origin=jobCard#sol=ebbce408845895435991deeb5e609ea7ef525c34)
-Listed one day ago
-### 
-[Senior Scientist Social Research](https://au.seek.com/job/91853168?type=standard&ref=search-standalone&origin=cardTitle#sol=ebbce408845895435991deeb5e609ea7ef525c34)
-at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
-Be an early applicant
-This is a Full time job
-Sydney NSW(Hybrid)
-Ranges from $124,322 pa to $138,494 pa + super
-  * Supportive team. Real development. Work with purpose.
-  * Shape environmental policy in NSW.
-  * Collaborate with experts across disciplines.
-
-
-  * Supportive team. Real development. Work with purpose.
-  * Shape environmental policy in NSW.
-  * Collaborate with experts across disciplines.
-
-
-Join DCCEEW’s Science Integration Team to deliver social research that shapes environmental policy.
-Join DCCEEW’s Science Integration Team to deliver social research that shapes environmental policy.
-subClassification: Government - StateGovernment - Stateclassification: Government & Defence(Government & Defence)
-1d ago
-1d ago
-[](https://au.seek.com/job/91862025?type=standard&ref=search-standalone#sol=ada39c5f6122398eb54ea98078ad951acde5b966)
-[](https://au.seek.com/job/91862025?type=standard&ref=search-standalone&origin=jobCard#sol=ada39c5f6122398eb54ea98078ad951acde5b966)
-Listed seventeen hours ago
-### 
-[Sustainability Reporting Manager](https://au.seek.com/job/91862025?type=standard&ref=search-standalone&origin=cardTitle#sol=ada39c5f6122398eb54ea98078ad951acde5b966)
-at [Bluefin Resources Pty Limited](https://au.seek.com/Bluefin-Resources-jobs "Jobs at Bluefin Resources")
-Be an early applicant
-This is a Full time job
-Sydney NSW
-Sydney Sustainability Reporting Manager
-Sydney Sustainability Reporting Manager
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-17h ago
-17h ago
-[](https://au.seek.com/job/91860817?type=standard&ref=search-standalone#sol=1eb681875dc3be8a5227ffabab9a77569ec7bb41)
-[](https://au.seek.com/job/91860817?type=standard&ref=search-standalone&origin=jobCard#sol=1eb681875dc3be8a5227ffabab9a77569ec7bb41)
-Listed eighteen hours ago
-### 
-[Senior Ministerial Liaison Officer](https://au.seek.com/job/91860817?type=standard&ref=search-standalone&origin=cardTitle#sol=1eb681875dc3be8a5227ffabab9a77569ec7bb41)
-at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
-Be an early applicant
-This is a Full time job
-Parramatta, Sydney NSW(Hybrid)
-Ranges from $124,322 to $138,494 + super
-  * Shape high-profile climate, energy & environment decisions in NSW
-  * Deliver trusted advice to Ministers on complex, sensitive issues
-  * Collaborate across government to drive impactful policy outcomes
-
-
-  * Shape high-profile climate, energy & environment decisions in NSW
-  * Deliver trusted advice to Ministers on complex, sensitive issues
-  * Collaborate across government to drive impactful policy outcomes
-
-
-Join DCCEEW as a Senior Ministerial Liaison Officer, supporting high-profile work across climate change, energy, environment and heritage.
-Join DCCEEW as a Senior Ministerial Liaison Officer, supporting high-profile work across climate change, energy, environment and heritage.
-subClassification: Government - StateGovernment - Stateclassification: Government & Defence(Government & Defence)
-18h ago
-18h ago
-[](https://au.seek.com/job/91808353?type=standard&ref=search-standalone#sol=9d4e10fa650082f09817d8738a364bae6175ea67)
-[](https://au.seek.com/job/91808353?type=standard&ref=search-standalone&origin=jobCard#sol=9d4e10fa650082f09817d8738a364bae6175ea67)
-Listed two days ago
-### 
-[Carbon Delivery Projects Analyst](https://au.seek.com/job/91808353?type=standard&ref=search-standalone&origin=cardTitle#sol=9d4e10fa650082f09817d8738a364bae6175ea67)
-at [Corporate Carbon Advisory Pty Ltd](https://au.seek.com/Corporate-Carbon-jobs "Jobs at Corporate Carbon")
-Immediate start
-This is a Full time job
-Sydney NSW(Hybrid)
-  * Direct impact — Deliver projects that contribute to Australia’s climate goals
-  * Innovative environment — Work with a high-performing team
-  * Flexible, hybrid work — Meaningful work with flexibility and benefits
-
-
-  * Direct impact — Deliver projects that contribute to Australia’s climate goals
-  * Innovative environment — Work with a high-performing team
-  * Flexible, hybrid work — Meaningful work with flexibility and benefits
-
-
-Deliver high-impact carbon projects with a leading developer, driving climate solutions in a collaborative, flexible, and fast-paced team.
-Deliver high-impact carbon projects with a leading developer, driving climate solutions in a collaborative, flexible, and fast-paced team.
-subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
-2d ago
-2d ago
-[](https://au.seek.com/job/91803901?type=standard&ref=search-standalone#sol=bcec80f432b84dca27f62997217688608c01c59e)
-[](https://au.seek.com/job/91803901?type=standard&ref=search-standalone&origin=jobCard#sol=bcec80f432b84dca27f62997217688608c01c59e)
-Listed two days ago
-### 
-[Project Officer](https://au.seek.com/job/91803901?type=standard&ref=search-standalone&origin=cardTitle#sol=bcec80f432b84dca27f62997217688608c01c59e)
-at [Department of Primary Industries and Regional Development WA](https://au.seek.com/Department-of-Primary-Industries-and-Regional-Development-WA-jobs "Jobs at Department of Primary Industries and Regional Development WA")
-This is a Full time job
-Perth WA
-$95,782 – $100,526 per year
-  * Drive economic growth and innovation within the agribusiness sector.
-  * This position can be undertaken at Bunbury, Narrogin or Perth.
-  * Delivering environmental design support and conducting research.
-
-
-  * Drive economic growth and innovation within the agribusiness sector.
-  * This position can be undertaken at Bunbury, Narrogin or Perth.
-  * Delivering environmental design support and conducting research.
-
-
-This role will contribute to the increasing demand for technical expertise across industry and regulatory environments as WA continues to evolve.
-This role will contribute to the increasing demand for technical expertise across industry and regulatory environments as WA continues to evolve.
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-2d ago
-2d ago
-[](https://au.seek.com/job/91855384?type=standard&ref=search-standalone#sol=d39d06859d9058ca25e66913568b4c4630312039)
-[](https://au.seek.com/job/91855384?type=standard&ref=search-standalone&origin=jobCard#sol=d39d06859d9058ca25e66913568b4c4630312039)
-Listed twenty two hours ago
-### 
-[Senior Carbon Analyst](https://au.seek.com/job/91855384?type=standard&ref=search-standalone&origin=cardTitle#sol=d39d06859d9058ca25e66913568b4c4630312039)
-at [Super Smart energy](https://au.seek.com/jobs?advertiserid=43280779 "Jobs at Super Smart energy")
-Be an early applicant
-This is a Full time job
-Perth WA
-$120,000+ super + annual bonus per year
-Start May leading AASB S2 climate reporting. Turn carbon data into audit ready insights, influence boards & drive real impact with strong pay & growth
-Start May leading AASB S2 climate reporting. Turn carbon data into audit ready insights, influence boards & drive real impact with strong pay & growth
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-22h ago
-22h ago
-[](https://au.seek.com/job/91850754?type=standard&ref=search-standalone#sol=46533a79eb450057a1bd7ccb266d9173d967ef60)
-[](https://au.seek.com/job/91850754?type=standard&ref=search-standalone&origin=jobCard#sol=46533a79eb450057a1bd7ccb266d9173d967ef60)
-Listed one day ago
-### 
-[Environmental Scientist / Contaminated Land Consultant](https://au.seek.com/job/91850754?type=standard&ref=search-standalone&origin=cardTitle#sol=46533a79eb450057a1bd7ccb266d9173d967ef60)
-at [Confluence Environmental](https://au.seek.com/Confluence-Environmental-jobs "Jobs at Confluence Environmental")
-This is a Full time job
-Newcastle, Newcastle, Maitland & Hunter NSW(Hybrid)
-$80,000 – $120,000 per year
-  * Attractive salary package + company vehicle + fuel card
-  * Flexible work conditions and WFH
-  * Professional development opportunities
-
-
-  * Attractive salary package + company vehicle + fuel card
-  * Flexible work conditions and WFH
-  * Professional development opportunities
-
-
-Opportunity to work on challenging, varied projects and help shape a growing environmental consultancy.
-Opportunity to work on challenging, varied projects and help shape a growing environmental consultancy.
-subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
-1d ago
-1d ago
-[](https://au.seek.com/job/91860876?type=standard&ref=search-standalone#sol=9528428778829570dc367f8fb5e2af27a94f1e45)
-[](https://au.seek.com/job/91860876?type=standard&ref=search-standalone&origin=jobCard#sol=9528428778829570dc367f8fb5e2af27a94f1e45)
-Listed eighteen hours ago
-### 
-[Sustainability Manager](https://au.seek.com/job/91860876?type=standard&ref=search-standalone&origin=cardTitle#sol=9528428778829570dc367f8fb5e2af27a94f1e45)
-at [ResourceCo](https://au.seek.com/ResourceCo-jobs "Jobs at ResourceCo")
-Be an early applicant
-This is a Full time job
-Rose Park, Adelaide SA(Hybrid)
-Competitive salary on offer
-  * Join a leader driving circular economy and real-world impact
-  * Shape sustainability strategy across a national business
-  * Work at the forefront of resource recovery innovation
-
-
-  * Join a leader driving circular economy and real-world impact
-  * Shape sustainability strategy across a national business
-  * Work at the forefront of resource recovery innovation
-
-
-Own ESG direction in a business turning sustainability into real outcomes.
-Own ESG direction in a business turning sustainability into real outcomes.
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-18h ago
-18h ago
-[](https://au.seek.com/job/91860550?type=standard&ref=search-standalone#sol=d77340c0e8a8bec4362b89de6cab60a573268859)
-[](https://au.seek.com/job/91860550?type=standard&ref=search-standalone&origin=jobCard#sol=d77340c0e8a8bec4362b89de6cab60a573268859)
-Listed nineteen hours ago
-### 
-[Environmental Advisor](https://au.seek.com/job/91860550?type=standard&ref=search-standalone&origin=cardTitle#sol=d77340c0e8a8bec4362b89de6cab60a573268859)
-at [Future Generation JV](https://au.seek.com/Future-Generation-Snowy-2.0-jobs "Jobs at Future Generation Snowy 2.0")
-Be an early applicant
-This is a Full time job
-Cooma, Tumut, Snowy & Monaro NSW
-  * Work on Australia's leading renewable project, located in the Snowy Mountains
-  * 14/7 FIFO Roster!
-  * Employee Assistance Program - Qantas Club Discount
-
-
-  * Work on Australia's leading renewable project, located in the Snowy Mountains
-  * 14/7 FIFO Roster!
-  * Employee Assistance Program - Qantas Club Discount
-
-
-Bring your Environmental Experience to Snowy 2.0!
-Bring your Environmental Experience to Snowy 2.0!
-subClassification: Health, Safety & EnvironmentHealth, Safety & Environmentclassification: Construction(Construction)
-19h ago
-19h ago
-[](https://au.seek.com/job/91797413?type=standard&ref=search-standalone#sol=24496b08bdc101f4bc82853bf4fac1fa54567b92)
-[](https://au.seek.com/job/91797413?type=standard&ref=search-standalone&origin=jobCard#sol=24496b08bdc101f4bc82853bf4fac1fa54567b92)
-Listed three days ago
-### 
-[Environmental Advisor](https://au.seek.com/job/91797413?type=standard&ref=search-standalone&origin=cardTitle#sol=24496b08bdc101f4bc82853bf4fac1fa54567b92)
-at [McLean Farms](https://au.seek.com/McLean-Farms-jobs "Jobs at McLean Farms")
-This is a Full time job
-Pittsworth, Toowoomba & Darling Downs QLD
-  * Assistance to reach your full potential accomplishing your goals
-  * 2 dozen Eggs per fortnight
-  * Additional Birthday Leave on top of your 4 weeks annual leave
-
-
-  * Assistance to reach your full potential accomplishing your goals
-  * 2 dozen Eggs per fortnight
-  * Additional Birthday Leave on top of your 4 weeks annual leave
-
-
-McLean Farms is seeking an Environmental Advisor to join our team. If you are passionate about environmental sustainability apply today!
-McLean Farms is seeking an Environmental Advisor to join our team. If you are passionate about environmental sustainability apply today!
-subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
-3d ago
-3d ago
-[](https://au.seek.com/job/91835650?type=standard&ref=search-standalone#sol=877d112e4d7821402efb26825584ff923803779f)
-[](https://au.seek.com/job/91835650?type=standard&ref=search-standalone&origin=jobCard#sol=877d112e4d7821402efb26825584ff923803779f)
-Listed one day ago
-### 
-[Sustainability Advisor](https://au.seek.com/job/91835650?type=standard&ref=search-standalone&origin=cardTitle#sol=877d112e4d7821402efb26825584ff923803779f)
-at [Westgold Resources Limited](https://au.seek.com/Westgold-Resources-jobs "Jobs at Westgold Resources")
-This is a Full time job
-Perth WA
-  * Perth‑based head office role, permanent full‑time
-  * Hands‑on exposure to ESG, climate and sustainability reporting
-  * Work with a collaborative, values‑driven sustainability team
-
-
-  * Perth‑based head office role, permanent full‑time
-  * Hands‑on exposure to ESG, climate and sustainability reporting
-  * Work with a collaborative, values‑driven sustainability team
-
-
-Support ESG and climate reporting while helping embed sustainability across a growing resources business
-Support ESG and climate reporting while helping embed sustainability across a growing resources business
-subClassification: Health, Safety & EnvironmentHealth, Safety & Environmentclassification: Mining, Resources & Energy(Mining, Resources & Energy)
-1d ago
-1d ago
-[](https://au.seek.com/job/91834121?type=standard&ref=search-standalone#sol=5b611827dda845a603cc815fcf355a073b101a92)
-[](https://au.seek.com/job/91834121?type=standard&ref=search-standalone&origin=jobCard#sol=5b611827dda845a603cc815fcf355a073b101a92)
-Listed one day ago
-### 
-[Graduate Environmental Engineer / Scientist](https://au.seek.com/job/91834121?type=standard&ref=search-standalone&origin=cardTitle#sol=5b611827dda845a603cc815fcf355a073b101a92)
-at [Enviropacific](https://au.seek.com/Enviropacific-jobs "Jobs at Enviropacific")
-This is a Full time job
-Melbourne VIC
-  * Full-Time Long Term Position
-  * Supportive Team Environment
-  * Leading National Company
-
-
-  * Full-Time Long Term Position
-  * Supportive Team Environment
-  * Leading National Company
-
-
-We are seeking a Graduate or Undergraduate Environmental Engineer / Scientist to join our growing team in Melbourne.
-We are seeking a Graduate or Undergraduate Environmental Engineer / Scientist to join our growing team in Melbourne.
-subClassification: Environmental EngineeringEnvironmental Engineeringclassification: Engineering(Engineering)
-1d ago
-1d ago
-[](https://au.seek.com/job/91860222?type=standard&ref=search-standalone#sol=e95c8da937936aff9c1e97d5dba1d156076b2255)
-[](https://au.seek.com/job/91860222?type=standard&ref=search-standalone&origin=jobCard#sol=e95c8da937936aff9c1e97d5dba1d156076b2255)
-Listed nineteen hours ago
-### 
-[Environmental Consultant](https://au.seek.com/job/91860222?type=standard&ref=search-standalone&origin=cardTitle#sol=e95c8da937936aff9c1e97d5dba1d156076b2255)
-at [Surefire Management Group Pty Ltd](https://au.seek.com/jobs?advertiserid=63623195 "Jobs at Surefire Management Group Pty Ltd")
-Be an early applicant
-This is a Full time job
-Brunswick West, Melbourne VIC
-$130,000 – $150,000 per year + Super
-  * Work directly with EPA auditors on real contaminated land projects
-  * Hands-on role across site investigations and remediation delivery
-  * Join a growing business with real impact and technical exposure
-
-
-  * Work directly with EPA auditors on real contaminated land projects
-  * Hands-on role across site investigations and remediation delivery
-  * Join a growing business with real impact and technical exposure
-
-
-Lead detailed site investigations and technical reporting in a fast-moving environment with real project impact.
-Lead detailed site investigations and technical reporting in a fast-moving environment with real project impact.
-subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
-19h ago
-19h ago
-[](https://au.seek.com/job/91797519?type=standard&ref=search-standalone#sol=69dd4dcbdc655de0c7f293a5f6433f3d6f191238)
-[](https://au.seek.com/job/91797519?type=standard&ref=search-standalone&origin=jobCard#sol=69dd4dcbdc655de0c7f293a5f6433f3d6f191238)
-Listed three days ago
-### 
-[Environmental Advisor](https://au.seek.com/job/91797519?type=standard&ref=search-standalone&origin=cardTitle#sol=69dd4dcbdc655de0c7f293a5f6433f3d6f191238)
-at [Nyrstar](https://au.seek.com/Nyrstar-jobs "Jobs at Nyrstar")
-This is a Full time job
-Port Pirie, Yorke Peninsula & Clare Valley SA(Hybrid)
-Join Nyrstar as an Environmental Advisor in Port Pirie. Drive sustainability, support site improvements, and make a lasting local impact.
-Join Nyrstar as an Environmental Advisor in Port Pirie. Drive sustainability, support site improvements, and make a lasting local impact.
-subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
-3d ago
-3d ago
-[](https://au.seek.com/job/91809086?type=standard&ref=search-standalone#sol=5b2059a846f6d1c95f7b984ebe35d0d7ea2bcc8c)
-[](https://au.seek.com/job/91809086?type=standard&ref=search-standalone&origin=jobCard#sol=5b2059a846f6d1c95f7b984ebe35d0d7ea2bcc8c)
-Listed two days ago
-### 
-[Director](https://au.seek.com/job/91809086?type=standard&ref=search-standalone&origin=cardTitle#sol=5b2059a846f6d1c95f7b984ebe35d0d7ea2bcc8c)
-at [Department of Environment, Tourism, Science and Innovation](https://au.seek.com/Department-of-Environment,-Tourism,-Science-and-Innovation-QLD-jobs "Jobs at Department of Environment, Tourism, Science and Innovation QLD")
-This is a Full time job
-Cairns, Cairns & Far North QLD(Hybrid)
-$166,623 - $174,339 per annum
-  * Permanent Full-Time
-  * $166,623 - $174,339 gross p.a.
-  * Superannuation 12.75%, 5 weeks annual leave, locality allowance
-
-
-  * Permanent Full-Time
-  * $166,623 - $174,339 gross p.a.
-  * Superannuation 12.75%, 5 weeks annual leave, locality allowance
-
-
-Lead, Decide, Innovate - Shape Queensland's Environmental Future and take on a pivotal Senior leadership role in Queensland's environmental sector.
-Lead, Decide, Innovate - Shape Queensland's Environmental Future and take on a pivotal Senior leadership role in Queensland's environmental sector.
-subClassification: ManagementManagementclassification: Mining, Resources & Energy(Mining, Resources & Energy)
-2d ago
-2d ago
-[](https://au.seek.com/job/91861469?type=standard&ref=search-standalone#sol=956976e6382b899be91ddc0396a91b17f1e4cfaa)
-[](https://au.seek.com/job/91861469?type=standard&ref=search-standalone&origin=jobCard#sol=956976e6382b899be91ddc0396a91b17f1e4cfaa)
-Listed eighteen hours ago
-### 
-[Expression of interest- Environmental Leads](https://au.seek.com/job/91861469?type=standard&ref=search-standalone&origin=cardTitle#sol=956976e6382b899be91ddc0396a91b17f1e4cfaa)
-at [MPC Kinetic](https://au.seek.com/MPC-Kinetic-jobs "Jobs at MPC Kinetic")
+[PhD Scholarships – Climate-Resilient Water (ARC Training Centre)](https://au.seek.com/job/91964669?type=standard&ref=search-standalone&origin=cardTitle#sol=3e9305f3c31af1284b36a14bacd5c90f88794c1b)
+at [The University of Queensland](https://au.seek.com/The-University-of-Queensland-jobs "Jobs at The University of Queensland")
 Be an early applicant
 This is a Full time job
 Brisbane QLD
-  * Expression of Interest- Environmental Leads
-  * Find your next career move with MPC Kinetic
-  * Local and FIFO opportunities available.
-
-
-  * Expression of Interest- Environmental Leads
-  * Find your next career move with MPC Kinetic
-  * Local and FIFO opportunities available.
-
-
-MPK is seeking Environmental Leads to join our projects in the Renewable sector! Local and FIFO opportunities available.
-MPK is seeking Environmental Leads to join our projects in the Renewable sector! Local and FIFO opportunities available.
-subClassification: Health, Safety & EnvironmentHealth, Safety & Environmentclassification: Mining, Resources & Energy(Mining, Resources & Energy)
-18h ago
-18h ago
-[](https://au.seek.com/job/91852289?type=standard&ref=search-standalone#sol=8cb541b51c2fc0c02d2366182d50564426cd832c)
-[](https://au.seek.com/job/91852289?type=standard&ref=search-standalone&origin=jobCard#sol=8cb541b51c2fc0c02d2366182d50564426cd832c)
+$35,000 – $50,000 per year
+The ARC Training Centre for Climate-Resilient Water is recruiting domestic PhD candidates to join a national research program.
+The ARC Training Centre for Climate-Resilient Water is recruiting domestic PhD candidates to join a national research program.
+subClassification: Research & FellowshipsResearch & Fellowshipsclassification: Education & Training(Education & Training)
+23h ago
+23h ago
+[](https://au.seek.com/job/91966558?type=standard&ref=search-standalone#sol=a5fa4be1632234ce6dfd72ed7069656c6ec8243f)
+[](https://au.seek.com/job/91966558?type=standard&ref=search-standalone&origin=jobCard#sol=a5fa4be1632234ce6dfd72ed7069656c6ec8243f)
 Listed one day ago
+[](https://au.seek.com/companies/environment-protection-authority-victoria-435816)
 ### 
-[Principal Environmental Scientist - Contaminated Sites](https://au.seek.com/job/91852289?type=standard&ref=search-standalone&origin=cardTitle#sol=8cb541b51c2fc0c02d2366182d50564426cd832c)
-at [Australia's Leading Recruitment Agency](https://au.seek.com/ALRA-jobs "Jobs at ALRA")
+[Officer for the Protection of the Local Environment](https://au.seek.com/job/91966558?type=standard&ref=search-standalone&origin=cardTitle#sol=a5fa4be1632234ce6dfd72ed7069656c6ec8243f)
+at [Environment Protection Authority Victoria](https://au.seek.com/Environment-Protection-Authority-Victoria-jobs "Jobs at Environment Protection Authority Victoria")
+This is a Full time job
+Preston, Melbourne VIC
+$91,971 to $98,955
+  * Responsible for EPA's on-ground regulatory response in the region
+  * Full time work with attractive VPS Grade 3.2 base salary ($91,971 - $98,955)
+  * Investigate illegal dumping using statutory powers with councils and EPA teams
+
+
+  * Responsible for EPA's on-ground regulatory response in the region
+  * Full time work with attractive VPS Grade 3.2 base salary ($91,971 - $98,955)
+  * Investigate illegal dumping using statutory powers with councils and EPA teams
+
+
+Deliver EPA led deterrence and prevention initiatives through education, engagement, inspections and compliance monitoring
+Deliver EPA led deterrence and prevention initiatives through education, engagement, inspections and compliance monitoring
+subClassification: Policy, Planning & RegulationPolicy, Planning & Regulationclassification: Government & Defence(Government & Defence)
+1d ago
+1d ago
+[](https://au.seek.com/job/91907602?type=standard&ref=search-standalone#sol=3d490d2e152a31bd9935cc303122747cacbc6b0a)
+[](https://au.seek.com/job/91907602?type=standard&ref=search-standalone&origin=jobCard#sol=3d490d2e152a31bd9935cc303122747cacbc6b0a)
+Listed three days ago
+[](https://au.seek.com/companies/nsw-department-of-climate-change-energy-the-environment-and-water-176877222451293)
+### 
+[Policy and Project Officer](https://au.seek.com/job/91907602?type=standard&ref=search-standalone&origin=cardTitle#sol=3d490d2e152a31bd9935cc303122747cacbc6b0a)
+at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
+This is a Full time job
+Sydney NSW(Hybrid)
+  * Ongoing Full Time Role
+  * Office location upon negotiation across NSW, hybrid working supported
+  * Salary relative to experience, and ranges from $113,574 to $125,720 + super
+
+
+  * Ongoing Full Time Role
+  * Office location upon negotiation across NSW, hybrid working supported
+  * Salary relative to experience, and ranges from $113,574 to $125,720 + super
+
+
+Working to protect the state’s environment and heritage.
+Working to protect the state’s environment and heritage.
+subClassification: Government - StateGovernment - Stateclassification: Government & Defence(Government & Defence)
+3d ago
+3d ago
+[](https://au.seek.com/job/91909684?type=standard&ref=search-standalone#sol=c6b70a09b0af161ab0126700f4fc53665d2117aa)
+[](https://au.seek.com/job/91909684?type=standard&ref=search-standalone&origin=jobCard#sol=c6b70a09b0af161ab0126700f4fc53665d2117aa)
+Listed three days ago
+[](https://au.seek.com/companies/sfm-agribusiness-169818798064678)
+### 
+[Sustainability and Compliance Officer](https://au.seek.com/job/91909684?type=standard&ref=search-standalone&origin=cardTitle#sol=c6b70a09b0af161ab0126700f4fc53665d2117aa)
+at [SFM Agribusiness Pty Ltd](https://au.seek.com/SFM-Agribusiness-jobs "Jobs at SFM Agribusiness")
+This is a Full time job
+Hobart TAS
+  * Be part of a growing and innovative natural asset management company
+  * Supporting, diverse and collaborative work environment
+  * Contribute to positive environmental outcomes
+
+
+  * Be part of a growing and innovative natural asset management company
+  * Supporting, diverse and collaborative work environment
+  * Contribute to positive environmental outcomes
+
+
+A meaningful, hands-on role working across systems and the field to keep forestry operations safe, sustainable and always improving.
+A meaningful, hands-on role working across systems and the field to keep forestry operations safe, sustainable and always improving.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+3d ago
+3d ago
+[](https://au.seek.com/job/91903773?type=standard&ref=search-standalone#sol=f64951662cffa0f5e17a48f9aa15c0328425ac16)
+[](https://au.seek.com/job/91903773?type=standard&ref=search-standalone&origin=jobCard#sol=f64951662cffa0f5e17a48f9aa15c0328425ac16)
+Listed three days ago
+### 
+[Sustainability Officer](https://au.seek.com/job/91903773?type=standard&ref=search-standalone&origin=cardTitle#sol=f64951662cffa0f5e17a48f9aa15c0328425ac16)
+at [Shire of Northam](https://au.seek.com/Shire-of-Northam-jobs "Jobs at Shire of Northam")
+This is a Full time job
+Northam, Northam & Wheatbelt WA
+$71,749 – $76,259 per year
+Role involves developing, implementing, and monitoring sustainability programs, including energy efficiency, waste reduction, and community engagement
+Role involves developing, implementing, and monitoring sustainability programs, including energy efficiency, waste reduction, and community engagement
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+3d ago
+3d ago
+[](https://au.seek.com/job/91990424?type=standard&ref=search-standalone#sol=1bdcd3cb545f78ac22fb5a1ad3ef6c40c54053cb)
+[](https://au.seek.com/job/91990424?type=standard&ref=search-standalone&origin=jobCard#sol=1bdcd3cb545f78ac22fb5a1ad3ef6c40c54053cb)
+Listed one hour ago
+[](https://au.seek.com/companies/the-minderoo-foundation-972296)
+### 
+[Principal, ESG](https://au.seek.com/job/91990424?type=standard&ref=search-standalone&origin=cardTitle#sol=1bdcd3cb545f78ac22fb5a1ad3ef6c40c54053cb)
+at [The Minderoo Foundation](https://au.seek.com/The-Minderoo-Foundation-jobs "Jobs at The Minderoo Foundation")
+Be an early applicant
+This is a Full time job
+Perth WA
+As Principal, ESG you will be responsible for assessing and continuously improving Minderoo Foundation's ESG practices and performance
+As Principal, ESG you will be responsible for assessing and continuously improving Minderoo Foundation's ESG practices and performance
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+1h ago
+1h ago
+[](https://au.seek.com/job/91986287?type=standard&ref=search-standalone#sol=92760b45a5faf805b7ad8c2f50357233c0654c8f)
+[](https://au.seek.com/job/91986287?type=standard&ref=search-standalone&origin=jobCard#sol=92760b45a5faf805b7ad8c2f50357233c0654c8f)
+Listed three hours ago
+### 
+[Sustainability Consultant](https://au.seek.com/job/91986287?type=standard&ref=search-standalone&origin=cardTitle#sol=92760b45a5faf805b7ad8c2f50357233c0654c8f)
+at [Yamaha Motor Australia Pty Ltd](https://au.seek.com/Yamaha-Motor-jobs "Jobs at Yamaha Motor")
+Be an early applicant
+This is a Full time job
+Wetherill Park, Sydney NSW(Hybrid)
+  * Employee assistant program (EAP).
+  * Discounts on staff purchases
+  * Hybrid Work arrangement.
+
+
+  * Employee assistant program (EAP).
+  * Discounts on staff purchases
+  * Hybrid Work arrangement.
+
+
+We are seeking a motivated, forward‑thinking Sustainability Consultant to join our newly established Corporate Affairs Division.
+We are seeking a motivated, forward‑thinking Sustainability Consultant to join our newly established Corporate Affairs Division.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+3h ago
+3h ago
+[](https://au.seek.com/job/91908432?type=standard&ref=search-standalone#sol=c073308db8e97343da1a34baa8516816407c221a)
+[](https://au.seek.com/job/91908432?type=standard&ref=search-standalone&origin=jobCard#sol=c073308db8e97343da1a34baa8516816407c221a)
+Listed three days ago
+[](https://au.seek.com/companies/nsw-department-of-climate-change-energy-the-environment-and-water-176877222451293)
+### 
+[Manager Policy & Briefings](https://au.seek.com/job/91908432?type=standard&ref=search-standalone&origin=cardTitle#sol=c073308db8e97343da1a34baa8516816407c221a)
+at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
+This is a Full time job
+Parramatta, Sydney NSW(Hybrid)
+$152,677 to $167,562 + super
+  * Environment Officer Class 12
+  * 12-month contract with possibility to extend
+  * Role commencing from June 2026
+
+
+  * Environment Officer Class 12
+  * 12-month contract with possibility to extend
+  * Role commencing from June 2026
+
+
+Provide high‑level policy coordination and briefing support to the Deputy Secretary, ensuring timely and accurate executive material
+Provide high‑level policy coordination and briefing support to the Deputy Secretary, ensuring timely and accurate executive material
+subClassification: Policy, Planning & RegulationPolicy, Planning & Regulationclassification: Government & Defence(Government & Defence)
+3d ago
+3d ago
+[](https://au.seek.com/job/91907457?type=standard&ref=search-standalone#sol=196f3d0e5de1c8b922c85a1555764040f30e8ff3)
+[](https://au.seek.com/job/91907457?type=standard&ref=search-standalone&origin=jobCard#sol=196f3d0e5de1c8b922c85a1555764040f30e8ff3)
+Listed three days ago
+### 
+[Graduate / Early Career (1-2 Year) Environmental Consultant](https://au.seek.com/job/91907457?type=standard&ref=search-standalone&origin=cardTitle#sol=196f3d0e5de1c8b922c85a1555764040f30e8ff3)
+at [EDP Consultants PTY Ltd.](https://au.seek.com/EDP-Consultants-Pte-Ltd-jobs "Jobs at EDP Consultants Pte Ltd")
+This is a Full time job
+Fortitude Valley, Brisbane QLD
+Competitive pay, flexible work options & benefits!
+  * Opportunities for ongoing growth & development
+  * Existing client relationship and busy pipeline of multi-disciplinary projects
+  * Join a team that genuinely values your unique contribution!
+
+
+  * Opportunities for ongoing growth & development
+  * Existing client relationship and busy pipeline of multi-disciplinary projects
+  * Join a team that genuinely values your unique contribution!
+
+
+Join EDP as a Graduate Environmental Consultant and grow your career on diverse projects with a supportive, dynamic team.
+Join EDP as a Graduate Environmental Consultant and grow your career on diverse projects with a supportive, dynamic team.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+3d ago
+3d ago
+[](https://au.seek.com/job/91987289?type=standard&ref=search-standalone#sol=95f880e60792af3222e7cf155635390173ad9071)
+[](https://au.seek.com/job/91987289?type=standard&ref=search-standalone&origin=jobCard#sol=95f880e60792af3222e7cf155635390173ad9071)
+Listed two hours ago
+[](https://au.seek.com/companies/australian-gas-infrastructure-group-1222711)
+### 
+[Policy Advisor](https://au.seek.com/job/91987289?type=standard&ref=search-standalone&origin=cardTitle#sol=95f880e60792af3222e7cf155635390173ad9071)
+at [Australian Gas Networks](https://au.seek.com/Australian-Gas-Infrastructure-Group-jobs "Jobs at Australian Gas Infrastructure Group")
+This is a Full time job
+Melbourne VIC(Hybrid)
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
+
+
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
+
+
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+subClassification: PolicyPolicyclassification: Consulting & Strategy(Consulting & Strategy)
+2h ago
+2h ago
+[](https://au.seek.com/job/91940325?type=standard&ref=search-standalone#sol=16a3207030e0dc4eabaa6a5c6ee030e1ddb9581d)
+[](https://au.seek.com/job/91940325?type=standard&ref=search-standalone&origin=jobCard#sol=16a3207030e0dc4eabaa6a5c6ee030e1ddb9581d)
+Listed one day ago
+[](https://au.seek.com/companies/nsw-department-of-climate-change-energy-the-environment-and-water-176877222451293)
+### 
+[Senior Policy & Project Officer NRAR](https://au.seek.com/job/91940325?type=standard&ref=search-standalone&origin=cardTitle#sol=16a3207030e0dc4eabaa6a5c6ee030e1ddb9581d)
+at [NSW Department of Climate Change, Energy, the Environment & Water](https://au.seek.com/NSW-Department-of-Climate-Change,-Energy,-the-Environment-and-Water-jobs "Jobs at NSW Department of Climate Change, Energy, the Environment and Water")
+This is a Full time job
+Parramatta, Sydney NSW(Hybrid)
+  * Ongoing Full Time Role
+  * Parramatta and other locations considered
+  * Salary relative to experience, and ranges from $129,464 to $142,665 + super
+
+
+  * Ongoing Full Time Role
+  * Parramatta and other locations considered
+  * Salary relative to experience, and ranges from $129,464 to $142,665 + super
+
+
+Drive policy and reform that protects and sustainably manages NSW’s natural resources, with real impact on communities and the environment
+Drive policy and reform that protects and sustainably manages NSW’s natural resources, with real impact on communities and the environment
+subClassification: Policy, Planning & RegulationPolicy, Planning & Regulationclassification: Government & Defence(Government & Defence)
+1d ago
+1d ago
+[](https://au.seek.com/job/91899730?type=standard&ref=search-standalone#sol=f2a84984b315dc19d850dfde10d3a3aa97e0d43b)
+[](https://au.seek.com/job/91899730?type=standard&ref=search-standalone&origin=jobCard#sol=f2a84984b315dc19d850dfde10d3a3aa97e0d43b)
+Listed three days ago
+### 
+[Sustainability Reporting Manager](https://au.seek.com/job/91899730?type=standard&ref=search-standalone&origin=cardTitle#sol=f2a84984b315dc19d850dfde10d3a3aa97e0d43b)
+at [Lanson Partners](https://au.seek.com/Lanson-Partners-jobs "Jobs at Lanson Partners")
+This is a Full time job
+Sydney NSW(Hybrid)
+Salary up to $160,000 package - plus bonus
+  * Sydney CBD location with 2 days' work from home available
+  * Excellent stakeholder exposure and career opportunities
+  * Great team culture, professional development, and proven career opportunities
+
+
+  * Sydney CBD location with 2 days' work from home available
+  * Excellent stakeholder exposure and career opportunities
+  * Great team culture, professional development, and proven career opportunities
+
+
+Shape the future of sustainability reporting at a global financial services organisation.
+Shape the future of sustainability reporting at a global financial services organisation.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+3d ago
+3d ago
+[](https://au.seek.com/job/91914182?type=standard&ref=search-standalone#sol=b3b4cf22a2a0f3c56b3ec5e3733b6ab11fe04df3)
+[](https://au.seek.com/job/91914182?type=standard&ref=search-standalone&origin=jobCard#sol=b3b4cf22a2a0f3c56b3ec5e3733b6ab11fe04df3)
+Listed two days ago
+### 
+[Senior Policy Officer](https://au.seek.com/job/91914182?type=standard&ref=search-standalone&origin=cardTitle#sol=b3b4cf22a2a0f3c56b3ec5e3733b6ab11fe04df3)
+at [Solar Victoria](https://au.seek.com/Solar-Victoria-jobs "Jobs at Solar Victoria")
+This is a Full time job
+Melbourne VIC(Hybrid)
+$116,413 - $140,849 plus superannuation
+  * Lead the development of energy efficiency activities and incentives
+  * Fixed term opportunity in the VPS
+  * Hybrid working arrangements available, based in Melbourne CBD or Morwell
+
+
+  * Lead the development of energy efficiency activities and incentives
+  * Fixed term opportunity in the VPS
+  * Hybrid working arrangements available, based in Melbourne CBD or Morwell
+
+
+Contribute to the design and development of the Victorian Energy Upgrades (VEU) program
+Contribute to the design and development of the Victorian Energy Upgrades (VEU) program
+subClassification: PolicyPolicyclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/91985047?type=standard&ref=search-standalone#sol=391fce4fb0fb4825eacce64ffe37c42132d1c8b5)
+[](https://au.seek.com/job/91985047?type=standard&ref=search-standalone&origin=jobCard#sol=391fce4fb0fb4825eacce64ffe37c42132d1c8b5)
+Listed three hours ago
+[](https://au.seek.com/companies/department-of-primary-industries-and-regional-development-nsw-159615424683371)
+### 
+[Project Manager Vulnerability Assessment](https://au.seek.com/job/91985047?type=standard&ref=search-standalone&origin=cardTitle#sol=391fce4fb0fb4825eacce64ffe37c42132d1c8b5)
+at [Department of Primary Industries & Regional Development](https://au.seek.com/Department-of-Primary-Industries-and-Regional-Development-NSW-jobs "Jobs at Department of Primary Industries and Regional Development NSW")
+Be an early applicant
+This is a Full time job
+Wollongbar, Lismore & Far North Coast NSW
+Salary from $149,739 up to $152,730 pa plus super
+  * Influence Policy and use climate data to shape NSW’s agricultural future
+  * Coordinate vital climate vulnerability assessments at a high level
+  * Scientific Impact: Bridge the gap between complex modelling and industry action
+
+
+  * Influence Policy and use climate data to shape NSW’s agricultural future
+  * Coordinate vital climate vulnerability assessments at a high level
+  * Scientific Impact: Bridge the gap between complex modelling and industry action
+
+
+Lead primary industry climate response by coordinating expert vulnerability assessments to drive future state government and industry policy
+Lead primary industry climate response by coordinating expert vulnerability assessments to drive future state government and industry policy
+subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
+3h ago
+3h ago
+[](https://au.seek.com/job/91987854?type=standard&ref=search-standalone#sol=4f164f013be48d93b0626af7119da00bee7a9ac5)
+[](https://au.seek.com/job/91987854?type=standard&ref=search-standalone&origin=jobCard#sol=4f164f013be48d93b0626af7119da00bee7a9ac5)
+Listed two hours ago
+[](https://au.seek.com/companies/australian-gas-infrastructure-group-1222711)
+### 
+[Policy Advisor](https://au.seek.com/job/91987854?type=standard&ref=search-standalone&origin=cardTitle#sol=4f164f013be48d93b0626af7119da00bee7a9ac5)
+at [Australian Gas Networks](https://au.seek.com/Australian-Gas-Infrastructure-Group-jobs "Jobs at Australian Gas Infrastructure Group")
+Be an early applicant
+This is a Full time job
+Adelaide SA(Hybrid)
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
+
+
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
+
+
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+subClassification: PolicyPolicyclassification: Consulting & Strategy(Consulting & Strategy)
+2h ago
+2h ago
+[](https://au.seek.com/job/91911513?type=standard&ref=search-standalone#sol=df9f54e964ef22807e3ab4fb469363da175538f5)
+[](https://au.seek.com/job/91911513?type=standard&ref=search-standalone&origin=jobCard#sol=df9f54e964ef22807e3ab4fb469363da175538f5)
+Listed two days ago
+[](https://au.seek.com/companies/waverley-council-435625)
+### 
+[Manager, Sustainability and Resilience](https://au.seek.com/job/91911513?type=standard&ref=search-standalone&origin=cardTitle#sol=df9f54e964ef22807e3ab4fb469363da175538f5)
+at [Waverley Council](https://au.seek.com/Waverley-Council-jobs "Jobs at Waverley Council")
+This is a Full time job
+Sydney NSW(Hybrid)
+136,867.00 - $157,397.02 plus 12% Super
+  * Drive the development of Council's sustainability and resilience strategies
+  * Permanent Full Time Opportunity
+  * Employee benefits: agile work opportunity, wellness programs, EAP
+
+
+  * Drive the development of Council's sustainability and resilience strategies
+  * Permanent Full Time Opportunity
+  * Employee benefits: agile work opportunity, wellness programs, EAP
+
+
+Opportunity to lead the development of sustainability and resilience initiatives across the organisation and community
+Opportunity to lead the development of sustainability and resilience initiatives across the organisation and community
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/91987898?type=standard&ref=search-standalone#sol=eea4b9b44d90bbe316dcff1d9177c843dff1e7da)
+[](https://au.seek.com/job/91987898?type=standard&ref=search-standalone&origin=jobCard#sol=eea4b9b44d90bbe316dcff1d9177c843dff1e7da)
+Listed two hours ago
+[](https://au.seek.com/companies/australian-gas-infrastructure-group-1222711)
+### 
+[Policy Advisor](https://au.seek.com/job/91987898?type=standard&ref=search-standalone&origin=cardTitle#sol=eea4b9b44d90bbe316dcff1d9177c843dff1e7da)
+at [Australian Gas Networks](https://au.seek.com/Australian-Gas-Infrastructure-Group-jobs "Jobs at Australian Gas Infrastructure Group")
 Be an early applicant
 This is a Full time job
 Brisbane QLD(Hybrid)
-$180,000 – $200,000 + Super (On exp)
-  * High-level reporting role backed by strong field & PM team
-  * Defence, Govt & airport expansion projects across NT
-  * Delivery & technically focused position supporting a humming team.
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
 
 
-  * High-level reporting role backed by strong field & PM team
-  * Defence, Govt & airport expansion projects across NT
-  * Delivery & technically focused position supporting a humming team.
+  * Join one of Australia's leading gas infrastructure company - AGIG
+  * Permanent role can be based in Adelaide/Brisbane/Melbourne/Perth
+  * Opportunities for professional development
 
 
-Principal Environmental Scientist to move to Darwin delivering major Defence & infrastructure with strong team support and relocation on offer.
-Principal Environmental Scientist to move to Darwin delivering major Defence & infrastructure with strong team support and relocation on offer.
-Recruited byBrett Clemenson
-subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+Support policy development for Australia's net zero transition through research, stakeholder engagement, and advocacy for gas and renewable energy.
+subClassification: PolicyPolicyclassification: Consulting & Strategy(Consulting & Strategy)
+2h ago
+2h ago
+[](https://au.seek.com/job/91961377?type=standard&ref=search-standalone#sol=cefb56ea6341ddb310e2f5f1b07727dc8855d77c)
+[](https://au.seek.com/job/91961377?type=standard&ref=search-standalone&origin=jobCard#sol=cefb56ea6341ddb310e2f5f1b07727dc8855d77c)
+Listed one day ago
+[](https://au.seek.com/companies/department-of-water-and-environmental-regulation-wa-158933825545806)
+### 
+[Senior Environmental Officer - Appeals Talent Pool 0426D](https://au.seek.com/job/91961377?type=standard&ref=search-standalone&origin=cardTitle#sol=cefb56ea6341ddb310e2f5f1b07727dc8855d77c)
+at [Department of Water and Environmental Regulation](https://au.seek.com/Department-of-Water-and-Environmental-Regulation-WA-jobs "Jobs at Department of Water and Environmental Regulation WA")
+Be an early applicant
+This is a Full time job
+Perth WA(Hybrid)
+$129,211 – $142,460 per year
+  * Flexible work arrangements
+  * Strategic leadership impact
+  * Competitive salary and government benefits
+
+
+  * Flexible work arrangements
+  * Strategic leadership impact
+  * Competitive salary and government benefits
+
+
+Investigate complex environmental appeals, provide independent advice, and deliver clear reports informing Ministerial decisions for WA.
+Investigate complex environmental appeals, provide independent advice, and deliver clear reports informing Ministerial decisions for WA.
+subClassification: Government - StateGovernment - Stateclassification: Government & Defence(Government & Defence)
+1d ago
+1d ago
+[](https://au.seek.com/job/91915468?type=standard&ref=search-standalone#sol=eeb740a0003a2a02e2328021e4349734cb28f0de)
+[](https://au.seek.com/job/91915468?type=standard&ref=search-standalone&origin=jobCard#sol=eeb740a0003a2a02e2328021e4349734cb28f0de)
+Listed two days ago
+### 
+[Graduate / Early Career (1-2 Year) Environmental Consultant](https://au.seek.com/job/91915468?type=standard&ref=search-standalone&origin=cardTitle#sol=eeb740a0003a2a02e2328021e4349734cb28f0de)
+at [EDP Consultants PTY Ltd.](https://au.seek.com/EDP-Consultants-Pte-Ltd-jobs "Jobs at EDP Consultants Pte Ltd")
+This is a Full time job
+Sydney NSW
+Competitive pay, flexible work options & benefits!
+  * Opportunities for ongoing growth & development
+  * Existing client relationship and busy pipeline of multi-disciplinary projects
+  * Join a team that genuinely values your unique contribution!
+
+
+  * Opportunities for ongoing growth & development
+  * Existing client relationship and busy pipeline of multi-disciplinary projects
+  * Join a team that genuinely values your unique contribution!
+
+
+Join EDP as a Graduate Environmental Consultant and grow your career on diverse projects with a supportive, dynamic team.
+Join EDP as a Graduate Environmental Consultant and grow your career on diverse projects with a supportive, dynamic team.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/91676812?type=standard&ref=search-standalone#sol=12d816630acb9a8fce3c55219cf5630bde60b4c9)
+[](https://au.seek.com/job/91676812?type=standard&ref=search-standalone&origin=jobCard#sol=12d816630acb9a8fce3c55219cf5630bde60b4c9)
+Listed one day ago
+### 
+[Become an Environmental Business Partner (BDM) with us!](https://au.seek.com/job/91676812?type=standard&ref=search-standalone&origin=cardTitle#sol=12d816630acb9a8fce3c55219cf5630bde60b4c9)
+at [Absorb Environmental Solutions](https://au.seek.com/Absorb-Environmental-Solutions-jobs "Jobs at Absorb Environmental Solutions")
+This is a Full time job
+Perth WA(Remote)
+  * Full WA territory with major growth opportunities.
+  * Uncapped bonus system paid monthly. Very lucrative and Working from home!
+  * Opportunity to upskill by sponsoring your Diploma of Environmental Management
+
+
+  * Full WA territory with major growth opportunities.
+  * Uncapped bonus system paid monthly. Very lucrative and Working from home!
+  * Opportunity to upskill by sponsoring your Diploma of Environmental Management
+
+
+Join Absorb Environmental Solutions, drive change, grow your career, access professional development opportunities. Ready to make an impact? Apply now
+Join Absorb Environmental Solutions, drive change, grow your career, access professional development opportunities. Ready to make an impact? Apply now
+subClassification: New Business DevelopmentNew Business Developmentclassification: Sales(Sales)
 1d ago
 1d ago
 Modify my search

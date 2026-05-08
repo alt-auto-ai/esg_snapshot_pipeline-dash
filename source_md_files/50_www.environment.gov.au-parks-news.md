@@ -2,12 +2,12 @@
 [ Skip to page navigation ](https://www.dcceew.gov.au/search?search_api_fulltext=news#page-navigation)
 # Search Results
 For updated information on liquid fuel stock levels, visit [Minimum stockholding obligation statistics.](https://www.dcceew.gov.au/energy/security/australias-fuel-security/minimum-stockholding-obligation/statistics?utm_source=website&utm_medium=banner&utm_campaign=mso_search)
-###  [ABRS news](https://www.dcceew.gov.au/science-research/abrs/news)
-Grant to help map biodiversity of deep-sea marine parksABRS-NTRGP success storyThe University of Western Australia – 9 September 2024 Laughing frog and David Attenborough worm among 750 new species recognised in…
-_07 July 2025 - Last modified_
 ###  [NESP News](https://www.dcceew.gov.au/environment/environment-information-australia/nesp/news)
 NESP News shares the latest updates on the National Environmental Science Program.SubscribeSubscribe to our electronic mailing list and receive the next edition of NESP News.
 _19 November 2025 - Last modified_
+###  [ABRS news](https://www.dcceew.gov.au/science-research/abrs/news)
+Grant to help map biodiversity of deep-sea marine parksABRS-NTRGP success storyThe University of Western Australia – 9 September 2024 Laughing frog and David Attenborough worm among 750 new species recognised in…
+_07 July 2025 - Last modified_
 ###  [The latest Reef Trust News is now live](https://www.dcceew.gov.au/about/news/latest-reef-trust-news-live)
 Get up to date on Reef Trust projects, funding opportunities and other action being taken to protect and manage the Reef. In the September edition of Reef Trust News, you’ll learn more about:how science and innovation is improving management of Crown-of-Thorns starfishgrants to support…
 _14 October 2025 - Last modified_

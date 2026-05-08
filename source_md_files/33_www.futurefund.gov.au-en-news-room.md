@@ -19,8 +19,12 @@ Research
 Speeches
 SUBMIT
 Clear All
-Displaying: 265 results
+Displaying: 266 results
 View:  10 20 30 40 50
+  * [ ](https://www.futurefund.gov.au/news-room/Portfolio-update-to-31-March-2026)
+    * 05.05.2026
+###  [Portfolio update to 31 March 2026](https://www.futurefund.gov.au/news-room/Portfolio-update-to-31-March-2026?page=0&itemsPerPage=10)
+The Future Fund has released its portfolio update to 31 March 2026 
   * [ ](https://www.futurefund.gov.au/news-room/20260423---Appointment-of-Chief-Investment-Officer)
     * 23.04.2026
 ###  [Appointment of Chief Investment Officer](https://www.futurefund.gov.au/news-room/20260423---Appointment-of-Chief-Investment-Officer?page=0&itemsPerPage=10)
@@ -57,9 +61,5 @@ The Future Fund has released its portfolio update to 30 September 2025.
     * 09.10.2025
 ###  [Statement to the Senate Finance and Public Administration Committee](https://www.futurefund.gov.au/news-room/20251009---Senate-Estimates---Opening-Statement?page=0&itemsPerPage=10)
 Statement by Dr Raphael Arndt, Chief Executive Officer of the Future Fund Management Agency to the Senate Finance and Public Administration Committee. 
-  * [ ](https://www.futurefund.gov.au/news-room/20250915---Chief-Investment-Officer)
-    * 15.09.2025
-###  [Chief Investment Officer](https://www.futurefund.gov.au/news-room/20250915---Chief-Investment-Officer?page=0&itemsPerPage=10)
-Ben Samild, Chief Investment Officer of the Future Fund Management Agency (Future Fund), has announced that he is leaving the organisation take up a role with a major institutional investor in the Middle East. 
 
 

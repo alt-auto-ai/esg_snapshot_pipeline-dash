@@ -10,19 +10,22 @@
 
 # Latest news
 ## Media releases
+  * [Government securing more fuel reserves the Australian fuel security and resilience package ](https://www.trademinister.gov.au/minister/don-farrell/media-release/government-securing-more-fuel-reserves-australian-fuel-security-and-resilience-package)
+6 May 2026
+  * [Australia welcomes substantial conclusion of Costa Rica’s CPTPP accession](https://www.trademinister.gov.au/minister/don-farrell/media-release/australia-welcomes-substantial-conclusion-costa-ricas-cptpp-accession)
+6 May 2026
+  * [Expanding cooperation on critical minerals with Japan](https://www.trademinister.gov.au/minister/don-farrell/media-release/expanding-cooperation-critical-minerals-japan)
+4 May 2026
+  * [Deepening economic security with Japan](https://www.trademinister.gov.au/minister/don-farrell/media-release/deepening-economic-security-japan)
+4 May 2026
   * [Additional jet fuel and additional diesel secured](https://www.trademinister.gov.au/minister/don-farrell/media-release/additional-jet-fuel-and-additional-diesel-secured)
 1 May 2026
-  * [Communique – Tourism Ministers' meeting](https://www.trademinister.gov.au/minister/don-farrell/media-release/communique-tourism-ministers-meeting-3)
-30 April 2026
-  * [Securing more fuel for the regions](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-regions)
-24 April 2026
-  * [Securing more fuel and fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fuel-and-fertiliser)
-22 April 2026
-  * [Protocol on economic resilience and essential supplies](https://www.trademinister.gov.au/minister/don-farrell/media-release/protocol-economic-resilience-and-essential-supplies)
-17 April 2026
 
 
 ## Transcripts
+  * [Interview with Andrew Clennell, Sky News](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-andrew-clennell-sky-news-1)
+Subjects: Royal Commission on Antisemitism and Social Cohesion, deepening economic security with Japan, fuel security, critical minerals investment
+4 May 2026
   * [Press conference](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference)
 Subjects: Update on Australia’s fuel supply.
 24 April 2026
@@ -35,9 +38,6 @@ Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapor
   * [Doorstop, Banquet Foods](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-banquet-foods)
 Subjects: New Trade Resilience Service, Australian export and import cost, Middle East war, industry support, Qantas flight route cuts
 15 April 2026
-  * [Press conference, Adelaide Central Market](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference-adelaide-central-market)
-Subjects: Australian-European Free Trade Agreement, fuel security, AUKUS.
-28 March 2026
 
 
 ## Speeches
@@ -67,6 +67,8 @@ Subjects: Australian-European Free Trade Agreement, fuel security, AUKUS.
 
 
 ## Statements
+  * [Joint ministerial statement on Costa Rica accession process to the CPTPP](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-ministerial-statement-costa-rica-accession-process-cptpp)
+6 May 2026
   * [Joint Statement Australia-France Ministerial Trade and Investment Dialogue](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-france-ministerial-trade-and-investment-dialogue)
 22 April 2026
   * [Australia-EU Ministerial Meeting in Brussels](https://www.trademinister.gov.au/minister/don-farrell/statements/australia-eu-ministerial-meeting-brussels)
@@ -74,8 +76,6 @@ Subjects: Australian-European Free Trade Agreement, fuel security, AUKUS.
   * [Joint statement: Australia–New Zealand Closer Economic Relations Ministerial Meeting – October 2025](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-new-zealand-closer-economic-relations-ministerial-meeting-october-2025)
 3 October 2025
   * [Joint statement: Australia-New Zealand Closer Economic Relations Ministerial meeting in Rotorua](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-new-zealand-closer-economic-relations-ministerial-meeting-rotorua)
-21 September 2024
-  * [Joint statement: Trilateral Australia – Fiji – New Zealand Trade Ministers Meeting Saturday 21 September 2024 Rotorua, New Zealand](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-trilateral-australia-fiji-new-zealand-trade-ministers-meeting-saturday-21-september-2024-rotorua-new-zealand)
 21 September 2024
 
 

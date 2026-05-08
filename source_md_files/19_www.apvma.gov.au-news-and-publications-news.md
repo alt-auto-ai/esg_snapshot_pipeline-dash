@@ -77,46 +77,6 @@ Subscribe to receive
   * [Review of guidelines for determining a minor use](https://www.apvma.gov.au/news-and-publications/news/review-guidelines-determining-minor-use) - 4 May 2023
 
 
-### 2022 
-  * [APVMA to implement revised cost recovery arrangements](https://www.apvma.gov.au/news-and-publications/news/apvma-implement-revised-cost-recovery-arrangements) - 13 December 2022
-  * [APVMA holds performance in September quarter 2022](https://www.apvma.gov.au/news-and-publications/news/apvma-holds-performance-september-quarter-2022) - 7 December 2022
-  * [Application defect notices and updating or clarifying supplied information](https://www.apvma.gov.au/news-and-publications/news/application-defect-notices-and-updating-or-clarifying-supplied-information) - 2 December 2022
-  * [Revised Veterinary Labelling Code published](https://www.apvma.gov.au/news-and-publications/news/revised-veterinary-labelling-code-published) - 24 November 2022
-  * [Malathion proposed regulatory decision](https://www.apvma.gov.au/news-and-publications/news/malathion-proposed-regulatory-decision) - 22 November 2022
-  * [New form for reporting suspected non-compliance](https://www.apvma.gov.au/news-and-publications/news/new-form-reporting-suspected-non-compliance) - 19 October 2022
-  * [Procymidone final regulatory decision](https://www.apvma.gov.au/news-and-publications/news/procymidone-final-regulatory-decision) - 11 October 2022
-  * [Review of fipronil](https://www.apvma.gov.au/news-and-publications/news/review-fipronil) - 4 October 2022
-  * [APVMA maintains continued high performance in 2021–22](https://www.apvma.gov.au/news-and-publications/news/apvma-maintains-continued-high-performance-2021-22) - 30 September 2022
-  * [New legislative instrument – Agricultural and Veterinary Chemicals Code (Allowable Variation in Concentrations of Constituents in Agricultural Chemical Products) Standard 2022](https://www.apvma.gov.au/news-and-publications/news/new-legislative-instrument-agricultural-and-veterinary-chemicals-code-allowable-variation) - 23 August 2022
-  * [APVMA approves emergency permit for RHDV2 (calicivirus) vaccine for rabbits](https://www.apvma.gov.au/news-and-publications/news/apvma-approves-emergency-permit-rhdv2-calicivirus-vaccine-rabbits) - 16 June 2022
-  * [Procymidone proposed regulatory decision](https://www.apvma.gov.au/news-and-publications/news/procymidone-proposed-regulatory-decision) - 9 May 2022
-  * [New legislative instrument – Agricultural and Veterinary Chemical Code (Agricultural Active Constituents) Standards 2022](https://www.apvma.gov.au/news-and-publications/news/new-legislative-instrument-agricultural-and-veterinary-chemical-code-agricultural-active) - 8 March 2022
-  * [New agvet chemical legislation commenced 7 March 2022](https://www.apvma.gov.au/news-and-publications/news/new-agvet-chemical-legislation-commenced-7-march-2022) - 7 March 2022
-  * [Molinate reconsideration completed](https://www.apvma.gov.au/news-and-publications/news/molinate-reconsideration-completed) - 25 February 2022
-  * [APVMA December 2021 performance report released](https://www.apvma.gov.au/news-and-publications/news/apvma-december-2021-performance-report-released) - 15 February 2022
-
-
-### 2021 
-  * [New agvet chemical legislation](https://www.apvma.gov.au/news-and-publications/news/new-agvet-chemical-legislation) - 9 December 2021
-  * [APVMA September 2021 performance report released](https://www.apvma.gov.au/news-and-publications/news/apvma-september-2021-performance-report-released) - 7 December 2021
-  * [Reminder: Participate in the spray drift pilot program](https://www.apvma.gov.au/news-and-publications/news/reminder-participate-spray-drift-pilot-program) - 22 November 2021
-  * [Updated Complaints Handling Policy](https://www.apvma.gov.au/news-and-publications/news/updated-complaints-handling-policy) - 12 November 2021
-  * [Review of anticoagulant rodenticides](https://www.apvma.gov.au/news-and-publications/news/review-anticoagulant-rodenticides) - 2 November 2021
-  * [Manufacturing approvals for agricultural products and active constituents](https://www.apvma.gov.au/news-and-publications/news/manufacturing-approvals-agricultural-products-and-active-constituents) - 22 October 2021
-  * [Molinate proposed regulatory decision](https://www.apvma.gov.au/news-and-publications/news/molinate-proposed-regulatory-decision) - 11 October 2021
-  * [Agricultural Labelling Code review](https://www.apvma.gov.au/news-and-publications/news/agricultural-labelling-code-review) - 8 October 2021
-  * [APVMA wraps up 2020–21 with performance high](https://www.apvma.gov.au/news-and-publications/news/apvma-wraps-2020-21-performance-high) - 20 August 2021
-  * [DAWE consultation on proposed agvet chemical legislation changes closes 27 August](https://www.apvma.gov.au/news-and-publications/news/dawe-consultation-proposed-agvet-chemical-legislation-changes-closes-27-august) - 18 August 2021
-  * [NSW spray drift pilot program](https://www.apvma.gov.au/news-and-publications/news/nsw-spray-drift-pilot-program) - 4 August 2021
-  * [The 'Pool Standard' and current FAISD Handbook statements ](https://www.apvma.gov.au/news-and-publications/news/pool-standard-and-current-faisd-handbook-statements) - 29 July 2021
-  * [Updated requirements for agricultural chemical products containing imported ingredients of biological origin](https://www.apvma.gov.au/news-and-publications/news/updated-requirements-agricultural-chemical-products-containing-imported-ingredients-biological) - 26 July 2021
-  * [Consultation on proposed agvet chemical legislation changes now open](https://www.apvma.gov.au/news-and-publications/news/consultation-proposed-agvet-chemical-legislation-changes-now-open) - 15 July 2021
-  * [Updates to Module Descriptors](https://www.apvma.gov.au/news-and-publications/news/updates-module-descriptors) - 16 June 2021
-  * [APVMA March 2021 performance report released](https://www.apvma.gov.au/news-and-publications/news/apvma-march-2021-performance-report-released) - 9 June 2021
-  * [New Infringement Notice Guideline](https://www.apvma.gov.au/news-and-publications/news/new-infringement-notice-guideline) - 21 April 2021
-  * [Tips for registrants: Information lists and trademarks](https://www.apvma.gov.au/news-and-publications/news/tips-registrants-information-lists-and-trademarks) - 11 March 2021
-
-
 ## Archive
 View news items 
 [ ](https://www.apvma.gov.au/news-and-publications/news#top)

@@ -8,57 +8,57 @@ See our latest news and announcements. Discover more about what we do.
   * Energy
 
 
-24 April 2026
+05 May 2026
 The Australian government is taking action to secure our fuel supply. 
-### [Public feedback highlights priorities for Snowy Water Deed review](https://www.dcceew.gov.au/about/news/public-feedback-highlights-priorities-snowy-water-deed-review)
-  * News
-  * Water
-
-
-01 May 2026
-The Independent Review Panel asked the public to share their views on the Snowy Water Inquiry…
-### [Statutory consultation now open: MNES standard](https://www.dcceew.gov.au/about/news/statutory-consultation-now-open-mnes-standard)
-  * News
-  * Environment
-
-
-30 April 2026
-We are seeking feedback on the revised National Environmental Standard for Matters of National…
-### [Have your say on proposed ACCU Scheme amendments](https://www.dcceew.gov.au/about/news/hys-proposed-accu-scheme-amendments)
-  * Have your say
-  * Climate change
-
-
-30 April 2026
-Have your say on proposed ACCU Scheme amendments.
-### [Building resilient Reef wetlands](https://www.dcceew.gov.au/about/news/building-resilient-reef-wetlands)
-  * News
-  * Environment
-
-
-30 April 2026
-The government has announced funding to support healthy Reef wetlands.
-### [Energy upgrades roll out across social housing in TAS](https://www.dcceew.gov.au/about/news/energy-upgrades-roll-out-across-social-housing-tas)
+### [Domestic gas reservation secures Australian gas for Australian users](https://www.dcceew.gov.au/about/news/domestic-gas-reservation-secures-australian-gas)
   * News
   * Energy
 
 
-30 April 2026
-Energy upgrades underway in Tasmanian social housing to cut bills and keep homes warm.
-### [Australia advances global energy and climate action at Petersberg Dialogue](https://www.dcceew.gov.au/about/news/australia-advances-global-energy-climate-action-petersberg-dialogue)
+08 May 2026
+The Australian Government is introducing a domestic gas reservation scheme.
+### [Electricity Contract Co-design Working Group established](https://www.dcceew.gov.au/about/news/electricity-contract-codesign-working-group-established)
+  * News
+  * Energy
+
+
+08 May 2026
+To update audience on the selection of the Electricity Contract Co Design Working Group and make…
+### [Register for the NGER Method 2 review webinar ](https://www.dcceew.gov.au/about/news/register-nger-method-2-review-webinar)
   * News
   * Climate change
 
 
-29 April 2026
-Australia joined over 30 countries at the Petersberg Climate Dialogue in Berlin from 21 to 22…
-### [Five species selected for protection statement pilot](https://www.dcceew.gov.au/about/news/protection-statement-pilot)
+08 May 2026
+Registration link for the webinar on the NGER Method 2 for open-cut coal mines review.
+### [Meet the people monitoring for H5 bird flu](https://www.dcceew.gov.au/about/news/meet-people-monitoring-h5-bird-flu)
   * News
   * Environment
 
 
-29 April 2026
-Five species have been selected to trial new protection statements.
+07 May 2026
+Charlotte and Christina tell us why vigilance and being prepared matters. 
+### [City of Ipswich trials a FOGO collection service](https://www.dcceew.gov.au/about/news/city-ipswich-trials-fogo-collection-service)
+  * Case study
+  * Environment
+
+
+06 May 2026
+Sharing their experience for other councils looking to improve FOGO recycling.
+### [Compostable produce bags provided in supermarkets](https://www.dcceew.gov.au/about/news/compostable-produce-bags-provided-in-supermarkets)
+  * Case study
+  * Environment
+
+
+06 May 2026
+Easy access to compostable caddy liners at supermarkets improves food waste recycling.
+### [CleanBins AI improves organic waste collection](https://www.dcceew.gov.au/about/news/cleanbins-ai-improves-organic-waste-collection)
+  * Case study
+  * Environment
+
+
+06 May 2026
+Using truck-mounted cameras and AI to reduce contamination.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries
@@ -66,8 +66,8 @@ Telephone: 1800 920 528
 Make an [online enquiry](https://www.dcceew.gov.au/about/contact "Contact us").
 ### Media enquiries
 If you are a journalist contact the media team. If you are not a journalist contact general enquiries.
-National: 02 5156 4570  
-International: +61 2 5156 4570
+National: 02 5162 3590  
+International: +61 2 5162 3590
 ## Connect with us
 Connect with us and our [portfolio agencies](https://www.dcceew.gov.au/about/news/connect "Connect with us").
 ### Was this page helpful?

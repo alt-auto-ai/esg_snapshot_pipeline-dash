@@ -1,4 +1,29 @@
 Media releases 
+  * ### [ASIC permanently bans Queensland property developer Trent Giumelli from financial services](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-093mr-asic-permanently-bans-queensland-property-developer-trent-giumelli-from-financial-services/)
+financial advicemedia release (26-093MR)
+8 May 2026
+bannings and alertsfinancial advicefinancial servicesfundraisingmanaged investment schemessuperannuation
+ASIC has permanently banned property developer Trent Simon Giumelli, of Noosa, Queensland, from providing financial services after finding that he demonstrated serious incompetence and irresponsibility, a disregard for the law, and a lack of fairness, professionalism and trustworthiness.
+  * ### [ASIC calls for urgent cyber uplift as AI accelerates cyber threats](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-092mr-asic-calls-for-urgent-cyber-uplift-as-ai-accelerates-cyber-threats/)
+technologymedia release (26-092MR)
+8 May 2026
+dealing with asicfinancial marketsfinancial servicestechnology
+ASIC is calling on all licensees and market participants to urgently strengthen their cyber resilience measures, as frontier artificial intelligence (AI) intensifies the global cyber risk environment.
+  * ### [Federal Court holds Telstra Super accountable for internal dispute resolution failures](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-091mr-federal-court-holds-telstra-super-accountable-for-internal-dispute-resolution-failures/)
+superannuationmedia release (26-091MR)
+7 May 2026
+financial servicessuperannuation
+The Federal Court has found Telstra Super (now known as Tetra Servicing Pty Ltd) failed to comply with its internal dispute resolution procedures.
+  * ### [Canva Group pays $792,000 in infringement notices for failing to lodge financial reports on time](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-090mr-canva-group-pays-792-000-in-infringement-notices-for-failing-to-lodge-financial-reports-on-time/)
+companiesmedia release (26-090MR)
+6 May 2026
+companiesfinancial reporting
+ASIC has issued infringement notices totalling $792,000 to four companies within the Australian Canva Group, operator of the global online design and publishing tool Canva, for allegedly failing to lodge their financial reports for the financial year ending 31 December 2024 by the required date.
+  * ### [Former NSW director Mark Barnes sentenced to imprisonment after dishonestly obtaining $2.4m by selling false invoices](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-089mr-former-nsw-director-mark-barnes-sentenced-to-imprisonment-after-dishonestly-obtaining-2-4m-by-selling-false-invoices/)
+companiesmedia release (26-089MR)
+5 May 2026
+companies
+Former NSW director, Mark Barnes, who dishonestly obtained $2,478,624 by deception, has been sentenced in the District Court of New South Wales to a term of imprisonment of one year and ten months.
   * ### [Former Berndale director Stavro D’Amore pleads guilty to dishonest conduct and misusing nearly $700,000 in company funds](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-088mr-former-berndale-director-stavro-d-amore-pleads-guilty-to-dishonest-conduct-and-misusing-nearly-700-000-in-company-funds/)
 dealing with asicmedia release (26-088MR)
 1 May 2026
@@ -34,6 +59,8 @@ auditorsmedia release (26-082MR)
 24 April 2026
 auditorscompaniesfinancial reportingreports and publications
 Pure Foods Tasmania Limited (Pure Foods Tasmania) has reduced the amount of deferred tax assets recognised in its half-yearly report for the 2025-26 financial year by $4.5 million.
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC continues finfluencer crackdown alongside global regulators](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-081mr-asic-continues-finfluencer-crackdown-alongside-global-regulators/)
 financial advicemedia release (26-081MR)
 24 April 2026
@@ -59,8 +86,6 @@ financial servicesmedia release (26-077MR)
 17 April 2026
 financial services
 Alexander John McCulloch, a former project manager at Beacon Minerals Limited (Beacon Minerals), pleaded guilty yesterday to one rolled-up count of insider trading (amended to include two trades). One count of insider trading was discontinued.
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC disqualifies Gold Coast director David John Parker for maximum 5-year period](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-076mr-asic-disqualifies-gold-coast-director-david-john-parker-for-maximum-5-year-period/)
 bannings and alertsmedia release (26-076MR)
 14 April 2026

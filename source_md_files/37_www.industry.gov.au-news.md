@@ -13,21 +13,30 @@
 
 ## Top stories
 [ Link copied ](https://www.industry.gov.au/news#top-stories "Copy link to this section")
+May 2026  National Artificial Intelligence Centre 
+### [National AI Centre launches AI.gov.au](https://www.industry.gov.au/news/national-ai-centre-launches-aigovau)
+The new digital platform will help organisations understand and use artificial intelligence (AI) safely and responsibly. 
 Apr 2026  Critical Minerals Office 
 ### [Australia and United States advance cooperation on critical minerals and rare earths supply chains](https://www.industry.gov.au/news/australia-and-united-states-advance-cooperation-critical-minerals-and-rare-earths-supply-chains)
 Our 2 nations are delivering on the landmark United States–Australia Framework for Securing of Supply in the Mining and Processing of Critical Minerals and Rare Earths. 
 Apr 2026 
-### [The Australian Government has signed a memorandum of understanding (MOU) with global AI innovator Anthropic](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic)
-Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
-Apr 2026 
 ### [Gas supply and demand outlook for 2026 quarter 3](https://www.industry.gov.au/news/gas-supply-and-demand-outlook-2026-quarter-3)
 The Minister for Resources has issued a notification of intent (NOI) to consider if there will be a domestic gas shortfall for the July to September quarter. 
-Mar 2026 
-### [Launching Horizon Europe negotiations with the EU](https://www.industry.gov.au/news/launching-horizon-europe-negotiations-eu)
-Australia and the European Union are starting formal treaty negotiations on Australia’s access to the EU’s flagship research and innovation program. 
+Apr 2026 
+### [The Australian Government has signed a memorandum of understanding (MOU) with global AI innovator Anthropic](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-global-ai-innovator-anthropic)
+Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 59. Showing results from 1 to 12 of 707.
+Page 1 of 55. Showing results from 1 to 12 of 657.
+  * 8 May 2026  National Artificial Intelligence Centre 
+### [National AI Centre launches AI.gov.au](https://www.industry.gov.au/news/national-ai-centre-launches-aigovau)
+The new digital platform will help organisations understand and use artificial intelligence (AI) safely and responsibly. 
+  * 7 May 2026 
+### [The Australian Government is seeking nominations for offshore petroleum exploration in Victoria and...](https://www.industry.gov.au/news/australian-government-seeking-nominations-offshore-petroleum-exploration-victoria-and-tasmania)
+Nominate areas for a potential future offshore petroleum exploration acreage release in the Gippsland and Bass Basins before 19 June 2026. 
+  * 5 May 2026 
+### [$6.2 million for international collaboration in AI, advanced manufacturing, quantum and hydrogen pro...](https://www.industry.gov.au/news/62-million-international-collaboration-ai-advanced-manufacturing-quantum-and-hydrogen-projects)
+Nine projects will be funded under the strategic element of the Global Science and Technology Diplomacy Fund (GSTDF) round 2. 
   * 23 April 2026 
 ### [The Australian Government has signed a memorandum of understanding (MOU) with tech giant Microsoft](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft)
 Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
@@ -55,17 +64,8 @@ Australia and the European Union are starting formal treaty negotiations on Aust
   * 23 March 2026  National Measurement Institute 
 ### [2026 Measurement Awards now open](https://www.industry.gov.au/news/2026-measurement-awards-now-open)
 The National Measurement Institute (NMI) is accepting nominations for this year’s National Measurement Awards! Applications close Wednesday 20 May 2026. 
-  * 23 March 2026 
-### [New data centre expectations help bring the benefit of AI to all Australians](https://www.industry.gov.au/news/new-data-centre-expectations-help-bring-benefit-ai-all-australians)
-National data centre expectations will help incentivise investment in data centres that align with Australia’s interest. 
-  * 18 March 2026 
-### [AI Accelerator initiative kicks off with funding for industry-led research](https://www.industry.gov.au/news/ai-accelerator-initiative-kicks-funding-industry-led-research)
-Round 19 of the Cooperative Research Centres Projects (CRC-P) includes a focus on artificial intelligence as part of the National AI Plan. Applications close on 12 May 2026. 
-  * 17 March 2026 
-### [The Strategic Examination of R&D final report is out now](https://www.industry.gov.au/news/strategic-examination-rd-final-report-out-now)
-The independent panel’s report outlines recommendations to the Australian Government to reform Australia’s research and development (R&D) system. 
 
 
-Page 1 of 59. Showing results from 1 to 12 of 707.
-Page 1 of 59. Showing results from 1 to 12 of 707.
+Page 1 of 55. Showing results from 1 to 12 of 657.
+Page 1 of 55. Showing results from 1 to 12 of 657.
 [Back to top](https://www.industry.gov.au/news#skip-links)

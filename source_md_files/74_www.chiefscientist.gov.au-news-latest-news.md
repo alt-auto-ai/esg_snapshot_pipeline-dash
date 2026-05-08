@@ -1,6 +1,10 @@
 [ Skip to main content ](https://www.chiefscientist.gov.au/news/latest-news#main-content)
 # Latest news
 ### 
+[Chief Scientist attends Future Energy Forum in Melbourne ](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-attends-future-energy-forum-melbourne)
+On Thursday 23 April, Prof Tony Haymet attended the Future Energy Forum delivered by the Melbourne Energy Institute and the University of Melbourne Industry Partnerships team.
+[](https://www.chiefscientist.gov.au/news-and-media/chief-scientist-attends-future-energy-forum-melbourne)
+### 
 [Launch of the ARC Hub for PV Solar Panel Recycling and Sustainability](https://www.chiefscientist.gov.au/news-and-media/launch-arc-hub-pv-solar-panel-recycling-and-sustainability)
 On Tuesday 21 April, Australia’s Chief Scientist Prof Tony Haymet delivered a pre-recorded address for the launch of the Australian Research Council Hub for PV Solar Panel Recycling and Sustainability.
 [](https://www.chiefscientist.gov.au/news-and-media/launch-arc-hub-pv-solar-panel-recycling-and-sustainability)
@@ -36,8 +40,4 @@ On Thursday 19 February, Prof Tony Haymet addressed the 2026 Australian Meteorol
 [For a new year’s resolution that really counts, cut carbon rather than carbs](https://www.chiefscientist.gov.au/news-and-media/new-years-resolution-really-counts-cut-carbon-rather-carbs)
 Australia's Chief Scientist, Professor Tony Haymet, discusses climate goals and opportunities – and the national resolve that can help to achieve them
 [](https://www.chiefscientist.gov.au/news-and-media/new-years-resolution-really-counts-cut-carbon-rather-carbs)
-### 
-[Vale Professor Emma Johnston AO](https://www.chiefscientist.gov.au/news-and-media/vale-professor-emma-johnston-ao)
-Australia's Chief Scientist, Professor Tony Haymet, and the Office of the Chief Scientist are saddened to hear of the passing of Professor Emma Johnston AO.
-[](https://www.chiefscientist.gov.au/news-and-media/vale-professor-emma-johnston-ao)
 [▲Back to top](https://www.chiefscientist.gov.au/news/latest-news#top "Back to top")

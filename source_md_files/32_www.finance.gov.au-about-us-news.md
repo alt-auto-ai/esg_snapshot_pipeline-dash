@@ -1,8 +1,11 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-02/05/2026 
+08/05/2026 
 # Latest News
 ### 2026 
+[ Thu   
+07 May   
+2026  **Procurement and contract management resources at your fingertips** Government Procurement ](https://www.finance.gov.au/about-us/news/2026/procurement-and-contract-management-resources-your-fingertips)
 [ Fri   
 01 May   
 2026  **Nominate your team now** Government Procurement ](https://www.finance.gov.au/about-us/news/2026/nominate-your-team-now)
@@ -91,9 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Tue   
 16 Dec   
 2025  **Celebrating innovation at GovHack 2025** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/celebrating-innovation-govhack-2025)
-[ Thu   
-11 Dec   
-2025  **Congratulations to our 2025 Entry Level Program cohort!** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/congratulations-our-2025-entry-level-program-cohort)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

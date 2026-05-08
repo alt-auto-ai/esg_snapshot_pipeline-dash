@@ -1,6 +1,15 @@
 [ Skip to main content ](https://www.pmc.gov.au/news#main-content)
 #  News
 Stay up-to-date on the latest departmental and ministerial developments through our news stories, social media updates and the Ministers' pages.
+Protocol and international visits
+### [State Funeral Service for the Honourable Peter Morris OAM](https://www.pmc.gov.au/news/state-funeral-service-honourable-peter-morris-oam)
+Friday 8 May 2026
+International engagement
+### [Visit to Australia by the Prime Minister of Japan](https://www.pmc.gov.au/news/visit-australia-prime-minister-japan)
+Thursday 7 May 2026
+Behavioural economics
+### [10 years of BETA](https://www.pmc.gov.au/news/10-years-beta)
+Monday 4 May 2026
 Australian Honours System
 ### [Australian Bravery Decorations - Bondi Junction 2024 - Honours List](https://www.pmc.gov.au/news/australian-bravery-decorations-bondi-junction-2024-honours-list)
 Monday 13 April 2026
@@ -28,12 +37,3 @@ Monday 16 March 2026
 Accountability and reporting
 ### [PM&C Capability Review Action Plan](https://www.pmc.gov.au/news/pmc-capability-review-action-plan)
 Thursday 12 March 2026
-Office for Women
-### [Australia’s delegation to the 70th Session of the Commission on the Status of Women ](https://www.pmc.gov.au/news/australias-delegation-70th-session-commission-status-women)
-Wednesday 11 March 2026
-Nominations for awards
-### [Nominate an Australian public servant for the Public Service Medal](https://www.pmc.gov.au/news/nominate-australian-public-servant-public-service-medal-0)
-Tuesday 10 March 2026
-National Strategy to Achieve Gender Equality
-### [Status of Women Report Card](https://www.pmc.gov.au/news/status-women-report-card)
-Friday 6 March 2026

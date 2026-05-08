@@ -10,7 +10,10 @@ If we fund your services and fuel supply is an issue, talk to your Funding Arran
 
 ## All news
 Filter
-Showing 1 to 12 of 129 results
+Showing 1 to 12 of 130 results
+News 4 May 2026
+###  [ Scams misusing Department of Social Services branding and programs ](https://www.dss.gov.au/news/scams-misusing-department-social-services-branding-and-programs)
+Each year between April and July we receive increased reporting about fraudulent emails and social media posts offering payments administered by us. 
 News 1 May 2026
 ###  [ New urban farming project to increase food access ](https://www.dss.gov.au/news/new-urban-farming-project-increase-food-access)
 More people to gain access to nutritious, low-cost food thanks to staff and volunteers. 
@@ -44,9 +47,6 @@ Be wary of emails pretending to be GrantConnect and the Community Grants Hub.
 News 3 December 2025
 ###  [ Recognising International Day of People with Disability ](https://www.dss.gov.au/news/recognising-international-day-people-disability)
 Promoting community awareness, understanding and acceptance of people with disability. 
-News 26 November 2025
-###  [ A statement from the Secretary: Progression of amendments to correct an anomaly in child support legislation ](https://www.dss.gov.au/news/statement-secretary-progression-amendments-correct-anomaly-child-support-legislation)
-We are changing child support legislation so the parents who provide the most care for their child get the support they need. 
 ####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
 Visit our contact us page. 
 ####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)
@@ -169,7 +169,7 @@ Close
       * [ Closing the Gap ](https://www.dss.gov.au/closing-gap)
       * [ Departmental operational information ](https://www.dss.gov.au/departmental-operational-information)
       * [ Commonwealth Child Safe Framework Annual Statement ](https://www.dss.gov.au/commonwealth-child-safe-framework-annual-statement)
-      * [ Independent capability review ](https://www.dss.gov.au/independent-capability-review)
+      * [ Independent capability review ](https://www.dss.gov.au/capability-review-and-impact-strategy)
     * [ Doing business with us ](https://www.dss.gov.au/doing-business-us)
     * [ Work with us ](https://www.dss.gov.au/about-us/work-us)
 Close 

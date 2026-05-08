@@ -21,9 +21,6 @@ How to be sustainable and climate-conscious when cleaning and gardening this spr
 [Where to spot platypus in Canberra](https://www.act.gov.au/our-canberra/latest-news/2025/august/where-to-spot-platypus-in-canberra)
 Learn how to spot these iconic creatures in your neighbourhood.
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
-[Neighbourhood-scale batteries charge ahead](https://www.act.gov.au/our-canberra/latest-news/2025/may/neighbourhood-scale-batteries-charge-ahead)
-New neighbourhood-scale batteries are one step closer to being built.
-[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[All Canberra](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0000)
 [Funding boost to save Grassland Earless Dragon](https://www.act.gov.au/our-canberra/latest-news/2025/may/funding-boost-to-save-grassland-earless-dragon)
 Funding of $4.5 million will help prevent extinction of the critically endangered local species.
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[Belconnen](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0001)

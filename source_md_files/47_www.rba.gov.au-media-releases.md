@@ -2,6 +2,8 @@
   * [RSS Feed of Media Releases](https://www.rba.gov.au/rss/rss-cb-media-releases.xml)
 
 
+  * [ Statement by the Monetary Policy Board: Monetary Policy Decision ](https://www.rba.gov.au/media-releases/2026/mr-26-12.html)
+5 May 2026 Media Release 2026-12
   * [ Roundtable Opens Public Consultation on Draft Vision for Account-to-Account Payments in Australia ](https://www.rba.gov.au/media-releases/2026/mr-26-11.html)
 30 April 2026 Media Release 2026-11
   * [ Review of Merchant Card Payment Costs and Surcharging – Conclusions Paper ](https://www.rba.gov.au/media-releases/2026/mr-26-10.html)

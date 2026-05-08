@@ -2,75 +2,74 @@
 # What's new
 Find new or recently updated information from the last month.
 Search
-**Showing** 1 - 10 of 67
+**Showing** 1 - 10 of 62
 ### Filter
 #### Date Range
 From
 To
 #### Topic
   * Auditors (1)
-  * Employer information (2)
-  * GST (1)
-  * General (8)
+  * Employer information (1)
+  * General (6)
   * Large business (1)
   * Looking after your workers (1)
   * New legislation (5)
-  * Payday Super (1)
-  * Superannuation (1)
-  * Tax time and reporting (2)
+  * Payday Super (4)
+  * Public advice and guidance (1)
+  * Tax time and reporting (1)
   * Trusts (1)
   * Your practice (1)
 
 
-Show 67 results
+Show 62 results
 ### Filter
 #### Date Range
 From
 To
 #### Topic
   * Auditors (1)
-  * Employer information (2)
-  * GST (1)
-  * General (8)
+  * Employer information (1)
+  * General (6)
   * Large business (1)
   * Looking after your workers (1)
   * New legislation (5)
-  * Payday Super (1)
-  * Superannuation (1)
-  * Tax time and reporting (2)
+  * Payday Super (4)
+  * Public advice and guidance (1)
+  * Tax time and reporting (1)
   * Trusts (1)
   * Your practice (1)
 
 
-Show 67 results
-## [为遭遇个人危机、经济困难或自然灾害的人士提供税务支持](https://www.ato.gov.au/other-languages/simplified-chinese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-chinese-simplified)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Simplified Chinese translation.
-30 April 2026
-## [संकट, आर्थिक कठिनाइ वा प्राकृतिक प्रकोपको लागि कर सहयोग](https://www.ato.gov.au/other-languages/nepali/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-nepali)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Nepali translation.
-30 April 2026
-## [위기, 재정적 어려움 또는 자연 재해에 대한 세무 지원](https://www.ato.gov.au/other-languages/korean/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-korean)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Korean translation.
-30 April 2026
-## [ការគាំទ្រផ្នែកពន្ធដារក្នុងគ្រាមានវិបត្តិ ការលំបាកផ្នែកហិរញ្ញវត្ថុ ឬគ្រោះមហន្តរាយធម្មជាតិ](https://www.ato.gov.au/other-languages/khmer/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-khmer)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Khmer translation.
-30 April 2026
-## [حمایت مالیاتی در مواقع بحران، تنگنای مالی یا بلایای طبیعی](https://www.ato.gov.au/other-languages/farsi/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-farsi)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Farsi translation.
-30 April 2026
-## [الدعم الضريبي في حالات اللأزمات أوالصعوبات المالية أوالكوارث الطبيعية](https://www.ato.gov.au/other-languages/arabic/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-arabic)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Arabic translation.
-30 April 2026
-## [Hỗ trợ thuế cho các trường hợp khủng hoảng, khó khăn tài chính hoặc thiên tai](https://www.ato.gov.au/other-languages/vietnamese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-vietnamese)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Vietnamese translation.
-30 April 2026
-## [為遭遇個人危機、經濟困難或自然災害的人士提供稅務支援](https://www.ato.gov.au/other-languages/traditional-chinese/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-chinese-traditional)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Traditional Chinese translation.
-30 April 2026
-## [การสนับสนุนด้านภาษีเมื่อเผชิญภาวะวิกฤติ ความลำบากทางการเงิน หรือภัยพิบัติทางธรรมชาติ](https://www.ato.gov.au/other-languages/thai/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-thai)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Thai translation.
-30 April 2026
-## [Suporta sa buwis para sa isang krisis, paghihirap sa pananalapi o likas na sakuna](https://www.ato.gov.au/other-languages/filipino/tax-support-for-a-crisis-financial-hardship-or-natural-disaster-filipino)
-Help when experiencing a crisis due to health, domestic violence, financial hardship, natural disaster or death - Filipino translation.
-30 April 2026
+Show 62 results
+## [Don't delay: act now to transition from the SBSCH ](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/dont-delay-act-now-to-transition-from-the-sbsch)
+The SBSCH closes soon. You have limited time to move to an alternative provider and download records before access ends. 
+8 May 2026
+## [Payday Super made simpler with SuperStream](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/payday-super-made-simpler-with-superstream)
+SuperStream is being upgraded for Payday Super, so you can make payments faster and more frequently. 
+8 May 2026
+## [Payday Super: breaking down the basics](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/payday-super-breaking-down-the-basics)
+Watch our webinar to help your business nail the payroll and super process changes for Payday Super. 
+7 May 2026
+## [Making the move from quarterly super to Payday Super](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/making-the-move-from-quarterly-super-to-payday-super)
+Deputy Commissioner Emma Rosenzweig explains how employers can manage the move from quarterly super to Payday Super. 
+7 May 2026
+## [Joint operation takes aim at international scam syndicate](https://www.ato.gov.au/media-centre/joint-operation-takes-aim-at-international-scam-syndicate)
+An ATO-led operation executed a search warrant at a property in Western Sydney as part of Operation Falcata.
+7 May 2026
+Media releases
+## [Spotlight on personal services income compliance focus](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/spotlight-on-personal-services-income-compliance-focus)
+Assistant Commissioner Tony Poulakis provides insights for personal services businesses on how to address key risks.
+4 May 2026
+## [Super guarantee charge (SGC) statements due by 28 May](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/super-guarantee-charge-statements-due-by-28-may)
+Get back on track for your quarterly SG due dates.
+4 May 2026
+## [2026 completed issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/public-advice-and-guidance-completed-issues/2026-completed-issues)
+This page will display a list of completed public advice and guidance issues for the 2026 year.
+4 May 2026
+## [Advice under development – capital gains tax issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/advice-under-development-capital-gains-tax-issues)
+Advice and guidance we are developing on capital gains tax issues.
+4 May 2026
+## [Advice under development – GST issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/advice-under-development-gst-issues)
+Advice and guidance we are developing on goods and services tax issues.
+4 May 2026
 Report webpage issue

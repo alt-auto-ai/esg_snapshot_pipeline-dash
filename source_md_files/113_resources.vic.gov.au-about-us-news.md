@@ -109,6 +109,11 @@ Recreational prospecting
 We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
 [Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 ## Latest news
+[ ](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
+### [Victoria’s first female mining warden appointed](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
+08/05/2026
+Ms Karen Streckfuss has been appointed Victoria’s Mining Warden for a period of three years.
+[Read more](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
 [ ](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
 ### [Advancing the potential for antimony processing](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
 29/04/2026
@@ -134,9 +139,4 @@ Resources Victoria continues to use a range of compliance tools to ensure potent
 02/03/2026
 New Advancing Antimony Grants will support creating an antimony processing facility in Victoria.
 [Read more](https://resources.vic.gov.au/about-us/news/grants-to-support-development-of-processing-facility)
-[ ](https://resources.vic.gov.au/about-us/news/victorias-minerals-in-the-spotlight)
-### [Victoria’s minerals in the spotlight](https://resources.vic.gov.au/about-us/news/victorias-minerals-in-the-spotlight)
-27/02/2026
-Resources Victoria will be promoting the State’s growing minerals sector at the Prospectors & Developers Association of Canada (PDAC) conference next week.
-[Read more](https://resources.vic.gov.au/about-us/news/victorias-minerals-in-the-spotlight)
 Feedback

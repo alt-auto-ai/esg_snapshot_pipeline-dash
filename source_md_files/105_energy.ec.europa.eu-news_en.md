@@ -6,9 +6,90 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1246)
+####  News (1255)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * Daily news
+  * 7 May 2026
+
+
+[EU awards over €1 billion to European hydrogen projects to accelerate the clean transition](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1004)
+Today, the European Commission has selected nine hydrogen production projects under the third auction of the European Hydrogen Bank (EHB).
+  * 1 min read
+
+
+  * News announcement
+  * 7 May 2026
+
+
+[EU prepares coordinated response to address the jet fuel supply situation as the conflict in the Middle East persists ](https://energy.ec.europa.eu/news/eu-prepares-coordinated-response-address-jet-fuel-supply-situation-conflict-middle-east-persists-2026-05-07_en)
+Today’s Oil Coordination Group meeting gathered experts from the European Commission, EU countries, and the Energy Community secretariat to discuss the oil security of supply situation in Europe and how to best coordinate at EU level as the Middle East conflict continues.
+  * 1 min read
+
+
+  * Speech
+  * 5 May 2026
+
+
+[Speech by Commissioner Jørgensen at the French G7 Presidency's International High-Level Multi-Stakeholder Event on Methane Action](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_987)
+The current energy crisis is a stark reminder that Europe is too dependent on imported fossil fuels, and that our way forward is more homegrown energy.
+  * 1 min read
+
+
+  * News article
+  * 5 May 2026
+
+
+[Eurostat: EU household electricity prices stable in 2025](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260505-1)
+In the second half of 2025, average electricity prices for households in the EU remained largely stable, with a slight increase to €28.96 from €28.79 per 100 kWh in the first half of the year. These price levels remain well above levels from before the 2022 energy crisis.
+  * 1 min read
+
+
+  * News article
+  * 5 May 2026
+
+
+[Eurostat: EU household gas prices up in the second half of 2025](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260505-2)
+In the second half of 2025, household gas prices in the EU continued to show the seasonal fluctuation between semesters that was visible before the 2022 crisis, with this pattern distorted during 2022 and 2023.
+  * 1 min read
+
+
+  * News announcement
+  * 5 May 2026
+
+
+[EU-Moldova High-Level Energy Dialogue: Renewed commitment to closer energy cooperation](https://energy.ec.europa.eu/news/eu-moldova-high-level-energy-dialogue-renewed-commitment-closer-energy-cooperation-2026-05-05_en)
+The European Commission and the Republic of Moldova held today the 7th High-Level Energy Dialogue in Brussels, reaffirming their strong partnership on energy security and Moldova’s gradual integration into the European energy market.
+  * 1 min read
+
+
+  * News announcement
+  * 5 May 2026
+
+
+[2026 European Sustainable Energy Awards: vote for your favourite finalist](https://energy.ec.europa.eu/news/2026-european-sustainable-energy-awards-vote-your-favourite-finalist-2026-05-05_en)
+The 9 finalists for the 2026 European Sustainable Energy Awards (EUSEW Awards) have been announced today, highlighting outstanding contributions from individuals and projects to the clean energy transition in Europe.
+  * 2 min read
+
+
+  * News announcement
+  * 5 May 2026
+
+
+[Commissioner Jørgensen hosts high-level implementation dialogue on energy efficiency](https://energy.ec.europa.eu/news/commissioner-jorgensen-hosts-high-level-implementation-dialogue-energy-efficiency-2026-05-05_en)
+Key stakeholders, including industry leaders, financial institutions, civil society, and policymakers, came together in Brussels today to discuss practical solutions for successfully implementing the Energy Efficiency Directive (EED).
+  * 1 min read
+
+
+  * News announcement
+  * 4 May 2026
+
+
+[Calculation framework for new building life-cycle Global Warming Potential ](https://energy.ec.europa.eu/news/calculation-framework-new-building-life-cycle-global-warming-potential-2026-05-04_en)
+An EU framework for calculating the life-cycle global warming potential (GWP) of new buildings has been published today, aimed at ensuring EU countries use comparable methodologies for this calculation.
+  * 2 min read
+
+
   * News announcement
   * 30 April 2026
 
@@ -16,87 +97,6 @@ Showing results 1 to 10
 [EU grants worth €600 million available for cross-border energy infrastructure projects](https://energy.ec.europa.eu/news/eu-grants-worth-eu600-million-available-cross-border-energy-infrastructure-projects-2026-04-30_en)
 The Commission has today launched a new call for proposals for key cross-border EU energy infrastructure projects with an indicative budget of €600 million.
   * 2 min read
-
-
-  * News announcement
-  * 30 April 2026
-
-
-[Citizens Energy Package: helping households in the energy transition](https://energy.ec.europa.eu/news/citizens-energy-package-helping-households-energy-transition-2026-04-30_en)
-A package of recommendations aimed at protecting and supporting citizens in engaging in the clean energy transition has been presented by the Commission today.
-  * 4 min read
-
-
-  * Daily news
-  * 30 April 2026
-
-
-[Commissioner Jørgensen in Paris for talks on the global clean energy transition and housing affordability ](https://energy.ec.europa.eu/news/commissioner-jorgensen-paris-talks-global-clean-energy-transition-and-housing-affordability-2026-04-30_en)
-Today and Monday, 4 May, Commissioner for Energy and Housing Dan Jørgensen will be in Paris to discuss solutions to the global transition towards clean energy with international partners and representatives of the French government.
-  * 2 min read
-
-
-  * News announcement
-  * 30 April 2026
-
-
-[Commission assesses with EU countries the security of oil and gas supply as the conflict in the Middle East continues ](https://energy.ec.europa.eu/news/commission-assesses-eu-countries-security-oil-and-gas-supply-conflict-middle-east-continues-2026-04-30_en)
-Today’s Oil Coordination Group (OCG) and Energy Union Task Force Security (EUTF Security) meetings gathered experts from the European Commission, industry, EU countries, the International Energy Agency (IEA), and NATO to discuss the gas and oil security of supply situation in Europe.
-  * 1 min read
-
-
-  * Press release
-  * 29 April 2026
-
-
-[Successful first round of the EU Hydrogen Mechanism to support market development, providing value added to the industry ](https://energy.ec.europa.eu/news/successful-first-round-eu-hydrogen-mechanism-support-market-development-providing-value-added-2026-04-29_en)
-The European Commission has successfully closed the first round of activities of the Hydrogen Mechanism operated under the EU Energy and Raw Materials Platform.
-  * 2 min read
-
-
-  * Press release
-  * 29 April 2026
-
-
-[Commission adopts temporary State aid framework to support sectors affected by Middle East crisis](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_894)
-The European Commission has adopted a temporary State aid framework to enable Member States to support the EU economy in the context of the Middle East crisis
-  * 1 min read
-
-
-  * Speech
-  * 29 April 2026
-
-
-[President von der Leyen at the European Parliament on the EU strategy in response to the ongoing Middle East crisis, including its implications on energy prices](https://ec.europa.eu/commission/presscorner/detail/en/SPEECH_26_923)
-The way forward is obvious, we must reduce our overdependency on imported fossil fuels and boost our home-grown, affordable, clean energy supply. From renewables to nuclear, in full respect of technology neutrality.
-  * 1 min read
-
-
-  * News announcement
-  * 29 April 2026
-
-
-[April infringements package: key decisions on energy](https://energy.ec.europa.eu/news/april-infringements-package-key-decisions-energy-2026-04-29_en)
-In the list of April infringements, there are 2 energy-related reasoned opinions and 1 referral to the Court of Justice.
-  * 5 min read
-
-
-  * News article
-  * 29 April 2026
-
-
-[PCI-PMI Transparency Platform publishes data from projects from the 2nd PCI and PMI list](https://cinea.ec.europa.eu/news-events/news/pci-pmi-transparency-platform-publishes-data-projects-2nd-pci-and-pmi-list-2026-04-29_en)
-CINEA published the latest project data from the second Union list of Projects of Common Interest (PCIs) and Projects of Mutual Interest (PMIs) on the PCI-PMI Transparency Platform.
-  * 1 min read
-
-
-  * Statement
-  * 25 April 2026
-
-
-[Statement by the Commission and the High Representative ahead of the 40 years since the Chornobyl disaster](https://ec.europa.eu/commission/presscorner/detail/en/statement_26_889)
-Forty years ago, the disaster at the Chornobyl Power Plant marked one of the gravest nuclear disasters in human history. Its true toll, long obscured by Soviet secrecy, has only become clearer over time.
-  * 1 min read
 
 
 Share this page 

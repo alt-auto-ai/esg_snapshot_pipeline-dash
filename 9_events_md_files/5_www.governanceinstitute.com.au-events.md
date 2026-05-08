@@ -4,55 +4,54 @@ Our annual events bring you the latest insights into legal, regulatory and gover
 Search
 ## View our upcoming events
 Select type
-  * Conference13
-  * Other Events7
-  * Professional Development15
+  * Conference12
+  * Other Events5
+  * Professional Development16
 
 Show more
 Select location
   * Adelaide1
-  * NSW7
+  * NSW6
   * QLD10
-  * SA1
-  * VIC5
-  * WA2
+  * VIC4
+  * WA3
 
 Show more
 Select format
-  * Face to face24
+  * Face to face22
   * Virtual10
   * Webinar1
 
 Show more
-  1. Wed06May
-VIC Roundtable: AASB S2 - Lessons from the first wave of mandatory climate statements
-[Find out more](https://www.governanceinstitute.com.au/events/e10441-vic-roundtable-aasb-s2-lessons-from-the-first-wave-of-mandatory-climate-statements/)
-  2. Thu07May
-Governance and Risk Management Forum 2026 - SA
-[Find out more](https://www.governanceinstitute.com.au/events/e09664-governance-and-risk-management-forum-2026-sa/)
-  3. Thu07May
-NSW Roundtable: AASB S2 - Lessons from the first wave of mandatory climate statements
-[Find out more](https://www.governanceinstitute.com.au/events/e10442-nsw-roundtable-aasb-s2-lessons-from-the-first-wave-of-mandatory-climate-statements/)
-  4. Wed13May
+  1. Wed13May
 Governance and Risk Management Forum 2026 - QLD (Day 1)
 [Find out more](https://www.governanceinstitute.com.au/events/e09666-governance-and-risk-management-forum-2026-qld-day-1/)
-  5. Wed13May
+  2. Wed13May
 Governance and Risk Management Forum 2026 - QLD
 [Find out more](https://www.governanceinstitute.com.au/events/e09665-governance-and-risk-management-forum-2026-qld/)
-  6. Thu14May
+  3. Thu14May
 Governance and Risk Management Forum 2026 - QLD (Day 2)
 [Find out more](https://www.governanceinstitute.com.au/events/e09667-governance-and-risk-management-forum-2026-qld-day-2/)
-  7. Thu21May
+  4. Thu21May
 White paper on Governing in the age of Agentic AI
 [Find out more](https://www.governanceinstitute.com.au/events/e10537-white-paper-on-governing-in-the-age-of-agentic-ai/)
-  8. Fri22May
+  5. Fri22May
 Virtual Discussion Group: Public Sector
 [Find out more](https://www.governanceinstitute.com.au/events/e10142-virtual-discussion-group-public-sector/)
-  9. Thu28May
+  6. Thu28May
 Governance and Risk Management Forum 2026 - NSW (Day 1)
 [Find out more](https://www.governanceinstitute.com.au/events/e09669-governance-and-risk-management-forum-2026-nsw-day-1/)
-  10. Thu28May
+  7. Thu28May
 Governance and Risk Management Forum 2026 - NSW
 [Find out more](https://www.governanceinstitute.com.au/events/e09668-governance-and-risk-management-forum-2026-nsw/)
+  8. Fri29May
+Governance and Risk Management Forum 2026 - NSW (Day 2)
+[Find out more](https://www.governanceinstitute.com.au/events/e09670-governance-and-risk-management-forum-2026-nsw-day-2/)
+  9. Wed03Jun
+WA Members & Friends Coffee Catch-up
+[Find out more](https://www.governanceinstitute.com.au/events/e10539-wa-members-friends-coffee-catch-up/)
+  10. Wed03Jun
+Webinar: AGM readiness in a digital age
+[Find out more](https://www.governanceinstitute.com.au/events/e10536-webinar-agm-readiness-in-a-digital-age/)
 
 

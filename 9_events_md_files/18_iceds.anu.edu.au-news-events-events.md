@@ -222,13 +222,7 @@ Get in touch with us or find an expert.
 [Getting to our events](https://iceds.anu.edu.au/news-events/events/getting-our-events)
 Check out our calendar of events and participate in our seminars and public lectures.
 ##  Upcoming events 
-[](https://iceds.anu.edu.au/news-events/events/strait-hormuz-australian-energy-security-supply-chain-resilience)
-07
-May
-2026
-### [The Strait of Hormuz, Australian Energy Security & Supply Chain Resilience »](https://iceds.anu.edu.au/news-events/events/strait-hormuz-australian-energy-security-supply-chain-resilience)
-5pm 7 May
-This panel discussion will bring together leading experts on Gulf energy, Indo-Pacific maritime security, Chinese energy markets, Australia's renewable energy transition, and agricultural and critical mineral supply chains to assess near- and medium-term risks. 
+_No events are currently scheduled._
 ## Past events
   * [2023](https://iceds.anu.edu.au/news-events/events#tabs-0-container-1)
   * [2022](https://iceds.anu.edu.au/news-events/events#tabs-0-container-2)
@@ -239,6 +233,12 @@ This panel discussion will bring together leading experts on Gulf energy, Indo-P
   * [2017](https://iceds.anu.edu.au/news-events/events#tabs-0-container-7)
 
 
+07
+May
+2026
+### [The Strait of Hormuz, Australian Energy Security & Supply Chain Resilience »](https://iceds.anu.edu.au/news-events/events/strait-hormuz-australian-energy-security-supply-chain-resilience)
+5pm 7 May 2026
+This panel discussion will bring together leading experts on Gulf energy, Indo-Pacific maritime security, Chinese energy markets, Australia's renewable energy transition, and agricultural and critical mineral supply chains to assess near- and medium-term risks. 
 16
 Apr
 2026
@@ -293,12 +293,6 @@ Oct
 ### [ANU Energy Update 2025. Getting to net zero: Unlocking domestic and international opportunities »](https://iceds.anu.edu.au/news-events/events/anu-energy-update-2025-getting-net-zero-unlocking-domestic-and-international)
 2pm 1 October 2025
 Please join us for this year’s ANU Energy Update to hear about recent developments in energy transition research. 
-11
-Sep
-2025
-### [ANU Disaster Solutions Update 2025: Of droughts and flooding rains. Policy for prevention. »](https://iceds.anu.edu.au/news-events/events/anu-disaster-solutions-update-2025-droughts-and-flooding-rains-policy-prevention)
-9.30am 11 September 2025
-Australia has been known for decades as the land “of droughts and flooding rains”, but as the frequency and severity of droughts and floods increasingly impact lives and livelihoods, we consider how policymakers at all levels we can respond to this worsening situation with available policy tools?
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/events?page=1 "Go to page 2")

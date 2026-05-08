@@ -13,11 +13,37 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 13 Jobs Found
+#### 15 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 sustainabilityFull-Time
+Posted: 07/05/2026
+High Speed Rail Authority
+### [Executive General Manager, Program](https://www.apsjobs.gov.au/s/job-details?title=executive-general-manager-program&Id=a05OY00000OSr6nYAD)
+Posted: 07/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [Contract and Finance Officer](https://www.apsjobs.gov.au/s/job-details?title=contract-and-finance-officer&Id=a05OY00000OSEbiYAH)
+$88,834 to $96,829
+Posted: 07/05/2026
+Department of Veterans' Affairs
+### [Director, Property Services](https://www.apsjobs.gov.au/s/job-details?title=director-property-services&Id=a05OY00000OPl5xYAD)
+$159,145 to $179,125
+Posted: 05/05/2026
+Future Fund Management Agency
+### [Procurement Business Partner](https://www.apsjobs.gov.au/s/job-details?title=procurement-business-partner&Id=a05OY00000OQCcQYAX)
+Posted: 04/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [Property Services Manager](https://www.apsjobs.gov.au/s/job-details?title=property-services-manager&Id=a05OY00000ON0r7YAD)
+$99,734 to $112,044
+Posted: 04/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Project Manager](https://www.apsjobs.gov.au/s/job-details?title=project-manager&Id=a05OY00000OJJPJYA5)
+$129,106 to $138,861
+Posted: 04/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Project Support Officer (Affirmative Measure - Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=project-support-officer-affirmative-measure-indigenous-&Id=a05OY00000OJAFbYAP)
+$99,734 to $112,044
 Posted: 30/04/2026
 Great Barrier Reef Marine Park Authority
 ### [ICT Business Systems Analyst - Great Barrier Reef Aquarium](https://www.apsjobs.gov.au/s/job-details?title=ict-business-systems-analyst-great-barrier-reef-aquarium&Id=a05OY00000OKYisYAH)
@@ -30,10 +56,6 @@ Posted: 24/04/2026
 Department of Agriculture, Fisheries and Forestry
 ### [Intranet Team Leader](https://www.apsjobs.gov.au/s/job-details?title=intranet-team-leader&Id=a05OY00000OEZcnYAH)
 $129,106 to $138,861
-Posted: 23/04/2026
-Department of Agriculture, Fisheries and Forestry
-### [Finance Business Partner](https://www.apsjobs.gov.au/s/job-details?title=finance-business-partner&Id=a05OY00000ODW14YAH)
-$99,734 to $112,044
 Posted: 22/04/2026
 Great Barrier Reef Marine Park Authority
 ### [Assistant Director, Aquarium Commercial Operations](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-aquarium-commercial-operations&Id=a05OY00000OBqQTYA1)
@@ -46,26 +68,10 @@ Posted: 20/04/2026
 Federal Court of Australia
 ### [Branch Head - People and Payroll](https://www.apsjobs.gov.au/s/job-details?title=branch-head-people-and-payroll&Id=a05OY00000O7p81YAB)
 $230,347 to $298,337
-Posted: 20/04/2026
-National Anti-Corruption Commission
-### [Deputy Chief Financial Officer (CFO)](https://www.apsjobs.gov.au/s/job-details?title=deputy-chief-financial-officer-cfo-&Id=a05OY00000O3myMYAR)
-$122,580 to $148,963
-Posted: 20/04/2026
-Department of Defence
-### [Assistant Technical Airworthiness Compliance Manager](https://www.apsjobs.gov.au/s/job-details?title=assistant-technical-airworthiness-compliance-manager&Id=a05OY00000O0LHxYAN)
-$89,841 to $96,829
-Posted: 15/04/2026
-Department of Defence
-### [Fleet Governance Knowledge Manager](https://www.apsjobs.gov.au/s/job-details?title=fleet-governance-knowledge-manager&Id=a05OY00000NnM73YAF)
-$124,393 to $140,315
 Posted: 13/04/2026
 Australian National Audit Office
 ### [SES Band 3 Deputy Auditor-General](https://www.apsjobs.gov.au/s/job-details?title=ses-band-3-deputy-auditor-general&Id=a05OY00000NrHYYYA3)
 $363,682 to $500,758
-Posted: 02/03/2026
-Australian Digital Health Agency
-### [Graduate Program](https://www.apsjobs.gov.au/s/job-details?title=graduate-program&Id=a05OY00000MKp89YAD)
-$84,492 to $84,492
 Posted: 01/07/2025
 Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
 ### [Temporary Employment Register - 2025/26](https://www.apsjobs.gov.au/s/job-details?title=temporary-employment-register-2025-26&Id=a05OY00000E0p2VYAR)

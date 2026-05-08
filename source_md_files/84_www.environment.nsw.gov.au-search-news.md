@@ -11,23 +11,23 @@ Date published to
 calendar_today
 Cancel OK
 News and media releases[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
-  * Department media release (404)
+  * Department media release (407)
   * Ministerial media release (178)
-  * News (173)
+  * News (174)
 
 
 Topic[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
   * Aboriginal people and culture (23)
   * Air (4)keyboard_arrow_down
-  * Animals and plants (226)keyboard_arrow_down
+  * Animals and plants (228)keyboard_arrow_down
   * Climate change (7)
   * Energy (79)
   * Events (4)
   * Fire (144)keyboard_arrow_down
   * Grants and funding (10)keyboard_arrow_down
-  * Heritage (46)keyboard_arrow_down
+  * Heritage (47)keyboard_arrow_down
   * Land and soil (8)
-  * National Parks and Wildlife Service (320)keyboard_arrow_down
+  * National Parks and Wildlife Service (321)keyboard_arrow_down
   * Policy and law (1)
   * Research (13)keyboard_arrow_down
   * Sustainability (12)
@@ -37,21 +37,42 @@ Topic[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publ
 
 Region[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
   * Central Coast (26)
-  * Central West and Orana (67)
+  * Central West and Orana (68)
   * Far West (24)
-  * Hunter (59)
+  * Hunter (60)
   * Illawarra (36)
   * Metropolitan Sydney (127)
   * Murray Murrumbidgee (27)
-  * New England North West (36)
-  * North Coast (101)
-  * NSW (210)
+  * New England North West (37)
+  * North Coast (102)
+  * NSW (211)
   * South East and Tablelands (78)
 
 
 Apply filters[Clear all filters](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
-Showing results 1 to 10 of 753 results
+Showing results 1 to 10 of 757 results
 Sort byRelevance Alphabetically A-Z Alphabetically Z-A Date newest first Date oldest first
+### [NSW Threatened Species Scientific Committee final determinations for May 2026 | News](https://www.environment.nsw.gov.au/news/nsw-threatened-species-scientific-committee-final-determinations-may-2026-news)
+calendar_today 8 May 2026
+Three species have been listed as threatened species.
+  * News
+  * Scientific Committee
+
+
+### [Feral animal control program targets pigs and deer in the Gwydir River Valley | Media release](https://www.environment.nsw.gov.au/news/feral-animal-control-program-targets-pigs-and-deer-gwydir-river-valley)
+calendar_today 6 May 2026
+The NSW National Parks and Wildlife Service (NPWS), in partnership with government agencies and private landholders, is coordinating an aerial shooting program between Monday 11 and Friday 15 May across public and private land in the Gwydir River Valley near Bingara.
+  * Department media release
+  * Pest animals and weeds
+
+
+### [Applications open in a rare chance to reactivate Hill End’s historic heart | Media release](https://www.environment.nsw.gov.au/news/applications-open-reactivate-hill-ends-historic-heart)
+calendar_today 5 May 2026
+A once in a generation opportunity is on offer as the National Parks and Wildlife Service invites interest in leasing 16 unique buildings in the Hill End Historic Site, near Bathurst.
+  * Department media release
+  * Heritage
+
+
 ### [Whales are on the move as 2026 migration season starts in NSW | Media release](https://www.environment.nsw.gov.au/news/whales-are-move-2026-migration-season-starts-nsw)
 calendar_today 1 May 2026
 The whale watching season has officially arrived in NSW, underscored by the early appearance of humpback whales along the coast.
@@ -96,30 +117,9 @@ A Sydney man who illegally brought native reptiles into NSW and failed to follow
 
 ### [Threatened native fish thriving after reintroduction to Bingera Creek | News](https://www.environment.nsw.gov.au/news/threatened-native-fish-thriving-after-reintroduction-bingera-creek)
 calendar_today 29 Apr 2026
-A threatened native fish is breeding successfully in Bingera Creek near Tooleybuc in the mid-Murray following a reintroduction supported by environmental water.
+A threatened native fish is breeding successfully in Bingera Creek near Tooleybuc in the mid-Murray following a reintroduction supported by environmental water. 
   * News
   * Water for the environment
-
-
-### [Hazard reduction burn in Morton National Park | Media release](https://www.environment.nsw.gov.au/news/hazard-reduction-burn-morton-national-park)
-calendar_today 28 Apr 2026
-The NSW National Parks and Wildlife Service (NPWS) will conduct a hazard reduction burn in Morton National Park from tomorrow Wednesday 29 April, weather permitting.
-  * Department media release
-  * Hazard reduction burn
-
-
-### [Central Coast hazard reduction burn in Jilliby State Conservation Area, Dooralong and Ravensdale | Media release](https://www.environment.nsw.gov.au/news/central-coast-hazard-reduction-burn-jilliby-state-conservation-area-dooralong-ravensdale)
-calendar_today 28 Apr 2026
-The NSW National Parks and Wildlife Service, with assistance from the NSW Rural Fire Service, is undertaking a hazard reduction burn in Jilliby State Conservation Area starting on Tuesday 28 April 2026.
-  * Department media release
-  * Hazard reduction burn
-
-
-### [Landholders ordered to pay over $430,000 for illegal land clearing in western NSW | Media release](https://www.environment.nsw.gov.au/news/landholders-ordered-pay-illegal-land-clearing-western-nsw)
-calendar_today 24 Apr 2026
-The NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW) has welcomed a Land and Environment Court decision fining two landholders for illegally clearing native vegetation in western NSW.
-  * Department media release
-  * Native vegetation
 
 
 Updated 27 February 2025 
