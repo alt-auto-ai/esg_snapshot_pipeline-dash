@@ -927,7 +927,7 @@ function buildMdBody(s) {
     if (index === 0) return '**' + text + '**';
     return text;
   }).join(' ');
-  return body + (s.URL ? ' [Read more](' + s.URL + ')' : '');
+  return body + (s.URL ? ' [**Read more**](' + s.URL + ')' : '');
 }
 
 function generateDoc() {
