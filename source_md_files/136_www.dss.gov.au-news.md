@@ -2,15 +2,15 @@
 # News
 Latest news and headlines from the Department of Social Services. 
 Menu 
-## Advice for DSS-funded service providers experiencing fuel supply disruptions
-21 April 2026 
-If we fund your services and fuel supply is an issue, talk to your Funding Arrangement Manager. 
-  * [ Read more ](https://www.dss.gov.au/news/advice-dss-funded-service-providers-experiencing-fuel-supply-disruptions)
+## National Families Week 2026
+11 May 2026 
+Recognising this year’s theme: Every Family, Everywhere 
+  * [ Read more ](https://www.dss.gov.au/news/national-families-week-2026)
 
 
 ## All news
 Filter
-Showing 1 to 12 of 130 results
+Showing 1 to 12 of 131 results
 News 4 May 2026
 ###  [ Scams misusing Department of Social Services branding and programs ](https://www.dss.gov.au/news/scams-misusing-department-social-services-branding-and-programs)
 Each year between April and July we receive increased reporting about fraudulent emails and social media posts offering payments administered by us. 
@@ -23,6 +23,9 @@ The National Child and Family Investment Strategy shows how all governments will
 News 23 April 2026
 ###  [ Coming soon: electronic newsletter for community sector ](https://www.dss.gov.au/news/coming-soon-electronic-newsletter-community-sector)
 Subscribe now to our new fortnightly newsletter, Community Sector News. 
+News 21 April 2026
+###  [ Advice for DSS-funded service providers experiencing fuel supply disruptions ](https://www.dss.gov.au/news/advice-dss-funded-service-providers-experiencing-fuel-supply-disruptions)
+If we fund your services and fuel supply is an issue, talk to your Funding Arrangement Manager. 
 News 25 March 2026
 ###  [ New peak body for First Nations communities ](https://www.dss.gov.au/news/new-peak-body-first-nations-communities)
 The Australian Government is supporting organisations working to end family, domestic and sexual violence. 
@@ -44,9 +47,6 @@ Take part in the survey between 2 February and 28 February 2026.
 News 23 January 2026
 ###  [ Scam alert – GrantConnect and the Community Grants Hub ](https://www.dss.gov.au/news/scam-alert-grantconnect-and-community-grants-hub)
 Be wary of emails pretending to be GrantConnect and the Community Grants Hub. 
-News 3 December 2025
-###  [ Recognising International Day of People with Disability ](https://www.dss.gov.au/news/recognising-international-day-people-disability)
-Promoting community awareness, understanding and acceptance of people with disability. 
 ####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
 Visit our contact us page. 
 ####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)
@@ -176,6 +176,7 @@ Close
       * [ Careers and employment ](https://www.dss.gov.au/careers-and-employment)
       * [ Graduate program ](https://www.dss.gov.au/graduate-program)
       * [ Ability Apprenticeships ](https://www.dss.gov.au/ability-apprenticeships-program)
+    * [ Committees, councils, groups and panels ](https://www.dss.gov.au/committees-councils-groups-and-panels)
     * [ Committees, panels and groups ](https://www.dss.gov.au/about-us/committees-panels-and-groups)
 Close 
       * [ Committees and panels ](https://www.dss.gov.au/committees-and-panels)

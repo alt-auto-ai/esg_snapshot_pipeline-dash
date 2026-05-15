@@ -36,6 +36,10 @@ From
 To
 Clear all filters
 News
+14 May 2026
+### [Discovering restoration at rare sandhill woodlands near Deniliquin](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/sandhill-woodlands)
+One of the Western Riverina region’s most distinctive and threatened ecosystems is showing encouraging signs of recovery. 
+News
 1 May 2026
 ### [Coomba Bay landholders connect koala habitat](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/coomba-bay)
 High on a steep ridgeline in northern NSW, mixed eucalypt forest sweeps across Wallingat National Park and into a private property playing an important role in protecting and connecting important koala habitat. 
@@ -71,10 +75,6 @@ News
 18 March 2026
 ### [Biodiversity Offsets Payment Calculator consultation: What we heard](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/what-we-heard)
 The NSW Biodiversity Conservation Trust has published a What we heard report summarising feedback received during public consultation on proposed changes to the Biodiversity Offsets Payment Calculator (BOPC) Order 2022.
-News
-16 March 2026
-### [Garry and Robyn Ostini’s commitment to conservation](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/daydawn)
-In the heart of the Central West, Garry and Robyn Ostini have spent the past 13 years at Daydawn , carrying forward a family legacy of caring for the land.
   * keyboard_arrow_left
   * 1
   * 2

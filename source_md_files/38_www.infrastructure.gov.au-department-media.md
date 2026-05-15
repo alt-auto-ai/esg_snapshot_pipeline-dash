@@ -22,9 +22,9 @@ For information on major infrastructure programs, or to search for information o
 We maintain an 
 You will need to sign up to access the library. If you need assistance with imagery please email 
 ## Latest news
+[ 15 May 2026 Have your say on mobile connectivity improvements on Tasmania's West Coast  Consultation has opened on the draft guidelines for the Mobile Black Spot Program West Coast Tasmania Mobile Capacity Uplift Round. ](https://www.infrastructure.gov.au/department/media/news/have-your-say-mobile-connectivity-improvements-tasmanias-west-coast)
+[ 12 May 2026 2026–27 Federal Budget released  Find out more about infrastructure, transport, communications, sport and the arts investment through the Federal Budget. ](https://www.infrastructure.gov.au/department/media/news/2026-27-federal-budget-released)
+[ 11 May 2026 New grants to help support news sector sustainability  The News Innovation Fund will help Australian news producers to innovate and adapt to the evolving media landscape. ](https://www.infrastructure.gov.au/department/media/news/new-grants-help-support-news-sector-sustainability)
 [ 08 May 2026 Celebrate Female Football Week - 8 to 17 May 2026  The nationwide initiative celebrates the growth of women’s football at all levels and acknowledges the important role women play in developing football. ](https://www.infrastructure.gov.au/department/media/news/celebrate-female-football-week-8-17-may-2026)
-[ 01 May 2026 $48 million in safety upgrades for Victorian roads  Funded projects address safety concerns raised by local communities across 60 Victorian locations. ](https://www.infrastructure.gov.au/department/media/news/48-million-safety-upgrades-victorian-roads)
-[ 30 Apr 2026 Consultation opens on drone security  The Australian Government is seeking feedback on proposals to address drone security risks, ensuring drone use can continue to be safe, responsible, and innovative. ](https://www.infrastructure.gov.au/department/media/news/consultation-opens-drone-security)
-[ 29 Apr 2026 Applications for the Perth Hills Round of the Mobile Network Hardening Program now open  The round will provide up to $1.2 million to upgrade up to 23 mobile tower sites across the Perth Hills region. ](https://www.infrastructure.gov.au/department/media/news/applications-perth-hills-round-mobile-network-hardening-program-now-open)
 [See all news](https://www.infrastructure.gov.au/media-centre/news)
 ## Videos

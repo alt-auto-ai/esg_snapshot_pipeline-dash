@@ -9,6 +9,10 @@
   * [Speeches](https://www.apra.gov.au/news-and-publications/40)
 
 
+13 May 2026
+#### APRA consults on more efficient and transparent bank licensing framework
+Media Releases 
+[APRA consults on more efficient and transparent bank licensing framework](https://www.apra.gov.au/news-and-publications/apra-consults-on-more-efficient-and-transparent-bank-licensing-framework)
 7 May 2026
 #### APRA temporarily withdraws Guidelines on Recognition of an External Credit Assessment Institution
 Media Releases 
@@ -89,10 +93,6 @@ Media Releases
 #### Payday Super Readiness
 Media Releases 
 [Payday Super Readiness](https://www.apra.gov.au/news-and-publications/payday-super-readiness)
-24 March 2026
-#### APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience 
-Media Releases 
-[APRA stress test shows how the widening home insurance protection gap may impact Australia's financial system resilience ](https://www.apra.gov.au/news-and-publications/apra-stress-test-shows-how-widening-home-insurance-protection-gap-may-impact)
 #### Subscribe for updates
 To receive media releases, publications, speeches and other industry-related information by email 
 [Subscribe](https://www.apra.gov.au/newsletter-signup)

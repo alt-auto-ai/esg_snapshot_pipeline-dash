@@ -1,6 +1,12 @@
 [ Skip to main content ](https://minister.dcceew.gov.au/bowen/media-releases#main-content)
 # Media releases
 ### May 2026 
+## [Joint media release: Three additional ships of diesel headed to South Australia, Tasmania, Victoria and Queensland](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-three-additional-ships-diesel-headed-south-australia-tasmania-victoria-and-queensland)
+15 May 2026
+The Albanese Labor Government has secured approximately 150 million litres, or 900,000 barrels, of additional diesel in three new shipments through partnerships with Ampol, Viva and regional supplier IOR.
+## [Joint media release: Strengthening Australia's fuel resilience](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-strengthening-australias-fuel-resilience)
+12 May 2026
+The Albanese Labor Government will deliver a major fuel security and price relief package in the Budget, investing $14.8 billion to immediately secure more fuel, strengthen Australia’s supply chains and build long-term resilience to future fuel shocks.
 ## [Joint media release: Albanese Government to secure Australian gas for Australian users ](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-albanese-government-secure-australian-gas-australian-users)
 7 May 2026
 The Albanese Labor Government will introduce a domestic gas reservation scheme that will require gas exporters supply a proportion of their total production to the Australian market – equivalent to 20 per cent of exports, from 1 July 2027.
@@ -26,9 +32,3 @@ The Albanese and Cook Labor Governments are delivering an historic boost to WA�
 ## [Joint media release: Australia-ROK joint statement on energy security](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-australia-rok-joint-statement-energy-security)
 30 April 2026
 Today, we are pleased to announce Australia and the Republic of Korea have renewed our commitment to work together to maintain a stable, secure and reliable supply of diesel and other liquid fuels. 
-## [Joint media release: Cheaper Home Batteries are powering the suburbs, rural and regional Australia](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-cheaper-home-batteries-are-powering-suburbs-rural-and-regional-australia)
-30 April 2026
-Over 350,000 households, small businesses and community organisations have now installed a bill busting battery under the Albanese Government’s Cheaper Home Batteries program.
-## [Australia's energy transition gathers pace](https://minister.dcceew.gov.au/bowen/media-releases/australias-energy-transition-gathers-pace)
-30 April 2026
-The first three months of the year saw record energy demand matched by record renewables in Australia’s energy grid, as batteries and solar helped push wholesale prices down. 

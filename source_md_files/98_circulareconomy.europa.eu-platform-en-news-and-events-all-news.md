@@ -35,13 +35,13 @@ Key Area
 [Consumption](https://circulareconomy.europa.eu/platform/en/key-area/consumption),
 [Waste management](https://circulareconomy.europa.eu/platform/en/key-area/waste-management)
 The Spanish ReLoop project is designing an all-in-one system which will dispense prepared food and collect the reusable, traceable containers in a closed-loop system.
-  * ##  [European circular electronics kickstart acceleration programme: call for SMEs and mentors](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/european-circular-electronics-kickstart-acceleration-programme-call-smes-and-mentors)
+  * ##  [European circular electronics kickstart acceleration programme: call for startups and mentors](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/european-circular-electronics-kickstart-acceleration-programme-call-startups-and-mentors)
 [Programme brochure](https://circulareconomy.europa.eu/platform/sites/default/files/2026-05/EVEN_CLOSER_ECEK_%20%20program%20brochure_0.pdf)
 07 May 2026
 News type
 [Article](https://circulareconomy.europa.eu/platform/en/news-type/article)
 Sector
-[B2B services](https://circulareconomy.europa.eu/platform/en/sector/b2b-services),
+[Business incubators, Startups](https://circulareconomy.europa.eu/platform/en/sector/business-incubators-startups),
 [Electronics and ICT](https://circulareconomy.europa.eu/platform/en/sector/electronics-and-ict),
 [Recycling](https://circulareconomy.europa.eu/platform/en/sector/recycling),
 [Repair, Refurbishment, Remanufacture, Repurpose](https://circulareconomy.europa.eu/platform/en/sector/repair-refurbishment-remanufacture-repurpose)
@@ -50,7 +50,7 @@ Scope
 Key Area
 [Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
 EVEN-CLOSER is a European initiative driving critical raw materials recovery from e-waste.
-They are looking for SMEs active in this sector, as well as for experienced mentors.
+They are looking for startups active in this sector, as well as for experienced mentors.
 **Apply by 29 May**!
   * ##  [Public consultation on adding exemptions to the rule on portable batteries](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/public-consultation-adding-exemptions-rule-portable-batteries)
 [Public consultation](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14857-Batteries-Regulation-list-of-products-exempted-from-the-general-removability-and-replaceability-requirements_en)

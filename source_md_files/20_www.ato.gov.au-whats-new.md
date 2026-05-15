@@ -2,7 +2,7 @@
 # What's new
 Find new or recently updated information from the last month.
 Search
-**Showing** 1 - 10 of 62
+**Showing** 1 - 10 of 72
 ### Filter
 #### Date Range
 From
@@ -12,16 +12,18 @@ To
   * Employer information (1)
   * General (6)
   * Large business (1)
+  * Lodgment and payment (2)
   * Looking after your workers (1)
   * New legislation (5)
+  * New legislation and policy (4)
   * Payday Super (4)
   * Public advice and guidance (1)
+  * Superannuation (1)
   * Tax time and reporting (1)
-  * Trusts (1)
   * Your practice (1)
 
 
-Show 62 results
+Show 72 results
 ### Filter
 #### Date Range
 From
@@ -31,45 +33,46 @@ To
   * Employer information (1)
   * General (6)
   * Large business (1)
+  * Lodgment and payment (2)
   * Looking after your workers (1)
   * New legislation (5)
+  * New legislation and policy (4)
   * Payday Super (4)
   * Public advice and guidance (1)
+  * Superannuation (1)
   * Tax time and reporting (1)
-  * Trusts (1)
   * Your practice (1)
 
 
-Show 62 results
-## [Don't delay: act now to transition from the SBSCH ](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/dont-delay-act-now-to-transition-from-the-sbsch)
-The SBSCH closes soon. You have limited time to move to an alternative provider and download records before access ends. 
-8 May 2026
-## [Payday Super made simpler with SuperStream](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/payday-super-made-simpler-with-superstream)
-SuperStream is being upgraded for Payday Super, so you can make payments faster and more frequently. 
-8 May 2026
-## [Payday Super: breaking down the basics](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/payday-super-breaking-down-the-basics)
-Watch our webinar to help your business nail the payroll and super process changes for Payday Super. 
-7 May 2026
-## [Making the move from quarterly super to Payday Super](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/making-the-move-from-quarterly-super-to-payday-super)
-Deputy Commissioner Emma Rosenzweig explains how employers can manage the move from quarterly super to Payday Super. 
-7 May 2026
-## [Joint operation takes aim at international scam syndicate](https://www.ato.gov.au/media-centre/joint-operation-takes-aim-at-international-scam-syndicate)
-An ATO-led operation executed a search warrant at a property in Western Sydney as part of Operation Falcata.
-7 May 2026
-Media releases
-## [Spotlight on personal services income compliance focus](https://www.ato.gov.au/businesses-and-organisations/business-bulletins-newsroom/spotlight-on-personal-services-income-compliance-focus)
-Assistant Commissioner Tony Poulakis provides insights for personal services businesses on how to address key risks.
-4 May 2026
-## [Super guarantee charge (SGC) statements due by 28 May](https://www.ato.gov.au/businesses-and-organisations/small-business-newsroom/super-guarantee-charge-statements-due-by-28-may)
-Get back on track for your quarterly SG due dates.
-4 May 2026
-## [2026 completed issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/public-advice-and-guidance-completed-issues/2026-completed-issues)
-This page will display a list of completed public advice and guidance issues for the 2026 year.
-4 May 2026
-## [Advice under development – capital gains tax issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/advice-under-development-capital-gains-tax-issues)
-Advice and guidance we are developing on capital gains tax issues.
-4 May 2026
-## [Advice under development – GST issues](https://www.ato.gov.au/about-ato/ato-advice-and-guidance/advice-under-development-program/advice-under-development-gst-issues)
-Advice and guidance we are developing on goods and services tax issues.
-4 May 2026
+Show 72 results
+## [What you need to know about the member verification request](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/what-you-need-to-know-about-the-member-verification-request)
+Learn how the member verification request (MVR) will improve the way your SMSF receives super contributions. 
+15 May 2026
+## [SuperStream Contributions v3.0: is your SMSF ready?](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/superstream-contributions-v3-is-your-smsf-ready)
+SuperStream Contributions v3.0 introduces critical changes that support Payday Super.
+15 May 2026
+## [Faster super payments with the NPP](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/faster-super-payments-with-the-npp)
+The New Payments Platform (NPP) means employer super contributions can reach your SMSF faster.
+15 May 2026
+## [Emma Rosenzweig shares tips on being ready for Payday Super](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/emma-rosenzweig-shares-tips-on-being-ready-for-payday-super)
+Supporting SMSFs to make the shift for Payday Super readiness.
+15 May 2026
+## [MTAS: What tax agents need to know for Tax Time 2026](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/mtas-what-tax-agents-need-to-know-for-tax-time-2026)
+Your updated 2026 trust tax return lodgment experience is just around the corner.
+15 May 2026
+## [What's on our radar for R&DTI claims?](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/what-s-on-our-radar-for-r-and-dti-claims)
+Read our areas of concern for research and development tax incentive claims to make sure your clients' are airtight.
+14 May 2026
+## [Annual obligations and balance amounts](https://www.ato.gov.au/tax-and-super-professionals/for-superannuation-professionals/apra-regulated-funds/fund-reporting-protocols/annual-obligations-and-balance-amounts)
+Guidance for meeting your annual reporting obligations.
+14 May 2026
+## [Apply to buy residential property as a foreign person](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/residential-property-application-for-foreign-investors)
+Check the conditions to apply for approval to buy Australian residential property as a foreign person.
+13 May 2026
+## [Report a breach of Australian foreign investment rules](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/how-we-ensure-compliance-by-a-foreign-person/report-a-breach-of-the-foreign-investment-rules)
+How to tell us confidentially if you suspect, know, or have breached Australia's foreign investment rules.
+13 May 2026
+## [Types of property a foreign person can buy](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/types-of-property-a-foreign-person-can-buy)
+Check what types of residential property a foreign person can buy in Australia.
+13 May 2026
 Report webpage issue

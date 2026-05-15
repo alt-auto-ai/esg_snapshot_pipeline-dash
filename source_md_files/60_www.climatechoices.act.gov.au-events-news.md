@@ -7,9 +7,6 @@ Below you can view the latest news as well as our upcoming seminars, workshops a
 
 
 Events
-Thu 14 May 
-[ Keeping your home warm for less (featuring insulation). Online workshop.  In this workshop, you’ll discover where your home loses heat and simple actions to keep in the warmth so you can save on energy costs during the colder months.  ](https://www.climatechoices.act.gov.au/events-news/events/keeping-your-home-warm-for-less-featuring-insulation9)
-Free 
 Thu 28 May 
 [ Understanding solar for your home. Online workshop.  In this workshop, you’ll explore the different parts of solar systems, learn how to select the right system for your needs and maximise its benefits to reduce your energy bills. We’ll also cover home battery storage systems to enhance your energy efficiency.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-solar-for-your-home4)
 Free 

@@ -2,6 +2,8 @@ Filter posts
 [Economics](https://australiainstitute.org.au/news/category/articles/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/articles/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/articles/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/articles/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/articles/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/articles/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/articles/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/articles/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/articles/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/articles/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/articles/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/articles/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/articles/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/articles/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/articles/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/articles/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/april-2026-media-highlights/)
+March was another jam-packed month here at the Institute!
 # April 2026
 [](https://australiainstitute.org.au/post/march-2026-media-highlights/)
 March was a busy month here at the Australia Institute!
@@ -69,7 +71,6 @@ An on-the-ground video investigation into the priceless aboriginal rock art at M
 A 50-year extension to the North West Shelf (NWS) project in Western Australia (WA) would see huge amounts of gas given away royalty-free. While the exact volume and value is hard to predict, a basic estimate is that up to $215 billion worth of gas could be given away, royalty-free. The NWS liquefied natural gas
 [](https://australiainstitute.org.au/post/why-the-elections-closest-seat-went-unnoticed-too-close-to-calwell/)
 Updated 30/05/2025 The outer-Melbourne electorate of Calwell was named “Australia’s most unpredictable seat” by The Age after the election and was – aside from those going to a recount – the last seat to be called. The AEC labelled the counting process for the seat “likely the most complex in Australia’s history”. The count is
-Australia has some very strong democratic institutions – like an independent electoral commission, Saturday voting, full preferential voting and compulsory voting. These ensure that elections are free from corruption; that electorate boundaries are not based on partisan bias; and that most Australians turn out to vote. They are evidence of Australia’s proud history as an
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

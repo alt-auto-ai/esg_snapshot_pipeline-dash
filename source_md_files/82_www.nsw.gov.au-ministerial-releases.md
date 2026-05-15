@@ -27,53 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-8 May 2026
-### [Minns Labor Government invests $600,000 to make Central Coast’s Peninsula greener and cooler](https://www.nsw.gov.au/ministerial-releases/minns-labor-government-invests-600000-to-make-central-coasts-peninsula-greener-and-cooler)
-The Minns Labor Government is investing $600,000 to help transform the streets, parks, and public spaces of Ettalong, Umina and Woy Woy into cooler, greener environments
+15 May 2026
+### [The Forest High School returns bigger and better to a new home](https://www.nsw.gov.au/ministerial-releases/forest-high-school-returns)
+Students and staff have welcomed the opening of the new Forest High School, as the Minns Labor Government delivers on its promise to build world-class infrastructure across NSW.
 Ministerial media release
-8 May 2026
-### [Sydney Metro probity investigation referred to police and integrity agencies](https://www.nsw.gov.au/ministerial-releases/sydney-metro-probity-investigation-referred-to-police-and-integrity-agencies)
-A major contractor on the Western Sydney Airport Metro project has been terminated after a probity investigation into supply chains.
+15 May 2026
+### [Design unveiled for new Bargo Ambulance Station](https://www.nsw.gov.au/ministerial-releases/design-unveiled-for-new-bargo-ambulance-station)
+The Bargo community are being given a first look at the design for the new Bargo Ambulance Station which will boost emergency and mobile medical care in the Macarthur region.
 Ministerial media release
-8 May 2026
-### [Milestone reached in fix for major Central Coast traffic pinch point](https://www.nsw.gov.au/ministerial-releases/fix-for-major-central-coast-traffic-pinch-point)
-Over 26,000 Central Coast motorists are a step closer to ditching one of the region’s worst bottlenecks, with the first construction stage of the Tumbi Road intersection upgrade wrapping up this week.
+15 May 2026
+### [Moor than an average wreck: Oldest colonial era boat preserved for permanent display](https://www.nsw.gov.au/ministerial-releases/oldest-colonial-era-boat-preserved)
+Australia’s oldest surviving colonial-era boat, discovered under layers of tidal sand and mud during excavation for the Barangaroo metro station, will be go on permanent display at the Australian National Maritime Musuem.
 Ministerial media release
-8 May 2026
-### [NSW Government initiates emergency response to address homelessness in Wagga Wagga](https://www.nsw.gov.au/ministerial-releases/emergency-homelessness-response-wagga-wagga)
-The NSW Government has brought together an emergency working group following the heartbreaking death of a newborn baby in a Wagga Wagga homeless encampment.
+15 May 2026
+### [Minister visits NSW’s busiest remand prison to thank staff on National Corrections Day](https://www.nsw.gov.au/ministerial-releases/national-corrections-day)
+The Minister for Corrections Anoulack Chanthivong is today visiting the Metropolitan Remand and Reception Centre (MRRC) at Silverwater Correctional Complex to thank staff for their service.
 Ministerial media release
-8 May 2026
-### [$1.2 million grant program to support community-led resilience projects](https://www.nsw.gov.au/ministerial-releases/12-million-grant-program-to-support-community-led-resilience-projects)
-Community organisations are invited to apply for funding under a special round of the Community Partnership Action (COMPACT) Program, which will deliver $1.2 million to projects supporting whole-of-community initiatives.
+15 May 2026
+### [Design unveiled for new Moss Vale Ambulance Station](https://www.nsw.gov.au/ministerial-releases/design-unveiled-for-new-moss-vale-ambulance-station)
+Moss Vale and surrounding communities are being given a first look at the design for the new Moss Vale Ambulance Station which will boost emergency and mobile medical care across the Southern Highlands.
 Ministerial media release
-8 May 2026
-### [Turning up the volume on Sydney’s waterfront with new busking spots at Sydney Fish Market](https://www.nsw.gov.au/ministerial-releases/new-busking-spots-at-fish-market)
-The Minns Labor Government is expanding opportunities for street performers, with four new busking sites added at the Sydney Fish Markets.
+15 May 2026
+### [Warrawong Seawall works begin as parklands transformation takes shape](https://www.nsw.gov.au/ministerial-releases/warrawong-seawall-works-begin)
+Construction is underway on the new Warrawong Seawall, marking the first major milestone in the revitalisation of Warrawong Parklands and the Lake Illawarra foreshore into a renewed waterfront destination for the Illawarra community.
 Ministerial media release
-8 May 2026
-### [New recruitment rules in place for early learning providers offer better protection for children thanks to new laws](https://www.nsw.gov.au/ministerial-releases/new-recruitment-rulesl-early-learning)
-New rules requiring early learning services to undertake strict screening checks and verify suitability to work with children are now in place as part of the Minns Labor Government reforms to keep children safe.
+15 May 2026
+### [Critical trackwork on the Blue Mountains line](https://www.nsw.gov.au/ministerial-releases/trackwork-halved-blue-mountains)
+Transport for NSW has halved the length of scheduled trackwork of the Blue Mountains rail line, to reduce further impact on communities already affected by the ongoing closure of the Great Western Highway at Victoria Pass.
 Ministerial media release
-8 May 2026
-### [A better run home: M5 West upgrade begins](https://www.nsw.gov.au/ministerial-releases/m5-west-upgrade-begins)
-Safety on the M5 is set for a major boost, with work now underway on the $380 million M5 Westbound upgrade to eliminate dangerous weaving and deliver a smoother, more reliable journey for thousands of motorists. 
+15 May 2026
+### [Minns Government boosting Western NSW’s workforce participation with 176 additional childcare places](https://www.nsw.gov.au/ministerial-releases/minns-government-boosting-western-nsws-workforce-participation-176-additional-childcare-places)
+The Minns Labor Government is boosting the workforce in Western NSW by investing an additional $4.9 million into early childhood education and care services into the high need locations of Carrathool, Hay and Warrumbungle Shires.
 Ministerial media release
-8 May 2026
-### [Two new services transforming mental healthcare in Kempsey](https://www.nsw.gov.au/ministerial-releases/transforming-mental-healthcare-kempsey)
-This Minns Labor Government is transforming mental health care in Kempsey, with two new initiatives improving access to critical mental health support.
+15 May 2026
+### [Construction begins on NSW’s first end-to-end green hydrogen hub](https://www.nsw.gov.au/ministerial-releases/construction-begins-on-nsws-first-end-to-end-green-hydrogen-hub)
+Construction has started on NSW’s first end-to-end hydrogen and ammonia production plant, The Good Earth Green Hydrogen and Ammonia (GEGHA) project, near Moree.
 Ministerial media release
-7 May 2026
-### [Final plan for Moore Park South delivers new park and 12-hole golf course for Sydney](https://www.nsw.gov.au/ministerial-releases/final-plan-for-moore-park-south-delivers-new-park-and-12-hole-golf-course-for-sydney)
-Mums, dads and young people from across Sydney are a step closer to being able to enjoy a brand-new park with sports fields, courts, outdoor fitness equipment, a nature playground, shaded picnic spaces with barbecues and more.
+14 May 2026
+### [First $60 million in community benefits unlocked by the New England Renewable Energy Zone](https://www.nsw.gov.au/ministerial-releases/first-60-million-community-benefits-unlocked-by-new-england-renewable-energy-zone)
+New England and Upper Hunter communities will share in an initial $60 million investment to deliver local infrastructure, services and employment opportunities as part of the New England Renewable Energy Zone.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 561
-  * 562
-  * 563
+  * 566
+  * 567
+  * 568
   * keyboard_arrow_right
 
 

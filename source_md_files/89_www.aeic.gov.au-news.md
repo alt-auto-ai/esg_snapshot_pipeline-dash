@@ -1,6 +1,12 @@
 [Skip to main content](https://www.aeic.gov.au/news#main-content "Skip to main content")
 # News
-Showing 1 - 6 of 42
+Showing 1 - 6 of 43
+12 May 2026
+[2025 Annual Report - Media release](https://www.aeic.gov.au/2025-annual-report-media-release)
+Our 2025 Annual Report outlines the work of the Office of the Australian Energy Infrastructure Commissioner from 1 January 2025 to 31 December 2025. 
+  * News 
+
+
 26 Feb 2026
 [AEIC Operational and Strategic Priorities 2026](https://www.aeic.gov.au/aeic-operational-and-strategic-priorities-2026)
 An overview of our annual priorities for 2026. 
@@ -28,12 +34,6 @@ The energy transition can’t keep happening to community
 14 Aug 2025
 [2024 AEIC Annual Report - Media release](https://www.aeic.gov.au/2024-aeic-annual-report-media-release)
 AEIC 2024 Report highlights role in supporting a smoother, fairer energy transition 
-  * News 
-
-
-3 Jun 2025
-[Commissioner Features on the emPOWER Podcast](https://www.aeic.gov.au/commissioner-features-empower-podcast)
-The Commissioner recently joined Wendy Agar on the emPOWER Podcast. 
   * News 
 
 

@@ -1,6 +1,3 @@
-Scheduled website update
-Please be advised that updates to the Commission's website will occur on Monday, 11 May between 9:00 AM and 10:30 AM (AEST). A brief interruption of up to 10 minutes is expected during this window. If you need assistance during this period, please contact us on (02) 9383 2100.
-closeClose message
 A NSW Government website
 # News
 ## After something specific?

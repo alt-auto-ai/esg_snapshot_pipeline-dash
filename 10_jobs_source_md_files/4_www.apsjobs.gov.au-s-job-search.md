@@ -13,11 +13,49 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 15 Jobs Found
+#### 20 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 sustainabilityFull-Time
+Posted: 15/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [Assistant Director](https://www.apsjobs.gov.au/s/job-details?title=assistant-director&Id=a05OY00000Oc49dYAB)
+$129,106 to $138,861
+Posted: 15/05/2026
+Australian Office of Financial Management
+### [Assistant Director, Investor Relations](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-investor-relations&Id=a05OY00000ObKBdYAN)
+$155,317 to $194,146
+Posted: 15/05/2026
+National Disability Insurance Agency
+### [Deputy Chief Executive Officer, Legal, Actuarial, Governance and Reviews](https://www.apsjobs.gov.au/s/job-details?title=deputy-chief-executive-officer-legal-actuarial-governance-and-reviews&Id=a05OY00000OaWbRYAV)
+Posted: 15/05/2026
+Department of Defence
+### [Estate Strategic Planners](https://www.apsjobs.gov.au/s/job-details?title=estate-strategic-planners&Id=a05OY00000OXODpYAP)
+$99,733 to $112,431
+Posted: 13/05/2026
+National Museum of Australia
+### [Manager, Property Operations](https://www.apsjobs.gov.au/s/job-details?title=manager-property-operations&Id=a05OY00000OYvu5YAD)
+$122,277 to $132,713
+Posted: 13/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [M365 Collaboration Analyst](https://www.apsjobs.gov.au/s/job-details?title=m365-collaboration-analyst&Id=a05OY00000OYTL8YAP)
+$99,734 to $112,044
+Posted: 13/05/2026
+Services Australia
+### [General Manager, Operations Management](https://www.apsjobs.gov.au/s/job-details?title=general-manager-operations-management&Id=a05OY00000OYNHKYA5)
+Posted: 12/05/2026
+Great Barrier Reef Marine Park Authority
+### [Property Services Support Officer](https://www.apsjobs.gov.au/s/job-details?title=property-services-support-officer&Id=a05OY00000OXa8YYAT)
+$71,374 to $78,222
+Posted: 11/05/2026
+Department of Defence
+### [FAS Industry Engagement Executive Officer and Business Manager (Multiple Roles)](https://www.apsjobs.gov.au/s/job-details?title=fas-industry-engagement-executive-officer-and-business-manager-multiple-roles-&Id=a05OY00000OQuiHYAT)
+$124,393 to $140,315
+Posted: 11/05/2026
+Department of Defence
+### [Clinical Team Leader (Social Worker)](https://www.apsjobs.gov.au/s/job-details?title=clinical-team-leader-social-worker-&Id=a05OY00000OPXKjYAP)
+$124,393 to $140,315
 Posted: 07/05/2026
 High Speed Rail Authority
 ### [Executive General Manager, Program](https://www.apsjobs.gov.au/s/job-details?title=executive-general-manager-program&Id=a05OY00000OSr6nYAD)
@@ -29,9 +67,6 @@ Posted: 07/05/2026
 Department of Veterans' Affairs
 ### [Director, Property Services](https://www.apsjobs.gov.au/s/job-details?title=director-property-services&Id=a05OY00000OPl5xYAD)
 $159,145 to $179,125
-Posted: 05/05/2026
-Future Fund Management Agency
-### [Procurement Business Partner](https://www.apsjobs.gov.au/s/job-details?title=procurement-business-partner&Id=a05OY00000OQCcQYAX)
 Posted: 04/05/2026
 Department of Agriculture, Fisheries and Forestry
 ### [Property Services Manager](https://www.apsjobs.gov.au/s/job-details?title=property-services-manager&Id=a05OY00000ON0r7YAD)
@@ -40,41 +75,6 @@ Posted: 04/05/2026
 Department of Climate Change, Energy, the Environment and Water (DCCEEW)
 ### [Project Manager](https://www.apsjobs.gov.au/s/job-details?title=project-manager&Id=a05OY00000OJJPJYA5)
 $129,106 to $138,861
-Posted: 04/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Project Support Officer (Affirmative Measure - Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=project-support-officer-affirmative-measure-indigenous-&Id=a05OY00000OJAFbYAP)
-$99,734 to $112,044
-Posted: 30/04/2026
-Great Barrier Reef Marine Park Authority
-### [ICT Business Systems Analyst - Great Barrier Reef Aquarium](https://www.apsjobs.gov.au/s/job-details?title=ict-business-systems-analyst-great-barrier-reef-aquarium&Id=a05OY00000OKYisYAH)
-$99,733 to $111,702
-Posted: 27/04/2026
-Department of Agriculture, Fisheries and Forestry
-### [Assistant Director - Property Services](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-property-services&Id=a05OY00000OD8htYAD)
-$129,106 to $138,861
-Posted: 24/04/2026
-Department of Agriculture, Fisheries and Forestry
-### [Intranet Team Leader](https://www.apsjobs.gov.au/s/job-details?title=intranet-team-leader&Id=a05OY00000OEZcnYAH)
-$129,106 to $138,861
-Posted: 22/04/2026
-Great Barrier Reef Marine Park Authority
-### [Assistant Director, Aquarium Commercial Operations](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-aquarium-commercial-operations&Id=a05OY00000OBqQTYA1)
-$121,312 to $132,962
-Posted: 21/04/2026
-National Museum of Australia
-### [Manager, Registration](https://www.apsjobs.gov.au/s/job-details?title=manager-registration&Id=a05OY00000O6u05YAB)
-$122,277 to $132,713
-Posted: 20/04/2026
-Federal Court of Australia
-### [Branch Head - People and Payroll](https://www.apsjobs.gov.au/s/job-details?title=branch-head-people-and-payroll&Id=a05OY00000O7p81YAB)
-$230,347 to $298,337
-Posted: 13/04/2026
-Australian National Audit Office
-### [SES Band 3 Deputy Auditor-General](https://www.apsjobs.gov.au/s/job-details?title=ses-band-3-deputy-auditor-general&Id=a05OY00000NrHYYYA3)
-$363,682 to $500,758
-Posted: 01/07/2025
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [Temporary Employment Register - 2025/26](https://www.apsjobs.gov.au/s/job-details?title=temporary-employment-register-2025-26&Id=a05OY00000E0p2VYAR)
-$55,639 to $173,095
+Load More
 Loading
 Job Search | APS Jobs

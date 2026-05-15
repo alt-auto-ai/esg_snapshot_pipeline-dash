@@ -3,7 +3,7 @@
   * [ Skip to footer ](https://www.sustainability.vic.gov.au/news/media-releases#footer)
 
 
-Updated statement on outcomes from the Silver Review (19 March 2026) 
+Updated statement on outcomes from the Silver Review (13 May 2026) 
 In its response to the Silver Review, the government has determined that Sustainability Victoria and its functions will be abolished in 2026. 
 [Read our full statement](https://www.sustainability.vic.gov.au/news/news-articles/statement-on-outcomes-from-the-silver-review).
 Dismiss alert

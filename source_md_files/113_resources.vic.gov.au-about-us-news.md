@@ -53,10 +53,10 @@ Landholders and community
   * [Private land access agreements](https://resources.vic.gov.au/landholders-and-community/commercial-consent-agreement)
   * [How mineral exploration and mining are regulated in Victoria](https://resources.vic.gov.au/landholders-and-community/how-mineral-exploration-and-mining-are-regulated-in-victoria)
   * [Community engagement and the duty to consult](https://resources.vic.gov.au/landholders-and-community/community-engagement-and-the-duty-to-consult)
-  * [Rehabilitation](https://resources.vic.gov.au/landholders-and-community/rehabilitation)
-
-
   * [Key site updates](https://resources.vic.gov.au/landholders-and-community/key-site-updates)
+
+
+  * [Rehabilitation](https://resources.vic.gov.au/landholders-and-community/rehabilitation)
 
 
 Licensing and approvals

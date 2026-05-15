@@ -1,4 +1,24 @@
 Media releases 
+  * ### [ASIC appeals $7 million penalty in Cigno Australia, BSF Solutions, and directors’ case](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-097mr-asic-appeals-7-million-penalty-in-cigno-australia-bsf-solutions-and-directors-case/)
+creditmedia release (26-097MR)
+15 May 2026
+creditfinancial services
+ASIC has appealed a Federal Court decision ordering Cigno Australia and its director Mark Swanepoel, and BSF Solutions and its director Brenton Harrison, to pay a combined $7 million in civil penalties.
+  * ### [Former financial services director Ashley Arandez sentenced to more than 5 years imprisonment](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-096mr-former-financial-services-director-ashley-arandez-sentenced-to-more-than-5-years-imprisonment/)
+financial servicesmedia release (26-096MR)
+12 May 2026
+financial services
+Ashley Arandez of Hoppers Crossing in Victoria has been sentenced to 5 years and 6 months imprisonment in the County Court of Victoria, after pleading guilty to offences involving dishonest conduct, carrying on an unlicensed financial services business, and recklessly dealing with the proceeds of crime.
+  * ### [Registration prohibition order against former UGC financial adviser Stephen Rogers increased to three years following review](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-095mr-registration-prohibition-order-against-former-ugc-financial-adviser-stephen-rogers-increased-to-three-years-following-review/)
+financial servicesmedia release (26-095MR)
+12 May 2026
+financial services
+A two-year prohibition against the registration of financial adviser Stephen Rogers as a relevant provider has been set aside and increased to three years following a review by the Administrative Review Tribunal (ART).
+  * ### [ASIC disqualifies NSW hospitality director Ken Sadamatsu for maximum 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-094mr-asic-disqualifies-nsw-hospitality-director-ken-sadamatsu-for-maximum-5-years/)
+bannings and alertsmedia release (26-094MR)
+11 May 2026
+bannings and alertscompanies
+ASIC has disqualified Katsuyoshi (‘Ken’) Sadamatsu, of Sydney, New South Wales, from managing corporations for a period of 5 years, after his involvement in five failed companies were that were involved in the accommodation and food services industries in New South Wales.
   * ### [ASIC permanently bans Queensland property developer Trent Giumelli from financial services](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-093mr-asic-permanently-bans-queensland-property-developer-trent-giumelli-from-financial-services/)
 financial advicemedia release (26-093MR)
 8 May 2026
@@ -39,6 +59,8 @@ bannings and alertsmedia release (26-086MR)
 30 April 2026
 bannings and alertsfinancial servicesmanaged investment schemes
 ASIC has cancelled the Australian financial services (AFS) licence of ABL Funds Management Pty Ltd (ABL).
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC disqualifies NSW director Lambros Hilellis for 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-085mr-asic-disqualifies-nsw-director-lambros-hilellis-for-5-years/)
 bannings and alertsmedia release (26-085MR)
 28 April 2026
@@ -59,8 +81,6 @@ auditorsmedia release (26-082MR)
 24 April 2026
 auditorscompaniesfinancial reportingreports and publications
 Pure Foods Tasmania Limited (Pure Foods Tasmania) has reduced the amount of deferred tax assets recognised in its half-yearly report for the 2025-26 financial year by $4.5 million.
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC continues finfluencer crackdown alongside global regulators](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-081mr-asic-continues-finfluencer-crackdown-alongside-global-regulators/)
 financial advicemedia release (26-081MR)
 24 April 2026

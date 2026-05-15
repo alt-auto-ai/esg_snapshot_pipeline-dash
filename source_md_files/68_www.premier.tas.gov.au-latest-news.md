@@ -1,28 +1,28 @@
 [Skip to content](https://www.premier.tas.gov.au/latest-news#maincontent)
-  * [ Financial close milestone powers Tasmania’s energy future forward   
-8 May 2026  The next generation of Tasmania’s energy infrastructure continues to power forward with another major milestone completed.TasNetworks ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/financial-close-milestone-powers-tasmanias-energy-future-forward)
-  * [ New Storm Warning System delivers clearer advice for Tasmanians   
-8 May 2026  Tasmanians are receiving clearer and more consistent emergency warning advice, with the delivery of the new Tasmanian Storm Warning System. ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/new-storm-warning-system-delivers-clearer-advice-for-tasmanians)
-  * [ Expanding vocational learning in Tasmanian schools   
-7 May 2026  The Tasmanian Government is delivering more vocational learning opportunities to Year 9 and 10 students, with the Youth Career Facilitator p...  ](https://www.premier.tas.gov.au/latest-news/2026/may/expanding-vocational-learning-in-tasmanian-schools)
-  * [ Mandatory Notifications Bill passes the House of Assembly   
-7 May 2026  The Integrity Commission Amendment (Mandatory Notifications) Bill 2025 has passed the House of Assembly. The Bill introduces a m...  ](https://www.premier.tas.gov.au/latest-news/2026/may/mandatory-notifications-bill-passes-the-house-of-assembly)
-  * [ Big summer of sailing as industry gears up for new Spirits   
-7 May 2026  It’s been a big summer for the Spirit of Tasmania with more than 320,000 passengers traveling on Bass Strait.With the new Spirits to b...  ](https://www.premier.tas.gov.au/latest-news/2026/may/big-summer-of-sailing-as-industry-gears-up-for-new-spirits)
-  * [ Federal private health changes to hit older Tasmanians   
-7 May 2026  Minister for Health, Mental Health and Wellbeing, Bridget Archer has called on the Australian Government to reconsider changes to private he...  ](https://www.premier.tas.gov.au/latest-news/2026/may/federal-private-health-changes-to-hit-older-tasmanians)
-  * [ Short Stay Levy keeps more tourism dollars in Tasmania   
-7 May 2026  The Tasmanian Government’s short stay levy delivers fairness in the growing visitor economy, with funds to be invested in housing for ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/short-stay-levy-keeps-more-tourism-dollars-in-tasmania)
-  * [ Tasmanian food and beverage businesses showcase the strength of domestic trade   
-6 April 2026  A dedicated TASMANIAN stand will highlight around 10 of the state’s food and beverages at one of Australia’s largest direct-to-r...  ](https://www.premier.tas.gov.au/latest-news/2026/may/tasmanian-food-and-beverage-businesses-showcase-the-strength-of-domestic-trade)
-  * [ Backing our Ambulance Tasmania clinicians   
-6 May 2026  The Tasmanian Government will always back our healthcare workers who make clinical judgements every single day, often under very challenging...  ](https://www.premier.tas.gov.au/latest-news/2026/may/backing-our-ambulance-tasmania-clinicians)
-  * [ Direct flight from Canberra touches down in Launceston   
-6 May 2026  The first direct flight between Canberra and Launceston, operated by Link Airways, landed at Launceston Airport today. The Tasmanian Governm...  ](https://www.premier.tas.gov.au/latest-news/2026/may/direct-flight-from-canberra-touches-down-in-launceston)
-  * [ More than 300,000 healthy breakfasts served in Tasmanian schools   
-6 May 2026  The Tasmanian Government’s School Breakfast Program has now delivered 300,000 free, healthy breakfasts to students across the State. T...  ](https://www.premier.tas.gov.au/latest-news/2026/may/more-than-300,000-healthy-breakfasts-served-in-tasmanian-schools)
-  * [ Caroline Wells the 30th Governor of Tasmania   
-6 May 2026  Caroline Wells will be the 30th Governor of Tasmania.Ms Wells is an experienced and passionate community leader who has held Chief Executive...  ](https://www.premier.tas.gov.au/latest-news/2026/may/caroline-wells-the-30th-governor-of-tasmania)
+  * [ Cosgrove High School officially opens state-of-the-art redevelopment   
+15 May 2026  The Tasmanian Government has delivered a $24.9 million redevelopment of Cosgrove High School.Minister for Education, Jo Palmer, said the red...  ](https://www.premier.tas.gov.au/latest-news/2026/may/cosgrove-high-school-officially-opens-state-of-the-art-redevelopment)
+  * [ Government's take joint action to support Liberty Bell Bay workers during sale process   
+15 May 2026  The Australian and Tasmanian Governments have provided additional support for Liberty Bell Bay workers while the administration and sale pro...  ](https://www.premier.tas.gov.au/latest-news/2026/may/governments-take-joint-action-to-support-liberty-bell-bay-workers-during-sale-process)
+  * [ Standing up for our productive industries in Canberra   
+15 May 2026  The Tasmanian Government has strongly advocated for the State’s forestry and mining industries in Canberra this week, progressing a ne...  ](https://www.premier.tas.gov.au/latest-news/2026/may/standing-up-for-our-productive-industries-in-canberra)
+  * [ TT-Line supported through 2026-27 Budget   
+15 May 2026  In the upcoming 2026-27 Budget, an equity injection of $506 million will be provided to TT-Line over the next four years.The Tasmanian Gover...  ](https://www.premier.tas.gov.au/latest-news/2026/may/tt-line-supported-through-2026-27-budget)
+  * [ Supporting Tasmania’s booming spirits industry   
+15 May 2026  The Tasmanian Government is reducing red tape and making it easier for Tasmanian distilling businesses to succeed.Minister for Small Busines...  ](https://www.premier.tas.gov.au/latest-news/2026/may/supporting-tasmanias-booming-spirits-industry)
+  * [ $83 million investment strengthens prevention of family violence and support for women   
+15 May 2026  The 2026–27 Tasmanian Budget delivers $83 million to strengthen the prevention of family violence and expand support for women across ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/$83-million-investment-strengthens-prevention-of-family-violence-and-support-for-women)
+  * [ Tasmania’s tourism industry showcased at top trade event   
+14 May 2026  Tasmanian tourism representatives and businesses are on show this week at the Australian Tourism Exchange, Australia’s biggest busines...  ](https://www.premier.tas.gov.au/latest-news/2026/may/tasmanias-tourism-industry-showcased-at-top-trade-event)
+  * [ Inaugural Minister's Local Government Forum held today   
+14 May 2026  The inaugural Minister's Local Government Forum has been held today, offering a chance to discuss important topics impacting the sector stat...  ](https://www.premier.tas.gov.au/latest-news/2026/may/inaugural-ministers-local-government-forum-held-today)
+  * [ Delivering the next phase of TasInsure for Tasmanians   
+14 May 2026  The Tasmanian Government is taking the next steps to deliver TasInsure - turning a clear election commitment into fairer, cheaper insurance ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/delivering-the-next-phase-of-tasinsure-for-tasmanians)
+  * [ $195 million reinforces Libraries Tasmania’s essential role in local communities   
+14 May 2026  The 2026–27 Tasmanian Budget includes $195 million for Libraries Tasmania to continue to provide welcoming community hubs that support...  ](https://www.premier.tas.gov.au/latest-news/2026/may/$195-million-reinforces-libraries-tasmanias-essential-role-in-local-communities)
+  * [ Concept plans released for North West Support School   
+14 May 2026  The next step towards delivering modern and fit-for purpose facilities for the North West Support School community is underway with concept ...  ](https://www.premier.tas.gov.au/latest-news/2026/may/concept-plans-released-for-north-west-support-school)
+  * [ Growing cultural understanding through festivals   
+14 May 2026  Ten multicultural organisations across Tasmania will share in $40,000 to assist in delivering festivals and events that promote their cultur...  ](https://www.premier.tas.gov.au/latest-news/2026/may/growing-cultural-understanding-through-festivals)
 
 
 [ Previous ](https://www.premier.tas.gov.au/latest-news) 1 [2](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2) [3](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=3) [4](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=4) [5](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=5) [ Next ](https://www.premier.tas.gov.au/latest-news?result_359058_result_page=2)

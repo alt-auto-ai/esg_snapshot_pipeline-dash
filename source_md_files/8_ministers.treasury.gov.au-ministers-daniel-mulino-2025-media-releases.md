@@ -13,6 +13,9 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Legislation providing access to offenders’ super for victims and survivors of child sexual abuse passes the Parliament](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-providing-access-offenders-super-victims)
+14 May 2026
+The Albanese Government is ensuring convicted child sexual abusers cannot hide their assets in superannuation to avoid paying compensation to their victims. 
 ### [Strengthening the Annual Superannuation Performance Test](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/strengthening-annual-superannuation-performance-test)
 8 May 2026
 The Albanese Labor Government is acting to strengthen the annual superannuation performance test. 
@@ -70,6 +73,3 @@ The Albanese Government has today introduced legislation which will deliver the 
 ### [Consulting on enhancing oversight and governance of Managed Investment Schemes](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consulting-enhancing-oversight-and-governance-managed)
 10 February 2026
 The Albanese government is releasing the first of the consultation papers to improve consumer protections in the wake of the collapse of the Shield and First Guardian Master Funds. 
-### [Government begins consultation on Superannuation and Victims of Crime legislation](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/government-begins-consultation-superannuation-and)
-2 February 2026
-The Albanese Government has today commenced public consultation on draft legislation designed to prevent convicted child sexual abusers from hiding their assets in superannuation to avoid paying co 

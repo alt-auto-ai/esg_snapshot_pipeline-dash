@@ -1,6 +1,7 @@
 [ Skip to main content ](https://www.dewr.gov.au/newsroom#main-content)
 #  Newsroom 
-### [ Turning experience into opportunity: Paul’s career comeback 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/turning-experience-opportunity-pauls-career-comeback)
+### [ From hands-on experience to steady work: Thomas’ journey to employment with EST 11 May 2026 ](https://www.dewr.gov.au/newsroom/articles/hands-experience-steady-work-thomas-journey-employment-est)
+  * ### [ Turning experience into opportunity: Paul’s career comeback 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/turning-experience-opportunity-pauls-career-comeback)
   * ### [ Queensland TAFE Centre of Excellence - Construction Tech to boost major projects 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/queensland-tafe-centre-excellence-construction-tech-boost-major-projects)
   * ### [ Victorian TAFE Centre of Excellence to power clean energy workforce  17 April 2026 ](https://www.dewr.gov.au/newsroom/articles/victorian-tafe-centre-excellence-power-clean-energy-workforce)
   * ### [ Recognition of Prior Learning 16 April 2026 ](https://www.dewr.gov.au/newsroom/articles/recognition-prior-learning)
@@ -24,7 +25,6 @@
   * ### [ Celebrating excellence at the 2025 Australian Training Awards  17 December 2025 ](https://www.dewr.gov.au/newsroom/articles/celebrating-excellence-2025-australian-training-awards)
   * ### [ Final report of the Safety, Rehabilitation and Compensation Act 1988 review 12 December 2025 ](https://www.dewr.gov.au/newsroom/articles/final-report-safety-rehabilitation-and-compensation-act-1988-review)
   * ### [ VET helped Lauryn find her true calling 11 December 2025 ](https://www.dewr.gov.au/newsroom/articles/vet-helped-lauryn-find-her-true-calling)
-  * ### [ Hyunjin’s small business journey: a simple idea goes international 9 December 2025 ](https://www.dewr.gov.au/newsroom/articles/hyunjins-small-business-journey-simple-idea-goes-international)
 
 
 Back to top

@@ -13,11 +13,45 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 68 Jobs Found
+#### 60 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 Australian Prudential Regulatory AuthorityProductivity CommissionCommonwealth Scientific and Industrial Research Organisation (CSIRO)Department of Climate Change, Energy, the Environment and Water (DCCEEW)Australian Renewable Energy AgencyClimate Change AuthorityDepartment of Industry, Science and Resources (DISR)Department of Infrastructure, Transport, Regional Development, Communications, Sport and the ArtsAustralian Competition and Consumer CommissionClean Energy RegulatorDepartment of the TreasuryWorkplace Gender Equality AgencyFull-Time
+Posted: 15/05/2026
+Climate Change Authority
+### [Social Media and Communication Officer](https://www.apsjobs.gov.au/s/job-details?title=social-media-and-communication-officer&Id=a05OY00000ObUvmYAF)
+$88,834 to $96,829
+Posted: 14/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Executive Assistant](https://www.apsjobs.gov.au/s/job-details?title=executive-assistant&Id=a05OY00000OZkyDYAT)
+$88,834 to $96,829
+Posted: 14/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Director (Chief of Operations - Operations Management Centre)](https://www.apsjobs.gov.au/s/job-details?title=director-chief-of-operations-operations-management-centre-&Id=a05OY00000OVFD4YAP)
+$151,938 to $176,530
+Posted: 13/05/2026
+Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+### [SAP Senior Basis Administrator](https://www.apsjobs.gov.au/s/job-details?title=sap-senior-basis-administrator&Id=a05OY00000OZ9llYAD)
+$135,571 to $158,863
+Posted: 12/05/2026
+Productivity Commission
+### [Policy Analyst (Identified Position)](https://www.apsjobs.gov.au/s/job-details?title=policy-analyst-identified-position-&Id=a05OY00000OXBmsYAH)
+$99,734 to $114,908
+Posted: 12/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Tourism and Media Permits Support Officer (Affirmative Measure – Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=tourism-and-media-permits-support-officer-affirmative-measure-indigenous-&Id=a05OY00000OUfKrYAL)
+$80,371 to $87,496
+Posted: 12/05/2026
+Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+### [Tourism and Media Permits Support Officer](https://www.apsjobs.gov.au/s/job-details?title=tourism-and-media-permits-support-officer&Id=a05OY00000OUdMHYA1)
+$80,371 to $87,496
+Posted: 11/05/2026
+Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+### [HR Officer - Payroll](https://www.apsjobs.gov.au/s/job-details?title=hr-officer-payroll&Id=a05OY00000OV8jRYAT)
+Posted: 11/05/2026
+Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+### [Full-time Authority Members - Australian Communications and Media Authority (ACMA)](https://www.apsjobs.gov.au/s/job-details?title=full-time-authority-members-australian-communications-and-media-authority-acma-&Id=a05OY00000OUxsrYAD)
 Posted: 08/05/2026
 Australian Competition and Consumer Commission
 ### [Executive General Manager, Consumer and Fair Trading](https://www.apsjobs.gov.au/s/job-details?title=executive-general-manager-consumer-and-fair-trading&Id=a05OY00000OU1TtYAL)
@@ -41,42 +75,6 @@ Posted: 07/05/2026
 Department of Climate Change, Energy, the Environment and Water (DCCEEW)
 ### [Fire Management Support Officer - Identified](https://www.apsjobs.gov.au/s/job-details?title=fire-management-support-officer-identified&Id=a05OY00000OR2CnYAL)
 $80,371 to $87,496
-Posted: 07/05/2026
-Clean Energy Regulator
-### [Senior Multimedia Production Officer](https://www.apsjobs.gov.au/s/job-details?title=senior-multimedia-production-officer&Id=a05OY00000OPWJpYAP)
-$102,268 to $116,424
-Posted: 07/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Permits & Licenses Manager (Affirmative Measure - Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=permits-licenses-manager-affirmative-measure-indigenous-&Id=a05OY00000OLiUrYAL)
-$129,106 to $138,861
-Posted: 07/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Permits & Licenses Manager](https://www.apsjobs.gov.au/s/job-details?title=permits-licenses-manager&Id=a05OY00000OLguTYAT)
-$129,106 to $138,861
-Posted: 06/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Fire Management Support Officer- Affirmative measure (Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=fire-management-support-officer-affirmative-measure-indigenous-&Id=a05OY00000OR0qvYAD)
-$80,371 to $87,496
-Posted: 05/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Fire Management Coordinator - Identified](https://www.apsjobs.gov.au/s/job-details?title=fire-management-coordinator-identified&Id=a05OY00000OPMsLYAX)
-$99,734 to $112,044
-Posted: 05/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Fire Management Coordinator - Affirmative measure (Indigenous)](https://www.apsjobs.gov.au/s/job-details?title=fire-management-coordinator-affirmative-measure-indigenous-&Id=a05OY00000OPLhmYAH)
-$99,734 to $112,044
-Posted: 05/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Seasonal Interpretative Ranger](https://www.apsjobs.gov.au/s/job-details?title=seasonal-interpretative-ranger&Id=a05OY00000OPIlVYAX)
-$57,497 to $79,747
-Posted: 05/05/2026
-Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
-### [APS5 - Senior Payroll Officer, People Branch](https://www.apsjobs.gov.au/s/job-details?title=aps5-senior-payroll-officer-people-branch&Id=a05OY00000ON9G5YAL)
-$89,225 to $96,829
-Posted: 05/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [ISR Specialist, Uncrewed Systems](https://www.apsjobs.gov.au/s/job-details?title=isr-specialist-uncrewed-systems&Id=a05OY00000OMmhhYAD)
-$129,106 to $138,861
 Load More
 Loading
 Job Search | APS Jobs

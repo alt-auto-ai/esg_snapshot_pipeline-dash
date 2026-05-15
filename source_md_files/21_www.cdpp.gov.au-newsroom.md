@@ -13,6 +13,12 @@ On 4 February 2026, the WA Joint Counter Terrorism Team (JCTT) (comprising the W
 ---  
 **Last updated: Monday 4 May 2026**  
 The defendant’s bail was varied. The prosecution applied for and was granted a final non-publication order.  
+### [Commonwealth Solicitor changes](https://www.cdpp.gov.au/news/commonwealth-solicitor-changes)
+Friday, May 15, 2026 - 12:00
+After 38 years in the public service, 37 of those with the Office of the Director of Public Prosecutions (Cth) (CDPP), including two years as the Commonwealth Solicitor for Public Prosecutions, Mark de Crespigny has announced his retirement and will have his last day in the Office 
+### [Federal Budget provides funding for continuing measures](https://www.cdpp.gov.au/news/federal-budget-provides-funding-continuing-measures)
+Wednesday, May 13, 2026 - 12:00
+On Tuesday 12 May 2026 the Treasurer, the Hon Dr Jim Chalmers MP, delivered the 2026–27 Federal Budget, which included $59.8 million in funding for the CDPP.
 ### [Federal Counsel at the CDPP](https://www.cdpp.gov.au/news/federal-counsel-cdpp)
 Wednesday, May 6, 2026 - 12:00
 Following a competitive recruitment process, with quality applicants from around the country, the CDPP has appointed Mr Patrick Dixon, Mr Hadi Mazloum and Ms Katie McCann, as Federal Counsel, for fixed terms.
@@ -84,12 +90,6 @@ The CDPP’s Library and Research Services team has won the 2022 Legal Informati
 ### [Prosecution of Mr Bernard Collaery](https://www.cdpp.gov.au/news/prosecution-mr-bernard-collaery)
 Thursday, July 7, 2022 - 12:00
 On 7 July 2022 the Commonwealth Attorney-General, the Honourable Mark Dreyfus QC MP, announced he had declined to proceed further in the prosecution of Mr Bernard Collaery for five offences relating to the alleged unlawful communication of ASIS information contrary to the  _Intelligence Ser_
-### [Banking cartel prosecutions discontinued](https://www.cdpp.gov.au/news/banking-cartel-prosecutions-discontinued)
-Friday, February 11, 2022 - 12:00
-On 11 February 2022, the Commonwealth Director of Public Prosecutions Ms Sarah McNaughton SC announced her decision to decline to proceed further in the criminal prosecutions of Citigroup Global Markets Australia Pty Limited, Deutsche Bank AG and four senior banking executives for cartel offences
-### [CDPP 2020-21 Annual Report and 2021-25 Corporate Plan available](https://www.cdpp.gov.au/news/cdpp-2020-21-annual-report-and-2021-25-corporate-plan-available)
-Friday, October 22, 2021 - 12:00
-The [CDPP 2020-21 Annual Report](https://www.cdpp.gov.au/publications/annual-report-2020-21) was tabled in Parliament on Wednesday 20 October 2021. 
 Original text
 Rate this translation
 Your feedback will be used to help improve Google Translate

@@ -2,6 +2,14 @@ Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/coles-guilty-of-fake-discounts-but-it-shouldnt-be-the-only-corporate-giant-taken-down-down-for-gouging-australians/)
+The Australia Institute welcomes the Federal Court’s finding that Coles has misled Australian shoppers by promoting fake discounts on everyday grocery products.
+[](https://australiainstitute.org.au/post/a-plan-to-fix-the-national-electricity-market/)
+The National Electricity Market (NEM), the system which connects more than 80% of Australians to one electricity grid, needs a fundamental overhaul according to a new report by Professor John Quiggin, published by The Australia Institute.
+[](https://australiainstitute.org.au/post/help-for-home-buyers-horror-for-ndis-participants-and-the-gas-industrys-free-ride-rolls-on/)
+Scaling back tax breaks for property investors is the first policy change in a generation which will make housing more affordable, according to economists, following Tuesday’s Federal Budget.
+[](https://australiainstitute.org.au/post/open-letter-calls-on-victorian-parliament-to-make-election-donation-laws-fair-and-transparent/)
+Leading civil society organisations have signed an open letter, published today in The Age, calling on the Victorian Parliament to prioritise transparency, fairness and freedom when legislating new political donation and election campaigning laws. 
 [](https://australiainstitute.org.au/post/half-baked-gas-reservation-a-distraction-that-wont-raise-a-cent-in-revenue/)
 The government’s gas reservation policy – announced a short time ago – has been branded a “half-baked solution” to a problem which has been deliberately created by foreign gas companies to gouge Australians for their own gas.
 [](https://australiainstitute.org.au/post/world-record-18-years-in-balance-of-power-as-shane-rattenbury-retires-from-act-parliament/)
@@ -56,14 +64,6 @@ The Iran conflict is driving up fuel prices across the world, which will flow th
 New polling conducted for The Australia Institute reveals broad support for access to abortion services, despite anti-abortion rhetoric ahead of the South Australian election and Farrer by-election.
 [](https://australiainstitute.org.au/post/gun-law-fail-dodgy-licences-lead-to-firearms-flood/)
 Hundreds of thousands of gun owners have no genuine reason to have a firearm according to analysis released today by The Australia Institute.
-[](https://australiainstitute.org.au/post/australian-fossil-fuel-subsidies-growing-faster-than-ndis-hitting-16-3-billion-in-2025-26/)
-Australian state and federal governments provided $16.3 billion in subsidies to fossil fuel producers and major users in 2025-26, according to new research from The Australia Institute.
-[](https://australiainstitute.org.au/post/new-analysis-mid-east-wars-hit-to-australian-economy-how-to-reduce-its-impact/)
-New analysis by The Australia Institute reveals the impact the war in the Middle East is likely to have on Australian households – and recommends policies to limit the hardship.
-[](https://australiainstitute.org.au/post/parliament-forum-calls-for-urgent-palm-visa-reform-as-7000-workers-disengage/)
-Exploitation and poor living conditions have led an estimated 7000 people to walk away from the Pacific Australia Labour Mobility (PALM) scheme.
-[](https://australiainstitute.org.au/post/exclusive-farrer-poll-one-nation-ahead-but-faces-preference-challenge-huge-support-for-gas-tax/)
-Polling conducted for The Australia Institute reveals One Nation narrowly leads Independent Michelle Milthorpe in Farrer on primary votes, but that may not be enough to secure the once-safe Liberal seat.
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

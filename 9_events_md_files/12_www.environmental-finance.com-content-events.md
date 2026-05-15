@@ -16,7 +16,7 @@
 [ 2 November 2026, 8:15 AM Gulf Transition & Sustainable Finance 2026 The original event for GSSS bond and loan issuers and investors. **Dubai, United Arab Emirates**. ](https://www.environmental-finance.com/content/events/content/events/gulf-transition-and-sustainable-finance-2026/)
 ### Upcoming Webinars
 [More](https://www.environmental-finance.com/content/events/content/webinars/)
-[ 20 May 2026, 3:00 PM BST Climate risk, quantified: from climate data to financial impacts with ClimateMetrics Join Scientific Climate Ratings for a live demonstration and discover how to integrate climate risk into: investment due diligence, portfolio monitoring, financial analysis and reporting workflows. ](https://www.environmental-finance.com/content/events/content/webinars/climate-risk-quantified-from-climate-data-to-financial-impacts-with-climatemetrics.html)
+[ 20 May 2026, 3:00 PM BST Climate risk, quantified: from climate data to financial impacts with ClimateMetrics Join the discussion as Scientific Climate Ratings showcase how such analytics can be integrated into existing investment workflows, offering a practical view of how climate risk is being mapped across sectors. ](https://www.environmental-finance.com/content/events/content/webinars/climate-risk-quantified-from-climate-data-to-financial-impacts-with-climatemetrics.html)
 ### Past Conferences
 arrow_back_ios 
   * [ 23 April 2026 Sustainable Debt EMEA 2026 The original event for GSSS bond and loan issuers and investors. **London, UK** ](https://www.environmental-finance.com/content/events/content/events/sustainable-debt-emea-2026/)

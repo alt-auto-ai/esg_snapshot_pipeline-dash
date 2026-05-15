@@ -1,6 +1,18 @@
 [ Skip to main content ](https://minister.agriculture.gov.au/Collins/media-releases#main) [ Skip to search](https://minister.agriculture.gov.au/Collins/media-releases#global-search-query)
 # Media releases
 ### May 2026
+## [Delivering more transition assistance for the phase out of live sheep](https://minister.agriculture.gov.au/collins/media-releases/delivering-more-transition-assistance-phase-out-live-sheep)
+15 May 2026
+The Albanese Labor Government is continuing to assist sheep farmers, livestock transport operators and regional communities through the phase out of live sheep exports by sea, with further funding opening this month for two transition programs.
+## [Joint media release: $4.4 Million to strengthen Tasmania's drought and climate resilience ](https://minister.agriculture.gov.au/collins/media-releases/joint-media-release-44-million-strengthen-tasmanias-drought-and-climate-resilience)
+15 May 2026
+Tasmanian communities and organisations will be able to continue to invest in and develop community-led drought and climate initiatives, with the Albanese and Rockliff governments investing $4.4 million through to 2029.
+## [Albanese Labor Government secures first shipments of additional farm fertiliser](https://minister.agriculture.gov.au/collins/media-release/joint-media-release-albanese-farrell-collins-ayres-additional-fertiliser-secured-for-australia)
+14 May 2026
+The Albanese Labor Government has secured approximately 90,000 tonnes of agricultural grade urea for Australian farmers, producers, and our agriculture industry to keep Australia’s food supply chain moving.
+## [Joint media release: Strengthening Australia's fuel resilience](https://minister.agriculture.gov.au/collins/media-releases/strengthening-australia%27s-fuel-resilience)
+12 May 2026
+The Albanese Labor Government will deliver a major fuel security and price relief package in the Budget, investing $14.8 billion to immediately secure more fuel, strengthen Australia’s supply chains and build long-term resilience to future fuel shocks.
 ## [$3 million Green Sheep Project launched at Agfest](https://minister.agriculture.gov.au/collins/media-releases/green-sheep-project-launch-agfest)
 7 May 2026
 The Albanese Labor Government is working closely with farmers and producers to improve climate resilience with the launch of the $3 million Green Sheep Project at Tasmania’s iconic Agfest field day today.
@@ -19,16 +31,3 @@ The Albanese Labor Government has today announced the appointment of Dr Ashley B
 ## [New market access to Indonesia for five export meat establishments](https://minister.agriculture.gov.au/collins/media-release/media-release-five-new-export-meat-establishments-approved-for-indonesia)
 1 May 2026
 The Albanese Labor Government is delivering new opportunities for Australia’s red meat industry with the approval of five additional export beef establishments for exports to Indonesia, including one establishment also receiving approval for sheep and goa
-### April 2026
-## [Joint media release: Securing more fuel and fertiliser](https://minister.agriculture.gov.au/collins/media-releases/securing-more-fuel-and-fertiliser)
-22 April 2026
-Under the Albanese Government’s new Strategic Reserve powers, a further 200 million litres of additional diesel for Australia has been secured, and work has commenced with leading fertiliser companies to secure more supply at this critical time in the gro
-## [Joint media release: Now available: $6.15 billion to back Australian industry and shore up supply chains](https://minister.agriculture.gov.au/collins/media-releases/now-available-615-billion-back-australian-industry-and-shore-supply-chains)
-20 April 2026
-Australian businesses are now able to access $6.15 billion through the National Reconstruction Fund, as the Albanese Government fast tracks three streams of funding to get finance moving to strengthen critical supply chains. 
-## [Joint media release: Securing more fertiliser for Australian farmers](https://minister.agriculture.gov.au/collins/media-releases/securing-more-fertiliser-for-australian-farmers)
-17 April 2026
-The Albanese Labor Government has worked with industry and the Indonesian Government to facilitate 250,000 tonnes of additional agricultural grade urea for Australian farmers from Indonesia.
-## [Australia-Malaysia halal partnership good news for producers](https://minister.agriculture.gov.au/collins/media-release/media-release-australia-malayssia-halal-red-meat-partnership)
-16 April 2026
-The Albanese Labor Government is delivering new opportunities for Australian red meat producers with an Australia-Malaysia Strategic Halal Red Meat Partnership to strengthen collaboration between the two countries on trade in halal red meat and meat produ

@@ -1,23 +1,23 @@
 # News
 English 
 [العربية](https://www.imf.org/ar/news "العربية") [español](https://www.imf.org/es/News/SearchNews "español") [français](https://www.imf.org/fr/News/SearchNews "français") [日本語](https://www.imf.org/ja/News/SearchNews "日本語") [русский](https://www.imf.org/ru/News/SearchNews "русский") [中文](https://www.imf.org/zh/News/SearchNews "中文")
-#### [Wars Impose Lasting Economic Costs, While More Defense Spending Means Hard Choices Rising defense spending requires difficult fiscal choices to avoid raising vulnerabilities, while post-war recovery hinges on policies to reduce uncertainty ](https://www.imf.org/en/blogs/articles/2026/04/08/wars-impose-lasting-economic-costs-while-more-defense-spending-means-hard-choices)
-[](https://www.imf.org/en/videos/view/6392816246112?sort=mostrecent&page=1)##### [Cushioning the Middle East War Shock](https://www.imf.org/en/videos/view/6392816246112?sort=mostrecent&page=1)
-Ahead of the 2026 Annual Meetings Kristalina Georgieva delivers a Curtain Raiser speech on the outlook for the global economy and policy priorities.
-[](https://meetings.imf.org/en)##### [2026 Spring Meetings](https://meetings.imf.org/en)
-The 2026 Spring Meetings will be held from Monday, April 13, through Saturday, April 18, at the IMF and World Bank in Washington, DC.
+#### [Budget Credibility as an Anchor for Better Economic Outcomes for Africa Policy priorities include more realistic forecasting, stronger expenditure controls, improved cash management, and institutional reforms to better align budgets with outcomes ](https://www.imf.org/en/news/articles/2026/05/13/cf-budget-credibility-as-an-anchor-for-better-economic-outcomes-for-africa)
+[](https://www.imf.org/en/news/articles/2026/05/12/sp051226-africas-golden-future)##### [Africa's Golden Future](https://www.imf.org/en/news/articles/2026/05/12/sp051226-africas-golden-future)
+Remarks by IMF Managing Director Kristalina Georgieva at the Africa Forward Summit
+[](https://meetings.imf.org/en)##### [Driving Lessons from Poland’s Growth Journey](https://meetings.imf.org/en)
+Poland’s transformation into a prosperous, stable, and innovative economy was driven by strong institutions, openness, and reform
 SearchSearch
 ##### Latest News
-  * [May 8, 2026IMF Staff Completes Governance and Corruption Diagnostic Mission to Nepal](https://www.imf.org/en/news/articles/2026/05/07/pr26144-nepal-imf-staff-completes-governance-and-corruption-diagnostic-mission-to-nepal)
-  * [May 7, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Antigua and Barbuda](https://www.imf.org/en/news/articles/2026/05/07/pr26142-antigua-and-barbuda-imf-executive-board-concludes-2026-article-iv-consultation)
-  * [May 7, 2026Austria: Staff Concluding Statement of the 2026 Article IV Mission ](https://www.imf.org/en/news/articles/2026/05/06/mcs-05062026-austria-staff-concluding-statement-of-the-2026-article-iv-mission)
-  * [May 7, 2026IMF Executive Board Approves Extension of the Extended Credit Facility Arrangement with Nepal](https://www.imf.org/en/news/articles/2026/05/06/imf-pr-26141-nepal-imf-executive-board-approves-ext-of-ecf-arrang)
-  * [May 7, 2026IMF Staff Reaches Staff-Level Agreement on the Third Review under the Policy Coordination Instrument with Serbia](https://www.imf.org/en/news/articles/2026/05/06/pr26140-serbia-imf-staff-reaches-staff-level-agreement-on-the-3rd-review-under-the-pci)
-  * [May 7, 2026Luxembourg: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/05/06/mcs-05062026-luxembourg-staff-concluding-statement-of-the-2026-article-iv-mission)
-  * [May 6, 2026IMF Staff Completes the 2026 Article IV and Programs Review Mission to the Democratic Republic of Congo](https://www.imf.org/en/news/articles/2026/05/06/pr-26139-democratic-republic-of-congo-imf-completes-the-2026-article-iv-and-programs-rev-mission)
-  * [May 6, 2026Portugal: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/05/06/mcs-05062026-portugal-staff-concluding-statement-of-the-2026-article-iv-mission)
+  * [May 15, 2026Press Briefing Transcript: Julie Kozack, Director, Communications Department, May 14, 2026](https://www.imf.org/en/news/articles/2026/05/14/tr051426-imf-regular-briefing-may-14-2026)
+  * [May 15, 2026How Tax Administration Supported Greece's Economic Recovery](https://www.imf.org/en/news/articles/2026/05/14/cf-how-tax-administration-supported-greeces-economic-recovery)
+  * [May 15, 2026IMF Reaches Staff-Level Agreement with Barbados on a Precautionary Stand-by Arrangement ](https://www.imf.org/en/news/articles/2026/05/14/pr26151-barbados-imf-reaches-staff-level-agreement-on-a-precautionary-sba)
+  * [May 14, 2026IMF Staff Concludes Visit to Zambia](https://www.imf.org/en/news/articles/2026/05/14/pr26150-zambia-imf-staff-concludes-visit)
+  * [May 14, 2026Driving Lessons from Poland’s Growth Journey](https://www.imf.org/en/news/articles/2026/05/13/sp051326-md-driving-lessons-from-poland-growth-journey)
+  * [May 13, 2026Sweden: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/05/13/mcs-05132026-sweden-staff-concluding-statement-of-the-2026-article-iv-mission)
+  * [May 13, 2026Kingdom of the Netherlands–The Netherlands: Staff Concluding Statement for the 2026 Article IV Consultation Mission ](https://www.imf.org/en/news/articles/2026/05/13/mcs-051326-the-netherlands-staff-concluding-statement-for-the-2026-aiv-consultation-mission)
+  * [May 13, 2026Budget Credibility as an Anchor for Better Economic Outcomes for Africa](https://www.imf.org/en/news/articles/2026/05/13/cf-budget-credibility-as-an-anchor-for-better-economic-outcomes-for-africa)
 
-[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=5%2F8%2F2026)
+[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=5%2F15%2F2026)
 ##### For Journalists
 The IMF Press Center is a password-protected site for working journalists.
   * [Login](https://presscenter.imf.org/Account/Login)
@@ -41,15 +41,15 @@ The Heads of the International Monetary Fund (IMF), the World Bank Group (WBG) a
 March 3, 2026
 We are closely monitoring developments in the Middle East. So far, we have observed disruptions to trade and economic activity, surges in energy prices, and volatility in financial markets. [Read More](https://www.imf.org/en/news/articles/2026/03/03/pr-26068-statement-on-middle-east)
 #### Country Focus
+[](https://www.imf.org/en/news/articles/2026/05/14/cf-how-tax-administration-supported-greeces-economic-recovery)
+###### [How Tax Administration Supported Greece's Economic Recovery](https://www.imf.org/en/news/articles/2026/05/14/cf-how-tax-administration-supported-greeces-economic-recovery)
+May 15, 2026
+Greece’s trajectory shows how institutional reforms—if well sequenced and sustained—can deliver durable results
+[](https://www.imf.org/en/news/articles/2026/05/13/cf-budget-credibility-as-an-anchor-for-better-economic-outcomes-for-africa)
+###### [Budget Credibility as an Anchor for Better Economic Outcomes for Africa](https://www.imf.org/en/news/articles/2026/05/13/cf-budget-credibility-as-an-anchor-for-better-economic-outcomes-for-africa)
+May 13, 2026
+Policy priorities include more realistic forecasting, stronger expenditure controls, improved cash management, and institutional reforms to better align budgets with outcomes
 [](https://www.imf.org/en/news/articles/2026/01/28/cf-business-growth-and-innovation-can-boost-indias-productivity)
 ###### [Business Growth and Innovation Can Boost India’s Productivity](https://www.imf.org/en/news/articles/2026/01/28/cf-business-growth-and-innovation-can-boost-indias-productivity)
 January 29, 2026
 Strengthening innovation could help boost productivity growth by 40 percent, equal to adding the output of the country’s fourth-largest state economy
-[](https://www.imf.org/en/news/articles/2026/01/27/cf-canada-can-grow-faster-by-unlocking-its-own-market)
-###### [Canada Can Grow Faster by Unlocking Its Own Market](https://www.imf.org/en/news/articles/2026/01/27/cf-canada-can-grow-faster-by-unlocking-its-own-market)
-January 28, 2026
-Knocking down internal trade barriers could boost output in Canada by 7 perc
-[](https://www.imf.org/en/news/articles/2025/12/18/cf-saudi-arabias-path-forward-amid-lower-oil-prices)
-###### [Saudi Arabia’s Path Forward Amid Lower Oil Prices](https://www.imf.org/en/news/articles/2025/12/18/cf-saudi-arabias-path-forward-amid-lower-oil-prices)
-December 18, 2025
-Prudent fiscal policy, vigilant financial oversight, and deeper labor and investment reforms can keep Saudi Arabia’s transformation on track

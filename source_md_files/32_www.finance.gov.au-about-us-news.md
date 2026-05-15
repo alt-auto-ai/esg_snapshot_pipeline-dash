@@ -1,8 +1,11 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-08/05/2026 
+15/05/2026 
 # Latest News
 ### 2026 
+[ Tue   
+12 May   
+2026  **Finance Budget 2026 - 27** Government Budget ](https://www.finance.gov.au/about-us/news/2026/finance-budget-2026-27)
 [ Thu   
 07 May   
 2026  **Procurement and contract management resources at your fingertips** Government Procurement ](https://www.finance.gov.au/about-us/news/2026/procurement-and-contract-management-resources-your-fingertips)
@@ -91,9 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Thu   
 18 Dec   
 2025  **Congratulations to the 2025 Commonwealth Awards for Excellence in Risk Management winners!** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/congratulations-2025-commonwealth-awards-excellence-risk-management-winners)
-[ Tue   
-16 Dec   
-2025  **Celebrating innovation at GovHack 2025** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/celebrating-innovation-govhack-2025)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

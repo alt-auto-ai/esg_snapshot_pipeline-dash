@@ -6,6 +6,12 @@ News about the Commission and our services. [Subscribe to receive updates](https
 Content
 View
 News Listing 
+##  Ballot agents review decision issued 
+Date
+11 May 2026
+Deck
+Ballot agents review decision issued.
+[ Ballot agents review decision issued  ](https://www.fwc.gov.au/about-us/news-and-media/news/ballot-agent-review-decision "Ballot agents review decision issued")
 ##  General Manager statement: Mark Irving KC resignation 
 Date
 29 Apr 2026
@@ -30,12 +36,6 @@ Date
 Deck
 Visit the Fuel cost recovery case webpage for more details on the case.
 [ Fact sheet about draft time-sensitive road transport contractual chain order released  ](https://www.fwc.gov.au/about-us/news-and-media/news/fact-sheet-about-draft-time-sensitive-road-transport-contractual-chain "Fact sheet about draft time-sensitive road transport contractual chain order released")
-##  Consultation opens for proposed road transport contractual chain order 
-Date
-14 Apr 2026
-Deck
-Submissions on our draft order are due by 12 noon (AEST) on Friday 17 April.
-[ Consultation opens for proposed road transport contractual chain order  ](https://www.fwc.gov.au/about-us/news-and-media/news/consultation-opens-proposed-road-transport-contractual-chain-order "Consultation opens for proposed road transport contractual chain order")
 **Published by the Fair Work Commission (www.fwc.gov.au)**
 **Last updated:** 11 Mar 2025 
 **Location on last update:** https://www.fwc.gov.au/about-us/news-and-media/news 

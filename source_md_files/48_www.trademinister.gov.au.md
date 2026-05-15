@@ -10,19 +10,22 @@
 
 # Latest news
 ## Media releases
+  * [Three additional shipments of diesel headed to South Australia, Tasmania, Victoria and Queensland](https://www.trademinister.gov.au/minister/don-farrell/media-release/three-additional-shipments-diesel-headed-south-australia-tasmania-victoria-and-queensland)
+15 May 2026
+  * [Albanese Labor Government secures first shipments of additional farm fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/albanese-labor-government-secures-first-shipments-additional-farm-fertiliser)
+14 May 2026
+  * [Sydney to host Southern Hemisphere’s biggest international tourism conference](https://www.trademinister.gov.au/minister/don-farrell/media-release/sydney-host-southern-hemispheres-biggest-international-tourism-conference)
+14 May 2026
+  * [Strong support for 46th Australia Tourism Exchange in Adelaide](https://www.trademinister.gov.au/minister/don-farrell/media-release/strong-support-46th-australia-tourism-exchange-adelaide)
+9 May 2026
   * [Government securing more fuel reserves the Australian fuel security and resilience package ](https://www.trademinister.gov.au/minister/don-farrell/media-release/government-securing-more-fuel-reserves-australian-fuel-security-and-resilience-package)
 6 May 2026
-  * [Australia welcomes substantial conclusion of Costa Rica’s CPTPP accession](https://www.trademinister.gov.au/minister/don-farrell/media-release/australia-welcomes-substantial-conclusion-costa-ricas-cptpp-accession)
-6 May 2026
-  * [Expanding cooperation on critical minerals with Japan](https://www.trademinister.gov.au/minister/don-farrell/media-release/expanding-cooperation-critical-minerals-japan)
-4 May 2026
-  * [Deepening economic security with Japan](https://www.trademinister.gov.au/minister/don-farrell/media-release/deepening-economic-security-japan)
-4 May 2026
-  * [Additional jet fuel and additional diesel secured](https://www.trademinister.gov.au/minister/don-farrell/media-release/additional-jet-fuel-and-additional-diesel-secured)
-1 May 2026
 
 
 ## Transcripts
+  * [Press Conference](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference-0)
+Subjects: Fuel supply; Senator Tammy Tyrrell.
+15 May 2026
   * [Interview with Andrew Clennell, Sky News](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-andrew-clennell-sky-news-1)
 Subjects: Royal Commission on Antisemitism and Social Cohesion, deepening economic security with Japan, fuel security, critical minerals investment
 4 May 2026
@@ -35,9 +38,6 @@ Subjects: Fuel supply relations with Singapore, Viva Energy refinery fire, US Pr
   * [Doorstop, Singapore](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-singapore)
 Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapore-Australia Free Trade Agreement (SAFTA).
 17 April 2026
-  * [Doorstop, Banquet Foods](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-banquet-foods)
-Subjects: New Trade Resilience Service, Australian export and import cost, Middle East war, industry support, Qantas flight route cuts
-15 April 2026
 
 
 ## Speeches

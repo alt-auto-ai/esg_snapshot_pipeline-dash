@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.afca.org.au/news/latest-news#main-content)
 #  Latest news
 ### Year published
+12  MAY 26 
+##### [How AFCA call recording impacts you](https://www.afca.org.au/news/latest-news/how-afca-call-recording-impacts-you)
+AFCA has introduced call recording across case‑handling teams, as part of our ongoing work to improve the quality, accuracy and efficiency of how we investigate and resolve complaints.
 08  APR 26 
 ##### [AFCA publishes a video explaining what happens after a consumer receives a determination](https://www.afca.org.au/news/latest-news/afca-publishes-a-video-explaining-what-happens-after-a-consumer-receives-a-determination)
 AFCA has published a video with Shail Singh, Lead Ombudsman Investments and Advice, which explains what consumers can expect after receiving an AFCA determination. 
@@ -34,9 +37,6 @@ AFCA has published a new short video from Shail Singh, Lead Ombudsman Investment
 20  FEB 26 
 ##### [AFCA publishes video update on understanding the roles of AFCA, ASIC and CSLR](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-on-understanding-the-roles-of-afca-asic-and-cslr)
 AFCA has published a new video featuring Shail Singh, Lead Ombudsman Investments and Advice, to help consumers understand the different roles of AFCA, ASIC and the CSLR as they navigate i 
-19  FEB 26 
-##### [AFCA notes ASIC’s new guidance for employee entitlement schemes](https://www.afca.org.au/news/latest-news/afca-notes-asics-new-guidance-for-employee-entitlement-schemes)
-AFCA notes ASIC’s release of 
 ## Live Chat
 Minimize window
 View our chat service terms and conditions

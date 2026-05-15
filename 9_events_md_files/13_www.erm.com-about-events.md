@@ -212,6 +212,7 @@
   * [CCUS London 2025](https://www.erm.com/about/events/ccus-london-2025/)
   * [A Spotlight on Energy - ERM's Quarterly Trends Webinar Series, April 2026](https://www.erm.com/about/events/a-spotlight-on-energy-quarterly-trends-webinar-series-april-2026/)
   * [ERM at the III AESAS Conference on Contaminated Site Management](https://www.erm.com/about/events/erm-at-the-iii-aesas-conference-on-contaminated-site-management/)
+  * [ERM at ARPEL Conference 2026](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
   * [ReThink HK 2025](https://www.erm.com/about/events/rethink-hk-2025/)
   * [ERM at SETAC Latin America 2025](https://www.erm.com/about/events/erm-at-setac-latin-america-2025/)
   * [Decarbonize Smarter: How to Maximize Impact with Energy Efficiency & Public Funding Support](https://www.erm.com/about/events/decarbonize-smarter-how-to-maximize-impact-with-energy-efficiency-public-funding-support/)
@@ -258,6 +259,8 @@
   * [Crop Protection training series with Fresenius 2026](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
   * [Chem Logistics & SCM Summit 2026](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
   * [ERM Webinar: How leading pharma organizations are decarbonizing their supply chain](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
+  * [EDA Annual Convention 2026](https://www.erm.com/about/events/eda-annual-convention-2026/)
+  * [Sustainable Aviation Futures (SAF) Congress 2026](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
 
 
 [ Locations ](https://www.erm.com/about/locations/)
@@ -456,6 +459,13 @@
 Our Company Our People Our Work Events Locations Sustainability News Sustainability Who we are Working with ERM ERM Foundation
 #  Events
 ##  ERM shares insights and participates at a number of events throughout the year
+[ ](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
+Event
+[Sustainable Aviation Futures (SAF) Congress 2026](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
+15-17 June 2026
+Beurs van Berlage, Amsterdam (The Netherlands)
+Sustainable Aviation Futures (SAF) Congress is the world's largest SAF & Aviation decarbonisation event. A 3-day gathering covering SAF production pathways, feedstock strategies, policy frameworks, eSAF commercialisation, investment models and global market development. ERM is proud to participate in it as Strategic Partner and speaker, joining over 1,000 industry leaders from 60+ countries to accelerate net-zero aviation.
+[ Event details ](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
 [ ](https://www.erm.com/about/events/process-safety-for-laboratories/)
 Webinar
 [Process Safety for Laboratories](https://www.erm.com/about/events/process-safety-for-laboratories/)
@@ -463,6 +473,20 @@ Webinar
 Virtual
 Join our six-part webinar series designed for professionals working in life sciences and laboratory environments.
 [ Event details ](https://www.erm.com/about/events/process-safety-for-laboratories/)
+[ ](https://www.erm.com/about/events/eda-annual-convention-2026/)
+Event
+[EDA Annual Convention 2026](https://www.erm.com/about/events/eda-annual-convention-2026/)
+10-12 June 2026
+Croke Park
+The European Demolition Association Annual Convention 2026 will take place from 10–12 June 2026 in Dublin, bringing together international professionals from the demolition, decontamination, and recycling (DDR) sectors.
+[ Event details ](https://www.erm.com/about/events/eda-annual-convention-2026/)
+[ ](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
+Event
+[ERM at ARPEL Conference 2026](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
+June 1–4, 2026
+Hilton Hotel in Buenos Aires, Argentina
+ERM announces its participation in the ARPEL Conference 2026, taking place from June 1–4, 2026, at the Hilton Hotel in Buenos Aires, Argentina.
+[ Event details ](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
 [ ](https://www.erm.com/about/events/ehs-congress-2026/)
 Event
 [EHS Congress Berlin 2026](https://www.erm.com/about/events/ehs-congress-2026/)
@@ -470,6 +494,13 @@ Event
 Radisson Collection Hotel, Berlin
 Meet ERM at EHS Congress Berlin (27–28 May 2026). Explore Culture of Care, leadership, and practical insights for stronger EHS performance.
 [ Event details ](https://www.erm.com/about/events/ehs-congress-2026/)
+[ ](https://www.erm.com/about/events/Beyond-the-Buzzwords-what-really-matters-when-buying-carbon-credits/)
+Webinar
+[Beyond the Buzzwords: What Really Matters When Buying Carbon Credits](https://www.erm.com/about/events/Beyond-the-Buzzwords-what-really-matters-when-buying-carbon-credits/)
+May 27
+Virtual
+This webinar is designed for anyone overseeing carbon credit purchasing in their organization. 
+[ Event details ](https://www.erm.com/about/events/Beyond-the-Buzzwords-what-really-matters-when-buying-carbon-credits/)
 [ ](https://www.erm.com/about/events/erm-at-iaia26/)
 Event
 [ERM at IAIA26](https://www.erm.com/about/events/erm-at-iaia26/)
@@ -509,33 +540,6 @@ Event
 Llandudno 
 The Marine Energy Wales (MEW) Conference 2026, held on 28–29 April 2026 at Venue Cymru in Llandudno, is the UK’s largest dedicated marine renewable energy gathering, bringing together industry leaders, policymakers, researchers, and supply‑chain organisations to explore the future of tidal, wave, and floating offshore wind energy in Wales.
 [ Event details ](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
-[ ](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
-Event
-[Chem Logistics & SCM Summit 2026](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
-27-28 April 2026
-Radisson Blu, Frankfurt
-ERM will be attending the Chem Logistics & SCM Summit 2026, a leading European event bringing together senior supply chain, logistics, and operations leaders from across the chemical industry.
-[ Event details ](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
-[ ](https://www.erm.com/about/events/wind-europe-madrid-2026/)
-Event
-[WindEurope Madrid 2026](https://www.erm.com/about/events/wind-europe-madrid-2026/)
-21-23 April 2026
-Madrid
-Wind Europe is Europe’s largest wind energy conference and exhibition, dedicated to onshore and offshore wind, expecting to be welcoming 15,000+ participants, 500+ companies on the exhibition floor, 350+ speakers and 220+ posters to be presented.
-[ Event details ](https://www.erm.com/about/events/wind-europe-madrid-2026/)
-[ ](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
-Event
-[ERM at the 2026 AIChE Spring Meeting and 22nd Global Congress on Process Safety (GCPS)](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
-April 12-16, 2026 
-Hilton of the Americas and the George R. Brown Convention Center, Houston, TX
-[ Event details ](https://www.erm.com/about/events/erm-at-2026-aiche-spring-meeting-and-gcps/)
-[ ](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
-Webinar
-[EHS Audit Briefing - Webinar](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
-Wednesday 1 April, 2026
-Webinar
-Discover how EHS leaders are transforming audits into strategic learning tools, leveraging digital and AI insights, and building high-impact, people-centred audit capabilities.
-[ Event details ](https://www.erm.com/about/events/ehs-audit-briefing-webinar/)
 Load More
 [Load More](https://www.erm.com/about/events/?page=2)
 ## [ How can we help?  How can we help you? Contact us to discuss how we can help your organization.  Contact us now ](https://www.erm.com/contact-us/)

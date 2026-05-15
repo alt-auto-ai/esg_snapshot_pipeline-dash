@@ -7,6 +7,7 @@ Battery (3)
 Coal (2)
 Consumers (6)
 Cyber Security (1)
+Declared Wholesale Gas Market (1)
 Distributed Energy Resources (1)
 Distribution (2)
 Electricity (40)
@@ -25,9 +26,9 @@ Infographic (4)
 Innovation and technology (12)
 Integrated System Plan (11)
 Major Reports and Publications (4)
-Media release (217)
+Media release (218)
 Metering (1)
-National Electricity Market (63)
+National Electricity Market (64)
 News (3)
 NSW (10)
 Partnership (3)
@@ -52,9 +53,9 @@ VIC (24)
 Video (2)
 WA (18)
 Weather (12)
-Wholesale Electricity Market (12)
+Wholesale Electricity Market (13)
 Wind (2)
-Winter (3)
+Winter (4)
 ####  Year 
 x
 2017 (20)
@@ -66,7 +67,7 @@ x
 2023 (33)
 2024 (28)
 2025 (24)
-2026 (5)
+2026 (6)
 # Media Releases
 Search 
 Sort by 
@@ -80,6 +81,7 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [15/05/2026AEMO forecasts stable winter outlook with increased capacity and strong fuel positions The Australian Energy Market Operator (AEMO) has released its operational outlook for winter, with warmer-than-average conditions expected, supported by increased generation and storage capacity.](https://www.aemo.com.au/newsroom/media-release/aemo-forecasts-stable-winter-outlook-with-increased-capacity-and-strong-fuel-positions "AEMO forecasts stable winter outlook with increased capacity and strong fuel positions")
   * [30/04/2026Renewables lift supply share as batteries re-shape energy markets Renewable generation growth and rising battery participation continued to reshape Australia’s electricity system in the first quarter of 2026, alongside a year‑on‑year decline in wholesale prices, according to AEMO’s Quarterly Energy Dynamics (QED) report published today.](https://www.aemo.com.au/newsroom/media-release/renewables-lift-supply-share-as-batteries-re-shape-energy-markets "Renewables lift supply share as batteries re-shape energy markets")
   * [23/04/2026Batteries continue to dominate NEM connections as pipeline grows A surge in grid‑scale batteries is driving strong growth in the pipeline of new generation and storage projects seeking to connect to the National Electricity Market (NEM), with total proposed capacity now nearing today’s installed levels. ](https://www.aemo.com.au/newsroom/media-release/batteries-continue-to-dominate-nem-connections-as-pipeline-grows "Batteries continue to dominate NEM connections as pipeline grows")
   * [26/03/2026Near-term gas supply outlook improves, longer-term investment needed The Australian Energy Market Operator’s (AEMO) latest gas adequacy outlook shows improved near-term supply conditions, with risks of extreme peak-day shortfalls in southern Australia now expected to emerge a year later than previously forecast, and new investment required from 2030 onwards. ](https://www.aemo.com.au/newsroom/media-release/2026-gsoo "2026 GSOO")
@@ -89,7 +91,6 @@ Date published (Newest) **▾**
   * [10/12/2025AEMO publishes draft electricity roadmap for consultation The Australian Energy Market Operator (AEMO) has published the Draft 2026 Integrated System Plan (ISP) for consultation, ahead of the final 2026 ISP in June next year. ](https://www.aemo.com.au/newsroom/media-release/aemo-publishes-draft-electricity-roadmap-for-consultation "AEMO publishes draft electricity roadmap for consultation")
   * [01/12/2025AEMO publishes system security plan Australian Energy Market Operator (AEMO) has today released its 2025 Transition Plan for System Security, a plan to meet system security needs in the National Electricity Market (NEM) over the next decade to support Australia’s energy transition. ](https://www.aemo.com.au/newsroom/media-release/aemo-publishes-system-security-plan "AEMO publishes system security plan")
   * [27/11/2025AEMO prepares energy systems for upcoming hot season The Australian Energy Market Operator (AEMO) has briefed industry on expected conditions for the upcoming summer, including the extensive preparations undertaken to support Australia’s main energy systems over the hotter months.](https://www.aemo.com.au/newsroom/media-release/aemo-prepares-energy-systems-for-upcoming-hot-season "AEMO prepares energy systems for upcoming hot season")
-  * [17/11/2025Ongoing MSATS incident AEMO continues to implement a resolution to a technical issue identified in the Market Settlements and Transfer Solutions (MSATS) system.](https://www.aemo.com.au/newsroom/media-release/ongoing-msats-incident "Ongoing MSATS incident")
 
 
   * [First](https://www.aemo.com.au/newsroom/media-release)

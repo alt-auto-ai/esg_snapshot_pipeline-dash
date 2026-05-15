@@ -6,10 +6,11 @@ Filters
 Hide filters
 Filter Type of news
 Filters
-Showing 24 of 5,293 results
+Showing 24 of 5,294 results
 Sort by Publication date
 Oldest first
 Newest first
+[ Zbynek Burival/Unsplash 14 May 2026 UN climate chief in Beijing: China's climate leadership is helping accelerate the global energy transition UN Climate Speech ](https://unfccc.int/news/un-climate-chief-in-beijing-china-s-climate-leadership-is-helping-accelerate-the-global-energy)
 [ Michael Pointner | Pixabay 30 Apr 2026 UN climate chief: an immense irony is unfolding: fossil fuel proponents "inadvertently supercharging the global renewables boom" UN Climate Speech ](https://unfccc.int/news/un-climate-chief-an-immense-irony-is-unfolding-fossil-fuel-proponents-inadvertently-supercharging)
 [ Zo Guimaraes | UN Climate Change 29 Apr 2026 Regional Collaboration Centres sharpen country-focused support to accelerate implementation  Announcement ](https://unfccc.int/news/regional-collaboration-centres-sharpen-country-focused-support-to-accelerate-implementation)
 [ BMUKN | Sascha Hilgers 21 Apr 2026 UN climate chief: "Climate cooperation is key to fending off the twin-reapers of global heating and fossil fuel cost chaos" UN Climate Speech ](https://unfccc.int/news/un-climate-chief-climate-cooperation-is-key-to-fending-off-the-twin-reapers-of-global-heating-and)
@@ -23,8 +24,8 @@ Newest first
 [ Kiara Worth | UN Climate Change 10 Mar 2026 Renewable energy is the "fastest path to energy security, economic security, and national security": UN Secretary-General Article ](https://unfccc.int/news/renewable-energy-is-the-fastest-path-to-energy-security-economic-security-and-national-security-un)
 [ 02 Mar 2026 Renewable energy is a clear solution to the fossil fuel cost chaos: Statement from UN Climate Change Executive Secretary  UN Climate Statement ](https://unfccc.int/news/renewable-energy-is-a-clear-solution-to-the-fossil-fuel-cost-chaos-statement-from-un-climate-change)
 [ 26 Feb 2026 UN carbon market approves first‑ever issuance of credits under the Paris Agreement UN Climate Press Release ](https://unfccc.int/news/un-carbon-market-approves-first-ever-issuance-of-credits-under-the-paris-agreement)
-[ UN Climate Change 23 Feb 2026 Climate Data Hub unlocks access to climate information to boost data-driven action and support implementation Article ](https://unfccc.int/news/climate-data-hub-unlocks-access-to-climate-information-to-boost-data-driven-action-and-support)
 [ Jean Claude Akarikumutima / Unsplash 23 Feb 2026 African LDCs to host first-ever centralized review of transparency reports in Rwanda External Press Release ](https://unfccc.int/news/african-ldcs-to-host-first-ever-centralized-review-of-transparency-reports-in-rwanda)
+[ UN Climate Change 23 Feb 2026 Climate Data Hub unlocks access to climate information to boost data-driven action and support implementation Article ](https://unfccc.int/news/climate-data-hub-unlocks-access-to-climate-information-to-boost-data-driven-action-and-support)
 [ UN Climate Change 20 Feb 2026 UN Body sets fast-track plan to deliver high-quality credits under Paris Agreement Article ](https://unfccc.int/news/un-body-sets-fast-track-plan-to-deliver-high-quality-credits-under-paris-agreement)
 [ UN Climate Change 19 Feb 2026 UN Climate Change launches Capacity-Building for Negotiators initiative Article ](https://unfccc.int/news/un-climate-change-launches-capacity-building-for-negotiators-initiative)
 [ lin2015 | Pixabay 18 Feb 2026 A new era for climate technology to support developing countries: The Belém Technology Implementation Programme Article ](https://unfccc.int/news/a-new-era-for-climate-technology-to-support-developing-countries-the-belem-technology-implementation)
@@ -33,9 +34,8 @@ Newest first
 [ UN Climate Change 27 Jan 2026 Enhanced international collaboration accelerates global transparency efforts Article ](https://unfccc.int/news/enhanced-international-collaboration-accelerates-global-transparency-efforts)
 [ 24 Jan 2026 Türkiye appoints Samed Ağırbaş as COP31 Climate High-Level Champion Announcement ](https://unfccc.int/news/turkiye-appoints-samed-agirbas-as-cop31-climate-high-level-champion)
 [ Credit: Stockcake 23 Jan 2026 Development of Paris Agreement Article 6 registry infrastructure begins Article ](https://unfccc.int/news/development-of-paris-agreement-article-6-registry-infrastructure-begins)
-[ COP29 Presidency 23 Jan 2026 The power of youth in co-creating climate education Article ](https://unfccc.int/news/the-power-of-youth-in-co-creating-climate-education)
 Back to top
-Showing 24 of 5,293 results
+Showing 24 of 5,294 results
   * [Load More](https://unfccc.int/news?page=1 "Load more items")
 
 

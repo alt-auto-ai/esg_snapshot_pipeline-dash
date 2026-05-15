@@ -1,6 +1,25 @@
 # Media Releases
 Page 1 of 28
-. Showing 1 to 10 out of 272 results. 
+. Showing 1 to 10 out of 277 results. 
+## [Governments take joint action to support Liberty Bell Bay workers during sale process](https://www.minister.industry.gov.au/ministers/timayres/media-releases/governments-take-joint-action-support-liberty-bell-bay-workers-during-sale-process)
+15 May 2026
+Joint media release with Premier of Tasmania Jeremy Rockliff.
+The Australian and Tasmanian Governments have provided additional support for Liberty Bell Bay workers while the administration and sale process continues.
+## [Government secures winter gas supply](https://www.minister.industry.gov.au/ministers/king/media-releases/government-secures-winter-gas-supply)
+15 May 2026
+The Albanese Labor Government is taking every practical action to ensure Australians have secure, affordable gas.
+## [Albanese Labor Government secures first shipments of additional farm fertiliser](https://www.minister.industry.gov.au/ministers/timayres/media-releases/albanese-labor-government-secures-first-shipments-additional-farm-fertiliser)
+14 May 2026
+Joint media release with Prime Minister Anthony Albanese, Minister for Trade and Tourism, Don Farrell, and Minister for Agriculture, Fisheries and Forestry, Julie Collins.
+The Albanese Labor Government has secured approximately 90,000 tonnes of agricultural grade urea for Australian farmers, producers, and our agriculture industry to keep Australia’s food supply chain moving.
+## [A Budget that backs innovation and investment](https://www.minister.industry.gov.au/ministers/timayres/media-releases/budget-backs-innovation-and-investment)
+12 May 2026
+Joint media release with Treasurer Jim Chalmers.
+The Albanese Labor Government is backing business innovation and investment through landmark tax reforms as part of the Budget’s productivity package.
+## [$387 million boost for the CSIRO](https://www.minister.industry.gov.au/ministers/timayres/media-releases/387-million-boost-csiro)
+9 May 2026
+Joint media release with the Minister for the Public Service, Senator the Hon Katy Gallagher.
+The Albanese Labor Government will invest an additional $387.4 million into CSIRO over the next four years to ensure its scientists continue delivering groundbreaking research aligned with Australia’s national science priorities and in the national interest.
 ## [Australian-first facility to back critical minerals](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australian-first-facility-back-critical-minerals)
 8 May 2026
 Joint media release with the Minister for Resources and Northern Australia Madeleine King. 
@@ -20,23 +39,4 @@ The Albanese Labor Government will introduce a domestic gas reservation scheme t
 ## [New gas production and acreage to supply east coast ](https://www.minister.industry.gov.au/ministers/king/media-releases/new-gas-production-and-acreage-supply-east-coast)
 7 May 2026
 The Australian and Victorian governments have approved a new Petroleum Production Licence to develop the Annie gas field off the Victorian coast, supporting additional gas supply to the domestic east coast market.
-## [Strategic research collaboration bolsters international science ties](https://www.minister.industry.gov.au/ministers/charlton/media-releases/strategic-research-collaboration-bolsters-international-science-ties)
-5 May 2026
-The Australian Government is strengthening its science and technology partnerships with Japan and other regional neighbours through new investments under the Global Science and Technology Diplomacy Fund.
-## [Expanding cooperation on critical minerals with Japan](https://www.minister.industry.gov.au/ministers/king/media-releases/expanding-cooperation-critical-minerals-japan)
-4 May 2026
-Joint media release with Prime Minister Anthony Albanese, Minister for Foreign Affairs, Senator Penny Wong, and Minister for Trade and Tourism, Don Farrell.
-Australia and Japan are elevating cooperation on critical minerals, supporting onshore processing, refining and related advanced manufacturing.
-## [Australia-ROK joint statement on energy security](https://www.minister.industry.gov.au/ministers/king/media-releases/australia-rok-joint-statement-energy-security)
-30 April 2026
-Joint media release with the Minister for Foreign Affairs, Senator Penny Wong, and Minister for Climate Change and Energy, Chris Bowen.
-Today, we are pleased to announce Australia and the Republic of Korea have renewed our commitment to work together to maintain a stable, secure and reliable supply of diesel and other liquid fuels.
-## [Albanese Government backs battery manufacturers with $4.3 million for increased energy resilience](https://www.minister.industry.gov.au/ministers/timayres/media-releases/albanese-government-backs-battery-manufacturers-43-million-increased-energy-resilience)
-24 April 2026
-Joint media release with Minister for Climate Change and Energy, Chris Bowen and Member for Aston, Mary Doyle.
-The Albanese Government is backing Australian innovation in battery technology and manufacturing to advance the country’s energy transition and insulate domestic supply chains from global shocks.
-## [New agreement on AI collaboration with Microsoft](https://www.minister.industry.gov.au/ministers/charlton/media-releases/new-agreement-ai-collaboration-microsoft)
-23 April 2026
-Joint media release with Tim Ayres, Minister for Industry and Innovation and Minister for Science.
-The Government has today signed a new Memorandum of Understanding (MoU) with Microsoft which builds on the work of the National AI Plan launched in late 2025.
 [Back to top](https://www.minister.industry.gov.au/ministers/media-releases#top "Back to top")

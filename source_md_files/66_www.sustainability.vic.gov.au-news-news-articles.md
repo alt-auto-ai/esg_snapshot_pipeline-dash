@@ -3,12 +3,12 @@
   * [ Skip to footer ](https://www.sustainability.vic.gov.au/news/news-articles#footer)
 
 
-Updated statement on outcomes from the Silver Review (19 March 2026) 
+Updated statement on outcomes from the Silver Review (13 May 2026) 
 In its response to the Silver Review, the government has determined that Sustainability Victoria and its functions will be abolished in 2026. 
 [Read our full statement](https://www.sustainability.vic.gov.au/news/news-articles/statement-on-outcomes-from-the-silver-review).
 Dismiss alert
 # News and case studies
-[ News  Statement on outcomes from the Silver Review  19 March 2026  In its response to the Silver Review, the government has determined that Sustainability Victoria and its functions will be abolished in 2026.  ](https://www.sustainability.vic.gov.au/news/news-articles/statement-on-outcomes-from-the-silver-review "Statement on outcomes from the Silver Review")
+[ News  Statement on outcomes from the Silver Review  13 May 2026  In its response to the Silver Review, the government has determined that Sustainability Victoria and its functions will be abolished in 2026.  ](https://www.sustainability.vic.gov.au/news/news-articles/statement-on-outcomes-from-the-silver-review "Statement on outcomes from the Silver Review")
 [ News  Victoria’s circular jobs boom is coming – but are we ready?  11 February 2026  Sustainability Victoria’s new research reveals clear opportunities to strengthen Victoria’s workforce.  ](https://www.sustainability.vic.gov.au/news/news-articles/victorias-circular-jobs-boom-is-coming-but-are-we-ready "Victoria’s circular jobs boom is coming – but are we ready?")
 [ News  SV20: Helping communities keep pace with government and industry  13 November 2025  For two decades, Sustainability Victoria has supported all Victorians to adapt and thrive as we shift to a cleaner, climate resilient circular economy.  ](https://www.sustainability.vic.gov.au/news/news-articles/helping-communities-keep-pace "SV20: Helping communities keep pace with government and industry")
 [ News  The Black Friday Trap: How your brain is drawn to sales and what to do about it  10 November 2025  As Black Friday sales enter your feed and retailers prepare for a major boost in consumer spending, shoppers across Victoria are preparing to snap up some bargains.  ](https://www.sustainability.vic.gov.au/news/news-articles/the-black-friday-trap "The Black Friday Trap: How your brain is drawn to sales and what to do about it")

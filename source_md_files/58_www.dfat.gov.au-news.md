@@ -235,12 +235,19 @@ The Australian Passport Office and its agents are committed to providing a secur
 ## 
 Latest news
   * ### 
-[Listings under Parts 3 and 4 of the Charter of the United Nations Act 1945](https://www.dfat.gov.au/news/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
+[7 Persons and 4 entities listed under the Autonomous Sanctions Regulations 2011 – Iran ](https://www.dfat.gov.au/news/7-persons-and-4-entities-listed-under-autonomous-sanctions-regulations-2011-iran)
+In accordance with item 4 of regulation 6 of the Autonomous Sanctions Regulations 2011 (the Regulations), the Minister for Foreign Affairs (the Minister) has designated, for targeted financial sanctions and/or declared for travel bans (together 'listed'), by legislative instrument.
+12 May 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/7-persons-and-4-entities-listed-under-autonomous-sanctions-regulations-2011-iran)
+  * ### 
+[Listings under Parts 3 and 4 of the Charter of the United Nations Act 1945](https://www.dfat.gov.au/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
 In accordance with section 15 of the Charter of the United Nations Act 1945 (COTUNA), the Minister for Foreign Affairs (the Minister) has listed three persons and one entity for targeted financial sanctions by legislative instrument (Charter of the United Nations (Listed Persons and Entities) Amendment (No. 1) Instrument 2026.
 8 May 2026
 Category
 International relations
-[Read more](https://www.dfat.gov.au/news/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
+[Read more](https://www.dfat.gov.au/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
   * ### 
 [Australian National Statement in the IMO Marine Environment Protection Committee’s 84th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-marine-environment-protection-committees-84th-session)
 Australia commends the work of the IMO to safeguard the safety of stranded civilian seafarers and re-open the Strait of Hormuz.
@@ -573,10 +580,6 @@ Statement following the meeting of the G7+ Special Representatives for Afghanist
 Category
 International relations
 [Read more](https://www.dfat.gov.au/news/media-release/statement-following-meeting-g7-special-representatives-afghanistan-29-30-september-2025)
-  * Today marks 20 years since the 2005 Bali bombings, which saw the tragic loss of 20 lives, including 4 Australians, 15 Indonesians and one Japanese national. 17 Australians were injured along with many other innocent bystanders. We honour the victims, and the courage and resilience shown by survivors and their families.
-1 October 2025
-Category
-Travel
 
 
 Site map +

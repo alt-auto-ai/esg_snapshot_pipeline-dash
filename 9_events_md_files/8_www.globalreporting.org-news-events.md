@@ -51,7 +51,7 @@ consent.cookiebot.com
   * Preferences  0
 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 Your prior consent is required to use these cookies.
-We do not use cookies of this type.
+    * We do not use cookies of this type.
   * Statistics  22
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
 Your prior consent is required to use these cookies.
@@ -279,3 +279,4 @@ Hilghlighted events and external engagements
 ## Invite GRI to speak at your event
 A GRI speaker at your event or conference can make all the difference in getting the sustainability reporting message across.
 [ Learn more ](https://www.globalreporting.org/news/events/invite-gri-to-speak-at-your-event/)
+Feedback

@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#665d9913-570e-4bd3-841b-8384bf9c2b6c)
+[Storage Preferences](https://www.wri.org/events#f197c450-452d-4b3d-ae7f-25c4ea9db097)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -50,42 +50,20 @@ Not sure where to find something? Search all of the site's content.
 # Events
 #### All Topics
 [All Topics](https://www.wri.org/events)
+[Cities ](https://www.wri.org/events)
 [Climate ](https://www.wri.org/events)
 [Energy ](https://www.wri.org/events)
-[Forests ](https://www.wri.org/events)
 Filters
 ### Event Type
   * In-Person [In-Person ](https://www.wri.org/events)
   * Webinar [Webinar ](https://www.wri.org/events)
 
 
-### Language
-  * English [English ](https://www.wri.org/events)
-  * French [French ](https://www.wri.org/events)
-  * Indonesian [Indonesian ](https://www.wri.org/events)
-  * Portuguese [Portuguese ](https://www.wri.org/events)
-  * Spanish [Spanish ](https://www.wri.org/events)
-
-
-6 Resources for 
-[Energy](https://www.wri.org/energy)
+3 Resources for 
+[Cities](https://www.wri.org/cities)
 Event 
-Past Event May 7, 2026
-###  [Integrated Resource Planning: What It Is and How Local Governments Can Engage](http://hub.wri.org/events/2026/5/integrated-resource-planning-what-it-and-how-local-governments-can-engage?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Climate](https://www.wri.org/climate)
-Event 
-May 12, 2026
-###  [2nd National Dialogue on Long-Term Climate Strategy in Brazil](https://hub.wri.org/events/2026/5/2nd-national-dialogue-long-term-climate-strategy-brazil?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Climate](https://www.wri.org/climate)
-Event 
-May 12, 2026
-###  [Saving Lives in a Warming World: Investing in Climate Services for Health](https://hub.wri.org/events/2026/5/saving-lives-warming-world-investing-climate-services-health?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/5/saving-lives-warming-world-investing-climate-services-health#register)
-[Forests](https://www.wri.org/forests)
-Event 
-May 13, 2026
-###  [The State of Forests in 2025 and Why it Matters for 2026](https://hub.wri.org/events/2026/5/state-forests-2025-and-why-it-matters-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/5/state-forests-2025-and-why-it-matters-2026#register)
+May 17 -22, 2026
+###  [WRI Ross Center at World Urban Forum 13](https://hub.wri.org/events/2026/5/wri-ross-center-world-urban-forum-13?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
 [Climate](https://www.wri.org/climate)
 Event 
 May 28, 2026

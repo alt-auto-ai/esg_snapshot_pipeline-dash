@@ -1,9 +1,9 @@
 [ Skip to main content ](https://www.nacc.gov.au/news-and-media#main-content)
 # News and media releases
-Fast facts as at 6 May 2026
+Fast facts as at 13 May 2026
 29
 Preliminary investigations underway
-36
+34
 Corruption investigations underway
 10
 Joint corruption investigations underway
@@ -11,7 +11,7 @@ Joint corruption investigations underway
 Matters before the court
 27
 Investigations by other agencies being overseen or monitored by the Commission
-2083
+2121
 Referrals received this financial year
 Displaying 1 - 12 of 142 results
   * News

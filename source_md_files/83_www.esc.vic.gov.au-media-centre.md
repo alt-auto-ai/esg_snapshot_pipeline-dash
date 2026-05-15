@@ -2,6 +2,10 @@
 # Media centre
 View our latest media releases, staff articles and speeches.
 Filters
+Media releases
+13 May 2026
+###  [Compliance push weeds out non-compliant businesses, $4.4 million in certificates forfeited](https://www.esc.vic.gov.au/media-centre/compliance-push-weeds-out-non-compliant-businesses-44-million-certificates-forfeited)
+From Ballarat to Dandenong, Essential Services Commission inspectors have been out in force around the state, checking that energy efficient installations meet [Victorian Energy Upgrades (VEU)](https://www.esc.vic.gov.au/victorian-energy-upgrades/about-victorian-energy-upgrades-program)
 News update
 27 April 2026
 ###  [Liquidator appointed for Victorian Energy Upgrades accredited business, Glower](https://www.esc.vic.gov.au/media-centre/liquidator-appointed-victorian-energy-upgrades-accredited-business-glower)
@@ -38,10 +42,6 @@ Media releases
 20 March 2026
 ###  [Regulator takes energy retailer ENGIE to court alleging customer support failures ](https://www.esc.vic.gov.au/media-centre/regulator-takes-energy-retailer-engie-court-alleging-customer-support-failures)
 The Essential Services Commission has commenced civil penalty proceedings in the Supreme Court of Victoria against energy retailer ENGIE. 
-Media releases
-18 March 2026
-###  [Regulator accepts court-enforceable undertaking over regional Victorian Energy Upgrades installations ](https://www.esc.vic.gov.au/media-centre/regulator-accepts-court-enforceable-undertaking-over-regional-victorian-energy-upgrades)
-The Essential Services Commission has accepted a court-enforceable undertaking requiring Victorian Energy Upgrades accredited business Ecovantage Pty Ltd to rectify non-compliant water heater installations at its own cost. 
 ## For general enquiries
 Phone:   
 Email: 

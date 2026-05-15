@@ -82,6 +82,10 @@ Menu
 
 
 [ Skip to main content ](https://www.naa.gov.au/about-us/media-and-publications/media-releases#main-content)
+## Announcement
+Due to system maintenance RecordSearch will be unavailable from 7 am Saturday 16 May to 7 pm (AEST) Sunday 17 May. Thank you for your patience.  
+
+[Close announcement](https://www.naa.gov.au/about-us/media-and-publications/media-releases#0)
 #  Media releases 
 ## 2025
   * ###  [National Archives unites archival records with real-life objects](https://www.naa.gov.au/about-us/media-and-publications/media-releases/national-archives-unites-archival-records-real-life-objects)

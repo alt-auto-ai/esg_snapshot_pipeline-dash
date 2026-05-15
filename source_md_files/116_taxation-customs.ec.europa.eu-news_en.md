@@ -6,9 +6,23 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (677)
+####  News (679)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News article
+  * 13 May 2026
+
+
+[Carbon price paid in Third Countries](https://taxation-customs.ec.europa.eu/news/carbon-price-paid-third-countries-2026-05-13_en)
+On 28 August 2025, the European Commission launched three Calls for Evidence to support the preparation of the implementing acts for the definitive phase of the Carbon Border Adjustment Mechanism. Read the synopsis report.
+1 min read
+  * News article
+  * 8 May 2026
+
+
+[Summary report: Reality check on simplifying excise procedures](https://taxation-customs.ec.europa.eu/news/summary-report-reality-check-simplifying-excise-procedures-2026-05-08_en)
+A reality check on simplifying excise procedures took place on 23 March.
+1 min read
   * News article
   * 5 May 2026
 
@@ -64,20 +78,6 @@ The European Commission has published the first price of CBAM certificates for 2
 
 [Tax revenue rebounds in 2024 after decade-low in 2023](https://taxation-customs.ec.europa.eu/news/tax-revenue-rebounds-2024-after-decade-low-2023-2026-03-31_en)
 The Taxation Trends dataset provides a detailed overview of key taxation indicators, enabling analysis of tax systems from multiple perspectives—by tax type, economic function, government level, and implicit tax rates.
-2 min read
-  * News article
-  * 27 March 2026
-
-
-[Commission welcomes historic agreement to reform EU Customs Union](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_735)
-The Commission welcomes the agreement between the European Parliament and the Council, delivering a landmark reform of the EU Customs Union. The most ambitious reform of EU customs rules since 1968 introduces new measures for e-commerce and launches a modern, data-driven customs architecture.
-1 min read
-  * News announcement
-  * 26 March 2026
-
-
-[CBAM webinar follow-up: “What changes for me?”](https://taxation-customs.ec.europa.eu/news/cbam-webinar-follow-what-changes-me-2026-03-26_en)
-On Thursday 19th March 2026, DG TAXUD hosted the first in a series of webinars on the implementation of the EU’s Carbon Border Adjustment Mechanism (CBAM).
 2 min read
 Share this page 
   * [ X ](https://taxation-customs.ec.europa.eu/news_en#x "Share via X")

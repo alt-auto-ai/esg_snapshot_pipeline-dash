@@ -3,33 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
-  * 8 May 2026
-### [Cuts Are In The Liberal Party's DNA](https://www.premier.vic.gov.au/cuts-are-liberal-partys-dna)
-My dad was a linesman on the State Electricity Commission. He lost his job because of Liberal cuts. It devastated our family and our community. That's...
-  * 8 May 2026
-### [Road Safety Upgrades Complete Along The Bellarine Highway](https://www.premier.vic.gov.au/road-safety-upgrades-complete-along-bellarine-highway)
-Important road upgrades are now complete on the Bellarine Peninsula, improving safety for the thousands of motorists who travel through the area every...
-  * 8 May 2026
-### [Warrnambool Races A Boost For The Regions](https://www.premier.vic.gov.au/warrnambool-races-boost-regions)
-Labor is backing the iconic Warrnambool Racing Carnival. Minister for Racing Anthony Carbines joined racegoers in Warrnambool for the three‑day carniv...
-  * 8 May 2026
-### [Keeping Victoria’s Rail Freight On Track](https://www.premier.vic.gov.au/keeping-victorias-rail-freight-track)
-Supporting farmers to get their produce efficiently to international markets continues to be a priority of the Allan Labor Government. The Victorian ...
-  * 8 May 2026
-### [Hundreds More Homes Approved In Build-To-Rent Capital](https://www.premier.vic.gov.au/hundreds-more-homes-approved-build-rent-capital)
-Melbourne continues to lead the nation as the build-to-rent capital, with hundreds more rental homes approved. Minister for Planning Sonya Kilkenny ha...
-  * 8 May 2026
-### [Trailblazers Join Aboriginal Honour Roll](https://www.premier.vic.gov.au/trailblazers-join-aboriginal-honour-roll)
-First Nations trailblazers have been recognised for their contributions at the Aboriginal Honour Roll Ceremony. Minister Spence inducted 10 new artist...
-  * 7 May 2026
-### [Community Sports Upgrades For Booming Ballarat](https://www.premier.vic.gov.au/community-sports-upgrades-booming-ballarat-0)
-The Allan Labor Government is investing in Ballarat's growing communities – bringing new sports and recreation facilities to Miners Rest and Lucas. De...
-  * 7 May 2026
-### [New Voice For Aboriginal Children And Young People](https://www.premier.vic.gov.au/new-voice-aboriginal-children-and-young-people)
-Aboriginal children and young people will have a new advocate in the Commission for Children and Young People. Minister Blandthorn announced today tha...
-  * 7 May 2026
-### [Labor Is Supporting LGBTIQA+ Victorians](https://www.premier.vic.gov.au/labor-supporting-lgbtiqa-victorians)
-The Allan Labor Government has awarded a record fourteen organisations supporting LGBTIQA+ Victorians with a $1.6 million investment to strengthen and...
+  * 15 May 2026
+### [Strengthening Victoria's Palliative Care System](https://www.premier.vic.gov.au/strengthening-victorias-palliative-care-system)
+The Allan Labor Government is making sure Victorians at the end of their life can live their final days in dignity and comfort. Minister Shing today ...
+  * 15 May 2026
+### [$1.5 Billion Boost To Victorian Economy](https://www.premier.vic.gov.au/15-billion-boost-victorian-economypdf)
+Labor is backing major events in Melbourne - creating thousands of jobs and growing the economy. Minister Dimopoulos today released an independent rep...
+  * 15 May 2026
+### [Construction To Begin On Western Highway Upgrade This Year](https://www.premier.vic.gov.au/construction-begin-western-highway-upgrade-year)
+Construction on the Western Highway Upgrade between Buangor and Ararat is set to begin before the end of the year, following the Albanese Labor Govern...
+  * 15 May 2026
+### [State Funeral For The Hon. Norman Henry Lacy](https://www.premier.vic.gov.au/state-funeral-hon-norman-henry-lacy)
+A State Funeral to celebrate the life of The Hon. Norman Henry Lacy will be held at 11am on Tuesday, 19 May at St Mark’s Anglican Church in Camberwell...
+  * 15 May 2026
+### [Liberals To Cut Aged Pension From Long-Time Migrants](https://www.premier.vic.gov.au/liberals-cut-aged-pension-long-time-migrants)
+Federal Liberal Leader Angus Taylor says he will cut off long-time permanent residents from the aged pension. These are people who worked, paid taxes ...
+  * 14 May 2026
+### [More Than $37 Million Boost For Long-Term Bushfire Recovery In Victoria](https://www.premier.vic.gov.au/more-37-million-boost-long-term-bushfire-recovery-victoria)
+The Albanese and Allan Labor Governments are continuing to support communities recovering from the January 2026 bushfires. An extra $37 million will ...
+  * 14 May 2026
+### [More Funding To Upgrade Donnybrook Road](https://www.premier.vic.gov.au/more-funding-upgrade-donnybrook-road)
+Drivers in Melbourne’s outer north will soon benefit from safer and more reliable journeys thanks to $45 million in additional funding from the Albane...
+  * 14 May 2026
+### [Food Relief Funding For Neighbourhood Houses](https://www.premier.vic.gov.au/food-relief-funding-neighbourhood-houses)
+Labor is backing Neighbourhood Houses across Victoria with dedicated food relief funding. Right now, families are doing it tough. The cost of grocer...
+  * 14 May 2026
+### [Getting More Young People Into Jobs In Melbourne’s West](https://www.premier.vic.gov.au/getting-more-young-people-jobs-melbournes-west)
+Labor is helping more young people in Melbourne’s west to get job-ready and employed. Minister Suleyman today launched the Western Pathways Program a...
 
 
 ## Subscribe to our media releases

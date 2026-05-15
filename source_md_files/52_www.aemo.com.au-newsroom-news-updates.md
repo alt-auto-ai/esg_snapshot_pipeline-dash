@@ -38,7 +38,7 @@ Media release (2)
 National (4)
 National Electricity Market (31)
 Network Service Provider (1)
-News (144)
+News (145)
 Notice (7)
 NSW (3)
 Partnership (3)
@@ -78,7 +78,7 @@ x
 2023 (15)
 2024 (18)
 2025 (26)
-2026 (4)
+2026 (5)
 # News Updates
 Search 
 Sort by 
@@ -92,6 +92,8 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [ 14/05/2026 6 mins AEMO appoints 2028 ISP Consumer Panel The Australian Energy Market Operator (AEMO) is pleased to announce the appointment of the   
+2028 Integrated System Plan (ISP) Consumer Panel, an independent advisory body that provides a consumer-focused perspective on Australia’s long-term energy planning.](https://www.aemo.com.au/newsroom/news-updates/aemo-appoints-2028-isp-consumer-panel "AEMO appoints 2028 ISP Consumer Panel")
   * [ 06/05/2026 2 mins Suspension of Photon Energy SGA Pty Ltd (ABN 29 645 266 173)  The Australian Energy Market Operator (AEMO) advises under clause 3.15.21(f) of the National Electricity Rules that Photon Energy SGA Pty Ltd (ABN 29 645 266 173) (Photon Energy) has been suspended from all trading in the National Electricity Market (NEM) with effect from 00:00 hours Australian Eastern Standard time on 7 May 2026. ](https://www.aemo.com.au/newsroom/news-updates/suspension-of-photon-energy-sga-pty-ltd "Suspension of Photon Energy SGA Pty Ltd")
   * [ 27/03/2026 4 mins AEMO calls for Expressions of Interest for 2028 ISP Consumer Panel The Australian Energy Market Operator (AEMO) is inviting expressions of interest from stakeholders to join the 2028 Integrated System Plan (ISP) Consumer Panel, an independent advisory body that provides a consumer-focused perspective on Australia’s long-term energy planning.](https://www.aemo.com.au/newsroom/news-updates/aemo-calls-for-expressions-of-interest-for-2028-isp-consumer-panel "AEMO calls for Expressions of Interest for 2028 ISP Consumer Panel")
   * [ 05/03/2026 4 mins AEMO publishes ECMC governance review submission AEMO has published our submission as part of the consultation into the Energy and Climate Change Ministerial Council (ECMC) review on AEMO’s governance arrangements.](https://www.aemo.com.au/newsroom/news-updates/aemo-publishes-ecmc-governance-review-submission "AEMO publishes ECMC governance review submission")
@@ -101,7 +103,6 @@ Date published (Newest) **▾**
   * [ 17/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a default notice in the Short Term Trading Market (STTM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-17-dec-2025-sttm "National Gas Rules - Public Notice 17 Dec 2025 STTM")
   * [ 17/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a Default Notice in the Declared Wholesale Gas Market (DWGM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-17-dec-2025-dwgm "National Gas Rules - Public Notice 17 Dec 2025 DWGM")
   * [ 13/11/2025 3 mins AEMO finalises scenario weightings ahead of Draft 2026 ISP release AEMO is now more than halfway through the development of the 2026 Integrated System Plan (ISP) and is close to publishing the Draft 2026 ISP, which is scheduled for release in just a few weeks.](https://www.aemo.com.au/newsroom/news-updates/aemo-finalises-scenario-weightings-ahead-of-draft-2026-isp-release "AEMO finalises scenario weightings ahead of Draft 2026 ISP release")
-  * [ 24/10/2025 5 mins AEMO progressing transitional system security services The Australian Energy Market Operator (AEMO) has advanced its program to procure ‘transitional services’ to support the transition of the National Electricity Market to a low emissions power system.](https://www.aemo.com.au/newsroom/news-updates/aemo-progressing-transitional-system-security-services "AEMO progressing transitional system security services")
 
 
   * [First](https://www.aemo.com.au/newsroom/news-updates)

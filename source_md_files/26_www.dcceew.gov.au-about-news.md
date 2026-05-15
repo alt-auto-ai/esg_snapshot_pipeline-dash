@@ -10,6 +10,34 @@ See our latest news and announcements. Discover more about what we do.
 
 05 May 2026
 The Australian government is taking action to secure our fuel supply. 
+### [Bega Valley Shire building a new organics facility](https://www.dcceew.gov.au/about/news/bega-valley-shire-building-new-organics-facility)
+  * Case study
+  * Environment
+
+
+13 May 2026
+An insight into expanding organics processing for growing regional communities in NSW.
+### [Budget 2026–27](https://www.dcceew.gov.au/about/news/budget-2026-27)
+  * News
+  * About us
+
+
+12 May 2026
+The 2026-27 federal budget was presented on 12 May 2026.
+### [Royal Exhibition Building marks national milestone](https://www.dcceew.gov.au/about/news/royal-exhibition-building-marks-national-milestone)
+  * News
+  * Heritage
+
+
+11 May 2026
+Australia celebrated the 125th anniversary of our federal Parliament on 9 May 2026. 
+### [Statutory Consultation open: Environmental Offsets Standard](https://www.dcceew.gov.au/about/news/statutory-consultation-open-environmental-offsets-standard)
+  * News
+  * Environment
+
+
+11 May 2026
+We are seeking feedback on the exposure draft of the Environmental Offsets Standard.
 ### [Domestic gas reservation secures Australian gas for Australian users](https://www.dcceew.gov.au/about/news/domestic-gas-reservation-secures-australian-gas)
   * News
   * Energy
@@ -31,34 +59,6 @@ To update audience on the selection of the Electricity Contract Co Design Workin
 
 08 May 2026
 Registration link for the webinar on the NGER Method 2 for open-cut coal mines review.
-### [Meet the people monitoring for H5 bird flu](https://www.dcceew.gov.au/about/news/meet-people-monitoring-h5-bird-flu)
-  * News
-  * Environment
-
-
-07 May 2026
-Charlotte and Christina tell us why vigilance and being prepared matters. 
-### [City of Ipswich trials a FOGO collection service](https://www.dcceew.gov.au/about/news/city-ipswich-trials-fogo-collection-service)
-  * Case study
-  * Environment
-
-
-06 May 2026
-Sharing their experience for other councils looking to improve FOGO recycling.
-### [Compostable produce bags provided in supermarkets](https://www.dcceew.gov.au/about/news/compostable-produce-bags-provided-in-supermarkets)
-  * Case study
-  * Environment
-
-
-06 May 2026
-Easy access to compostable caddy liners at supermarkets improves food waste recycling.
-### [CleanBins AI improves organic waste collection](https://www.dcceew.gov.au/about/news/cleanbins-ai-improves-organic-waste-collection)
-  * Case study
-  * Environment
-
-
-06 May 2026
-Using truck-mounted cameras and AI to reduce contamination.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

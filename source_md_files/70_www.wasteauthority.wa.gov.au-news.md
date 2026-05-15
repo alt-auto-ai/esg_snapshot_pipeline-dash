@@ -5,6 +5,8 @@ icon-add icon-announce icon-arrow icon-cal icon-leaf icon-doc icon-search
 
 # News
 A list of announcements
+  * 13 May
+##  [ Outcomes from the Waste Authority’s annual planning day and meetings held on 31 March and 22 April 2026 ](https://www.wasteauthority.wa.gov.au/publications/view/WA-Meeting-Outcomes/outcomes-of-the-waste-authoritys-annual-planning-day-and-meetings-held-on-31-march-and-22-april-2026)
   * 29 Apr
 ##  [ WA’s Circular Reuse Economy delivering $250 million savings and 1,300 local jobs ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/WA's-Circular-Reuse-Economy-Delivering-$250-million-savings-and-1,300-local-jobs-20260429)
   * 22 Apr
@@ -44,8 +46,6 @@ A list of announcements
   * 26 Sep
 ##  [ Minister welcomes Stirling FOGO trial as a major step in waste reform ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Minister-welcomes-Stirling-FOGO-trial-as-major-step-in-waste-reform-20250926)
   * 26 Sep
-  * 12 Sep
-##  [ Circular economy champions recognised at WasteSorted Awards ](https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Circular-economy-champions-recognised-at-WasteSorted-Awards-20250912)
 
 
 **1** [2](https://www.wasteauthority.wa.gov.au/news/P24) [3](https://www.wasteauthority.wa.gov.au/news/P48) [>](https://www.wasteauthority.wa.gov.au/news/P24) [Last ›](https://www.wasteauthority.wa.gov.au/news/P168)

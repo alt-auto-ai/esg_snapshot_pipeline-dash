@@ -13,6 +13,12 @@
 Media statements are also released by the [Minister for Environment](https://www.mediastatements.wa.gov.au/Pages/Ministers/Reece-Whitby.aspx).
 Please note that the email address for general media enquiries is 
 [](https://www.epa.wa.gov.au/subscribe-content)
+##### [No EPA assessment for Pilbara Ports bypass navigation channel ](https://www.epa.wa.gov.au/media-statements/no-epa-assessment-pilbara-ports-bypass-navigation-channel)
+May 11, 2026
+The State waters component of a Pilbara Ports proposal to dredge a bypass channel will not be formally assessed by the Environmental Protection Authority (EPA). 
+The new navigation channel to the east of the existing shipping lane is proposed as a vessel contingency should a grounding incident occur in the Port Hedland main channel. 
+[Read more...](https://www.epa.wa.gov.au/media-statements/no-epa-assessment-pilbara-ports-bypass-navigation-channel)
+* * *
 ##### [Fauna the focus of EPA assessment of proposed lithium expansion ](https://www.epa.wa.gov.au/media-statements/fauna-focus-epa-assessment-proposed-lithium-expansion)
 May 7, 2026
 The Environmental Protection Authority (EPA) has completed its assessment  
@@ -69,12 +75,6 @@ October 6, 2025
 A BHP Iron Ore Pty Ltd proposal to expand its [Jimblebar Hub](https://www.epa.wa.gov.au/proposals/jimblebar-hub-significant-amendment) has been recommended for environmental approval by the Environmental Protection Authority (EPA).
 The proposal, located 40km east of Newman on the traditional lands of the Nyiyaparli People, is for the development of a below water table mining deposit, beneficiation plant, and extensions to existing operations and supporting infrastructure.
 [Read more...](https://www.epa.wa.gov.au/media-statements/epa-delivers-recommendations-extension-pilbara-iron-ore-hub)
-* * *
-##### [Public comment opens on proposed Burswood entertainment precinct](https://www.epa.wa.gov.au/media-statements/public-comment-opens-proposed-burswood-entertainment-precinct)
-October 2, 2025
-Stakeholders and community members have seven days to have their say on whether or not the proposed Perth Entertainment and Sporting Precinct should be assessed by the Environmental Protection Authority (EPA).
-The public comment period, accessible via the [EPA’s Consultation Hub](https://consultation.epa.wa.gov.au/), provides an opportunity for people to submit a view on the consideration of the Burswood proposal under Part IV of the Environmental Protection Act 1986.
-[Read more...](https://www.epa.wa.gov.au/media-statements/public-comment-opens-proposed-burswood-entertainment-precinct)
 * * *
 ## Pages
   * 1

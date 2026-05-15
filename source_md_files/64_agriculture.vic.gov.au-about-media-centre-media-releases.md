@@ -4,8 +4,20 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **304** results 
+Showing **1** to **10** of **307** results 
 Sort by
+## [Next generation of farmers invited to help shape the future of agriculture in Victoria](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/next-generation-of-farmers-invited-to-help-shape-the-future-of-agriculture-in-victoria)
+14 May 2026
+Emerging leaders from across Victorian agriculture are invited to submit expressions of interest for the next 2-year term of the Young Farmers Advisory Council.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/next-generation-of-farmers-invited-to-help-shape-the-future-of-agriculture-in-victoria>
+## [Safe Food Victoria appoints board members](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/safe-food-victoria-appoints-board-members)
+12 May 2026
+The Minister for Agriculture has approved the inaugural Safe Food Victoria Board.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/safe-food-victoria-appoints-board-members>
+## [On-farm action at off farm events across the state](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/on-farm-action-at-off-farm-events-across-the-state)
+11 May 2026
+Agriculture Victoria is supporting farmers through drought with practical events, both in-person and online.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/on-farm-action-at-off-farm-events-across-the-state>
 ## [Tap into valuable soil moisture data this season](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/tap-into-valuable-soil-moisture-data-this-season)
 07 May 2026
 Farmers statewide are encouraged to subscribe to Agriculture Victoria's Soil Moisture Monitoring Cropping Report e-newsletter for real-time soil water data.
@@ -34,18 +46,6 @@ In a challenging 2025 that saw limited pasture availability, many animals were g
 24 Apr 2026
 With more farmers planning for drier years and tightening water allocations, the Gippsland Irrigation Expo is returning on 20 May at the Sale Showgrounds.
 <https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof>
-## [Burn piles can be risk to stock](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/burn-piles-can-be-risk-to-stock)
-13 Apr 2026
-Farmers looking to ignite burn piles when fire restrictions are lifted are being urged to be cautious with stock.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/burn-piles-can-be-risk-to-stock>
-## [Ballarat BetterBeef on-farm pasture walk coming up in May](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/ballarat-betterbeef-on-farm-pasture-walk-coming-up-in-may)
-10 Apr 2026
-The Ballarat BetterBeef Group is hosting an on-farm pasture walks for beef producers to explore practical approaches to pasture and weed management.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/ballarat-betterbeef-on-farm-pasture-walk-coming-up-in-may>
-## [Drone operator fined following spray-drift incident](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/drone-operator-fined-following-spray-drift-incident)
-09 Apr 2026
-A south-west drone spraying business was convicted and fined $15,000 in the Colac Magistrates’ Court recently, as a result of charges relating to spray drift.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/drone-operator-fined-following-spray-drift-incident>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)
@@ -60,4 +60,3 @@ A south-west drone spraying business was convicted and fined $15,000 in the Cola
 
 [Back to top](https://agriculture.vic.gov.au/about/media-centre/media-releases)
 We acknowledge the traditional Aboriginal Owners of Country throughout Victoria, their ongoing connection to this land and we pay our respects to their culture and their Elders past, present and future.
-Feedback

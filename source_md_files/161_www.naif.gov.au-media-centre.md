@@ -7,6 +7,11 @@
 
 The Northern Australia Infrastructure Facility (NAIF) will provide a loan for around $70 million to build more than 400 new purpose-built student accommodation beds in Darwin.
 [Continue Reading](https://www.naif.gov.au/media-centre/albanese-government-backs-darwin-student-accommodation/)
+### [Newsletter May 2026
+  * 11 May 2026
+  * Newsletters
+
+The May edition of NAIF Impact showcases our latest investments, project milestones, and community outcomes shaping growth across northern Australia. Continue reading ](https://www.naif.gov.au/media-centre/newsletter-may-2026/)
 ### [Quarterly Snapshot Q3 2025-26
   * 29 Apr 2026
   * Quarterly Snapshots
@@ -22,6 +27,11 @@ We've announced a loan for up to $40 million to build 81 new social and affordab
   * Media Release
 
 The Northern Australia Infrastructure Facility (NAIF) will provide a loan for around $70 million to build more than 400 new purpose-built student accommodation beds in Darwin. Continue reading ](https://www.naif.gov.au/media-centre/albanese-government-backs-darwin-student-accommodation/)
+### [Newsletter March 2026
+  * 12 Mar 2026
+  * Newsletters
+
+The March edition of NAIF Impact showcases our latest investments, project milestones, and community outcomes shaping growth across northern Australia. Continue reading ](https://www.naif.gov.au/media-centre/newsletter-march-2026/)
 ### [Kimberley Cotton Gin Case Study
   * 10 Mar 2026
   * Case Study
@@ -42,17 +52,7 @@ The Northern Australia Infrastructure Facility Amendment Bill 2026 has been intr
   * Media Release
 
 The Australian Government's Northern Australia Infrastructure Facility (NAIF) today announces that Neil MacDonald has commenced as Chief Executive Officer, based at the organisation’s Cairns headquarters in North Queensland. Continue reading ](https://www.naif.gov.au/media-centre/new-naif-ceo-neil-macdonald-commences-role-based-in-cairns/)
-### [Quarterly Snapshot Q2 2025-26
-  * 16 Jan 2026
-  * Quarterly Snapshots
-
-View the Q2 2025-26 snapshot including updated financial data for committed loans, public benefit, jobs, Indigenous engagement, and project pipeline. Continue reading ](https://www.naif.gov.au/media-centre/quarterly-snapshot-q2-2025-26/)
-### [How to get started with NAIF finance
-  * 15 Jan 2026
-  * News Article
-
-Start your NAIF finance journey: check eligibility, engage early, prepare due diligence and submit your proposal for northern Australia projects. Continue reading ](https://www.naif.gov.au/media-centre/how-to-get-started-with-naif-finance/)
-Displaying 1-9 of 202 
+Displaying 1-9 of 204 
 January February March April May June July August September October November December
 SunMonTueWedThuFriSat 
 262728293012345678910111213141516171819202122232425262728293031123456

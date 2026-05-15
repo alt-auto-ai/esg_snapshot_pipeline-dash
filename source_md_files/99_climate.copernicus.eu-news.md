@@ -4,6 +4,14 @@ cross close
 [ Copernicus | Europe's eyes on Earth ](http://www.copernicus.eu/)
 #  News 
 Latest news on the Copernicus Climate Change Service
+12th May 2026
+### [Second-highest sea surface temperatures recorded during third-warmest April globally](https://climate.copernicus.eu/second-highest-sea-surface-temperatures-recorded-during-third-warmest-april-globally)
+With El Niño conditions expected to develop in the coming months, April 2026 saw the second highest sea surface temperatures (SSTs) on record for the extra-polar oceans – between latitudes 60°S and 60°N – as reported in the latest Climate Bulletin by the Copernicus Climate Change Service (C3S). The month saw record high SSTs across large parts of the tropical Pacific associated with strong marine heatwaves. 
+[ ](https://climate.copernicus.eu/second-highest-sea-surface-temperatures-recorded-during-third-warmest-april-globally)
+11th May 2026
+### [Weather Replay: your time machine to revisit past weather](https://climate.copernicus.eu/weather-replay-your-time-machine-revisit-past-weather)
+On 15 February 1941, at 11:00 AM the Iberian Peninsula was about to be hit by a catastrophic windstorm that ravaged Portugal dumping more than 50 mm of precipitation in a few hours and bringing wind gusts above 150 km/h. This event is a classic meteorological case study, and the default view of Weather Replay, the latest app released by the Copernicus Climate Change Service (C3S). 
+[ ](https://climate.copernicus.eu/weather-replay-your-time-machine-revisit-past-weather)
 29th April 2026
 ### [Ten charts to discover the European State of the Climate 2025 report ](https://climate.copernicus.eu/ten-charts-discover-european-state-climate-2025-report)
 Europe is Earth’s fastest-warming continent. In 2025, the continent saw record heatwaves from the Mediterranean to the Arctic, over land and in the ocean. As the climate warms, impacts are widespread – from loss of glacier ice to widespread drought, and impacts on biodiversity. 
@@ -36,14 +44,6 @@ The European Centre for Medium-Range Weather Forecasts (ECMWF) has a long-standi
 ### [December 2025 was the fifth warmest on record globally ](https://climate.copernicus.eu/december-2025-was-fifth-warmest-record-globally)
 Last month’s Climate Bulletin from the Copernicus Climate Change Service (C3S), which is implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF), reported that December 2025 was the fifth-warmest December globally in the ERA5 dataset, while 2025 as a whole ranked as the third-warmest year on record. 
 [ ](https://climate.copernicus.eu/december-2025-was-fifth-warmest-record-globally)
-15th January 2026
-### [5 charts to discover the Global Climate Highlights 2025 report](https://climate.copernicus.eu/5-charts-discover-global-climate-highlights-2025-report)
-The Copernicus Climate Change Service (C3S) released its Global Climate Highlights 2025 report on 14 January. The assessment of the key climate variables of the year, prepared against the clock as the final data only becomes available in early January, revealed that 2025 was the third-warmest year on record, nearly tied with 2023 and 0.13ºC cooler than 2024, the warmest year. It is the first time that the average of a three-year period (2023-2025) has exceeded 1.5ºC above the pre-industrial level (1850-1900). 
-[ ](https://climate.copernicus.eu/5-charts-discover-global-climate-highlights-2025-report)
-18th December 2025
-### [Advancing energy resilience in the Mediterranean: E-DREAM workshop charts path for climate action](https://climate.copernicus.eu/advancing-energy-resilience-mediterranean-e-dream-workshop-charts-path-climate-action)
-The Energy Droughts and Resource Energy Assessment in the Mediterranean (E-DREAM) demonstrator activity, funded by Copernicus, recently held its inaugural User Requirements Workshop, “Advancing Energy Resilience in the Mediterranean.” 
-[ ](https://climate.copernicus.eu/advancing-energy-resilience-mediterranean-e-dream-workshop-charts-path-climate-action)
 ## Use of personal data and cookies
 We use cookies to operate our site, improve the user experience and site performance.
 [Settings](https://climate.copernicus.eu/news "Open consent dialog")

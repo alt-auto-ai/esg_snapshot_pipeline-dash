@@ -7,6 +7,12 @@
 We're thinking ahead and acting now to secure responsible economic development and liveable communities.
 Read more about our people, projects and places below.
 Select Region: All  Central Queensland Townsville Logan Outback Queensland Darling Downs Gold Coast Brisbane and Redland Ipswich Mackay–Whitsunday Sunshine Coast and Moreton Bay Wide Bay Far North Queensland Select Category: All  Aerospace and space Beef processing Biofutures Biomedical Brisbane 2032 Defence Economic Development Queensland Grants and funding Housing Hydrogen Hydrogen summit Infrastructure Local Government Manufacturing Media Release METS Planning Precincts Priority development areas Priority industries Queens Wharf Brisbane Queensland new-industry development strategy Recovery Renewables Resource recovery Residential developments State development areas Superyachts Women in renewables
+[Planning ahead: How regional plans support thriving Queensland communities, and how you can be involved in shaping yours](https://www.statedevelopment.qld.gov.au/news-and-events/planning-ahead-how-regional-plans-support-thriving-queensland-communities,-and-how-you-can-be-involved-in-shaping-yours)
+May 12, 2026
+Queensland’s regional plans play an important role in shaping the places where Queenslanders live, work and play.
+  * [Planning](https://www.statedevelopment.qld.gov.au/news-and-events?category=planning)
+
+
 [Queensland’s biomedical industry bringing breakthroughs closer to home ](https://www.statedevelopment.qld.gov.au/news-and-events/queenslands-biomedical-industry-bringing-breakthroughs-closer-to-home)
 Apr 8, 2026
 Queensland’s clinical trials play a central role in connecting local communities to global medical innovation
@@ -42,13 +48,6 @@ Beneath your house, your street and your community is a carefully planned networ
 [Small projects, big impact: infrastructure helping build stronger Queensland communities](https://www.statedevelopment.qld.gov.au/news-and-events/small-projects-big-impact-infrastructure-helping-build-stronger-queensland-communities)
 Feb 20, 2026
 When we think of infrastructure, it’s easy to picture massive bridges, highways or stadiums. But across Queensland, it’s often the smaller projects delivered in partnership with local communities that create the most meaningful change.
-  * [Housing](https://www.statedevelopment.qld.gov.au/news-and-events?category=housing)
-  * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
-
-
-[Living different: Stories of Queensland homes ](https://www.statedevelopment.qld.gov.au/news-and-events/living-different-stories-of-queensland-homes)
-Feb 9, 2026
-Housing shapes how we live, work, and connect with others.
   * [Housing](https://www.statedevelopment.qld.gov.au/news-and-events?category=housing)
   * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
 

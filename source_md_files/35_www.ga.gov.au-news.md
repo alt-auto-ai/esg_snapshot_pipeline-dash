@@ -28,6 +28,10 @@ Filter
   * Exploring for the Future 
 
 
+###  New facilities strengthen Australia’s critical minerals capability 
+**13 May 2026**
+Geoscience Australia is contributing national-scale geoscience expertise through the Australian Critical Minerals R&D Hub.
+[ New facilities strengthen Australia’s critical minerals capability Learn more](https://www.ga.gov.au/news/new-facilities-strengthen-australias-critical-minerals-capability)
 ###  Australia’s full national topographic library at your fingertips 
 **31 March 2026**
 Geoscience Australia has completed the nationwide release of its AUSTopo 1:250,000 digital topographic map series, putting authoritative, up to date topographic coverage of the entire country just a click away.

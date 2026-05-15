@@ -215,6 +215,14 @@ Get in touch with us or find an expert.
 # News
 Find out about the latest news, announcements and stories about the ANU Institute for Climate, Energy & Disaster Solutions.
 ##  Search 
+[](https://iceds.anu.edu.au/news-events/news/why-net-zero-isnt-enough)
+14 May 2026 
+## [Why net zero isn't enough »](https://iceds.anu.edu.au/news-events/news/why-net-zero-isnt-enough)
+What if the climate solution we’ve pinned our hopes on still won’t stop the heat? 
+[](https://iceds.anu.edu.au/news-events/news/gas-and-coal-have-long-tied-japan-australia-its-time-new-climate-and-green-industry)
+8 May 2026 
+## [Gas and coal have long tied Japan to Australia. It's time for a new climate and green industry partnership »](https://iceds.anu.edu.au/news-events/news/gas-and-coal-have-long-tied-japan-australia-its-time-new-climate-and-green-industry)
+At the official leaders’ meeting between Australia and Japan, Prime Minister Albanese and his Japanese counterpart Senae Takaichi signed a joint declaration on... 
 [](https://iceds.anu.edu.au/news-events/news/betting-hydrogen-stand-alone-energy-systems-economic-outlook-doesnt-look-good)
 29 Apr 2026 
 ## [Betting on hydrogen in stand-alone energy systems? The economic outlook doesn't look good »](https://iceds.anu.edu.au/news-events/news/betting-hydrogen-stand-alone-energy-systems-economic-outlook-doesnt-look-good)
@@ -255,14 +263,6 @@ In 2025, Australia experienced simultaneous flooding in northern regions and dro
 18 Feb 2026 
 ## [Intense heatwaves directly threaten crops and native species. Here’s what we can do »](https://iceds.anu.edu.au/news-events/news/intense-heatwaves-directly-threaten-crops-and-native-species-here%E2%80%99s-what-we-can-do)
 During Australia’s unprecedented heatwave in late January, air temperatures reached 50°C in inland South Australia and Australian farmers are already feeling... 
-[](https://iceds.anu.edu.au/news-events/news/these-voices-are-loudest-australia%25E2%2580%2599s-%25E2%2580%2598climate-wars%25E2%2580%2599)
-4 Feb 2026 
-## [These voices are the loudest in Australia’s ‘climate wars’ »](https://iceds.anu.edu.au/news-events/news/these-voices-are-loudest-australia%E2%80%99s-%E2%80%98climate-wars%E2%80%99)
-There’s a reason political commentators refer to Australia’s “climate wars”. Every time a climate policy is put on the table, supporters and opponents come out... 
-[](https://iceds.anu.edu.au/news-events/news/we-begin-assess-fire-damage-victoria-we-must-not-overlook-these-hidden-costs)
-14 Jan 2026 
-## [As we begin to assess the fire damage in Victoria, we must not overlook these hidden costs »](https://iceds.anu.edu.au/news-events/news/we-begin-assess-fire-damage-victoria-we-must-not-overlook-these-hidden-costs)
-Beyond the headline losses, disasters can lead to ongoing socio-economic problems, write Associate Professor Sonia Akter, Manh-Tien Bui and Professor Quentin... 
 ## Pages
   * 1
   * [2](https://iceds.anu.edu.au/news-events/news?page=1 "Go to page 2")

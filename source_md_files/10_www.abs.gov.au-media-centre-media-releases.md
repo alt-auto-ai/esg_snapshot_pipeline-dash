@@ -10,7 +10,11 @@ Filter by theme
 
 
 Filtered by:
-1 - 20 of 1147 media releases
+1 - 20 of 1149 media releases
+13 May 2026
+##  [New home loans fall in March quarter](https://www.abs.gov.au/media-centre/media-releases/new-home-loans-fall-march-quarter)
+13 May 2026
+##  [Wage growth steady in March quarter](https://www.abs.gov.au/media-centre/media-releases/wage-growth-steady-march-quarter)
 08 May 2026
 ##  [University spending on R&D returns to pre-COVID-19 levels](https://www.abs.gov.au/media-centre/media-releases/university-spending-rd-returns-pre-covid-19-levels)
 07 May 2026
@@ -47,10 +51,6 @@ Filtered by:
 ##  [Dwelling approvals rise in February](https://www.abs.gov.au/media-centre/media-releases/dwelling-approvals-rise-february)
 31 March 2026
 ##  [Capital city growth slows](https://www.abs.gov.au/media-centre/media-releases/capital-city-growth-slows)
-27 March 2026
-##  [Sugary drink consumption 26% higher in our most disadvantaged areas](https://www.abs.gov.au/media-centre/media-releases/sugary-drink-consumption-26-higher-our-most-disadvantaged-areas)
-26 March 2026
-##  [Household wealth rose by 2.5% in December](https://www.abs.gov.au/media-centre/media-releases/household-wealth-rose-25-december)
 [ Back to top of the page ](https://www.abs.gov.au/media-centre/media-releases "Back to top")
 tiktoksocial-twitterarrow-downarrow-leftarrow-rightarrow-upcav-downcav-rightclosedownloadexternal-linkfeedbackfilemenusearchsign-checksign-infosign-warningsocial-facebooksocial-instagramtriangle-downlinkprintquotes-leftcalendardate-addquestionyoutubelinkedin2sphere
 Feedback

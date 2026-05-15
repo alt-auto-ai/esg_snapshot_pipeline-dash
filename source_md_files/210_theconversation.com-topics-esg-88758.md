@@ -55,10 +55,7 @@ While incentives can enhance the environmental, social and corporate governance 
 
 
 ### Job Board
-  * ##### [Research Operations Manager](https://jobs.theconversation.com/jobs/525512934-research-operations-manager-at-university-of-melbourne?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
-  * ##### [Manager, Academic Services](https://jobs.theconversation.com/jobs/524928113-manager-academic-services-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
-  * ##### [Lecturer or Senior Lecturer, Digital Health - AI in Medicine](https://jobs.theconversation.com/jobs/524734218-lecturer-or-senior-lecturer-digital-health-ai-in-medicine-at-rmit-university?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
-  * ##### [Executive Director, Future Students | UTS College](https://jobs.theconversation.com/jobs/524654833-executive-director-future-students-uts-college-at-uts-college-university-of-technology-sydney?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
+  * ##### [EYOP Postdoctoral Research Fellow/Research Fellow](https://jobs.theconversation.com/jobs/525631699-eyop-postdoctoral-research-fellow-research-fellow-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
 
 [ More Jobs ](https://jobs.theconversation.com?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_more)
 ### Top contributors

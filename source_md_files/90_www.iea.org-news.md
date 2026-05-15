@@ -37,7 +37,7 @@ Close Search
     * [ Toggle filter North America (6) ](https://www.iea.org/news?region%5B0%5D=north-america)
     * [ Toggle filter Eurasia (3) ](https://www.iea.org/news?region%5B0%5D=eurasia)
   * TechnologyChevron down
-    * [ Toggle filter Natural Gas (143) ](https://www.iea.org/news?energySystem%5B0%5D=natural-gas)
+    * [ Toggle filter Natural Gas (144) ](https://www.iea.org/news?energySystem%5B0%5D=natural-gas)
     * [ Toggle filter Oil (125) ](https://www.iea.org/news?energySystem%5B0%5D=oil)
     * [ Toggle filter Solar PV (65) ](https://www.iea.org/news?energySystem%5B0%5D=solar-pv)
     * [ Toggle filter Coal (58) ](https://www.iea.org/news?energySystem%5B0%5D=coal)
@@ -54,7 +54,7 @@ Close Search
     * [ Toggle filter Heating (20) ](https://www.iea.org/news?energySystem%5B0%5D=heating)
   * SectorChevron down
     * [ Toggle filter Electricity (44) ](https://www.iea.org/news?sector%5B0%5D=electricity)
-    * [ Toggle filter Fossil Fuels (33) ](https://www.iea.org/news?sector%5B0%5D=fossil-fuels)
+    * [ Toggle filter Fossil Fuels (34) ](https://www.iea.org/news?sector%5B0%5D=fossil-fuels)
     * [ Toggle filter Renewables (17) ](https://www.iea.org/news?sector%5B0%5D=renewables)
     * [ Toggle filter Energy Efficiency and Demand (14) ](https://www.iea.org/news?sector%5B0%5D=energy-efficiency-and-demand)
     * [ Toggle filter Carbon Capture Utilisation and Storage (13) ](https://www.iea.org/news?sector%5B0%5D=carbon-capture-utilisation-and-storage)
@@ -94,11 +94,11 @@ Close Search
     * [ Toggle filter Data-Driven Electrification in Africa (2) ](https://www.iea.org/news?programme%5B0%5D=data-driven-electrification-in-africa)
     * [ Toggle filter Transport Project Partnership (1) ](https://www.iea.org/news?programme%5B0%5D=transport-project-partnership)
   * TypeChevron down
-    * [ Toggle filter News (1256) ](https://www.iea.org/news?type=news)
-    * [ Toggle filter Commentary (349) ](https://www.iea.org/news?type=commentary)
+    * [ Toggle filter News (1257) ](https://www.iea.org/news?type=news)
+    * [ Toggle filter Commentary (350) ](https://www.iea.org/news?type=commentary)
     * [ Toggle filter Press release (173) ](https://www.iea.org/news?type=press-release)
   * YearChevron down
-    * [ Toggle filter 2026 (72) ](https://www.iea.org/news?year=2026)
+    * [ Toggle filter 2026 (74) ](https://www.iea.org/news?year=2026)
     * [ Toggle filter 2025 (167) ](https://www.iea.org/news?year=2025)
     * [ Toggle filter 2024 (148) ](https://www.iea.org/news?year=2024)
     * [ Toggle filter 2023 (159) ](https://www.iea.org/news?year=2023)
@@ -116,6 +116,8 @@ Close Search
 
 
 Filter
+[ Natural Gas  Energy crisis threatens world’s most vulnerable as cooking fuel shortages grow 13 May 2026  ](https://www.iea.org/commentaries/energy-crisis-threatens-world-s-most-vulnerable-as-cooking-fuel-shortages-grow)
+[ Portugal  Electrification can strengthen Portugal’s energy security and economic resilience 08 May 2026  ](https://www.iea.org/news/electrification-can-strengthen-portugal-s-energy-security-and-economic-resilience)
 [ News  Executive Director meets with Prime Minister of Canada on energy market turmoil amid Middle East conflict 07 May 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-canada-on-energy-market-turmoil-amid-middle-east-conflict)
 [ News  New podcast episode delves into evolving relationship between energy and AI 07 May 2026  ](https://www.iea.org/news/new-podcast-episode-delves-into-evolving-relationship-between-energy-and-ai)
 [ Methane Abatement  Tackling methane emissions would strengthen energy security amid crisis 04 May 2026  ](https://www.iea.org/news/tackling-methane-emissions-would-strengthen-energy-security-amid-crisis)
@@ -138,8 +140,6 @@ Filter
 [ News  Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, and World Bank Group 01 April 2026  ](https://www.iea.org/news/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-and-world-bank-group)
 [ The Middle East and Global Energy Markets  IEA launches tracker to monitor policy responses to energy market impacts of Middle East conflict 30 March 2026  ](https://www.iea.org/news/iea-launches-tracker-to-monitor-policy-responses-to-energy-market-impacts-of-middle-east-conflict)
 [ Carbon Capture Utilisation and Storage  Policy and financing momentum sustain CCUS progress despite setbacks 27 March 2026  ](https://www.iea.org/commentaries/policy-and-financing-momentum-sustain-ccus-progress-despite-setbacks)
-[ News  New podcast episode highlights 10 options to ease impacts of rising oil prices on consumers 26 March 2026  ](https://www.iea.org/news/new-podcast-episode-highlights-10-options-to-ease-impacts-of-rising-oil-prices-on-consumers)
-[ News  Executive Director meets with Prime Minister of Japan to discuss energy security amid war in Middle East 26 March 2026  ](https://www.iea.org/news/executive-director-meets-with-prime-minister-of-japan-to-discuss-energy-security-amid-war-in-middle-east)
 Previous page Prev
   * 1
   * [2](https://www.iea.org/news?page=2)
