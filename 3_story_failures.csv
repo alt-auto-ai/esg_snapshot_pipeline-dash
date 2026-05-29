@@ -1,9 +1,9 @@
 url,error
-https://www.epa.wa.gov.au/media-statements/no-epa-assessment-pilbara-ports-bypass-navigation-channel,"Unexpected error in _crawl_web at line 718 in _crawl_web (../../../miniconda3/envs/esg/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
+https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service,"Unexpected error in _crawl_web at line 718 in _crawl_web (../../../miniconda3/envs/esg/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
 Error: Failed on navigating ACS-GOTO:
-Page.goto: Timeout 60000ms exceeded.
+Page.goto: net::ERR_TIMED_OUT at https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service
 Call log:
-  - navigating to ""https://www.epa.wa.gov.au/media-statements/no-epa-assessment-pilbara-ports-bypass-navigation-channel"", waiting until ""domcontentloaded""
+  - navigating to ""https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service"", waiting until ""domcontentloaded""
 
 
 Code context:

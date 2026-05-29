@@ -10,55 +10,55 @@ See our latest news and announcements. Discover more about what we do.
 
 05 May 2026
 The Australian government is taking action to secure our fuel supply. 
-### [Bega Valley Shire building a new organics facility](https://www.dcceew.gov.au/about/news/bega-valley-shire-building-new-organics-facility)
-  * Case study
-  * Environment
-
-
-13 May 2026
-An insight into expanding organics processing for growing regional communities in NSW.
-### [Budget 2026–27](https://www.dcceew.gov.au/about/news/budget-2026-27)
-  * News
-  * About us
-
-
-12 May 2026
-The 2026-27 federal budget was presented on 12 May 2026.
-### [Royal Exhibition Building marks national milestone](https://www.dcceew.gov.au/about/news/royal-exhibition-building-marks-national-milestone)
-  * News
-  * Heritage
-
-
-11 May 2026
-Australia celebrated the 125th anniversary of our federal Parliament on 9 May 2026. 
-### [Statutory Consultation open: Environmental Offsets Standard](https://www.dcceew.gov.au/about/news/statutory-consultation-open-environmental-offsets-standard)
+### [Parks Australia prepares for H5 bird flu](https://www.dcceew.gov.au/about/news/parks-australia-prepares-for-h5-bird-flu)
   * News
   * Environment
 
 
-11 May 2026
-We are seeking feedback on the exposure draft of the Environmental Offsets Standard.
-### [Domestic gas reservation secures Australian gas for Australian users](https://www.dcceew.gov.au/about/news/domestic-gas-reservation-secures-australian-gas)
-  * News
-  * Energy
-
-
-08 May 2026
-The Australian Government is introducing a domestic gas reservation scheme.
-### [Electricity Contract Co-design Working Group established](https://www.dcceew.gov.au/about/news/electricity-contract-codesign-working-group-established)
-  * News
-  * Energy
-
-
-08 May 2026
-To update audience on the selection of the Electricity Contract Co Design Working Group and make…
-### [Register for the NGER Method 2 review webinar ](https://www.dcceew.gov.au/about/news/register-nger-method-2-review-webinar)
+29 May 2026
+We are investing $4.5 million to help Parks Australia prepare for a possible outbreak of H5 avian…
+### [Protecting Basin wetlands from climate change](https://www.dcceew.gov.au/about/news/protecting-basin-wetlands-from-climate-change)
   * News
   * Climate change
 
 
-08 May 2026
-Registration link for the webinar on the NGER Method 2 for open-cut coal mines review.
+29 May 2026
+New research helps protect Ramsar listed wetlands in the Murray–Darling Basin.
+### [National Greenhouse Gas Inventory: December 2025](https://www.dcceew.gov.au/about/news/australias-greenhouse-gas-emissions-dec-2025-quarterly-update)
+  * News
+  * Climate change
+
+
+29 May 2026
+The latest Quarterly Update of Australia’s National Greenhouse Gas Inventory: December 2025 is now…
+### [Latest Default Market Offer has free power option](https://www.dcceew.gov.au/about/news/latest-default-market-offer-free-power-option)
+  * News
+  * Energy
+
+
+28 May 2026
+The 2026-27 Default Market Offer includes an opt-in plan with a daily free-power period.
+### [Nature Repair Market gains momentum](https://www.dcceew.gov.au/about/news/nature-repair-market-gains-momentum)
+  * News
+  * Environment
+
+
+28 May 2026
+The second successful registered project under the Nature Repair Market signals continued growth.
+### [Register your interest to host public electric vehicle chargers](https://www.dcceew.gov.au/about/news/register-your-interest-host-public-electric-vehicle-chargers)
+  * News
+  * Climate change
+
+
+27 May 2026
+The Australian Government is supporting the automotive industry to deliver more public fast EV…
+### [Australia and Türkiye issue joint letter to Parties ahead of COP31](https://www.dcceew.gov.au/about/news/australia-turkiye-issue-joint-letter-parties-ahead-cop31)
+  * News
+  * Climate change
+
+
+27 May 2026
+Australia and Türkiye have issued a joint COP31 Presidency letter.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

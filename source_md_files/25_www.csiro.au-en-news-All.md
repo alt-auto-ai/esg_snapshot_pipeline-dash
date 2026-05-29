@@ -1,7 +1,7 @@
 Blog icon
 # All news and articles
 Contact 
-12 of 1085 results (sorted by date)
+12 of 1086 results (sorted by date)
 Clear filters
 Search news
 Dates
@@ -14,6 +14,10 @@ News Types
 
 Apply filter
 ##  Filtering by: 
+  * [ News Release 18 May 2026 3 min read CSIRO launches new AI infrastructure to help robots and machines learn in real time By processing data on site rather than in distant cloud systems, the Vetra AI infrastructure enables faster, safer learning for robotics and other AI-powered technologies.  ](https://www.csiro.au/en/news/All/News/2026/May/Vetra-AI-infrastructure)
+Related Tags
+    * [ Ai ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|Ai)
+    * [ Robots ](https://www.csiro.au/en/news/All?articletags={A1D33457-8DF6-40AC-AB52-3926BDE0409A}|Robots)
   * [ News Release 5 May 2026 2 min read CSIRO invites WA agrifood and agtech startups to build research capability Applications are now open for CSIRO's Innovate to Grow: Agrifood and Agtech program, supporting West Australian start-ups and SMEs to explore and develop R&D ideas.  ](https://www.csiro.au/en/news/All/News/2026/May/CSIRO-invites-WA-startups-to-build-research-capability)
 Related Tags
     * [ Sme engagement ](https://www.csiro.au/en/news/All?articletags={5AC0DF3B-2851-4136-AE84-DDEC32B248CB}|Sme%20engagement)
@@ -57,9 +61,6 @@ Related Tags
 Related Tags
     * [ Quantum ](https://www.csiro.au/en/news/All?articletags={34D1BE1A-BD87-4500-B35B-3887807DB9BC}|Quantum)
     * [ Manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|Manufacturing)
-  * [ News Release 10 March 2026 4 min read Australia-India partnership takes step closer to green steel through world-first use of ag waste in steelmaking Researchers from CSIRO and the Indian Institute of Science have proven the approach can work at commercial scale, with wider adoption having the potential to halve emissions from steelmaking in India.  ](https://www.csiro.au/en/news/All/News/2026/March/World-first-use-of-ag-waste-in-steelmaking)
-Related Tags
-    * [ Minerals ](https://www.csiro.au/en/news/All?articletags={2442AC8C-6448-4775-B85A-389FE5C735A6}|Minerals)
 
 
 There is no news match your search term.

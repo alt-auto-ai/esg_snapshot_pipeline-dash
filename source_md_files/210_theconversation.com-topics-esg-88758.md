@@ -1,6 +1,8 @@
 [ ](https://theconversation.com/topics/esg-88758) [ ](https://theconversation.com/topics/esg-88758)
 # Articles on ESG
-### Displaying 1 - 20 of 52 articles
+### Displaying 1 - 20 of 53 articles
+[ ](https://theconversation.com/companies-are-hyping-ai-the-same-way-they-talked-up-sustainability-but-there-are-ways-to-fix-that-282013) The struggling footwear company Allbirds, which announced in April 2026 that it was rebranding into an AI company, may be one of the most recent notable examples of ‘AI washing.’  Business Wire
+Many companies today overpromise what they can do with AI. They should learn from efforts to combat greenwashing and tighten standards.
 [ ](https://theconversation.com/why-green-finance-isnt-always-as-sustainable-as-it-seems-265240) VectorMine/Shutterstock
 At its most basic level, sciencewashing entails using the vocabulary of science, and borrowing its authority, to claim sustainability outcomes.
 [ ](https://theconversation.com/heres-who-topped-the-rankings-in-this-years-scorecard-for-sustainable-chocolate-and-which-confectionery-giant-refused-to-participate-253933) Jiri Hera/Shutterstock
@@ -39,8 +41,6 @@ Ensuring that ego and prestige of the Global North does not get in the way of on
 There are perverse incentives to exaggerate sustainablity claims – made easier by the lack of uniformity in measuring and reporting such results.
 [ ](https://theconversation.com/legos-esg-dilemma-why-an-abandoned-plan-to-use-recycled-plastic-bottles-is-a-wake-up-call-for-supply-chain-sustainability-214573) Legos are designed to last for decades. That posed a challenge when the toymaker tried to switch to recycled plastics.  AP Photo/Shizuo Kambayashi
 Corporate supply chains are riddled with high, uncounted emissions, as Lego discovered. New regulations mean more companies will face tough, sometimes surprising, choices.
-[ ](https://theconversation.com/esg-bonuses-are-on-the-rise-are-they-improving-sustainability-or-just-increasing-executive-wealth-213034) More than three-quarters of large, publicly traded companies in Europe and North America now use environmental, social and corporate governance metrics when determining executive incentive compensation.  (Shutterstock)
-While incentives can enhance the environmental, social and corporate governance performance of businesses, there is a risk of executives manipulating these performance metrics to obtain bonuses.
 ###  Related Topics 
   1. [Blackrock](https://theconversation.com/topics/blackrock-38549)
   2. [Business](https://theconversation.com/topics/business-34339)
@@ -55,7 +55,8 @@ While incentives can enhance the environmental, social and corporate governance 
 
 
 ### Job Board
-  * ##### [EYOP Postdoctoral Research Fellow/Research Fellow](https://jobs.theconversation.com/jobs/525631699-eyop-postdoctoral-research-fellow-research-fellow-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
+  * ##### [Forensicare Postdoctoral Research Fellow/Research Fellow ](https://jobs.theconversation.com/jobs/537162182-forensicare-postdoctoral-research-fellow-research-fellow-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
+  * ##### [Police Cadet, South Australia Police](https://jobs.theconversation.com/jobs/533901095-police-cadet-south-australia-police-at-government-of-south-australia?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
 
 [ More Jobs ](https://jobs.theconversation.com?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_more)
 ### Top contributors

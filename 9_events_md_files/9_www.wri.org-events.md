@@ -1,7 +1,7 @@
 Opens in a new window Opens an external website Opens an external website in a new window
 <!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-[Storage Preferences](https://www.wri.org/events#f197c450-452d-4b3d-ae7f-25c4ea9db097)
+[Storage Preferences](https://www.wri.org/events#9c11d537-26c8-48b2-a095-1dd238a87192)
   * Targeted Advertising
   * Personalization
   * Analytics
@@ -53,22 +53,29 @@ Not sure where to find something? Search all of the site's content.
 [Cities ](https://www.wri.org/events)
 [Climate ](https://www.wri.org/events)
 [Energy ](https://www.wri.org/events)
+[Forests ](https://www.wri.org/events)
 Filters
 ### Event Type
   * In-Person [In-Person ](https://www.wri.org/events)
   * Webinar [Webinar ](https://www.wri.org/events)
 
 
-3 Resources for 
-[Cities](https://www.wri.org/cities)
-Event 
-May 17 -22, 2026
-###  [WRI Ross Center at World Urban Forum 13](https://hub.wri.org/events/2026/5/wri-ross-center-world-urban-forum-13?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+4 Resources for 
 [Climate](https://www.wri.org/climate)
 Event 
-May 28, 2026
-###  [Navigating Systems Change Lab: Governance Deep Dive](https://hub.wri.org/node/4314?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/node/4314#register)
+Past Event May 28, 2026
+###  [Navigating Systems Change Lab: Governance Deep Dive](https://hub.wri.org/events/2026/5/navigating-systems-change-lab-governance-deep-dive?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Cities](https://www.wri.org/cities)
+Event 
+June 2, 2026
+###  [Accelerating Nature-Based Solutions: Insights from Brazil, India & Indonesia](https://hub.wri.org/events/2026/6/accelerating-nature-based-solutions-insights-brazil-india-indonesia?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/6/accelerating-nature-based-solutions-insights-brazil-india-indonesia#register)
+[Forests](https://www.wri.org/forests)
+[Cameroon](https://www.wri.org/resources/region/africa-8911/country/cameroon-8895)
+Event 
+June 4, 2026
+###  [Forest Transparency in Cameroon: Insights, Challenges and the Road Ahead](https://hub.wri.org/events/2026/6/forest-transparency-cameroon-insights-challenges-and-road-ahead?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Register](https://hub.wri.org/events/2026/6/forest-transparency-cameroon-insights-challenges-and-road-ahead#register)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026

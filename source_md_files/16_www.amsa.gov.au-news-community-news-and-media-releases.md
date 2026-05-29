@@ -1,4 +1,6 @@
 [ Skip to main content ](https://www.amsa.gov.au/news-community/news-and-media-releases#main-content)
+AMSA Connect phone services may have longer wait times on Monday 1 June 2026 while we operate with reduced staffing due to the Reconciliation Day Public Holiday in Canberra. Our search and rescue team will continue to operate during this time.
+Close alert banner
 # News and updates
 Read our latest news articles and updates.
 Media releases are published on the [AMSA Media Centre.](https://media.amsa.gov.au/?utm_source=AMSA+Website&utm_medium=website&utm_campaign=AMSA+News+Media) Archived media releases are available on the 

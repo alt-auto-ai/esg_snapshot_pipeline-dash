@@ -1,6 +1,33 @@
 # Media Releases
-Page 1 of 28
-. Showing 1 to 10 out of 277 results. 
+Page 1 of 29
+. Showing 1 to 10 out of 284 results. 
+## [Securing more fertiliser for Australian farmers ](https://www.minister.industry.gov.au/ministers/timayres/media-releases/securing-more-fertiliser-australian-farmers)
+27 May 2026
+Joint media release with the Minister for Trade and Tourism, Don Farrell and Minister for Agriculture, Fisheries and Forestry, Julie Collins.
+The Albanese Labor Government continues to secure essential fuel and fertiliser to keep Australian agriculture moving, with around 80,250 tonnes of additional urea now locked in through the Government's $7.5 billion Fuel and Fertiliser Security Facility.
+## [$5 million to support Liberty Bell Bay workers as preferred bidder named](https://www.minister.industry.gov.au/ministers/timayres/media-releases/5-million-support-liberty-bell-bay-workers-preferred-bidder-named)
+27 May 2026
+Joint media release with Premier for Tasmania Jeremy Rockliff
+Today, the Albanese and Rockliff Governments announce a further $5 million in joint support for employees at Liberty Bell Bay (LBB) while a sale is finalised.
+## [Final bidders shortlisted in sale of Whyalla Steelworks](https://www.minister.industry.gov.au/ministers/timayres/media-releases/final-bidders-shortlisted-sale-whyalla-steelworks)
+27 May 2026
+Joint media release with the Premier of South Australia Peter Malinauskas.
+Today, the Albanese and Malinauskas Governments announce that the sale of the Whyalla Steelworks has progressed to a shortlist of two bidders, as the process enters its final stages.
+## [Australia and UK partner to strengthen AI safety and security](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australia-and-uk-partner-strengthen-ai-safety-and-security)
+25 May 2026
+Joint media release with Assistant Minister for Science, Technology and the Digital Economy, Dr Andrew Charlton.
+The Australian and UK Governments have today signed a new Memorandum of Understanding (MoU), deepening cooperation on the responsible development, deployment, governance and use of safe and trustworthy AI.
+## [Australia and UK partner to strengthen AI safety and security](https://www.minister.industry.gov.au/ministers/charlton/media-releases/australia-and-uk-partner-strengthen-ai-safety-and-security)
+25 May 2026
+Joint media release with Minister for Industry and Innovation and Minister for Science, Tim Ayres.
+## [Strategic reserve supporting Arafura final investment decision](https://www.minister.industry.gov.au/ministers/king/media-releases/strategic-reserve-supporting-arafura-final-investment-decision)
+21 May 2026
+Joint media release with Treasurer Jim Chalmers and Minister for Trade and Tourism Don Farrell.
+Western Australian resources company Arafura Rare Earths will ramp up rare earths mining and create hundreds of jobs in Australia following support from the Albanese Government through the Critical Minerals Strategic Reserve.
+## [Mount Isa Transformation Study begins to unlock opportunities across North West Queensland copper industry](https://www.minister.industry.gov.au/ministers/timayres/media-releases/mount-isa-transformation-study-begins-unlock-opportunities-across-north-west-queensland-copper-industry)
+18 May 2026
+Joint media release with Queensland Minister for Natural Resources and Mines Dale Last.
+The Crisafulli and Albanese Governments have taken the next step in delivering a long-term future for North West Queensland’s copper industry, with the Mount Isa Transformation Study now underway.
 ## [Governments take joint action to support Liberty Bell Bay workers during sale process](https://www.minister.industry.gov.au/ministers/timayres/media-releases/governments-take-joint-action-support-liberty-bell-bay-workers-during-sale-process)
 15 May 2026
 Joint media release with Premier of Tasmania Jeremy Rockliff.
@@ -12,31 +39,4 @@ The Albanese Labor Government is taking every practical action to ensure Austral
 14 May 2026
 Joint media release with Prime Minister Anthony Albanese, Minister for Trade and Tourism, Don Farrell, and Minister for Agriculture, Fisheries and Forestry, Julie Collins.
 The Albanese Labor Government has secured approximately 90,000 tonnes of agricultural grade urea for Australian farmers, producers, and our agriculture industry to keep Australia’s food supply chain moving.
-## [A Budget that backs innovation and investment](https://www.minister.industry.gov.au/ministers/timayres/media-releases/budget-backs-innovation-and-investment)
-12 May 2026
-Joint media release with Treasurer Jim Chalmers.
-The Albanese Labor Government is backing business innovation and investment through landmark tax reforms as part of the Budget’s productivity package.
-## [$387 million boost for the CSIRO](https://www.minister.industry.gov.au/ministers/timayres/media-releases/387-million-boost-csiro)
-9 May 2026
-Joint media release with the Minister for the Public Service, Senator the Hon Katy Gallagher.
-The Albanese Labor Government will invest an additional $387.4 million into CSIRO over the next four years to ensure its scientists continue delivering groundbreaking research aligned with Australia’s national science priorities and in the national interest.
-## [Australian-first facility to back critical minerals](https://www.minister.industry.gov.au/ministers/timayres/media-releases/australian-first-facility-back-critical-minerals)
-8 May 2026
-Joint media release with the Minister for Resources and Northern Australia Madeleine King. 
-New critical minerals facilities in Sydney will support the push to refine more minerals in Australia that are essential for renewable energy technology and defence applications.
-## [Australian-first facility to back critical minerals](https://www.minister.industry.gov.au/ministers/king/media-releases/australian-first-facility-back-critical-minerals)
-8 May 2026
-Joint media release with the Minister for Industry and Innovation and Minister for Science, Senator Tim Ayres.
-New critical minerals facilities in Sydney will support the push to refine more minerals in Australia that are essential for renewable energy technology and defence applications.
-## [Albanese Government to secure Australian gas for Australian users](https://www.minister.industry.gov.au/ministers/king/media-releases/albanese-government-secure-australian-gas-australian-users)
-7 May 2026
-Joint media release with Minister for Climate Change and Energy, Chris Bowen MP and Minister for Industry and Innovation and Minister for Science, Tim Ayres.
-The Albanese Labor Government will introduce a domestic gas reservation scheme that will require gas exporters supply a proportion of their total production to the Australian market – equivalent to 20 per cent of exports, from 1 July 2027 – ensuring Australians have the affordable gas they need.
-## [Albanese Government to secure Australian gas for Australian users](https://www.minister.industry.gov.au/ministers/timayres/media-releases/albanese-government-secure-australian-gas-australian-users)
-7 May 2026
-Joint media release with Minister for Climate Change and Energy, Chris Bowen MP and Minister for Resources, Madeleine King MP.
-The Albanese Labor Government will introduce a domestic gas reservation scheme that will require gas exporters supply a proportion of their total production to the Australian market – equivalent to 20 per cent of exports, from 1 July 2027 – ensuring Australians have the affordable gas they need.
-## [New gas production and acreage to supply east coast ](https://www.minister.industry.gov.au/ministers/king/media-releases/new-gas-production-and-acreage-supply-east-coast)
-7 May 2026
-The Australian and Victorian governments have approved a new Petroleum Production Licence to develop the Annie gas field off the Victorian coast, supporting additional gas supply to the domestic east coast market.
 [Back to top](https://www.minister.industry.gov.au/ministers/media-releases#top "Back to top")

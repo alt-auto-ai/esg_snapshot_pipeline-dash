@@ -1,8 +1,20 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-15/05/2026 
+29/05/2026 
 # Latest News
 ### 2026 
+[ Fri   
+29 May   
+2026  **Australian Government General Government Sector Monthly Financial Statements for April 2026** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2026/mfs-april)
+[ Wed   
+27 May   
+2026  **PGPA Newsletter 117** Government PGPA Act ](https://www.finance.gov.au/about-us/news/2026/pgpa-newsletter-117)
+[ Thu   
+21 May   
+2026  **Supporting the Budget delivery** Business, Government, Individuals Budget ](https://www.finance.gov.au/about-us/news/2026/supporting-budget-delivery)
+[ Wed   
+20 May   
+2026  **Seeking feedback on proposed verifiable credentials policy** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/seeking-feedback-proposed-verifiable-credentials-policy)
 [ Tue   
 12 May   
 2026  **Finance Budget 2026 - 27** Government Budget ](https://www.finance.gov.au/about-us/news/2026/finance-budget-2026-27)
@@ -82,18 +94,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Wed   
 24 Dec   
 2025  **Australian Government General Government Sector Monthly Financial Statements for November 2025** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2025/mfs-november)
-[ Fri   
-19 Dec   
-2025  **Establishing Chief AI Officers for the APS** Government Finance (Department), Finance (Portfolio) ](https://www.finance.gov.au/about-us/news/2025/establishing-chief-ai-officers-aps)
-[ Fri   
-19 Dec   
-2025  **Finance supports a delegation of emerging political leaders from the USA** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/finance-supports-delegation-emerging-political-leaders-usa)
-[ Thu   
-18 Dec   
-2025  **AIDE and GovAI: moving from experimentation to impact across the APS** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/aide-and-govai-moving-experimentation-impact-across-aps)
-[ Thu   
-18 Dec   
-2025  **Congratulations to the 2025 Commonwealth Awards for Excellence in Risk Management winners!** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2025/congratulations-2025-commonwealth-awards-excellence-risk-management-winners)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

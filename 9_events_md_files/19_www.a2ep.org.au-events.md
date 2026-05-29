@@ -3,9 +3,10 @@ Skip to Main Content
 Upcoming events
 ## UPCOMING EVENTS
 Here you will find all of our upcoming webinars and in-person events. To receive alerts on our upcoming events and stay up-to-date on all our industry news, 
-## [Registrations are now open for the 2026 Australasian Renewable Heat Conference in Melbourne!](https://www.a2ep.org.au/post/save-the-date-the-australasian-renewable-heat-conference-is-heading-to-melbourne-in-2026)
 ## [WEBINAR | 2 June: Renewable heat options for food & beverage manufacturers](https://www.a2ep.org.au/post/webinar-2-june-renewable-heat-options-for-food-beverage-manufacturers)
+## [Registrations are now open for the 2026 Australasian Renewable Heat Conference in Melbourne!](https://www.a2ep.org.au/post/save-the-date-the-australasian-renewable-heat-conference-is-heading-to-melbourne-in-2026)
 ## [WEBINAR | 10 June: Sustainability reporting & climate-related disclosures update](https://www.a2ep.org.au/post/webinar-10-june-sustainability-reporting-climate-related-disclosures-update)
+## [EVENT | 17 June: A2EP Member Update + networking drinks - Sydney](https://www.a2ep.org.au/post/event-17-june-a2ep-member-update-networking-drinks-sydney)
 Recordings
 ## RECORDINGS & PAST EVENTS
 ## [EVENT | 14 May: A2EP Member Update + networking drinks - Melbourne](https://www.a2ep.org.au/post/event-14-may-a2ep-member-update-networking-drinks-melbourne)

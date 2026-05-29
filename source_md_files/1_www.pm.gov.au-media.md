@@ -1,39 +1,39 @@
 [ Skip to main content ](https://www.pm.gov.au/media#main-content)
 #  Media
 Stay up to date with the Prime Minister. This section lists media releases, statements, transcripts, speeches and other media items including joint releases. You can filter media items by type and date. You can also search using free text in the search field.
-### [Speech - Chifley Research Centre - Canberra](https://www.pm.gov.au/media/speech-chifley-research-centre-canberra)
-Friday 15 May 2026
-Speech, Transcript
-### [Doorstop - Canberra](https://www.pm.gov.au/media/doorstop-canberra-4)
-Friday 15 May 2026
+### [Television interview - ABC Afternoon Briefing](https://www.pm.gov.au/media/television-interview-abc-afternoon-briefing-10)
+Thursday 28 May 2026
 Transcript
-### [Radio interview - ABC Melbourne](https://www.pm.gov.au/media/radio-interview-abc-melbourne-13)
-Friday 15 May 2026
-Transcript
-### [More than 250,000 Australians supported into their own home under Labor](https://www.pm.gov.au/media/more-250000-australians-supported-their-own-home-under-labor)
-Friday 15 May 2026
+### [Visit to Australia by the Prime Minister of Solomon Islands](https://www.pm.gov.au/media/visit-australia-prime-minister-solomon-islands-1)
+Wednesday 27 May 2026
 Media release
-### [Appointment of New Australian Public Service Commissioner](https://www.pm.gov.au/media/appointment-new-australian-public-service-commissioner-0)
-Thursday 14 May 2026
+### [Address to walk for truth](https://www.pm.gov.au/media/address-walk-truth)
+Wednesday 27 May 2026
+Speech
+### [Radio interview - Triple M, Sydney](https://www.pm.gov.au/media/radio-interview-triple-m-sydney-3)
+Wednesday 27 May 2026
+Transcript
+### [Radio interview - Nova Brisbane](https://www.pm.gov.au/media/radio-interview-nova-brisbane-1)
+Wednesday 27 May 2026
+Transcript
+### [Radio interview - SEN 1170 Sydney](https://www.pm.gov.au/media/radio-interview-sen-1170-sydney-0)
+Wednesday 27 May 2026
+Transcript
+### [Albanese Government backing Rugby League World Cup](https://www.pm.gov.au/media/albanese-government-backing-rugby-league-world-cup)
+Wednesday 27 May 2026
+Media release
+### [Passing of Neale Daniher](https://www.pm.gov.au/media/passing-neale-daniher)
+Monday 25 May 2026
 Media statement
-### [Press conference - Canberra](https://www.pm.gov.au/media/press-conference-canberra-14-may-2026)
-Thursday 14 May 2026
+### [Press conference - Parliament House, Canberra](https://www.pm.gov.au/media/press-conference-parliament-house-canberra-25-may-2026)
+Monday 25 May 2026
 Transcript
-### [Radio interview - ABC Sydney](https://www.pm.gov.au/media/radio-interview-abc-sydney-22)
-Thursday 14 May 2026
+### [Press conference - Jervis Bay](https://www.pm.gov.au/media/press-conference-jervis-bay)
+Friday 22 May 2026
 Transcript
-### [Albanese Labor Government secures first shipments of additional farm fertiliser](https://www.pm.gov.au/media/albanese-labor-government-secures-first-shipments-additional-farm-fertiliser)
-Thursday 14 May 2026
-Media release
-### [Radio interview - 4RO Rockhampton](https://www.pm.gov.au/media/radio-interview-4ro-rockhampton-1)
-Thursday 14 May 2026
+### [Press conference - Wollongong](https://www.pm.gov.au/media/press-conference-wollongong)
+Friday 22 May 2026
 Transcript
-### [Television interview - ABC Afternoon Briefing](https://www.pm.gov.au/media/television-interview-abc-afternoon-briefing-9)
-Thursday 14 May 2026
-Transcript
-### [Radio interview - B105 Brisbane](https://www.pm.gov.au/media/radio-interview-b105-brisbane-9)
-Wednesday 13 May 2026
-Transcript
-### [Radio interview - FIVEAA Adelaide](https://www.pm.gov.au/media/radio-interview-fiveaa-adelaide-3)
-Wednesday 13 May 2026
-Transcript
+### [Opening of the Bruce Gordon Centre](https://www.pm.gov.au/media/opening-bruce-gordon-centre)
+Friday 22 May 2026
+Speech, Transcript

@@ -16,6 +16,21 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [Business investment booming under Labor](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/business-investment-booming-under-labor)
+28 May 2026
+New figures released by the ABS today show private sector investment is soaring under the Albanese Labor Government. 
+### [Government introduces first tranche of tax reform legislation](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/government-introduces-first-tranche-tax-reform)
+28 May 2026
+Today, the Albanese Government is introducing legislation to deliver more tax cuts for Australian workers and tax reform to help more Australians own a home of their own. 
+### [New inflation figures](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-inflation-figures-3)
+27 May 2026
+New figures from the Australian Bureau of Statistics show that inflation moderated in April by more than expected. 
+### [Strategic reserve supporting Arafura Final Investment Decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/strategic-reserve-supporting-arafura-final-investment)
+21 May 2026
+Joint media release with Senator the Hon Don Farrell; Minister for Trade and Tourism, Special Minister for State; and the Hon Madeleine King MP; Minister for Resources, Minister for Northern Australia. 
+### [Further streamlining and strengthening the foreign investment framework](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/further-streamlining-and-strengthening-foreign)
+19 May 2026
+The Albanese Government is further reforming Australia’s foreign investment framework to make it work better for investors, our economy, and our national interest. 
 ### [Appointments to the Future Fund Board](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/appointments-future-fund-board-0)
 15 May 2026
 Joint media release with Senator the Hon Katy Gallagher, Minister for Finance, Minister for the Public Service, Minister for Government Services. 
@@ -61,18 +76,3 @@ Joint media release with the Hon Chris Bowen MP, Minister for Climate Change and
 ### [Productivity package to turbocharge construction and businesses across NSW](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/productivity-package-turbocharge-construction-and)
 1 May 2026
 The Albanese Government is funding reforms to fast‑track approvals and get businesses up and running as quickly as possible in New South Wales. 
-### [New inflation figures](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-inflation-figures-2)
-29 April 2026
-New figures from the Australian Bureau of Statistics show that inflation ticked up as expected in the month of March largely because of global pressures. 
-### [Engagements with NZ Finance Minister and trans-Tasman businesses on fuel security](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/engagements-nz-finance-minister-and-trans-tasman)
-24 April 2026
-Today I’ll host New Zealand Finance Minister Nicola Willis in Brisbane for a bilateral engagement on trade, investment and fuel security. 
-### [Regulating cash distribution services](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/regulating-cash-distribution-services)
-22 April 2026
-Today the Government is releasing draft legislation to regulate the cash distribution sector to ensure it continues to serve the needs of Australians. 
-### [$1,000 instant tax deduction to deliver lower, simpler taxes for 6.2 million workers](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/1000-instant-tax-deduction-deliver-lower-simpler-taxes)
-20 April 2026
-Around 6.2 million workers are set to benefit from the Albanese Government’s $1,000 instant tax deduction, with public consultation on draft legislation commencing today. 
-### [New Australia-United Kingdom MoU to unlock more investment](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/new-australia-united-kingdom-mou-unlock-more-investment)
-17 April 2026
-Today, Australia and the UK have signed an Investment Partnership to further unlock superannuation and pension capital investment between our countries. 

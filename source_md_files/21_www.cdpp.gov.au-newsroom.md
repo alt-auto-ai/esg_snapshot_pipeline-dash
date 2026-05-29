@@ -7,8 +7,8 @@
 The CDPP and parties interested in the orders for the suppression of information relating to the identity of a number of victims applied to further extend the orders so the CDPP’s application to vary and confirm the suppression orders could be heard at a later date. The Court extended the existing suppression orders until 29 June 2026. This means that information relating to the identity of a number of victims named in the Statement of Facts and Court Attendance Notices remains protected. The matter is next listed on 10 June 2026 for committal mention. The matter is also listed on 29 June 2026 to hear any application by the CDPP to vary and confirm the suppression orders.  
 ### [Prosecution of Liam Alexander Hall](https://www.cdpp.gov.au/prosecution-liam-alexander-hall)  
 ---  
-**Last updated: Tuesday 31 March 2026**  
-On 4 February 2026, the WA Joint Counter Terrorism Team (JCTT) (comprising the Western Australian Police Force, the Australian Federal Police and the Australian Security Intelligence Organisation) charged Liam Alexander Hall (the defendant) with one charge of committing a terrorist act.  
+**Last updated: Tuesday 26 May 2026**  
+The matter was listed for a third mention of the Commonwealth charge and fourth mention of the State charges. The Court adjourned all charges to 16 September 2026 for a first committal mention in the Stirling Gardens Magistrates Court. This is to provide time for the brief of evidence to be compiled and disclosed. The defendant has been remanded to appear on all charges on 16 September 2026.  
 ### [Attorney-General (Cth) v Benjamin Roberts-Smith](https://www.cdpp.gov.au/attorney-general-cth-v-benjamin-roberts-smith)  
 ---  
 **Last updated: Monday 4 May 2026**  

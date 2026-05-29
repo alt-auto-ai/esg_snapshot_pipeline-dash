@@ -7,17 +7,53 @@ Below you can view the latest news as well as our upcoming seminars, workshops a
 
 
 Events
-Thu 28 May 
-[ Understanding solar for your home. Online workshop.  In this workshop, you’ll explore the different parts of solar systems, learn how to select the right system for your needs and maximise its benefits to reduce your energy bills. We’ll also cover home battery storage systems to enhance your energy efficiency.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-solar-for-your-home4)
-Free 
 Wed 10 Jun 
 [ Understanding home battery storage systems. Online workshop.  Learn about the different parts of a home battery storage system, how to select the right battery for your needs and how to get the most from your battery to reduce energy bills.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-home-battery-storage-systems5)
 Free 
 Thu 25 Jun 
 [ Understanding electric vehicles. Online workshop.  In this workshop learn about electric vehicle options and charging considerations so you can make the switch to an electric vehicle.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-electric-vehicles8)
 Free 
+Wed 08 Jul 
+[ Sustainable home energy savings (Tuggeranong Library). In-person workshop.  Join our in-person workshop to discover actions you can take to reduce your energy costs, transition from gas to electric systems, and enhance your home’s comfort throughout the year.  ](https://www.climatechoices.act.gov.au/events-news/events/sustainable-home-energy-savings-tuggeranong-library)
+Free 
+Thu 09 Jul 
+[ Act NoWaste at Goodies Junction Mitchell. In-person meetup.  Visit the ACT NoWaste Education team at Goodies Junction on Concession Card Thursday. Learn easy tips to recycle correctly, reduce waste at home, and know what to put in each bin.  ](https://www.climatechoices.act.gov.au/events-news/events/act-nowaste-at-goodies-junction-mitchell)
+Free 
 Fri 10 Jul 
 [ Act NoWaste at Goodies Junction Mugga Lane. In-person meetup.  Kids can visit the ACT NoWaste Education team at Goodies Junction on Concession Card Thursday these school holidays to enjoy colouring, stickers and sorting games while learning simple tips to recycle right, reduce waste at home and understand what goes in each bin.  ](https://www.climatechoices.act.gov.au/events-news/events/act-nowaste-at-goodies-junction-mugga-lane3)
+Free 
+Thu 23 Jul 
+[ Keeping your home warm for less (featuring insulation). Online workshop.  In this workshop, you’ll discover where your home loses heat and simple actions to keep in the warmth so you can save on energy costs during the colder months.  ](https://www.climatechoices.act.gov.au/events-news/events/keeping-your-home-warm-for-less-featuring-insulation)
+Free 
+Wed 05 Aug 
+[ Understanding solar for your home. Online workshop.  In this workshop, you’ll explore the different parts of solar systems, learn how to select the right system for your needs and maximise its benefits to reduce your energy bills. We’ll also cover home battery storage systems to enhance your energy efficiency.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-solar-for-your-home)
+Free 
+Thu 20 Aug 
+[ Understanding home battery storage systems. Online workshop.  Learn about the different parts of a home battery storage system, how to select the right battery for your needs and how to get the most from your battery to reduce energy bills.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-home-battery-storage-systems)
+Free 
+Wed 02 Sep 
+[ Understanding electric vehicles. Online workshop.  In this workshop, explore various electric vehicle options and important charging considerations to help you make the switch to an electric vehicle with confidence.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-electric-vehicles)
+Free 
+Thu 17 Sep 
+[ All-electric homes explained. Online workshop.  In this workshop, you’ll learn how going all electric improves comfort, health, and savings, what it looks like in real homes, and the simple steps to get started.  ](https://www.climatechoices.act.gov.au/events-news/events/all-electric-homes-explained)
+Free 
+Wed 30 Sep 
+[ Sustainable home energy savings (Belconnen Library). In-person workshop.  Join our in-person workshop to discover actions you can take to reduce your energy costs, transition from gas to electric systems, and enhance your home’s comfort throughout the year.  ](https://www.climatechoices.act.gov.au/events-news/events/sustainable-home-energy-savings-belconnen-library)
+Free 
+Thu 15 Oct 
+[ Understanding solar for your home. Online workshop.  In this workshop, you’ll explore the different parts of solar systems, learn how to select the right system for your needs and maximise its benefits to reduce your energy bills. We’ll also cover home battery storage systems to enhance your energy efficiency.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-solar-for-your-home5)
+Free 
+Wed 28 Oct 
+[ Understanding home battery storage systems. Online workshop.  Learn about the different parts of a home battery storage system, how to select the right battery for your needs and how to get the most from your battery to reduce energy bills.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-home-battery-storage-systems6)
+Free 
+Thu 12 Nov 
+[ Keeping your home cool for less (featuring insulation). Online workshop.  In this workshop, you’ll uncover how your home uses energy and learn simple, practical actions to cut your energy bills over the warmer months.  ](https://www.climatechoices.act.gov.au/events-news/events/keeping-your-home-cool-for-less-featuring-insulation)
+Free 
+Wed 25 Nov 
+[ Understanding electric vehicles. Online workshop.  In this workshop, explore various electric vehicle options and important charging considerations to help you make the switch to an electric vehicle with confidence.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-electric-vehicles9)
+Free 
+Thu 10 Dec 
+[ Transitioning your home from gas to all-electric. Online workshop.  In this workshop, you’ll learn how to transition to an all-electric home with confidence and the support and rebates available through the ACT Government.  ](https://www.climatechoices.act.gov.au/events-news/events/transitioning-your-home-from-gas-to-all-electric-20251213)
 Free 
 [See all events](https://www.climatechoices.act.gov.au/events-news?view=events)
 News

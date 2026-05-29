@@ -3,7 +3,7 @@ Filter posts
 [Carmichael Centre](https://australiainstitute.org.au/news/category/articles/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/articles/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/articles/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/articles/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/articles/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/articles/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/articles/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/articles/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/articles/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/articles/?state=wa "Western Australia")
 [](https://australiainstitute.org.au/post/april-2026-media-highlights/)
-March was another jam-packed month here at the Institute!
+April was another jam-packed month here at the Institute!
 # April 2026
 [](https://australiainstitute.org.au/post/march-2026-media-highlights/)
 March was a busy month here at the Australia Institute!

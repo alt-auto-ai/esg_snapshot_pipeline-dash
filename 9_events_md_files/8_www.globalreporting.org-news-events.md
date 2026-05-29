@@ -15,7 +15,7 @@ Consent Selection
 **Marketing**
 [Show details](https://www.globalreporting.org/news/events/)
 Details
-  * Necessary  13
+  * Necessary  17
 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
 Your prior consent is not required to use these cookies.
     * [Contentsquare1](https://www.globalreporting.org/news/events/)
@@ -43,19 +43,33 @@ consent.cookiebot.com
 4](https://www.globalreporting.org/news/events/)
 **CookieConsent [x4]** Stores the user's cookie consent state for the current domain
 **Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [content.powerapps.com1](https://www.globalreporting.org/news/events/)
+**timezoneoffset** Holds the users timezone.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+    * [griportalproduction.powerappsportals.com3](https://www.globalreporting.org/news/events/)
+**object(#-#-##:#:#.#)** Holds the users timezone.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**ARRAffinity** Used to distribute traffic to the website on several servers in order to optimise response times.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**ARRAffinitySameSite** Used to distribute traffic to the website on several servers in order to optimise response times.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [www.globalreporting.org2](https://www.globalreporting.org/news/events/)
 **.AspNetCore.Antiforgery.#** Helps prevent Cross-Site Request Forgery (CSRF) attacks.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
 **UMB_SESSION** Stores domain prefix to determine whether it holds https or http URL properties. 
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
-  * Preferences  0
+  * Preferences  2
 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
 Your prior consent is required to use these cookies.
-    * We do not use cookies of this type.
-  * Statistics  22
+    * [content.powerapps.com2](https://www.globalreporting.org/news/events/)
+**ContextLanguageCode** Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**isDSTSupport** Used by Microsoft Power BI platform to display graphics on the website.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+  * Statistics  25
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
 Your prior consent is required to use these cookies.
-    * [Contentsquare6](https://www.globalreporting.org/news/events/)
+    * [Contentsquare7](https://www.globalreporting.org/news/events/)
 **_cs_id** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
 **Maximum Storage Duration** : 13 months**Type** : HTTP Cookie
 **_cs_root-domain** Registers how the user has reached the website to enable pay-out of referral commission fees to partners.
@@ -67,6 +81,8 @@ Your prior consent is required to use these cookies.
 **_hjUserAttributes** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **_cs_same_site** Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**_cs_t** Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [Google6](https://www.globalreporting.org/news/events/)
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
@@ -97,7 +113,12 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
 **FPLC** Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
-  * Marketing  23
+    * [griportalproduction.powerappsportals.com2](https://www.globalreporting.org/news/events/)
+**visitorId** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**Dynamics365PortalAnalytics** Used to monitor website performance for statistical purposes.
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+  * Marketing  24
 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
 Your prior consent is required to use these cookies.
     * [Google5](https://www.globalreporting.org/news/events/)
@@ -121,8 +142,6 @@ Some of the data collected by this provider is for the purposes of personalizati
 **muc_ads** Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. 
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
     * [YouTube11](https://www.globalreporting.org/news/events/)
-**__Secure-BUCKET** Pending
-**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-ROLLOUT_TOKEN** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-YEC** Stores the user's video player preferences using embedded YouTube video
@@ -132,6 +151,8 @@ Some of the data collected by this provider is for the purposes of personalizati
 **LAST_RESULT_ENTRY_KEY** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
 **LogsDatabaseV2:V#||LogsRequestsStore** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+**ServiceWorkerLogsDatabase#SWHealthLog** Necessary for the implementation and functionality of YouTube video-content on the website. 
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
 **TESTCOOKIESENABLED** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
@@ -143,15 +164,34 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **YtIdbMeta#databases** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
+    * [content.powerapps.com1](https://www.globalreporting.org/news/events/)
+**MicrosoftApplicationsTelemetryDeviceId** Sets a specific device ID. This ID is used by Microsoft to track users' website behaviour and the interaction with Microsoft application on the specific device. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [globalreporting.org1](https://www.globalreporting.org/news/events/)
 **_dcid** Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
 **Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
     * [gtm.globalreporting.org1](https://www.globalreporting.org/news/events/)
 **_/set_cookie** Used by server-side Google Tag Manager to set or update cookies required for analytics or marketing tags.
 **Maximum Storage Duration** : Session**Type** : Pixel Tracker
-  * Unclassified 5
+  * Unclassified 12
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
 Your prior consent is required to use these cookies.
+    * [content.powerapps.com1](https://www.globalreporting.org/news/events/)
+**isDSTObserved** Pending
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+    * [griportalproduction.powerappsportals.com6](https://www.globalreporting.org/news/events/)
+**/controls_fluent_v9/manifest-0.0.47.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**/data_grid/manifest-1.11.9.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**/host/manifest-0.13.3.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**/mf_shared/manifest-0.2.25.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**/pcf_controls/manifest-3.22.7.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**/pcf_loader/manifest-0.0.44.json** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
     * [static.ads-twitter.com1](https://www.globalreporting.org/news/events/)
 **_twpid** Pending
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
@@ -169,7 +209,7 @@ Your prior consent is required to use these cookies.
 [Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.globalreporting.org/news/events/)
 [#BULK_CONSENT_TITLE#]
 List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
-Cookie declaration last updated on 4/27/26 by 
+Cookie declaration last updated on 5/27/26 by 
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
 [#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]

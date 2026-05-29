@@ -10,9 +10,11 @@ Communications team
 Phone: (08) 6557 7679  
 Mobile: 0427 953 993  
 Email:  |  |   
+27 May 2026 | [Universities and TAFEs improve financial controls](https://audit.wa.gov.au/wp-content/uploads/2026/05/Universities-and-TAFEs-improve-financial-controls.pdf)  
+---|---  
+22 May 2026 | [Universities and TAFEs continue to have cyber security weaknesses](https://audit.wa.gov.au/wp-content/uploads/2026/05/Universities-and-TAFEs-continue-to-have-cyber-security-weaknesses.pdf)  
 15 April 2026 |  [Financial audit results highlight local government improvements but growing ](https://audit.wa.gov.au/wp-content/uploads/2026/04/Media-statement-Financial-audit-results-highlight-local-government-improvements-but-growing-financial-and-reporting-pressures.pdf)  
 [financial and reporting pressures ](https://audit.wa.gov.au/wp-content/uploads/2026/04/Media-statement-Financial-audit-results-highlight-local-government-improvements-but-growing-financial-and-reporting-pressures.pdf)  
----|---  
 25 March 2026 |  [Audit reports fewer IT control weaknesses, but persistent issues remain in local ](https://audit.wa.gov.au/wp-content/uploads/2026/03/Media-statement-Audit-reports-fewer-IT-control-weaknesses-but-persistent-issues-remain-in-local-governments.pdf)  
 [governments ](https://audit.wa.gov.au/wp-content/uploads/2026/03/Media-statement-Audit-reports-fewer-IT-control-weaknesses-but-persistent-issues-remain-in-local-governments.pdf)  
 18 March 2026 |  [Local governments providing transparency with gift registers, but conflicts of ](https://audit.wa.gov.au/wp-content/uploads/2026/03/Media-statement-Local-governments-providing-transparency-with-gift-registers.pdf)  

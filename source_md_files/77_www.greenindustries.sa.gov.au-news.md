@@ -3,6 +3,15 @@
   * News
 
 
+[ ](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
+  * Circular economy
+  * Funding
+  * May 25, 2026
+
+
+##### [$20k awarded to circular economy innovators](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
+Green Industries SA (GISA) recently joined Collab4Good and program partners at Lot Fourteen for the...
+[Read more](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
 [ ](https://www.greenindustries.sa.gov.au/news/heavy-vehicle-sustainability-guide-released)
   * Business sustainability
   * Funding
@@ -44,32 +53,24 @@ South Australians can now drop off embedded battery products at 4 sites across A
 ##### [Introducing our 2025–2030 circular economy strategy](https://www.greenindustries.sa.gov.au/news/2025-2030-circular-economy-strategy)
 Green Industries SA (GISA) has today released Accelerating SA’s transition to a circular economy: South...
 [Read more](https://www.greenindustries.sa.gov.au/news/2025-2030-circular-economy-strategy)
-[ ](https://www.greenindustries.sa.gov.au/news/circular-business-market-development-grants-2025-26)
-  * Funding
-  * October 31, 2025
-
-
-##### [Now open: Circular Business and Market Development Grants](https://www.greenindustries.sa.gov.au/news/circular-business-market-development-grants-2025-26)
-South Australian businesses and organisations can now apply for funding to help drive the state’s...
-[Read more](https://www.greenindustries.sa.gov.au/news/circular-business-market-development-grants-2025-26)
-  * [1](https://www.greenindustries.sa.gov.au/news?page=1&prop_ModuleId=1534)
-  * [2](https://www.greenindustries.sa.gov.au/news?page=2&prop_ModuleId=1534)
-  * [3](https://www.greenindustries.sa.gov.au/news?page=3&prop_ModuleId=1534)
-  * [4](https://www.greenindustries.sa.gov.au/news?page=4&prop_ModuleId=1534)
-  * [5](https://www.greenindustries.sa.gov.au/news?page=5&prop_ModuleId=1534)
-  * [6](https://www.greenindustries.sa.gov.au/news?page=6&prop_ModuleId=1534)
-  * [7](https://www.greenindustries.sa.gov.au/news?page=7&prop_ModuleId=1534)
-  * [8](https://www.greenindustries.sa.gov.au/news?page=8&prop_ModuleId=1534)
-  * [9](https://www.greenindustries.sa.gov.au/news?page=9&prop_ModuleId=1534)
-  * [10](https://www.greenindustries.sa.gov.au/news?page=10&prop_ModuleId=1534)
-  * [11](https://www.greenindustries.sa.gov.au/news?page=11&prop_ModuleId=1534)
-  * [12](https://www.greenindustries.sa.gov.au/news?page=12&prop_ModuleId=1534)
-  * [13](https://www.greenindustries.sa.gov.au/news?page=13&prop_ModuleId=1534)
-  * [14](https://www.greenindustries.sa.gov.au/news?page=14&prop_ModuleId=1534)
-  * [15](https://www.greenindustries.sa.gov.au/news?page=15&prop_ModuleId=1534)
-  * [16](https://www.greenindustries.sa.gov.au/news?page=16&prop_ModuleId=1534)
-  * [17](https://www.greenindustries.sa.gov.au/news?page=17&prop_ModuleId=1534)
-  * [Next](https://www.greenindustries.sa.gov.au/news?page=2&prop_ModuleId=1534)
+  * [1](https://www.greenindustries.sa.gov.au/news?page=1&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [2](https://www.greenindustries.sa.gov.au/news?page=2&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [3](https://www.greenindustries.sa.gov.au/news?page=3&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [4](https://www.greenindustries.sa.gov.au/news?page=4&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [5](https://www.greenindustries.sa.gov.au/news?page=5&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [6](https://www.greenindustries.sa.gov.au/news?page=6&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [7](https://www.greenindustries.sa.gov.au/news?page=7&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [8](https://www.greenindustries.sa.gov.au/news?page=8&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [9](https://www.greenindustries.sa.gov.au/news?page=9&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [10](https://www.greenindustries.sa.gov.au/news?page=10&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [11](https://www.greenindustries.sa.gov.au/news?page=11&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [12](https://www.greenindustries.sa.gov.au/news?page=12&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [13](https://www.greenindustries.sa.gov.au/news?page=13&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [14](https://www.greenindustries.sa.gov.au/news?page=14&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [15](https://www.greenindustries.sa.gov.au/news?page=15&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [16](https://www.greenindustries.sa.gov.au/news?page=16&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [17](https://www.greenindustries.sa.gov.au/news?page=17&prop_ModuleId=1534&prop_parentid_list=2725)
+  * [Next](https://www.greenindustries.sa.gov.au/news?page=2&prop_ModuleId=1534&prop_parentid_list=2725)
 
 
   * Share This
@@ -78,10 +79,10 @@ South Australian businesses and organisations can now apply for funding to help 
 
 
 ##### RECENT POSTS
+  * [$20k awarded to circular economy innovators](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
   * [Heavy vehicle sustainability guide released with support from Green Industries SA](https://www.greenindustries.sa.gov.au/news/heavy-vehicle-sustainability-guide-released)
   * [Updated Disaster Waste Management Guidelines now available](https://www.greenindustries.sa.gov.au/news/disaster-waste-management-guidelines-updated)
   * [Launching soon: Circular Impact Accelerator 2026](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-2026)
-  * [Depots open to get batteries out of bins and reduce fire risk](https://www.greenindustries.sa.gov.au/news/embedded-battery-depots-open)
 
 
 ##### CATEGORIES

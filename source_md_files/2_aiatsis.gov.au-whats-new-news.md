@@ -68,6 +68,7 @@ Menu
   * [Tasmania](https://aiatsis.gov.au/family-history/where-get-help/tasmania)
   * [Victoria](https://aiatsis.gov.au/family-history/where-get-help/victoria)
   * [Western Australia](https://aiatsis.gov.au/family-history/where-get-help/western-australia)
+  * [Social and emotional wellbeing information sheets](https://aiatsis.gov.au/family-history/family-history-worksheets-and-checklists#sewb-section)
 
 
 [Close submenu](https://aiatsis.gov.au/whats-new/news#mm-1)[Collection](https://aiatsis.gov.au/whats-new/news#mm-1)
@@ -347,6 +348,8 @@ Continue
 ## AIATSIS acknowledges all Aboriginal and Torres Strait Islander Traditional Custodians of Country and recognises their continuing connection to land, sea, culture and community. We pay our respects to Elders past and present.
 [Aboriginal and Torres Strait Islander people should be aware that this website may contain images, voices and names of deceased persons.](https://aiatsis.gov.au/cultural-sensitivity)
 #  News
+### [Australian Aboriginal Studies out now Thu, 21 May 2026 ](https://aiatsis.gov.au/whats-new/news/australian-aboriginal-studies-out-now-2)
+### [Indigenous women refuse silence: new book centres community‑led pathways beyond violence Tue, 19 May 2026 ](https://aiatsis.gov.au/whats-new/news/indigenous-women-refuse-silence-new-book-centres-community-led-pathways-beyond)
 ### [“This is a joyful thing”: a masterwork of Gija cultural knowledge Tue, 17 Mar 2026 ](https://aiatsis.gov.au/whats-new/news/joyful-thing-masterwork-gija-cultural-knowledge)
 ### [Australian Aboriginal Studies out now Fri, 19 Dec 2025 ](https://aiatsis.gov.au/whats-new/news/australian-aboriginal-studies-out-now-1)
 ### [Your Story. Your Voice. AIATSIS International Women’s Day 2026 Poster Competition now open!  Wed, 17 Dec 2025 ](https://aiatsis.gov.au/whats-new/news/iwd-2026-poster-comp)
@@ -355,8 +358,6 @@ Continue
 ### [Sharing Stories, Holding History: Aboriginal Studies Press  Wed, 03 Sep 2025 ](https://aiatsis.gov.au/whats-new/news/sharing-stories-holding-history-aboriginal-studies-press)
 ### [Larrakia Cultural Treasures Returned in Historic Ceremony at Bristol Museum & Art Gallery  Tue, 02 Sep 2025 ](https://aiatsis.gov.au/whats-new/news/larrakia-cultural-treasures-returned-historic-ceremony-bristol-museum-art-gallery)
 ### [AIATSIS welcomes new Council Chair and Deputy Chair Fri, 29 Aug 2025 ](https://aiatsis.gov.au/whats-new/news/aiatsis-welcomes-new-council-chair-and-deputy-chair)
-### [Redtails in the Sunset  Tue, 19 Aug 2025 ](https://aiatsis.gov.au/whats-new/news/redtails-sunset)
-### [Shared wisdom: reflections from the AIATSIS International Delegation to Australia 2025 Mon, 07 Jul 2025 ](https://aiatsis.gov.au/whats-new/news/shared-wisdom-reflections-aiatsis-international-delegation-australia-2025)
 Last updated: 13 November 2023 
 Copy link
 ✓

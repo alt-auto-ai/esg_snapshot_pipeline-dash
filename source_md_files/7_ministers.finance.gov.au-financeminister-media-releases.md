@@ -2,6 +2,10 @@
 #  Senator the Hon Katy Gallagher 
 Minister for Finance
 Minister for Government Services
+May 2026  Date | Title | No.  
+---|---|---  
+29 May 2026 | [Australian Government General Government Sector Monthly Financial Statements for April 2026](https://ministers.finance.gov.au/financeminister/media-release/2026/05/29/australian-government-general-government-sector-monthly-financial-statements-april-2026) |  KG 11/26   
+19 May 2026 | [Every answer matters: New myGov feature makes the 2026 Census easier](https://ministers.finance.gov.au/financeminister/media-release/2026/05/19/every-answer-matters-new-mygov-feature-makes-2026-census-easier) |  KG 10/26   
 April 2026  Date | Title | No.  
 ---|---|---  
 24 April 2026 | [Australian Government General Government Sector Monthly Financial Statements for March 2026](https://ministers.finance.gov.au/financeminister/media-release/2026/04/24/australian-government-general-government-sector-monthly-financial-statements-march-2026) |  KG 09/26   
@@ -18,8 +22,4 @@ February 2026  Date | Title | No.
 January 2026  Date | Title | No.  
 ---|---|---  
 30 January 2026 | [Australian Government General Government Sector Monthly Financial Statements for December 2025](https://ministers.finance.gov.au/financeminister/media-release/2026/01/30/australian-government-general-government-sector-monthly-financial-statements-december-2025) |  KG 02/26   
-23 January 2026 | [Statement on the retirement from the APS of APSC Commissioner Dr Gordon de Brouwer](https://ministers.finance.gov.au/financeminister/media-release/2026/01/23/statement-retirement-aps-apsc-commissioner-dr-gordon-de-brouwer) |  KG 01/26   
-December 2025  Date | Title | No.  
----|---|---  
-24 December 2025 | [Australian Government General Government Sector Monthly Financial Statements for November 2025](https://ministers.finance.gov.au/financeminister/media-release/2025/12/24/australian-government-general-government-sector-monthly-financial-statements-november-2025) |  KG 38/25   
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

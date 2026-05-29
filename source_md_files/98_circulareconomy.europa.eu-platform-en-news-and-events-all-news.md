@@ -7,6 +7,65 @@ en
 Welcome to the ECESP archive of circular economy news, sorted according to date of publication. The search function on the left is available for past news articles.  
 Do you have a big announcement? Are you looking for participants or partners? Are you collecting feedback? If so, **g**et in touch with the****
 # All News
+  * ##  [RTSI 2026: call for contributions!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/rtsi-2026-call-contributions)
+27 May 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Country
+Finland
+Sector
+[Digital solutions](https://circulareconomy.europa.eu/platform/en/sector/digital-solutions),
+[Recycling](https://circulareconomy.europa.eu/platform/en/sector/recycling),
+[Research](https://circulareconomy.europa.eu/platform/en/sector/research)
+Scope
+[International](https://circulareconomy.europa.eu/platform/en/scope/international)
+Key Area
+[Waste management](https://circulareconomy.europa.eu/platform/en/key-area/waste-management),
+[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials)
+The IEEE 10th International Forum on Research and Technologies for Society and Industry (RTSI 2026) will include a special session on  _AI-powered innovations for circular economy: Advancing sustainable recycling_.
+They are calling for contributions from academia and industry - **deadline: 5 June**!
+  * ##  [Three new European Environment Agency's publications highlight the strategic potential of the circular economy — and the urgent need to accelerate investment ](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/three-new-european-environment-agencys-publications-highlight-strategic-potential-circular-economy-and)
+[EEA Press release](https://www.eea.europa.eu/en/newsroom/news/circular-economy-offers-the-eu-win-win)
+21 May 2026
+News type
+[New publication](https://circulareconomy.europa.eu/platform/en/news-type/new-publication)
+Sector
+[Circular action for climate neutrality](https://circulareconomy.europa.eu/platform/en/sector/circular-action-climate-neutrality),
+[Research](https://circulareconomy.europa.eu/platform/en/sector/research)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+HOT FROM THE PRESS — on 19 May 2026, the European Environment Agency (EEA) published three new assessments on circularity in the EU, sending a clear message: significantly greater investment is needed to unlock the full potential of the circular economy.
+The reports underline that scaling up circular economy measures could deliver major environmental and economic benefits for the EU, including reduced climate and environmental impacts, greater resource security and new business opportunities. At the same time, they stress that investment in circularity must accelerate if the EU is to achieve its climate and environmental objectives.
+  * ##  [Forest Bioeconomy Investment Accelerator: opportunity to discuss your project's investment readiness](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/forest-bioeconomy-investment-accelerator-opportunity-discuss-your-projects-investment-readiness)
+16 May 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Sector
+[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry),
+[Economic instruments](https://circulareconomy.europa.eu/platform/en/sector/economic-instruments)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Secondary raw materials](https://circulareconomy.europa.eu/platform/en/key-area/secondary-raw-materials),
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+Are you developing an innovative forest bioeconomy project and looking to take the next step on your investment journey? Apply now to participate in the Forest Bioeconomy Investment Accelerator and discuss your project’s investment readiness with a group of financial experts.
+Deadline: **12 June.**
+  * ##  [2026 Call for projects requesting advisory services under Green Assist](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/2026-call-projects-requesting-advisory-services-under-green-assist)
+[Call for projects](https://cinea.ec.europa.eu/2026-call-projects-requesting-advisory-services-under-green-assist_en)
+16 May 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Sector
+[Bioeconomy and Biomimicry](https://circulareconomy.europa.eu/platform/en/sector/bioeconomy-and-biomimicry),
+[Circular design](https://circulareconomy.europa.eu/platform/en/sector/circular-design)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+The EU's European Climate, Infrastructure and Environment Executive Agency (CINEA) has launched a new call for proposals aimed at SMEs interested in receiving advisory support to develop, accelerate or improve their green investment projects.
+**Apply by 19 June!**
   * ##  [A new call for the Circular City Centre - C3 advisory programmes is now open!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/new-call-circular-city-centre-c3-advisory-programmes-now-open)
 07 May 2026
 News type
@@ -93,41 +152,6 @@ Scope
 Key Area
 [Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
 Europe’s flagship environmental label is doing better than ever, with the latest figures underscoring its growing role in steering the market towards more sustainable choices. 
-  * ##  [European Reuse Barometer: provide data and support reuse and refill!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/european-reuse-barometer-provide-data-and-support-reuse-and-refill)
-30 Apr 2026
-News type
-[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
-Sector
-[Reuse](https://circulareconomy.europa.eu/platform/en/sector/reuse)
-Scope
-[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
-Key Area
-[Production](https://circulareconomy.europa.eu/platform/en/key-area/production)
-The European Reuse Barometer provides key insights for companies, policymakers and industry stakeholders working toward a circular economy.
-If your business is in the reuse and refill industry, complete the survey and add to the body of data informing EU and national policy discussions!
-  * ##  [Global Gateway survey: looking for input on circular economy markets in Latin America and the Caribbean](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/global-gateway-survey-looking-input-circular-economy-markets-latin-america-and-caribbean)
-30 Apr 2026
-News type
-[New EU initiative](https://circulareconomy.europa.eu/platform/en/news-type/new-eu-initiative)
-Sector
-[Economic instruments](https://circulareconomy.europa.eu/platform/en/sector/economic-instruments)
-Scope
-[Cooperation and development](https://circulareconomy.europa.eu/platform/en/scope/cooperation-and-development)
-Key Area
-[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
-This survey aims to gather insights from EU companies and business associations. The goal is to identify priority needs, barriers and opportunities which can facilitate EU support for European private sector engagement in waste and water managements sectors in Latin America and the Caribbean.
-  * ##  [ECESP annual conference: recordings now available!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/ecesp-annual-conference-recordings-now-available)
-[Conference webpage](https://circulareconomy.europa.eu/platform/en/ecesp-annual-conference-2026-competitive-and-fair-circular-europe-ambition-heart-single-market)
-30 Apr 2026
-News type
-[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
-Watch the sessions and see what the discussions covered.
-  * ##  [Photos from the ECESP annual conference](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/photos-ecesp-annual-conference)
-[Conference webpage](https://circulareconomy.europa.eu/platform/en/ecesp-annual-conference-2026-competitive-and-fair-circular-europe-ambition-heart-single-market)
-30 Apr 2026
-News type
-[Platform activity](https://circulareconomy.europa.eu/platform/en/news-type/platform-activity)
-The ECESP annual conference may be over but it is not forgotten! Here's a selection of photos from some of the sessions and the networking village. 
 
 
 ## Search the database

@@ -1,19 +1,24 @@
 [ Skip to main content ](https://www.nacc.gov.au/news-and-media#main-content)
 # News and media releases
-Fast facts as at 13 May 2026
-29
+Fast facts as at 27 May 2026
+26
 Preliminary investigations underway
-34
+33
 Corruption investigations underway
 10
 Joint corruption investigations underway
 4
 Matters before the court
-27
+28
 Investigations by other agencies being overseen or monitored by the Commission
-2121
+2197
 Referrals received this financial year
-Displaying 1 - 12 of 142 results
+Displaying 1 - 12 of 143 results
+  * Media Releases
+
+
+[ Resignation of National Anti-Corruption Commissioner ](https://www.nacc.gov.au/news-and-media/resignation-national-anti-corruption-commissioner)
+25 May 2026
   * News
 
 
@@ -69,8 +74,3 @@ Displaying 1 - 12 of 142 results
 
 [ Monthly update: December 2025 ](https://www.nacc.gov.au/news-and-media/monthly-update-december-2025)
 10 Dec 2025
-  * Media Releases
-
-
-[ Fourth person charged over multimillion dollar fraud ](https://www.nacc.gov.au/news-and-media/fourth-person-charged-over-multimillion-dollar-fraud)
-20 Nov 2025

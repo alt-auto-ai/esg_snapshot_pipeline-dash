@@ -6,6 +6,8 @@
 * * *
 ## Latest news
 * * *
+  * [ News New energy projects to underpin South Australia's capacity  ...  29/05/26 ](https://www.energymining.sa.gov.au/home/news/latest/new-energy-projects-to-underpin-south-australias-capacity)
+  * [ News New gas commitment set to boost SA's energy security  ...  15/05/26 ](https://www.energymining.sa.gov.au/home/news/latest/new-gas-commitment-set-to-boost-sas-energy-security)
   * [ News Unlocking more gas for South Australians  ...  14/05/26 ](https://www.energymining.sa.gov.au/home/news/latest/unlocking-more-gas-for-south-australians)
   * [ News South Australia open for more renewable energy investment  ...  01/04/26 ](https://www.energymining.sa.gov.au/home/news/latest/south-australia-open-for-more-renewable-energy-investment)
   * [ News New leader to helm South Australia's excellence in geoscience  ...  31/03/26 ](https://www.energymining.sa.gov.au/home/news/latest/new-leader-to-helm-south-australias-excellence-in-geoscience)
@@ -30,4 +32,4 @@
   
 Energy & Mining  
 https://www.energymining.sa.gov.au/home/news  
-May 15, 2026 3:06 pm 
+May 29, 2026 4:13 pm 

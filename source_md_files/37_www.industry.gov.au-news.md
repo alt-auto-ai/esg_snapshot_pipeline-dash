@@ -13,6 +13,9 @@
 
 ## Top stories
 [ Link copied ](https://www.industry.gov.au/news#top-stories "Copy link to this section")
+May 2026  AI Safety Institute 
+### [Australia and UK strengthen partnership on safe and secure AI](https://www.industry.gov.au/news/australia-and-uk-strengthen-partnership-safe-and-secure-ai)
+The signed memorandum of understanding (MoU) recognises the importance of cooperation between the 2 countries and their AI safety and security institutes. 
 May 2026 
 ### [Announcing the 2026–27 May Budget](https://www.industry.gov.au/news/announcing-2026-27-may-budget)
 The 2026–27 Budget includes measures for our portfolio to continue delivering the Future Made in Australia agenda. 
@@ -22,12 +25,24 @@ The Australian Government will introduce new legislation to give effect to the s
 May 2026  National Artificial Intelligence Centre 
 ### [National AI Centre launches AI.gov.au](https://www.industry.gov.au/news/national-ai-centre-launches-aigovau)
 The new digital platform will help organisations understand and use artificial intelligence (AI) safely and responsibly. 
-Apr 2026 
-### [The Australian Government has signed a memorandum of understanding (MOU) with tech giant Microsoft](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft)
-Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 55. Showing results from 1 to 12 of 659.
+Page 1 of 55. Showing results from 1 to 12 of 653.
+  * 28 May 2026 
+### [Cynata Therapeutics is developing new cell therapies to treat chronic disease and acute conditions](https://www.industry.gov.au/news/cynata-therapeutics-developing-new-cell-therapies-treat-chronic-disease-and-acute-conditions)
+The Australian Government’s Biomedical Translation Fund (BTF) is enabling BioScience Managers to invest in companies like Cynata Therapeutics. 
+  * 25 May 2026 
+### [Domestic Gas Reservation Scheme draft design framework: have your say](https://www.industry.gov.au/news/domestic-gas-reservation-scheme-draft-design-framework-have-your-say)
+We are seeking further feedback on how the reservation scheme will operate. Consultation is open until 30 June 2026. 
+  * 25 May 2026  AI Safety Institute 
+### [Australia and UK strengthen partnership on safe and secure AI](https://www.industry.gov.au/news/australia-and-uk-strengthen-partnership-safe-and-secure-ai)
+The signed memorandum of understanding (MoU) recognises the importance of cooperation between the 2 countries and their AI safety and security institutes. 
+  * 20 May 2026  National Measurement Institute 
+### [From data to decisions: why measurement matters](https://www.industry.gov.au/news/data-decisions-why-measurement-matters)
+The National Measurement Institute (NMI) is celebrating 2026 World Metrology Day. 
+  * 18 May 2026  National Measurement Institute 
+### [Electric vehicle charging accuracy: consultation finalised](https://www.industry.gov.au/news/electric-vehicle-charging-accuracy-consultation-finalised)
+The National Measurement Institute (NMI) has finalised accuracy requirements for existing electric vehicle supply equipment (EVSE). Read about what this means for industry. 
   * 15 May 2026 
 ### [New guidance on removing offshore oil and gas property in Commonwealth waters](https://www.industry.gov.au/news/new-guidance-removing-offshore-oil-and-gas-property-commonwealth-waters)
 The guidance supports offshore oil and gas titleholders and operators to plan for decommissioning. 
@@ -49,23 +64,8 @@ Nominate areas for a potential future offshore petroleum exploration acreage rel
   * 5 May 2026 
 ### [$6.2 million for international collaboration in AI, advanced manufacturing, quantum and hydrogen pro...](https://www.industry.gov.au/news/62-million-international-collaboration-ai-advanced-manufacturing-quantum-and-hydrogen-projects)
 Nine projects will be funded under the strategic element of the Global Science and Technology Diplomacy Fund (GSTDF) round 2. 
-  * 23 April 2026 
-### [The Australian Government has signed a memorandum of understanding (MOU) with tech giant Microsoft](https://www.industry.gov.au/news/australian-government-has-signed-memorandum-understanding-mou-tech-giant-microsoft)
-Collaborative arrangements with leading AI and technology companies are a commitment under the National AI Plan. 
-  * 14 April 2026  National Measurement Institute 
-### [Dynamic measuring systems for liquids other than water: consultation outcomes](https://www.industry.gov.au/news/dynamic-measuring-systems-liquids-other-water-consultation-outcomes)
-The National Measurement Institute’s updated requirements, NMI R 117:2026, bring Australia’s liquid flow measurement standards into line with international standards. 
-  * 13 April 2026  Critical Minerals Office 
-### [Australia and United States advance cooperation on critical minerals and rare earths supply chains](https://www.industry.gov.au/news/australia-and-united-states-advance-cooperation-critical-minerals-and-rare-earths-supply-chains)
-Our 2 nations are delivering on the landmark United States–Australia Framework for Securing of Supply in the Mining and Processing of Critical Minerals and Rare Earths. 
-  * 13 April 2026 
-### [Innovative seaweed and microalgae projects in latest $6.9 million grant funding](https://www.industry.gov.au/news/innovative-seaweed-and-microalgae-projects-latest-69-million-grant-funding)
-We’re funding 5 new projects through the Industry Growth Program. 
-  * 1 April 2026 
-### [Gas supply and demand outlook for 2026 quarter 3](https://www.industry.gov.au/news/gas-supply-and-demand-outlook-2026-quarter-3)
-The Minister for Resources has issued a notification of intent (NOI) to consider if there will be a domestic gas shortfall for the July to September quarter. 
 
 
-Page 1 of 55. Showing results from 1 to 12 of 659.
-Page 1 of 55. Showing results from 1 to 12 of 659.
+Page 1 of 55. Showing results from 1 to 12 of 653.
+Page 1 of 55. Showing results from 1 to 12 of 653.
 [Back to top](https://www.industry.gov.au/news#skip-links)

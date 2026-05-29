@@ -26,6 +26,9 @@ Funding of $4.5 million will help prevent extinction of the critically endangere
 [Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[Belconnen](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0001)
 [Belconnen Oval Wetland now open](https://www.act.gov.au/our-canberra/latest-news/2025/april/belconnen-oval-wetland-now-open)
 A new wetland in central Belconnen is now open for visitors.
+[Environment](https://www.act.gov.au/our-canberra/tags?queries_topic_query=0006)[Woden, Weston Creek & Molonglo](https://www.act.gov.au/our-canberra/tags?queries_region_query%5B0%5D=0004)
+[Learn how to grow veggies at home in Canberra](https://www.act.gov.au/our-canberra/latest-news/2024/february/learn-how-to-grow-veggies-at-home-in-canberra)
+Tips for how to grow produce year-round in Canberra.
 **1**
 top
 Subscribe to the Our CBR email newsletter

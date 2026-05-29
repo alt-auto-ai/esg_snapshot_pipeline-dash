@@ -6,9 +6,16 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (679)
+####  News (680)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News announcement
+  * 22 May 2026
+
+
+[VAT in the Digital Age: 2026 Work Programme available](https://taxation-customs.ec.europa.eu/news/vat-digital-age-2026-work-programme-available-2026-05-22_en)
+The European Commission has published the work programme for VAT in the Digital Age (ViDA), covering implementation activities planned for 2026.
+1 min read
   * News article
   * 13 May 2026
 
@@ -72,13 +79,6 @@ The European Commission has released a new guidance document, prepared in consul
 [First CBAM certificate price is now available](https://taxation-customs.ec.europa.eu/news/first-cbam-certificate-price-now-available-2026-04-07_en)
 The European Commission has published the first price of CBAM certificates for 2026 Q1 on its new dedicated page on the CBAM website, marking an important milestone in the implementation of CBAM.
 1 min read
-  * News article
-  * 31 March 2026
-
-
-[Tax revenue rebounds in 2024 after decade-low in 2023](https://taxation-customs.ec.europa.eu/news/tax-revenue-rebounds-2024-after-decade-low-2023-2026-03-31_en)
-The Taxation Trends dataset provides a detailed overview of key taxation indicators, enabling analysis of tax systems from multiple perspectives—by tax type, economic function, government level, and implicit tax rates.
-2 min read
 Share this page 
   * [ X ](https://taxation-customs.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://taxation-customs.ec.europa.eu/news_en#facebook "Share via Facebook")

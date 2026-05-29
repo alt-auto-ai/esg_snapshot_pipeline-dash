@@ -10,19 +10,22 @@
 
 # Latest news
 ## Media releases
+  * [Securing more fertiliser for Australian farmers](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fertiliser-australian-farmers)
+27 May 2026
+  * [Strategic reserve supporting Arafura final investment decision ](https://www.trademinister.gov.au/minister/don-farrell/media-release/strategic-reserve-supporting-arafura-final-investment-decision)
+21 May 2026
+  * [Albanese Labor Government helps secure more jet fuel and fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/albanese-labor-government-helps-secure-more-jet-fuel-and-fertiliser)
+19 May 2026
+  * [Travel to Japan and China](https://www.trademinister.gov.au/minister/don-farrell/media-release/travel-japan-and-china)
+18 May 2026
   * [Three additional shipments of diesel headed to South Australia, Tasmania, Victoria and Queensland](https://www.trademinister.gov.au/minister/don-farrell/media-release/three-additional-shipments-diesel-headed-south-australia-tasmania-victoria-and-queensland)
 15 May 2026
-  * [Albanese Labor Government secures first shipments of additional farm fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/albanese-labor-government-secures-first-shipments-additional-farm-fertiliser)
-14 May 2026
-  * [Sydney to host Southern Hemisphere’s biggest international tourism conference](https://www.trademinister.gov.au/minister/don-farrell/media-release/sydney-host-southern-hemispheres-biggest-international-tourism-conference)
-14 May 2026
-  * [Strong support for 46th Australia Tourism Exchange in Adelaide](https://www.trademinister.gov.au/minister/don-farrell/media-release/strong-support-46th-australia-tourism-exchange-adelaide)
-9 May 2026
-  * [Government securing more fuel reserves the Australian fuel security and resilience package ](https://www.trademinister.gov.au/minister/don-farrell/media-release/government-securing-more-fuel-reserves-australian-fuel-security-and-resilience-package)
-6 May 2026
 
 
 ## Transcripts
+  * [Interview with Kieran Gilbert, Sky News](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-news-4)
+Subjects: Fuel supply, domestic coal and gas production, trade with Japan and China, energy transition, CGT changes.
+19 May 2026
   * [Press Conference](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference-0)
 Subjects: Fuel supply; Senator Tammy Tyrrell.
 15 May 2026
@@ -34,9 +37,6 @@ Subjects: Update on Australia’s fuel supply.
 24 April 2026
   * [Interview with Kieran Gilbert, Sky Newsday](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-newsday-1)
 Subjects: Fuel supply relations with Singapore, Viva Energy refinery fire, US President Donald Trump’s comments towards Pope Leo.
-17 April 2026
-  * [Doorstop, Singapore](https://www.trademinister.gov.au/minister/don-farrell/transcript/doorstop-singapore)
-Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapore-Australia Free Trade Agreement (SAFTA).
 17 April 2026
 
 
@@ -67,6 +67,8 @@ Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapor
 
 
 ## Statements
+  * [Japan-Australia Ministerial Economic Dialogue Joint Ministerial Statement](https://www.trademinister.gov.au/minister/don-farrell/statements/japan-australia-ministerial-economic-dialogue-joint-ministerial-statement)
+19 May 2026
   * [Joint ministerial statement on Costa Rica accession process to the CPTPP](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-ministerial-statement-costa-rica-accession-process-cptpp)
 6 May 2026
   * [Joint Statement Australia-France Ministerial Trade and Investment Dialogue](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-france-ministerial-trade-and-investment-dialogue)
@@ -75,8 +77,6 @@ Subjects: Protocol on Economic Resilience and Essential Supplies to the Singapor
 13 February 2026
   * [Joint statement: Australia–New Zealand Closer Economic Relations Ministerial Meeting – October 2025](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-new-zealand-closer-economic-relations-ministerial-meeting-october-2025)
 3 October 2025
-  * [Joint statement: Australia-New Zealand Closer Economic Relations Ministerial meeting in Rotorua](https://www.trademinister.gov.au/minister/don-farrell/statements/joint-statement-australia-new-zealand-closer-economic-relations-ministerial-meeting-rotorua)
-21 September 2024
 
 
 [Back to top](https://www.trademinister.gov.au/#top "Back to top")

@@ -3,6 +3,18 @@
 View our latest media releases, staff articles and speeches.
 Filters
 Media releases
+25 May 2026
+###  [Regulator reduces Victorian default electricity prices](https://www.esc.vic.gov.au/media-centre/regulator-reduces-victorian-default-electricity-prices)
+The Essential Services Commission has announced a reduction in Victoria’s default electricity prices to apply from 1 July 2026 to 30 June 2027. 
+News update
+21 May 2026
+###  [Maximum interest rate payable on overdue water bills from 1 July 2026](https://www.esc.vic.gov.au/media-centre/maximum-interest-rate-payable-overdue-water-bills-1-july-2026)
+The maximum interest rate that water businesses may charge their customers on unpaid water bills from 1 July 2026 to 30 June 2027 will be 6.0 per cent per annum. 
+News update
+18 May 2026
+###  [Glen Eira City Council’s request for higher rate cap approved](https://www.esc.vic.gov.au/media-centre/glen-eira-city-councils-request-higher-rate-cap-approved)
+Following a request from Glen Eira City Council, the Essential Services Commission has approved a 5 per cent rate cap for the 2026-27 financial year, 2.25 percentage points above the 2.75 per cent cap set by the Minister for Local Government. 
+Media releases
 13 May 2026
 ###  [Compliance push weeds out non-compliant businesses, $4.4 million in certificates forfeited](https://www.esc.vic.gov.au/media-centre/compliance-push-weeds-out-non-compliant-businesses-44-million-certificates-forfeited)
 From Ballarat to Dandenong, Essential Services Commission inspectors have been out in force around the state, checking that energy efficient installations meet [Victorian Energy Upgrades (VEU)](https://www.esc.vic.gov.au/victorian-energy-upgrades/about-victorian-energy-upgrades-program)
@@ -20,28 +32,16 @@ News update
 In June 2024, the Essential Services Commission released its final decision on how much Goulburn-Murray Water can charge its customers for water services from 1 July 2024 to 30 June 2028.
 Media releases
 02 April 2026
-###  [Regulator releases draft decision on North East Water’s proposed prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-draft-decision-north-east-waters-proposed-prices)
-The Essential Services Commission has released its draft decision on how much North East Water can charge customers for water services over the next five years, from 1 July 2026. 
-Media releases
-02 April 2026
 ###  [Regulator releases draft decision on Melbourne Water’s prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-draft-decision-melbourne-waters-prices)
 The Essential Services Commission has released its draft decision on how much Melbourne Water can charge its customers for water, sewerage, waterways and drainage services over the next five years, from 1 July 2026. 
+Media releases
+02 April 2026
+###  [Regulator releases draft decision on North East Water’s proposed prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-draft-decision-north-east-waters-proposed-prices)
+The Essential Services Commission has released its draft decision on how much North East Water can charge customers for water services over the next five years, from 1 July 2026. 
 Media releases
 27 March 2026
 ###  [Businesses forfeit $4.2 million in energy efficiency certificates, one banned for false claims](https://www.esc.vic.gov.au/media-centre/businesses-forfeit-42-million-energy-efficiency-certificates-one-banned-false-claims)
 The Essential Services Commission has banned one accredited business from the Victorian Energy Upgrades (VEU) program, and refused millions of dollars in certificates claimed by two businesses for allegedly providing false information about energy efficiency projects and breaching consumer protec
-Media releases
-24 March 2026
-###  [Strengthening protections for energy customers ](https://www.esc.vic.gov.au/media-centre/strengthening-protections-energy-customers)
-The Essential Services Commission is inviting Victorians to help shape the next stage of energy reforms, with a focus on strengthening protections for vulnerable Victorians. 
-News update
-20 March 2026
-###  [Liquidator appointed for Victorian Energy Upgrades accredited business, Cyanergy](https://www.esc.vic.gov.au/media-centre/liquidator-appointed-victorian-energy-upgrades-accredited-business-cyanergy)
-The Essential Services Commission suspended the Victorian Energy Upgrades (VEU) accreditation of Cyanergy on 19 March 2026. This action follows advice that Cyanergy has entered external administration and is no longer operating. 
-Media releases
-20 March 2026
-###  [Regulator takes energy retailer ENGIE to court alleging customer support failures ](https://www.esc.vic.gov.au/media-centre/regulator-takes-energy-retailer-engie-court-alleging-customer-support-failures)
-The Essential Services Commission has commenced civil penalty proceedings in the Supreme Court of Victoria against energy retailer ENGIE. 
 ## For general enquiries
 Phone:   
 Email: 

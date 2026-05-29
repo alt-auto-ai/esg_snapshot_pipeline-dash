@@ -6,78 +6,77 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1007)
+####  News (1018)
 [RSS](https://environment.ec.europa.eu/node/92/rss_en)
 Showing results 1 to 10
   * News article
-  * 12 May 2026
+  * 27 May 2026
 
 
-[Commission seeks public opinion on EU Nature Directives](https://environment.ec.europa.eu/news/commission-seeks-public-opinion-eu-nature-directives-2026-05-12_en)
-A public consultation on the Birds and Habitats Directives is underway. Contributions will feed into a stress test of both.
+[Commission seeks input on digital action plan for water sector](https://environment.ec.europa.eu/news/commission-seeks-input-digital-action-plan-water-sector-2026-05-27_en)
+The initiative will help shape EU-wide strategies that integrate smart technology across the industry.
+2 min read
+  * News article
+  * 22 May 2026
+
+
+[Commission boosts EU water resilience with fresh guidance ](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1129)
+The new document ensures a more harmonised implementation of water laws by reducing compliance uncertainties, among other things.
 1 min read
   * News article
-  * 11 May 2026
+  * 22 May 2026
 
 
-[Seeing is believing simply looking at green walls improves mood and creates a sense of cooling](https://environment.ec.europa.eu/news/seeing-believing-simply-looking-green-walls-improves-mood-and-creates-sense-cooling-2026-05-11_en)
-New research shows that green walls and roofs are effective at both cooling the environment and offering physical and mental wellbeing benefits, reinforcing the value of green infrastructure in alleviating heat stress in cities.
+[EU delivering on biodiversity ahead of CBD COP17](https://environment.ec.europa.eu/news/eu-delivering-biodiversity-ahead-cbd-cop17-2026-05-22_en)
+Protecting biodiversity is increasingly recognised not only as an environmental necessity, but also as an economic and security imperative.
 5 min read
   * News article
-  * 11 May 2026
+  * 22 May 2026
 
 
-[Stricter rules for protecting water in EU enter into force](https://environment.ec.europa.eu/news/stricter-rules-protecting-water-eu-enter-force-2026-05-11_en)
-The new regulations will make Europe more water-resilient, while boosting its zero-pollution and water-resilience ambitions.
+[CBD COP17: Addressing the biodiversity financing gap ](https://environment.ec.europa.eu/news/cbd-cop17-addressing-biodiversity-financing-gap-2026-05-22_en)
+Around 100 stakeholders gathered online and in Brussels to find innovative ideas on scaling up private investment in biodiversity.
+3 min read
+  * News article
+  * 21 May 2026
+
+
+[New Waste Shipment Regulation and DIWASS platform go live](https://environment.ec.europa.eu/news/new-waste-shipment-regulation-and-diwass-platform-go-live-2026-05-21_en)
+The Digital Waste Shipment System (DIWASS) will be key for the EU's circular economy transition and a decisive step towards full digitalisation.
 4 min read
   * News article
-  * 11 May 2026
+  * 20 May 2026
 
 
-[Choosing the right policy mix is essential to promote a circular economy](https://environment.ec.europa.eu/news/choosing-right-policy-mix-essential-promote-circular-economy-2026-05-11_en)
-A new policy assessment to support the transition to circular economy has shown that a combination of approaches targeting consumption and production can reduce material extraction in Europe by 15% at an overall cost of about 1% of GDP.
-6 min read
-  * News article
-  * 11 May 2026
-
-
-[Lessons from Medieval Europe could guide modern approaches to balancing biodiversity and agriculture](https://environment.ec.europa.eu/news/lessons-medieval-europe-could-guide-modern-approaches-balancing-biodiversity-and-agriculture-2026-05-11_en)
-Research from Germany suggests that plant biodiversity boomed in Europe’s Medieval centre, despite a concurrent rise in farming and trade – and that current land management policy could learn from the approaches of these long-passed times.
-5 min read
-  * News article
-  * 8 May 2026
-
-
-[Applications open for new bioeconomy investment group](https://environment.ec.europa.eu/news/applications-open-new-bioeconomy-investment-group-2026-05-08_en)
-The Commission is looking for experts to join the European Bioeconomy Investment Deployment Group, a new platform designed to accelerate funding for sustainable, bio-based innovation.
-2 min read
-  * News article
-  * 4 May 2026
-
-
-[Commission publishes review of EU Deforestation Regulation](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_941)
-The report on the simplification of the revised EUDR and a set of further measures aim to make the law's implementation more effective.
+[Multi-hazard floods in Europe tripled over 30 years](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/floods-compounding-hazards-increased-almost-threefold-30-years-2026-05-20_en)
+Average economic losses from so-called compound floods are nearly three times higher than those from single-source floods.
 1 min read
   * News article
-  * 30 April 2026
+  * 20 May 2026
 
 
-[Commission holds high-level talks on Circular Economy Act](https://environment.ec.europa.eu/news/commission-holds-high-level-talks-circular-economy-act-2026-04-30_en)
-Executive Vice-President Stéphane Séjourné and Commissioner Jessika Roswall led the discussions with key stakeholders.
+A new cohort of projects backs solutions pushed by youngsters, from urban habitats to DNA-based monitoring.
 1 min read
   * News article
-  * 29 April 2026
+  * 19 May 2026
 
 
-[Commission proposes change to waste shipment rules](https://environment.ec.europa.eu/news/commission-proposes-change-waste-shipment-rules-2026-04-29_en)
-Under current EU rules, the export of mixed municipal waste for recovery to non-EEA countries, such as Switzerland, will soon be banned.
+[Commission seeks feedback on industrial biotechnology and biomanufacturing](https://single-market-economy.ec.europa.eu/news/commission-seeks-feedback-industrial-biotechnology-and-biomanufacturing-2026-05-18_en)
+Companies, professionals, experts, academics and citizens can share their views on how to address the main challenges and bottlenecks.
+1 min read
+  * News blog
+  * 18 May 2026
+
+
+[Meet Ernesto Montoya - Natural and historical heritage communicator ](https://environment.ec.europa.eu/news/meet-ernesto-montoya-natural-and-historical-heritage-communicator-2026-05-18_en)
+Ernesto Montoya, a Spanish heritage communicator and creator of Vieja Tierra, explores how understanding rural landscapes, nature, and history can strengthen people’s connection to and protection of Extremadura’s ecosystems.
 2 min read
-  * News article
-  * 28 April 2026
+  * News blog
+  * 18 May 2026
 
 
-[Commission seeks views on battery removability exemptions](https://environment.ec.europa.eu/news/commission-seeks-views-battery-removability-exemptions-2026-04-28_en)
-The Commission launched a public consultation on new rules exempting more products from battery removability and replaceability rules.
+[Meet Catarina Barreiros - zero waste brand co-founder ](https://environment.ec.europa.eu/news/meet-catarina-barreiros-zero-waste-brand-co-founder-2026-05-18_en)
+Catarina Barreiros, a Portuguese sustainability strategist and co-founder of Do Zero, works to make environmental responsibility and social impact accessible while promoting a deeper connection between people and nature.
 2 min read
 Share this page 
   * [ X ](https://environment.ec.europa.eu/news_en#x "Share via X")

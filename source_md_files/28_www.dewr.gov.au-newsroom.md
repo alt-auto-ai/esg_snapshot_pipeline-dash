@@ -1,6 +1,10 @@
 [ Skip to main content ](https://www.dewr.gov.au/newsroom#main-content)
 #  Newsroom 
-### [ From hands-on experience to steady work: Thomas’ journey to employment with EST 11 May 2026 ](https://www.dewr.gov.au/newsroom/articles/hands-experience-steady-work-thomas-journey-employment-est)
+### [ Resources to enhance RTO capability in supporting VET students with disability and mental health 26 May 2026 ](https://www.dewr.gov.au/newsroom/articles/resources-enhance-rto-capability-supporting-vet-students-disability-and-mental-health)
+  * ### [ From learning to earning: inside the WorkFoundations experience 25 May 2026 ](https://www.dewr.gov.au/newsroom/articles/learning-earning-inside-workfoundations-experience)
+  * ### [ NSW Centre of Excellence to strengthen construction capability 21 May 2026 ](https://www.dewr.gov.au/newsroom/articles/nsw-centre-excellence-strengthen-construction-capability)
+  * ### [ Local Jobs, Local People Grants – addressing employment needs in your community 20 May 2026 ](https://www.dewr.gov.au/newsroom/articles/local-jobs-local-people-grants-addressing-employment-needs-your-community)
+  * ### [ From hands-on experience to steady work: Thomas’ journey to employment with EST 11 May 2026 ](https://www.dewr.gov.au/newsroom/articles/hands-experience-steady-work-thomas-journey-employment-est)
   * ### [ Turning experience into opportunity: Paul’s career comeback 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/turning-experience-opportunity-pauls-career-comeback)
   * ### [ Queensland TAFE Centre of Excellence - Construction Tech to boost major projects 7 May 2026 ](https://www.dewr.gov.au/newsroom/articles/queensland-tafe-centre-excellence-construction-tech-boost-major-projects)
   * ### [ Victorian TAFE Centre of Excellence to power clean energy workforce  17 April 2026 ](https://www.dewr.gov.au/newsroom/articles/victorian-tafe-centre-excellence-power-clean-energy-workforce)
@@ -21,10 +25,6 @@
   * ### [ Have your say: Secure Australian Jobs Code consultation 6 February 2026 ](https://www.dewr.gov.au/newsroom/articles/have-your-say-secure-australian-jobs-code-consultation)
   * ### [ 2026 applications for the Tertiary Access Payment now open! 5 February 2026 ](https://www.dewr.gov.au/newsroom/articles/2026-applications-tertiary-access-payment-now-open)
   * ### [ Charting a new course with Early Childhood Education and Care 16 January 2026 ](https://www.dewr.gov.au/newsroom/articles/charting-new-course-early-childhood-education-and-care)
-  * ### [ Submissions open for the Closing Loopholes Review 18 December 2025 ](https://www.dewr.gov.au/newsroom/articles/submissions-open-closing-loopholes-review)
-  * ### [ Celebrating excellence at the 2025 Australian Training Awards  17 December 2025 ](https://www.dewr.gov.au/newsroom/articles/celebrating-excellence-2025-australian-training-awards)
-  * ### [ Final report of the Safety, Rehabilitation and Compensation Act 1988 review 12 December 2025 ](https://www.dewr.gov.au/newsroom/articles/final-report-safety-rehabilitation-and-compensation-act-1988-review)
-  * ### [ VET helped Lauryn find her true calling 11 December 2025 ](https://www.dewr.gov.au/newsroom/articles/vet-helped-lauryn-find-her-true-calling)
 
 
 Back to top

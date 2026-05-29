@@ -4,6 +4,10 @@ cross close
 [ Copernicus | Europe's eyes on Earth ](http://www.copernicus.eu/)
 #  News 
 Latest news on the Copernicus Climate Change Service
+27th May 2026
+### [Full historical CARRA2 data release offers new insights into Arctic extremes](https://climate.copernicus.eu/full-historical-carra2-data-release-offers-new-insights-arctic-extremes)
+The Arctic is warming at more than twice the global average, making it an important region for monitoring climate change. To support better understanding of key regional processes and inform decision-making, the Copernicus Climate Change Service (C3S*) has released the full 40-year data series (1986-2025) from its second-generation Copernicus Arctic Regional Reanalysis – CARRA2, which is now a pan-Arctic regional reanalysis. 
+[ ](https://climate.copernicus.eu/full-historical-carra2-data-release-offers-new-insights-arctic-extremes)
 12th May 2026
 ### [Second-highest sea surface temperatures recorded during third-warmest April globally](https://climate.copernicus.eu/second-highest-sea-surface-temperatures-recorded-during-third-warmest-april-globally)
 With El Niño conditions expected to develop in the coming months, April 2026 saw the second highest sea surface temperatures (SSTs) on record for the extra-polar oceans – between latitudes 60°S and 60°N – as reported in the latest Climate Bulletin by the Copernicus Climate Change Service (C3S). The month saw record high SSTs across large parts of the tropical Pacific associated with strong marine heatwaves. 
@@ -40,10 +44,6 @@ Last month’s Climate Bulletin from the Copernicus Climate Change Service (C3S)
 ### [The women leading science at ECMWF: Laurence Rouil, Director of CAMS](https://climate.copernicus.eu/women-leading-science-ecmwf-laurence-rouil-director-cams)
 The European Centre for Medium-Range Weather Forecasts (ECMWF) has a long-standing tradition of women in management positions. Every year, the Centre that operates the Copernicus Atmosphere Monitoring Service (CAMS) and the Copernicus Climate Change Service (C3S) pays tribute to the many women making the daily operations of this complex machine possible. 
 [ ](https://climate.copernicus.eu/women-leading-science-ecmwf-laurence-rouil-director-cams)
-22nd January 2026
-### [December 2025 was the fifth warmest on record globally ](https://climate.copernicus.eu/december-2025-was-fifth-warmest-record-globally)
-Last month’s Climate Bulletin from the Copernicus Climate Change Service (C3S), which is implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF), reported that December 2025 was the fifth-warmest December globally in the ERA5 dataset, while 2025 as a whole ranked as the third-warmest year on record. 
-[ ](https://climate.copernicus.eu/december-2025-was-fifth-warmest-record-globally)
 ## Use of personal data and cookies
 We use cookies to operate our site, improve the user experience and site performance.
 [Settings](https://climate.copernicus.eu/news "Open consent dialog")

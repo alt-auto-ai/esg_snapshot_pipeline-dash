@@ -3,7 +3,21 @@
 ## News and media
 This page contains news items and media releases related to the Authority’s work. For speeches and opinion pieces delivered by the Authority’s Chair and other representatives, go to [Speeches and opinion pieces](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces "Speeches and opinion pieces ").
 #### Latest news 
-Showing 1 - 9 of 108
+Showing 1 - 9 of 110
+21 May 2026
+[Australia and Southeast Asia: Turning climate ambition into investment action](https://www.climatechangeauthority.gov.au/australia-and-southeast-asia-turning-climate-ambition-investment-action)
+In this keynote address, The Hon. Matt Kean highlights the immense opportunity and urgency of financing Southeast Asia’s clean energy transition. He emphasises… 
+  * News 
+  * Opinion article 
+
+
+20 May 2026
+[On Good Authority - 20 May 2026](https://www.climatechangeauthority.gov.au/good-authority-20-may-2026)
+Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
+  * News 
+  * On Good Authority 
+
+
 11 May 2026
 [Energy security shock exposes the risks of oil and gas dependence, accelerating the drivers for a clean energy future](https://www.climatechangeauthority.gov.au/energy-security-shock-exposes-risks-oil-and-gas-dependence-accelerating-drivers-clean-energy-future)
 Geopolitical instability exposes the risks of oil and gas dependence, accelerating the drivers towards a clean energy future. Australia is well positioned to… 
@@ -51,20 +65,6 @@ Our weekly newsletter, packed with climate change news and updates on the Author
 Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
   * News 
   * On Good Authority 
-
-
-25 Mar 2026
-[On Good Authority - 25 March 2026](https://www.climatechangeauthority.gov.au/good-authority-25-march-2026)
-Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
-  * News 
-  * On Good Authority 
-
-
-20 Mar 2026
-[Public science is uncovering the hidden forces driving extreme weather](https://www.climatechangeauthority.gov.au/public-science-uncovering-hidden-forces-driving-extreme-weather)
-Strong public climate science is essential for understanding emerging risks, improving extreme‑weather forecasting, and helping Australia prepare for a hotter,… 
-  * News 
-  * Speeches 
 
 
 [ Click here to view speeches ](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces)

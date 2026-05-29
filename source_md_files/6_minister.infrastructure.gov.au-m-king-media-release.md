@@ -1,5 +1,7 @@
 [ Skip to main content ](https://minister.infrastructure.gov.au/m-king/media-release#main-content)
 # Media releases
+22 May 2026
+[NAIF hits $3 billion milestone in investing in the North](https://minister.infrastructure.gov.au/m-king/media-release/naif-hits-3-billion-milestone-investing-north) The Albanese Government’s Northern Australia Infrastructure Facility (NAIF) has reached a $3 billion milestone for investing in jobs, communities and opportunities across the north. 
 23 Apr 2026
 [ Boosting affordable housing in North Queensland](https://minister.infrastructure.gov.au/m-king/media-release/boosting-affordable-housing-north-queensland) The Albanese Government is supporting more social and affordable housing in Townsville. 
 22 Apr 2026
@@ -19,15 +21,13 @@
 28 Aug 2025
 [Minister King tables review of NAIF](https://minister.infrastructure.gov.au/m-king/media-release/minister-king-tables-review-naif) Minister for Resources and Northern Australia Madeleine King has tabled an independent review of the Northern Australia Infrastructure Facility (NAIF) Act, with a range of recommendations made aimed at ensuring the facility continues to deliver fo 
 11 Aug 2025
-[Transforming northern WA's cotton industry](https://minister.infrastructure.gov.au/m-king/media-release/transforming-northern-was-cotton-industry) Minister for Resources and Northern Australia Madeleine King has officially opened a new cotton processing plant in Kununurra that will kickstart a new industry, create jobs, and generate opportunities for the Kimberley and the 
-11 Aug 2025
 [Kimberley Cotton Gin to grow future billion-dollar industry in WA's north](https://minister.infrastructure.gov.au/m-king/media-release/kimberley-cotton-gin-grow-future-billion-dollar-industry-was-north) The Albanese and Cook Labor Governments have officially opened the Kimberley Cotton Gin in Kununurra, which is expected to create more than 1,000 jobs over the next decade in a new billion-dollar industry for the State's north. 
+11 Aug 2025
+[Transforming northern WA's cotton industry](https://minister.infrastructure.gov.au/m-king/media-release/transforming-northern-was-cotton-industry) Minister for Resources and Northern Australia Madeleine King has officially opened a new cotton processing plant in Kununurra that will kickstart a new industry, create jobs, and generate opportunities for the Kimberley and the 
 24 Jul 2025
 [Refreshed Indigenous Reference Group delivering for the north](https://minister.infrastructure.gov.au/m-king/media-release/refreshed-indigenous-reference-group-delivering-north) The Albanese Government has refreshed the membership of the Northern Australia Indigenous Reference Group (IRG), which is a key advisory body on boosting economic and social prosperity for First Nations people across the north. 
 17 Jun 2025
 [Boosting critical minerals supply in Northern Australia](https://minister.infrastructure.gov.au/m-king/media-release/boosting-critical-minerals-supply-northern-australia) The Northern Australia Infrastructure Facility (NAIF) will invest up to $50 million to create jobs and give a further boost to Western Australia’s economy by providing support for the Butcherbird manganese project. 
 12 May 2025
 [King to serve as Federal Resources Minister and Minister for Northern Australia](https://minister.infrastructure.gov.au/m-king/media-release/king-serve-federal-resources-minister-and-minister-northern-australia) I am honoured to be reappointed Federal Minister for Resources and Minister for Northern Australia as part of a re-elected Albanese Labor Government. 
-03 Mar 2025
-[CEO of Northern Australia Infrastructure Facility to retire](https://minister.infrastructure.gov.au/m-king/media-release/ceo-northern-australia-infrastructure-facility-retire) Northern Australia Infrastructure Facility (NAIF) CEO Craig Doyle has advised the NAIF Board of his intention to retire from his position in August, ending three successful years at the helm of the NAIF. 
 [ Back to top ](https://minister.infrastructure.gov.au/m-king/media-release#top "Back to top")

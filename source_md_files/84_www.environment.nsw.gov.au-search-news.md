@@ -11,115 +11,115 @@ Date published to
 calendar_today
 Cancel OK
 News and media releases[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
-  * Department media release (414)
-  * Ministerial media release (179)
-  * News (174)
+  * Department media release (419)
+  * Ministerial media release (182)
+  * News (133)
 
 
 Topic[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
   * Aboriginal people and culture (23)
   * Air (4)keyboard_arrow_down
-  * Animals and plants (228)keyboard_arrow_down
+  * Animals and plants (190)keyboard_arrow_down
   * Climate change (7)
   * Energy (79)
   * Events (4)
   * Fire (149)keyboard_arrow_down
-  * Grants and funding (10)keyboard_arrow_down
-  * Heritage (49)keyboard_arrow_down
+  * Grants and funding (11)keyboard_arrow_down
+  * Heritage (50)keyboard_arrow_down
   * Land and soil (8)
-  * National Parks and Wildlife Service (327)keyboard_arrow_down
+  * National Parks and Wildlife Service (332)keyboard_arrow_down
   * Policy and law (1)
-  * Research (13)keyboard_arrow_down
+  * Research (16)keyboard_arrow_down
   * Sustainability (12)
   * Volunteering (2)
-  * Water (41)keyboard_arrow_down
+  * Water (43)keyboard_arrow_down
 
 
 Region[Select All](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
   * Central Coast (26)
   * Central West and Orana (69)
-  * Far West (24)
-  * Hunter (60)
-  * Illawarra (38)
-  * Metropolitan Sydney (128)
+  * Far West (25)
+  * Hunter (53)
+  * Illawarra (34)
+  * Metropolitan Sydney (123)
   * Murray Murrumbidgee (27)
-  * New England North West (38)
-  * North Coast (105)
-  * NSW (211)
+  * New England North West (39)
+  * North Coast (91)
+  * NSW (206)
   * South East and Tablelands (78)
 
 
 Apply filters[Clear all filters](https://www.environment.nsw.gov.au/search/news?sort=field_publish_event_date)
-Showing results 1 to 10 of 765 results
+Showing results 1 to 10 of 732 results
 Sort byRelevance Alphabetically A-Z Alphabetically Z-A Date newest first Date oldest first
-### [Dorrigo’s iconic history celebrated with state heritage honour | Media release](https://www.environment.nsw.gov.au/news/dorrigo-iconic-history-state-heritage-honour)
-calendar_today 14 May 2026
-More than a century after first opening its doors to the Dorrigo community, the much-loved Heritage Hotel Dorrigo has been listed on the NSW State Heritage Register.
+### [From classroom to conservation: Monaro school students leave their mark on endangered dragons | Media release](https://www.environment.nsw.gov.au/news/classroom-conservation-monaro-school-students-leave-their-mark-endangered-dragons)
+calendar_today 29 May 2026
+School students across Monaro are helping track one of NSW’s rarest reptiles through a school program that’s turning classrooms into conservation hubs.
   * Department media release
-  * Heritage
+  * Saving our Species
 
 
-### [Hazard reduction burn at Goobang National Park | Media release](https://www.environment.nsw.gov.au/news/hazard-reduction-burn-goobang-national-park)
-calendar_today 13 May 2026
-The National Parks and Wildlife Service (NPWS) will conduct hazard reduction burns in Goobang National Park from tomorrow Thursday 14 May, weather permitting.
+### [Have you prepped for the first-ever NSW Dolphin Census this weekend? | Media release](https://www.environment.nsw.gov.au/news/have-you-prepped-first-nsw-dolphin-census)
+calendar_today 27 May 2026
+Citizen scientists along the NSW Coast are getting trained and ready to participate in the first-ever statewide Dolphin Census this Saturday 30 May. 
   * Department media release
-  * Hazard reduction burn
+  * Native animals
 
 
-### [Hazard reduction burn in Dharawal State Conservation Area | Media release](https://www.environment.nsw.gov.au/news/hazard-reduction-burn-dharawal-state-conservation-area)
-calendar_today 12 May 2026
-NSW National Parks and Wildlife Service, together with NSW Rural Fire Service, will be conducting a hazard reduction burn in Dharawal State Conservation Area at Wedderburn starting today, Tuesday 12 May.
+### [$1.34 million in research grants to target fungus, fishways, frogs and foxes | Media release](https://www.environment.nsw.gov.au/news/over-one-million-research-grants-target-fungus-fishways-frogs-and-foxes)
+calendar_today 27 May 2026
+Seven projects designed to help address environmental problems in NSW will receive grants totalling $1.34 million from the NSW Environmental Trust Research Grants Program.
   * Department media release
-  * Hazard reduction burn
+  * Environmental Trust grants
 
 
-### [Great Koala National Park update | Media release](https://www.environment.nsw.gov.au/news/great-koala-national-park-update)
-calendar_today 12 May 2026
-The Minister for the Environment, Penny Sharpe, is in Coffs Harbour to advance plans for the Great Koala National Park, a world-leading park which will protect a nationally critical koala population and more than 100 threatened species.
-  * Ministerial media release
-  * Koalas
-
-
-### [Brimbin Nature Reserve hazard reduction burn, north-east of Taree | Media release](https://www.environment.nsw.gov.au/news/brimbin-nature-reserve-hazard-reduction-burn-north-east-taree)
-calendar_today 8 May 2026
-NSW National Parks and Wildlife Service (NPWS), together with NSW Rural Fire Service (RFS), will conduct a hazard reduction burn in Brimbin Nature Reserve tomorrow morning, Saturday 9 May, weather permitting. 
+### [30 years of Gundabooka National Park celebrated on Country | Media release](https://www.environment.nsw.gov.au/news/30-years-gundabooka-national-park-celebrated-country)
+calendar_today 27 May 2026
+This June long weekend the community is invited to join the NSW National Parks and Wildlife Service celebration of the 30th anniversary of Gundabooka National Park in far western NSW, just south of Bourke.
   * Department media release
-  * Hazard reduction burn
+  * Gundabooka National Park
 
 
-### [Hazard reduction burn in Royal National Park | Media release](https://www.environment.nsw.gov.au/news/hazard-reduction-burn-royal-national-park-8-may)
-calendar_today 8 May 2026
-NSW National Parks and Wildlife Service, together with NSW Rural Fire Service (RFS), will be conducting a hazard reduction burn in Royal National Park near Grays Point from tomorrow, Saturday 9 May to Sunday 10 May.
-  * Department media release
-  * Hazard reduction burn
-
-
-### [Hazard reduction burns across South Coast national parks | Media release](https://www.environment.nsw.gov.au/news/hazard-reduction-burns-across-south-coast-national-parks)
-calendar_today 8 May 2026
-National Parks and Wildlife Service (NPWS) will be conducting multiple hazard reduction burns in national parks across the South Coast from Saturday 9 May to Tuesday 12 May, weather permitting.
-  * Department media release
-  * Hazard reduction burn
-
-
-### [Borah Crossing declared Aboriginal Place, recognising generations of Gamilaroi cultural connection | Media release](https://www.environment.nsw.gov.au/news/borah-crossing-declared-aboriginal-place-recognising-gamilaroi-cultural-connection)
-calendar_today 8 May 2026
-The NSW Government has declared Borah Crossing near Gunnedah and Manilla an Aboriginal Place, recognising its deep cultural, spiritual and historical significance to Gamilaroi people and honouring generations of families who have maintained their connection to this culturally rich landscape.
-  * Department media release
-  * Heritage
-
-
-### [NSW Threatened Species Scientific Committee final determinations for May 2026 | News](https://www.environment.nsw.gov.au/news/nsw-threatened-species-scientific-committee-final-determinations-may-2026-news)
-calendar_today 8 May 2026
-Three species have been listed as threatened species.
+### [Environmental watering guide to support one of Australia’s most elusive waterbirds | News](https://www.environment.nsw.gov.au/news/environmental-watering-guide-support-one-australias-most-elusive-waterbirds)
+calendar_today 25 May 2026
+A recently developed watering guide will improve how NSW environmental water managers support one of Australia’s most endangered and cryptic native waterbirds — the Australasian bittern.
   * News
-  * Scientific Committee
+  * Water for the environment
 
 
-### [Feral animal control program targets pigs and deer in the Gwydir River Valley | Media release](https://www.environment.nsw.gov.au/news/feral-animal-control-program-targets-pigs-and-deer-gwydir-river-valley)
-calendar_today 6 May 2026
-The NSW National Parks and Wildlife Service (NPWS), in partnership with government agencies and private landholders, is coordinating an aerial shooting program between Monday 11 and Friday 15 May across public and private land in the Gwydir River Valley near Bingara.
+### [Endangered turtles remain resilient one year on from Manning River flood | Media release](https://www.environment.nsw.gov.au/news/endangered-turtles-remain-resilient-one-year-manning-river-flood)
+calendar_today 22 May 2026
+One year since the historic Manning River flood event, local river health has rebounded with endangered turtles returning in pre-flood numbers.
   * Department media release
-  * Pest animals and weeds
+  * Threatened species
+
+
+### [Kosciuszko wild horse survey shows more work needed to protect national park | Media release](https://www.environment.nsw.gov.au/news/kosciuszko-wild-horse-survey-shows-work-needed-protect-national-park)
+calendar_today 22 May 2026
+The NSW Government has released the 2025 wild horse population survey report for Kosciuszko National Park, confirming the need for continued management to meet the legally required population target of 3,000 horses in retention areas by mid-2027.
+  * Ministerial media release
+  * Kosciuszko National Park
+
+
+### [Biamanga and Gulaga National Parks Cultural Festival celebrates milestone anniversary | Media release](https://www.environment.nsw.gov.au/news/biamanga-and-gulaga-national-parks-cultural-festival-celebrates-milestone-anniversary)
+calendar_today 20 May 2026
+Yuin people of the NSW South Coast will mark 20 years since the landmark return of Biamanga and Gulaga National Parks with a major cultural festival at Tilba Oval, Central Tilba, on Saturday 30 May.
+  * Department media release
+  * Aboriginal people and culture
+
+
+### [Iconic Moree rocket blasts onto State Heritage Register | Media release](https://www.environment.nsw.gov.au/news/iconic-moree-rocket-state-heritage-register)
+calendar_today 19 May 2026
+The Moree community is over the moon with the beloved Moree rocket jetting onto the NSW State Heritage Register. 
+  * Ministerial media release
+  * Heritage
+
+
+### [Teamwork saves entangled humpback whale near Forster | Media release](https://www.environment.nsw.gov.au/news/teamwork-saves-entangled-humpback-whale-near-forster)
+calendar_today 18 May 2026
+An 8-metre humpback whale entangled in fishing gear off the Mid North Coast was successfully freed in the first disentanglement of the season.
+  * Department media release
+  * Wildlife rehabilitation
 
 
 Updated 27 February 2025 

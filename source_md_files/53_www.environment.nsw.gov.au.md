@@ -6,44 +6,44 @@ Credit: Robert Cleary/DCCEEW
 [ Apply for a licence ](https://www.environment.nsw.gov.au/licences-and-permits) [ Search heritage databases ](https://www.environment.nsw.gov.au/topics/heritage/search-heritage-databases) [ Explore biodiversity data ](https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet) [ Browse publications ](https://www.environment.nsw.gov.au/research-and-publications/publications) [ Find information ](https://www.environment.nsw.gov.au/about-us/find-information) [ Report a problem ](https://www.environment.nsw.gov.au/about-us/report-a-problem-or-incident)
 ## Stay up to date
 photo_camera Open description
-Lizard illegally imported into New South Wales.  close Close description
+Dolphin.  close Close description
+Credit: Dolphin Research Australia 
+[Have you prepped for the first-ever NSW Dolphin Census this weekend?](https://www.environment.nsw.gov.au/news/have-you-prepped-first-nsw-dolphin-census)
+east
+photo_camera Open description
+Researchers from Macquarie University gathering data at Lavender Bay as part of their project 'Living Boulders for reviving marine life on coastal defences'.  close Close description
+Credit: Aria Lee/DCCEEW 
+[$1.34 million in research grants to target fungus, fishways, frogs and foxes](https://www.environment.nsw.gov.au/news/over-one-million-research-grants-target-fungus-fishways-frogs-and-foxes)
+east
+photo_camera Open description
+Bennetts Gorge picnic area, Gundabooka National Park.  close Close description
+Credit: John Good/DPE 
+[30 years of Gundabooka National Park celebrated on Country](https://www.environment.nsw.gov.au/news/30-years-gundabooka-national-park-celebrated-country)
+east
+photo_camera Open description
+Manning River helmeted turtle (Myuchelys purvisi).  close Close description
+Credit: Darren Fielder/DCCEEW 
+[ Endangered turtles remain resilient one year on from Manning River flood](https://www.environment.nsw.gov.au/news/endangered-turtles-remain-resilient-one-year-manning-river-flood)
+east
+photo_camera Open description
+Biamanga National Park.  close Close description
+Credit: John Spencer/DPE 
+[Biamanga and Gulaga National Parks Cultural Festival celebrates milestone anniversary](https://www.environment.nsw.gov.au/news/biamanga-and-gulaga-national-parks-cultural-festival-celebrates-milestone-anniversary)
+east
+photo_camera Open description
+Rocket at Kirkby Park playground, Moree.  close Close description
 Credit: DCCEEW 
-[Man sentenced for illegal import of protected native reptiles into NSW](https://www.environment.nsw.gov.au/news/man-sentenced-illegal-import-protected-native-reptiles)
+[Iconic Moree rocket blasts onto State Heritage Register](https://www.environment.nsw.gov.au/news/iconic-moree-rocket-state-heritage-register)
 east
 photo_camera Open description
-Yellow-footed rock-wallaby (Petrogale xanthopus).  close Close description
-Credit: Peter Sherratt/DPE 
-[Welcome home: Yellow-footed rock wallaby to return to Western Ridge at Mutawintji Lands](https://www.environment.nsw.gov.au/news/yellow-footed-rock-wallaby-return-western-ridge-mutawintji-lands)
-east
-photo_camera Open description
-Wentworth Falls Lookout. Grand Cliff Top Walk, Blue Mountains National Park.  close Close description
-Credit: R Brand/DCCEEW 
-[Record visits to NSW national parks drives economic growth and regional jobs](https://www.environment.nsw.gov.au/news/record-visits-nsw-national-parks-drives-economic-growth-and-regional-jobs)
-east
-photo_camera Open description
-A pair of seized lizards in wildlife trafficking.  close Close description
+NPWS crew on the water on Fri 15 May. At helm is Area Manager Shane Robinson, on the bow is Ranger Shaun Kerrigan, and Ranger Scott Munro. Shaun and Shane have combined 35 years experience with tangled whale rescues.  close Close description
 Credit: DCCEEW 
-[Court outcome reinforces wildlife trafficking will not be tolerated in NSW](https://www.environment.nsw.gov.au/news/court-outcome-reinforces-wildlife-trafficking-will-not-be-tolerated-nsw)
+[ Teamwork saves entangled humpback whale near Forster](https://www.environment.nsw.gov.au/news/teamwork-saves-entangled-humpback-whale-near-forster)
 east
 photo_camera Open description
-Koala (Phascolarctos cinereus) mother and joey.  close Close description
-Credit: Dan Lunney/DCCEEW 
-[Narrandera’s koalas strengthen landmark NSW research](https://www.environment.nsw.gov.au/news/narranderas-koalas-strengthen-landmark-nsw-research)
-east
-photo_camera Open description
-Kungaka, Mutawintji National Park.  close Close description
+Minister Penny Sharpe (left) visited Dorrigo National Park.  close Close description
 Credit: DCCEEW 
-[Protecting Australia’s rarest reptile from extinction](https://www.environment.nsw.gov.au/news/protecting-australias-rarest-reptile-extinction)
-east
-photo_camera Open description
-Wayne Reynolds/DPE.  close Close description
-Credit: Bottlenose dolphin (Tursiops truncatus) 
-[Volunteer for the first statewide Dolphin Census](https://www.environment.nsw.gov.au/news/volunteer-first-statewide-dolphin-census)
-east
-photo_camera Open description
-An autumn environmental flow will be delivered to sustain critical wetland habitat for the endangered southern bell frog.  close Close description
-Credit: Amelia Walcott/ DCCEEW 
-[Autumn environmental flow to support southern bell frog habitat in the Cumbung](https://www.environment.nsw.gov.au/news/autumn-environmental-flow-support-southern-bell-frog-habitat-cumbung-news)
+[Coffs Coast set for major tourism boost as work begins on Dorrigo Great Escarpment Walk](https://www.environment.nsw.gov.au/news/coffs-coast-set-major-tourism-boost-work-begins-dorrigo-great-escarpment-walk)
 east
 photo_camera Open description
 Aerial view of swimmers at Bronte Beach.  close Close description

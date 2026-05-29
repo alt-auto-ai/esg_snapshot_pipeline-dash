@@ -9,15 +9,43 @@ Risk is everywhere. So is opportunity. We bring together GRC leaders to share sm
 Upcoming Events
 ## Check out our upcoming GRC Community events
 [All Events Line Arrow Diagonal Upper Right Large Streamline Icon: https://streamlinehq.com ](https://forefrontevents.co/events)
-  * No upcoming events to display.
-  * No upcoming events to display.
-  * No upcoming events to display.
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2026](https://forefrontevents.co/event/legal-counsel-summit-vic-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2026](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit VIC 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-vic-2027)
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2027](https://forefrontevents.co/event/legal-counsel-summit-vic-2027)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2027)
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2026](https://forefrontevents.co/event/legal-counsel-summit-vic-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2026](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit VIC 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-vic-2027)
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2027](https://forefrontevents.co/event/legal-counsel-summit-vic-2027)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2027)
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2026](https://forefrontevents.co/event/legal-counsel-summit-vic-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2026](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2026)
+  * GRC
+### [Governance, Risk & Compliance Summit VIC 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-vic-2027)
+  * Legal Counsel
+### [Legal Counsel Summit VIC 2027](https://forefrontevents.co/event/legal-counsel-summit-vic-2027)
+  * GRC
+### [Governance, Risk & Compliance Summit NSW 2027](https://forefrontevents.co/event/governance-risk-compliance-summit-nsw-2027)
 
 
 Subscribe
 ## Join our GRC Community
 Be the first to know when new events are coming to your industry. Sign up to the Forefront mailing list and get updates on upcoming summits, roundtables and community gatherings delivered straight to your inbox.
-[Join now Line Arrow Diagonal Upper Right Large Streamline Icon: https://streamlinehq.com ](https://forefrontevents.co/join)
+You can also join our dedicated LinkedIn Community where you can connect with peers, get early access to event updates, and be part of the conversation shaping the future.
+[Join Now Line Arrow Diagonal Upper Right Large Streamline Icon: https://streamlinehq.com ](https://forefrontevents.co/join)
 Review My Order
 0
 Subtotal

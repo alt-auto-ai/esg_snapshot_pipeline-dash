@@ -8,6 +8,9 @@ Journalists can contact our media team:
 
 The media team are available from 8:00 am to 5:00 pm, Monday to Friday (Canberra time), except on Australian Capital Territory public holidays.
 #### Can’t find what you’re looking for?
+###### Notification
+###  Next steps for the proposed Hume Circle Precinct announced 
+27 May 2026
 ###### Release
 ###  Water Quality Update: Extreme levels of blue green algae 
 2 April 2026
@@ -23,9 +26,6 @@ The media team are available from 8:00 am to 5:00 pm, Monday to Friday (Canberra
 ###### Notification
 ###  Commonwealth Park Concept Vision Listening Report released 
 12 December 2025
-###### Notification
-###  National Capital Authority’s horticultural volunteer program continues to bloom after 20 years 
-5 December 2025
 [Previous Media releases, alerts, statements and notifications](https://www.nca.gov.au/media-centre/previous "Previous Media releases, alerts, statements and notifications")
 [Learn more about our commitment to community engagement ](https://www.nca.gov.au/about-us/corporate-documents/corporate-policies/commitment-community-engagement)
 [Canberra:   

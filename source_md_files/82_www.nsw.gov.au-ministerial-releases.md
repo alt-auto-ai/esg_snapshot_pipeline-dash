@@ -27,53 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-15 May 2026
-### [The Forest High School returns bigger and better to a new home](https://www.nsw.gov.au/ministerial-releases/forest-high-school-returns)
-Students and staff have welcomed the opening of the new Forest High School, as the Minns Labor Government delivers on its promise to build world-class infrastructure across NSW.
+29 May 2026
+### [Shovels in the ground on $35 million Hillsborough Road upgrade](https://www.nsw.gov.au/ministerial-releases/construction-underway-hillsborough-road)
+Major construction is now underway on stage one of the Hillsborough Road upgrade, marking the beginning of a major overhaul of one of Lake Macquarie’s busiest transport corridors.
 Ministerial media release
-15 May 2026
-### [Design unveiled for new Bargo Ambulance Station](https://www.nsw.gov.au/ministerial-releases/design-unveiled-for-new-bargo-ambulance-station)
-The Bargo community are being given a first look at the design for the new Bargo Ambulance Station which will boost emergency and mobile medical care in the Macarthur region.
+29 May 2026
+### [Screening checks available for workers as $2.5 million Lung Bus Arrives in Tweed Heads](https://www.nsw.gov.au/ministerial-releases/screening-checks-available-for-workers-as-25-million-lung-bus-arrives-tweed-heads)
+Lung Screening checks are available for Northern Rivers workers as the icare Lung Bus rolls into the Northern Rivers region for the first time in 2026.
 Ministerial media release
-15 May 2026
-### [Moor than an average wreck: Oldest colonial era boat preserved for permanent display](https://www.nsw.gov.au/ministerial-releases/oldest-colonial-era-boat-preserved)
-Australia’s oldest surviving colonial-era boat, discovered under layers of tidal sand and mud during excavation for the Barangaroo metro station, will be go on permanent display at the Australian National Maritime Musuem.
+29 May 2026
+### [Moama Ambulance Station opens](https://www.nsw.gov.au/ministerial-releases/moama-ambulance-station-opens)
+Border communities are now benefiting from enhanced frontline emergency care, with the opening of Moama Ambulance Station and 13 additional paramedics commencing work in the community earlier this month.
 Ministerial media release
-15 May 2026
-### [Minister visits NSW’s busiest remand prison to thank staff on National Corrections Day](https://www.nsw.gov.au/ministerial-releases/national-corrections-day)
-The Minister for Corrections Anoulack Chanthivong is today visiting the Metropolitan Remand and Reception Centre (MRRC) at Silverwater Correctional Complex to thank staff for their service.
+29 May 2026
+### [Additional NSW Ambulance paramedics for Eden community](https://www.nsw.gov.au/ministerial-releases/more-paramedics-for-eden)
+The Far South Coast is benefiting from a boost to frontline emergency care, with an additional eight paramedics starting work in the community earlier this month.
 Ministerial media release
-15 May 2026
-### [Design unveiled for new Moss Vale Ambulance Station](https://www.nsw.gov.au/ministerial-releases/design-unveiled-for-new-moss-vale-ambulance-station)
-Moss Vale and surrounding communities are being given a first look at the design for the new Moss Vale Ambulance Station which will boost emergency and mobile medical care across the Southern Highlands.
+29 May 2026
+### [Additional NSW Ambulance paramedics for Wentworth](https://www.nsw.gov.au/ministerial-releases/additional-nsw-ambulance-paramedics-for-wentworth)
+The border community of Wentworth is now benefiting from a boost to frontline emergency care, with an additional eight paramedics starting work in the community earlier this month.
 Ministerial media release
-15 May 2026
-### [Warrawong Seawall works begin as parklands transformation takes shape](https://www.nsw.gov.au/ministerial-releases/warrawong-seawall-works-begin)
-Construction is underway on the new Warrawong Seawall, marking the first major milestone in the revitalisation of Warrawong Parklands and the Lake Illawarra foreshore into a renewed waterfront destination for the Illawarra community.
+28 May 2026
+### [$65 million investment and more than 200 new jobs in Parkes](https://www.nsw.gov.au/ministerial-releases/65-million-investment-and-more-than-200-new-jobs-parkes)
+The Parkes Special Activation Precinct is set for a major economic boost, with three companies planning to establish operations in the precinct in a move expected to generate $65 million in private investment and more than 100 new permanent jobs for the region.
+Ministerial statement
+28 May 2026
+### [Multicultural NSW CEO Joseph La Posta departs after almost a decade of service](https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service)
+The following is a statement from Minister for Multiculturalism Steve Kamper
 Ministerial media release
-15 May 2026
-### [Critical trackwork on the Blue Mountains line](https://www.nsw.gov.au/ministerial-releases/trackwork-halved-blue-mountains)
-Transport for NSW has halved the length of scheduled trackwork of the Blue Mountains rail line, to reduce further impact on communities already affected by the ongoing closure of the Great Western Highway at Victoria Pass.
+28 May 2026
+### [Major win for the Hawkesbury communities as New Richmond Bridge reaches major milestone](https://www.nsw.gov.au/ministerial-releases/new-richmond-bridge-built-sooner)
+In a major win for Hawkesbury communities, the New Richmond Bridge and surrounding road projects will now be delivered sooner. 
 Ministerial media release
-15 May 2026
-### [Minns Government boosting Western NSW’s workforce participation with 176 additional childcare places](https://www.nsw.gov.au/ministerial-releases/minns-government-boosting-western-nsws-workforce-participation-176-additional-childcare-places)
-The Minns Labor Government is boosting the workforce in Western NSW by investing an additional $4.9 million into early childhood education and care services into the high need locations of Carrathool, Hay and Warrumbungle Shires.
+28 May 2026
+### [$12 million unlocked to deliver infrastructure in regional communities](https://www.nsw.gov.au/ministerial-releases/12-million-unlocked-to-deliver-infrastructure-regional-communities)
+The Minns Labor Government has unlocked another $12 million to help regional communities accelerate housing delivery with the opening of round five of the Low-Cost Loans initiative.
 Ministerial media release
-15 May 2026
-### [Construction begins on NSW’s first end-to-end green hydrogen hub](https://www.nsw.gov.au/ministerial-releases/construction-begins-on-nsws-first-end-to-end-green-hydrogen-hub)
-Construction has started on NSW’s first end-to-end hydrogen and ammonia production plant, The Good Earth Green Hydrogen and Ammonia (GEGHA) project, near Moree.
-Ministerial media release
-14 May 2026
-### [First $60 million in community benefits unlocked by the New England Renewable Energy Zone](https://www.nsw.gov.au/ministerial-releases/first-60-million-community-benefits-unlocked-by-new-england-renewable-energy-zone)
-New England and Upper Hunter communities will share in an initial $60 million investment to deliver local infrastructure, services and employment opportunities as part of the New England Renewable Energy Zone.
+28 May 2026
+### [New support program to keep Aboriginal families safe in regional and remote NSW](https://www.nsw.gov.au/ministerial-releases/new-support-program-to-keep-aboriginal-families-safe-regional-and-remote-nsw)
+The Minns Labor Government is strengthening support of Aboriginal and Torres Strait Islander women and children escaping abuse in regional and remote New South Wales, with a new culturally safe support program under the Staying in Community Leaving Violence (SiCLV) initiative.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 566
-  * 567
-  * 568
+  * 576
+  * 577
+  * 578
   * keyboard_arrow_right
 
 

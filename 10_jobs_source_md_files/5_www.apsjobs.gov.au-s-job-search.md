@@ -13,11 +13,50 @@ Classification APS Level 1 APS Level 2 APS Level 3 APS Level 4 APS Level 5 APS L
 Location
 Location VIC NSW SA TAS WA ACT NT QLD International
 Search
-#### 20 Jobs Found
+#### 16 Jobs Found
 Refine Search
 Sort results by
 Posted Date (Newest First) Posted Date (Oldest First) Closing Date (Closest First) Closing Date (Furthest First) Max Salary (Highest First) Max Salary (Lowest First) Min Salary (Highest First) Min Salary (Lowest First) Department Name (A-Z)
 SustainabilityFull-Time
+Posted: 29/05/2026
+Australian Secret Intelligence Service
+### [Deputy Director-General Capability, Corporate Management and Transformation](https://www.apsjobs.gov.au/s/job-details?title=deputy-director-general-capability-corporate-management-and-transformation&Id=a05OY00000OrdwfYAB)
+Posted: 28/05/2026
+Department of Defence
+### [Assistant Director - Environment and Sustainability](https://www.apsjobs.gov.au/s/job-details?title=assistant-director-environment-and-sustainability&Id=a05OY00000OjR7tYAF)
+$124,393 to $140,315
+Posted: 28/05/2026
+Department of Defence
+### [Base Support Officers and Estate Management & Planning Officers](https://www.apsjobs.gov.au/s/job-details?title=base-support-officers-and-estate-management-planning-officers&Id=a05OY00000OhsddYAB)
+$89,841 to $96,829
+Posted: 25/05/2026
+Department of Social Services
+### [Property Officer](https://www.apsjobs.gov.au/s/job-details?title=property-officer&Id=a05OY00000OjqmDYAR)
+$92,885 to $99,194
+Posted: 25/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [Property Services Officer](https://www.apsjobs.gov.au/s/job-details?title=property-services-officer&Id=a05OY00000OaZsfYAF)
+$80,371 to $87,496
+Posted: 22/05/2026
+National Disability Insurance Agency
+### [EL2 Director Internal Review](https://www.apsjobs.gov.au/s/job-details?title=el2-director-internal-review&Id=a05OY00000OjydJYAR)
+$146,894 to $166,775
+Posted: 22/05/2026
+Department of Foreign Affairs and Trade
+### [Director (EL2) and Assistant Director (EL1) Nuclear Security](https://www.apsjobs.gov.au/s/job-details?title=director-el2-and-assistant-director-el1-nuclear-security&Id=a05OY00000OidkcYAB)
+$127,351 to $173,760
+Posted: 22/05/2026
+Australian Communications and Media Authority
+### [Agency Security Officer](https://www.apsjobs.gov.au/s/job-details?title=agency-security-officer&Id=a05OY00000Oa5WPYAZ)
+$99,734 to $111,701
+Posted: 18/05/2026
+Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+### [Finance Manager - CSIRO Procurement](https://www.apsjobs.gov.au/s/job-details?title=finance-manager-csiro-procurement&Id=a05OY00000OdX37YAF)
+$135,000 to $158,000
+Posted: 18/05/2026
+Department of Agriculture, Fisheries and Forestry
+### [Property Services and Capital Projects Managers](https://www.apsjobs.gov.au/s/job-details?title=property-services-and-capital-projects-managers&Id=a05OY00000OcrThYAJ)
+$99,734 to $112,044
 Posted: 15/05/2026
 Department of Agriculture, Fisheries and Forestry
 ### [Assistant Director](https://www.apsjobs.gov.au/s/job-details?title=assistant-director&Id=a05OY00000Oc49dYAB)
@@ -33,48 +72,10 @@ Posted: 15/05/2026
 Department of Defence
 ### [Estate Strategic Planners](https://www.apsjobs.gov.au/s/job-details?title=estate-strategic-planners&Id=a05OY00000OXODpYAP)
 $99,733 to $112,431
-Posted: 13/05/2026
-National Museum of Australia
-### [Manager, Property Operations](https://www.apsjobs.gov.au/s/job-details?title=manager-property-operations&Id=a05OY00000OYvu5YAD)
-$122,277 to $132,713
-Posted: 13/05/2026
-Department of Agriculture, Fisheries and Forestry
-### [M365 Collaboration Analyst](https://www.apsjobs.gov.au/s/job-details?title=m365-collaboration-analyst&Id=a05OY00000OYTL8YAP)
-$99,734 to $112,044
-Posted: 13/05/2026
-Services Australia
-### [General Manager, Operations Management](https://www.apsjobs.gov.au/s/job-details?title=general-manager-operations-management&Id=a05OY00000OYNHKYA5)
 Posted: 12/05/2026
 Great Barrier Reef Marine Park Authority
 ### [Property Services Support Officer](https://www.apsjobs.gov.au/s/job-details?title=property-services-support-officer&Id=a05OY00000OXa8YYAT)
 $71,374 to $78,222
-Posted: 11/05/2026
-Department of Defence
-### [FAS Industry Engagement Executive Officer and Business Manager (Multiple Roles)](https://www.apsjobs.gov.au/s/job-details?title=fas-industry-engagement-executive-officer-and-business-manager-multiple-roles-&Id=a05OY00000OQuiHYAT)
-$124,393 to $140,315
-Posted: 11/05/2026
-Department of Defence
-### [Clinical Team Leader (Social Worker)](https://www.apsjobs.gov.au/s/job-details?title=clinical-team-leader-social-worker-&Id=a05OY00000OPXKjYAP)
-$124,393 to $140,315
-Posted: 07/05/2026
-High Speed Rail Authority
-### [Executive General Manager, Program](https://www.apsjobs.gov.au/s/job-details?title=executive-general-manager-program&Id=a05OY00000OSr6nYAD)
-Posted: 07/05/2026
-Department of Agriculture, Fisheries and Forestry
-### [Contract and Finance Officer](https://www.apsjobs.gov.au/s/job-details?title=contract-and-finance-officer&Id=a05OY00000OSEbiYAH)
-$88,834 to $96,829
-Posted: 07/05/2026
-Department of Veterans' Affairs
-### [Director, Property Services](https://www.apsjobs.gov.au/s/job-details?title=director-property-services&Id=a05OY00000OPl5xYAD)
-$159,145 to $179,125
-Posted: 04/05/2026
-Department of Agriculture, Fisheries and Forestry
-### [Property Services Manager](https://www.apsjobs.gov.au/s/job-details?title=property-services-manager&Id=a05OY00000ON0r7YAD)
-$99,734 to $112,044
-Posted: 04/05/2026
-Department of Climate Change, Energy, the Environment and Water (DCCEEW)
-### [Project Manager](https://www.apsjobs.gov.au/s/job-details?title=project-manager&Id=a05OY00000OJJPJYA5)
-$129,106 to $138,861
 Load More
 Loading
 Job Search | APS Jobs

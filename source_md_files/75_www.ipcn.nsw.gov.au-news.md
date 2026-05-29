@@ -5,6 +5,11 @@ After something specific? expand_more
 View by
 apps
 menu
+Published on: 27 May 2026 
+[Submissions invited on Mingara Recreation Club Seniors Housing ](https://www.ipcn.nsw.gov.au/news/submissions-invited-mingara-recreation-club-seniors-housing)
+Published on: 27 May 2026 
+[Submissions invited on Mingara Recreation Club Seniors Housing ](https://www.ipcn.nsw.gov.au/news/submissions-invited-mingara-recreation-club-seniors-housing)
+The local community is invited to make written or verbal submissions to the Independent Planning Commission about a State significant development appl... 
 Published on: 30 Apr 2026 
 [Marrickville's Maronite Sisters Seniors Housing approved subject to conditions](https://www.ipcn.nsw.gov.au/news/marrickvilles-maronite-sisters-seniors-housing-approved-subject-conditions)
 Published on: 30 Apr 2026 
@@ -45,8 +50,3 @@ Published on: 26 Feb 2026
 Published on: 26 Feb 2026 
 [Minarah College in the South West growth area approved subject to strict conditions](https://www.ipcn.nsw.gov.au/news/minarah-college-south-west-growth-area-approved-subject-strict-conditions)
 The NSW Independent Planning Commission has today approved the development application for&nbsp;Minarah College (SSD-30759158), located at&nbsp;268-27... 
-Published on: 20 Feb 2026 
-[Public meeting on Dinawan Solar Farm to be replaced by individual stakeholder meetings](https://www.ipcn.nsw.gov.au/news/public-meeting-dinawan-solar-farm-be-replaced-individual-stakeholder-meetings)
-Published on: 20 Feb 2026 
-[Public meeting on Dinawan Solar Farm to be replaced by individual stakeholder meetings](https://www.ipcn.nsw.gov.au/news/public-meeting-dinawan-solar-farm-be-replaced-individual-stakeholder-meetings)
-The arrangements for the Independent Planning Commission’s public meeting in relation to the proposed Dinawan Solar Farm (SSD-50725959) on Friday 27 F... 

@@ -2,15 +2,18 @@
 # News
 Latest news and headlines from the Department of Social Services. 
 Menu 
-## National Families Week 2026
-11 May 2026 
-Recognising this year’s theme: Every Family, Everywhere 
-  * [ Read more ](https://www.dss.gov.au/news/national-families-week-2026)
+## National Volunteer Week 2026
+20 May 2026 
+Recognising this year’s theme: ‘Your Year to Volunteer’ 
+  * [ Read more ](https://www.dss.gov.au/news/national-volunteer-week-2026)
 
 
 ## All news
 Filter
-Showing 1 to 12 of 131 results
+Showing 1 to 12 of 132 results
+News 11 May 2026
+###  [ National Families Week 2026 ](https://www.dss.gov.au/news/national-families-week-2026)
+Recognising this year’s theme: Every Family, Everywhere 
 News 4 May 2026
 ###  [ Scams misusing Department of Social Services branding and programs ](https://www.dss.gov.au/news/scams-misusing-department-social-services-branding-and-programs)
 Each year between April and July we receive increased reporting about fraudulent emails and social media posts offering payments administered by us. 
@@ -44,9 +47,6 @@ The Hon Tanya Plibersek is proud to introduce the National Commission for Aborig
 News 2 February 2026
 ###  [ Have your say in the National Family and Domestic Violence and Sexual Violence Workforce Survey ](https://www.dss.gov.au/news/have-your-say-national-family-and-domestic-violence-and-sexual-violence-workforce-survey)
 Take part in the survey between 2 February and 28 February 2026. 
-News 23 January 2026
-###  [ Scam alert – GrantConnect and the Community Grants Hub ](https://www.dss.gov.au/news/scam-alert-grantconnect-and-community-grants-hub)
-Be wary of emails pretending to be GrantConnect and the Community Grants Hub. 
 ####  [ Do you have a media enquiry? ](https://www.dss.gov.au/contact-us)
 Visit our contact us page. 
 ####  [ Visit the Ministers' Media Centre (Opens external website)](https://ministers.dss.gov.au)
@@ -177,11 +177,10 @@ Close
       * [ Graduate program ](https://www.dss.gov.au/graduate-program)
       * [ Ability Apprenticeships ](https://www.dss.gov.au/ability-apprenticeships-program)
     * [ Committees, councils, groups and panels ](https://www.dss.gov.au/committees-councils-groups-and-panels)
-    * [ Committees, panels and groups ](https://www.dss.gov.au/about-us/committees-panels-and-groups)
 Close 
-      * [ Committees and panels ](https://www.dss.gov.au/committees-and-panels)
-      * [ Councils ](https://www.dss.gov.au/councils)
+      * [ Committees ](https://www.dss.gov.au/committees-councils-groups-and-panels/committees)
       * [ Groups ](https://www.dss.gov.au/groups)
+      * [ Panels ](https://www.dss.gov.au/committees-councils-groups-and-panels/panels)
     * [ Access to information ](https://www.dss.gov.au/access-information)
     * [ Contact us ](https://www.dss.gov.au/contact-us)
     * [ Using our website ](https://www.dss.gov.au/using-our-website)

@@ -1,4 +1,54 @@
 Media releases 
+  * ### [Federal Court orders Westpac to pay $26 million penalty for hardship failures](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-107mr-federal-court-orders-westpac-to-pay-26-million-penalty-for-hardship-failures/)
+financial servicesmedia release (26-107MR)
+27 May 2026
+financial services
+Westpac Banking Corporation (Westpac) has been ordered to pay $26 million in civil penalties for failing to respond to customers who were facing financial hardship.
+  * ### [ASIC cancels AFS licence of Global Pacific Solutions Group Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-106mr-asic-cancels-afs-licence-of-global-pacific-solutions-group-pty-ltd/)
+bannings and alertsmedia release (26-106MR)
+26 May 2026
+bannings and alertsfinancial services
+ASIC has cancelled the Australian financial services (AFS) licence of Global Pacific Solutions Group Pty Ltd (AFS licence 514164). The licence cancellation took effect on 20 May 2026.
+  * ### [ASIC cancels AFS licence of Eden Asset Management Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-105mr-asic-cancels-afs-licence-of-eden-asset-management-pty-ltd/)
+financial servicesmedia release (26-105MR)
+25 May 2026
+financial services
+ASIC has cancelled the Australian financial services (AFS) licence of Eden Asset Management Pty Ltd (Eden) (AFSL 296466).
+  * ### [Fund manager Rodney Forrest re-sentenced to five years and three months’ jail following insider trading appeal](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-104mr-fund-manager-rodney-forrest-re-sentenced-to-five-years-and-three-months-jail-following-insider-trading-appeal/)
+financial advicemedia release (26-104MR)
+22 May 2026
+dealing with asicfinancial advicefinancial marketsfinancial servicestakeovers
+The Full Federal Court has re-sentenced former investment manager Rodney Forrest to five years and three months’ imprisonment following his appeal for insider trading and procuring others to trade in more than $3 million of Platinum Asset Management shares.
+  * ### [ASIC appeals Federal Court decision dismissing case against Nuix](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-103mr-asic-appeals-federal-court-decision-dismissing-case-against-nuix/)
+companiesmedia release (26-103MR)
+21 May 2026
+companies
+ASIC has filed an appeal against a Federal Court decision dismissing its case against intelligence software provider Nuix Limited (Nuix).
+  * ### [Australia well-placed to unlock opportunities from innovation in the financial system](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-102mr-australia-well-placed-to-unlock-opportunities-from-innovation-in-the-financial-system/)
+reports and publicationsmedia release (26-102MR)
+21 May 2026
+financial advicefinancial servicesreports and publicationstechnology
+New research released today by ASIC shows that Australia is well-placed to harness an ongoing surge of financial innovation.
+  * ### [ASIC sues Equity Trustees alleging First Guardian onboarding failures](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-101mr-asic-sues-equity-trustees-alleging-first-guardian-onboarding-failures/)
+managed investment schemesmedia release (26-101MR)
+21 May 2026
+managed investment schemessuperannuation
+ASIC has commenced civil penalty proceedings in the Federal Court against Equity Trustees Superannuation Limited (Equity Trustees), alleging failures in care, skill and diligence concerning the decision to allow members to invest in the First Guardian Master Fund (First Guardian).
+  * ### [ASIC continues to ease regulatory burden](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-100mr-asic-continues-to-ease-regulatory-burden/)
+reports and publicationsmedia release (26-100MR)
+19 May 2026
+reports and publications
+ASIC has taken further steps towards clearer regulation, expanding digital services capability, streamlining its website, and simplifying regulatory guidance.
+  * ### [Federal Court orders $33.5 million penalty against Snaffle operator for inflating prices and overcharging on credit contracts](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-099mr-federal-court-orders-33-5-million-penalty-against-snaffle-operator-for-inflating-prices-and-overcharging-on-credit-contracts/)
+creditmedia release (26-099MR)
+18 May 2026
+credit
+The Federal Court has ordered a $33.5 million penalty against online retailer Walker Stores Pty Ltd (in liquidation), which traded as Snaffle, for unlawfully overcharging tens of thousands of consumers under credit contracts.
+  * ### [ASIC sets financial reporting, audit and sustainability focus areas for FY 2026–27](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-098mr-asic-sets-financial-reporting-audit-and-sustainability-focus-areas-for-fy-2026-27/)
+auditorsmedia release (26-098MR)
+18 May 2026
+auditorsfinancial reportingsustainable finance
+ASIC has outlined key focus areas for its financial reporting, audit and sustainability reporting activities in the 2026-27 financial year, including updates to its surveillance programs.
   * ### [ASIC appeals $7 million penalty in Cigno Australia, BSF Solutions, and directors’ case](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-097mr-asic-appeals-7-million-penalty-in-cigno-australia-bsf-solutions-and-directors-case/)
 creditmedia release (26-097MR)
 15 May 2026
@@ -9,6 +59,8 @@ financial servicesmedia release (26-096MR)
 12 May 2026
 financial services
 Ashley Arandez of Hoppers Crossing in Victoria has been sentenced to 5 years and 6 months imprisonment in the County Court of Victoria, after pleading guilty to offences involving dishonest conduct, carrying on an unlicensed financial services business, and recklessly dealing with the proceeds of crime.
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [Registration prohibition order against former UGC financial adviser Stephen Rogers increased to three years following review](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-095mr-registration-prohibition-order-against-former-ugc-financial-adviser-stephen-rogers-increased-to-three-years-following-review/)
 financial servicesmedia release (26-095MR)
 12 May 2026
@@ -59,8 +111,6 @@ bannings and alertsmedia release (26-086MR)
 30 April 2026
 bannings and alertsfinancial servicesmanaged investment schemes
 ASIC has cancelled the Australian financial services (AFS) licence of ABL Funds Management Pty Ltd (ABL).
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC disqualifies NSW director Lambros Hilellis for 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-085mr-asic-disqualifies-nsw-director-lambros-hilellis-for-5-years/)
 bannings and alertsmedia release (26-085MR)
 28 April 2026

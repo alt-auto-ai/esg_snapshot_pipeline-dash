@@ -91,7 +91,7 @@
     * [India (AI-ECTA)](https://www.dfat.gov.au/trade/agreements/in-force/australia-india-ecta "Australia-India Economic Cooperation and Trade Agreement \(ECTA\)")
     * [Indonesia (IA-CEPA)](https://www.dfat.gov.au/trade/agreements/in-force/iacepa/indonesia-australia-comprehensive-economic-partnership-agreement "Indonesia-Australia Comprehensive Economic Partnership Agreement")
     * [Japan (JAEPA)](https://www.dfat.gov.au/trade/agreements/in-force/jaepa/japan-australia-economic-partnership-agreement "Japan-Australia Economic Partnership Agreement")
-    * [Korea (KAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/kafta/korea-australia-fta "Korea–Australia Free Trade Agreement")
+    * [Korea (KAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/kafta/korea-australia-fta "Korea-Australia Free Trade Agreement \(KAFTA\)")
     * [Malaysia (MAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/mafta "Malaysia-Australia Free Trade Agreement \(MAFTA\)")
     * [New Zealand (ANZCERTA)](https://www.dfat.gov.au/trade/agreements/in-force/anzcerta/australia-new-zealand-closer-economic-relations-trade-agreement "Australia-New Zealand Closer Economic Relations Trade Agreement")
     * [PACER Plus](https://www.dfat.gov.au/trade/agreements/in-force/pacer/pacific-agreement-on-closer-economic-relations-plus "Pacific Agreement on Closer Economic Relations Plus")
@@ -235,6 +235,20 @@ The Australian Passport Office and its agents are committed to providing a secur
 ## 
 Latest news
   * ### 
+[Statement on the 2026 Nuclear Non-Proliferation Treaty Review Conference](https://www.dfat.gov.au/news/news/statement-2026-nuclear-non-proliferation-treaty-review-conference)
+The Australian Government is disappointed that the 11th Review Conference of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) did not reach a consensus outcome.
+23 May 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/statement-2026-nuclear-non-proliferation-treaty-review-conference)
+  * ### 
+[Joint statement by Australia, Canada and New Zealand on the occasion of the APEC Ministers Responsible for Trade Meeting, 22-23 May, Suzhou, China](https://www.dfat.gov.au/news/news/joint-statement-australia-canada-and-new-zealand-occasion-apec-ministers-responsible-trade-meeting-22-23-may-suzhou-china)
+Australia, Canada and New Zealand resolutely condemn Russia's unprovoked, unjustified and ongoing invasion of Ukraine.
+23 May 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/joint-statement-australia-canada-and-new-zealand-occasion-apec-ministers-responsible-trade-meeting-22-23-may-suzhou-china)
+  * ### 
 [7 Persons and 4 entities listed under the Autonomous Sanctions Regulations 2011 – Iran ](https://www.dfat.gov.au/news/7-persons-and-4-entities-listed-under-autonomous-sanctions-regulations-2011-iran)
 In accordance with item 4 of regulation 6 of the Autonomous Sanctions Regulations 2011 (the Regulations), the Minister for Foreign Affairs (the Minister) has designated, for targeted financial sanctions and/or declared for travel bans (together 'listed'), by legislative instrument.
 12 May 2026
@@ -248,6 +262,12 @@ In accordance with section 15 of the Charter of the United Nations Act 1945 (COT
 Category
 International relations
 [Read more](https://www.dfat.gov.au/news/listings-under-parts-3-and-4-charter-united-nations-act-1945)
+  * ###  [ Australia-Japan Strategic Cyber Partnership ](https://www.dfat.gov.au/geo/japan/australia-japan-strategic-cyber-partnership)
+The Governments of Australia and Japan are committed to elevating and facilitating our cooperation across the full array of cyber security issues through the Australia-Japan Strategic Cyber Partnership.
+4 May 2026
+Category
+International relations
+[ Read more ](https://www.dfat.gov.au/geo/japan/australia-japan-strategic-cyber-partnership)
   * ### 
 [Australian National Statement in the IMO Marine Environment Protection Committee’s 84th Session](https://www.dfat.gov.au/news/media-release/australian-national-statement-imo-marine-environment-protection-committees-84th-session)
 Australia commends the work of the IMO to safeguard the safety of stranded civilian seafarers and re-open the Strait of Hormuz.
@@ -558,28 +578,6 @@ The Department of Foreign Affairs and Trade (DFAT) is undertaking public consult
 Category
 International relations
 [Read more](https://www.dfat.gov.au/news/call-submissions-potential-new-autonomous-sanctions-framework-afghanistan)
-  * ### 
-[Language and cultural training in Japan prepared NCP mobility alum Quentin Liew for an Asia-focused career](https://www.dfat.gov.au/people-people/language-and-cultural-training-japan-prepared-ncp-mobility-alum-quentin-liew-asia-focused-career)
-After returning to Australia, New Colombo Plan Mobility Project participant Quentin Liew landed a corporate strategy analyst role at Japanese company Fujitsu.
-[](https://www.dfat.gov.au/people-people/language-and-cultural-training-japan-prepared-ncp-mobility-alum-quentin-liew-asia-focused-career)
-7 October 2025
-Category
-People-to-people
-[Read more](https://www.dfat.gov.au/people-people/language-and-cultural-training-japan-prepared-ncp-mobility-alum-quentin-liew-asia-focused-career)
-  * ### 
-[Australia and New Zealand launch a guide to the United Nations system](https://www.dfat.gov.au/news/news/australia-and-new-zealand-launch-guide-united-nations-system)
-In the 80th year of the founding of the United Nations, Australia and New Zealand have collaborated to publish the United Nations Handbook 2025-26.
-2 October 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/news/australia-and-new-zealand-launch-guide-united-nations-system)
-  * ### 
-[Statement following the meeting of the G7+ Special Representatives for Afghanistan on 29-30 September 2025](https://www.dfat.gov.au/news/media-release/statement-following-meeting-g7-special-representatives-afghanistan-29-30-september-2025)
-Statement following the meeting of the G7+ Special Representatives for Afghanistan on 29-30 September 2025
-1 October 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/media-release/statement-following-meeting-g7-special-representatives-afghanistan-29-30-september-2025)
 
 
 Site map +

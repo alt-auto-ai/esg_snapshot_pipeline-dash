@@ -1,33 +1,33 @@
 [ Skip to main content ](https://minister.agriculture.gov.au/Collins/media-releases#main) [ Skip to search](https://minister.agriculture.gov.au/Collins/media-releases#global-search-query)
 # Media releases
 ### May 2026
-## [Delivering more transition assistance for the phase out of live sheep](https://minister.agriculture.gov.au/collins/media-releases/delivering-more-transition-assistance-phase-out-live-sheep)
-15 May 2026
-The Albanese Labor Government is continuing to assist sheep farmers, livestock transport operators and regional communities through the phase out of live sheep exports by sea, with further funding opening this month for two transition programs.
-## [Joint media release: $4.4 Million to strengthen Tasmania's drought and climate resilience ](https://minister.agriculture.gov.au/collins/media-releases/joint-media-release-44-million-strengthen-tasmanias-drought-and-climate-resilience)
-15 May 2026
-Tasmanian communities and organisations will be able to continue to invest in and develop community-led drought and climate initiatives, with the Albanese and Rockliff governments investing $4.4 million through to 2029.
-## [Albanese Labor Government secures first shipments of additional farm fertiliser](https://minister.agriculture.gov.au/collins/media-release/joint-media-release-albanese-farrell-collins-ayres-additional-fertiliser-secured-for-australia)
-14 May 2026
-The Albanese Labor Government has secured approximately 90,000 tonnes of agricultural grade urea for Australian farmers, producers, and our agriculture industry to keep Australia’s food supply chain moving.
-## [Joint media release: Strengthening Australia's fuel resilience](https://minister.agriculture.gov.au/collins/media-releases/strengthening-australia%27s-fuel-resilience)
-12 May 2026
-The Albanese Labor Government will deliver a major fuel security and price relief package in the Budget, investing $14.8 billion to immediately secure more fuel, strengthen Australia’s supply chains and build long-term resilience to future fuel shocks.
-## [$3 million Green Sheep Project launched at Agfest](https://minister.agriculture.gov.au/collins/media-releases/green-sheep-project-launch-agfest)
-7 May 2026
-The Albanese Labor Government is working closely with farmers and producers to improve climate resilience with the launch of the $3 million Green Sheep Project at Tasmania’s iconic Agfest field day today.
-## [Joint media release: Government securing more fuel reserves](https://minister.agriculture.gov.au/collins/media-releases/government-securing-more-fuel-reserves)
-6 May 2026
-The Albanese Labor Government has announced today that the Federal Budget next week will include an Australian Fuel Security and Resilience package to ensure energy sovereignty and protect our nation’s energy interests.
-## [Joint media release: Boosting the resilience of Tasmanian farmers](https://minister.agriculture.gov.au/collins/media-releases/farm-business-resilience-program-second-phase-tasmania)
-6 May 2026
-The Albanese and Rockliff governments are extending the highly successful Farm Business Resilience (FBR) program through to 2029, with a further $6.2 million for the second phase of the program announced today.
-## [Celebrating biosecurity champions across the country](https://minister.agriculture.gov.au/collins/media-releases/celebrating-biosecurity-champions-across-country)
-5 May 2026
-The Albanese Labor Government is committed to celebrating everyday Australians who are champions of biosecurity with nominations now open for the 2026 Australian Biosecurity Awards.
-## [New Inspector General appointed to oversee animal welfare and live animal exports](https://minister.agriculture.gov.au/collins/media-release/media-release-inspector-general-of-animal-welfare-and-live-animal-exports-ashley-bunce)
-1 May 2026
-The Albanese Labor Government has today announced the appointment of Dr Ashley Bunce as the next Inspector General of Animal Welfare and Live Animal Exports (IGAWLAE).
-## [New market access to Indonesia for five export meat establishments](https://minister.agriculture.gov.au/collins/media-release/media-release-five-new-export-meat-establishments-approved-for-indonesia)
-1 May 2026
-The Albanese Labor Government is delivering new opportunities for Australia’s red meat industry with the approval of five additional export beef establishments for exports to Indonesia, including one establishment also receiving approval for sheep and goa
+## [Strengthening drought resilience across the country](https://minister.agriculture.gov.au/collins/media-releases/7-fdf-drought-resilience-hubs)
+29 May 2026
+The Albanese Labor Government continues to help build drought resilience across regional and rural Australia with a new $86.7 million grant opportunity opening today to deliver 7 Future Drought Fund Drought Resilience Hubs.
+## [Joint media release: Feral cats eradicated from Little Dog Island](https://minister.agriculture.gov.au/collins/media-release/joint-media-release-feral-cats-eradicated-from-little-dog-island)
+28 May 2026
+A remote island off the coast of Tasmania has been declared free of feral cats after two years with no sign of the invasive species.
+## [Joint media release: Securing more fertiliser for Australian farmers](https://minister.agriculture.gov.au/collins/media-releases/securing-essential-fuel-and-fertiliser)
+27 May 2026
+The Albanese Labor Government continues to secure essential fuel and fertiliser to keep Australian agriculture moving, with around 80,250 tonnes of additional urea now locked in through the Government’s $7.5 billion Fuel and Fertiliser Security Facility.
+## [Joint media release: Digital incoming passenger card expanded to eligible Melbourne-bound international travellers](https://minister.agriculture.gov.au/collins/media-release/joint-media-release-aus-travel-declaration-pilot-expanded-to-melbourne)
+26 May 2026
+The Australian Travel Declaration (ATD) pilot program has expanded to include eligible passengers on selected Qantas flights arriving into Melbourne Airport from today, Tuesday 26 May 2026.
+## [Next generation of detector dog teams strengthening Australia's biosecurity frontline](https://minister.agriculture.gov.au/collins/media-releases/detector-dog-handler-graduates)
+26 May 2026
+The Albanese Labor Government continues to strengthen Australia’s biosecurity frontline with a new cohort of detector dog handlers graduating and joining the defence against threats. 
+## [Joint media release: From Kakadu to Norfolk Island – Parks Australia prepares for H5 bird flu](https://minister.agriculture.gov.au/collins/media-releases/from-kakadu-to-norfolk-island-bird-flu-prep)
+25 May 2026
+The Albanese Labor Government is investing $4.5 million to support Parks Australia prepare for a potential H5 avian influenza (bird flu) outbreak.
+## [Albanese Labor Government backing Casino Beef Week](https://minister.agriculture.gov.au/collins/media-releases/backing-casino-beef-week)
+23 May 2026
+The Albanese Labor Government is investing in the future of Casino Beef Week with a $1 million commitment over the next three years to support the iconic event which kicks off today. 
+## [Joint media release: Keeping machinery moving when it matters most: Right to Repair reforms for farmers and drivers](https://minister.agriculture.gov.au/collins/media-releases/right-to-repair-reforms-feedback)
+22 May 2026
+The Albanese Government is seeking feedback on reforms to strengthen competition in repair markets and expand choice for drivers and farmers. 
+## [Joint media release: Albanese Labor Government helps secure more jet fuel and fertiliser](https://minister.agriculture.gov.au/collins/media-releases/joint-media-release-albanese-labor-government-helps-secure-more-jet-fuel-and-fertiliser)
+19 May 2026
+After discussions between Australia and China, including between the Prime Minister and China’s Premier Li, the Albanese Labor Government has helped to secure three shipments of jet fuel, totaling more than 600,000 barrels or about 100 million litres.
+## [Albanese Labor Government backing sustainable forestry industry](https://minister.agriculture.gov.au/collins/media-releases/16-new-grants-support-plantation-establishment-program)
+19 May 2026
+The Albanese Labor Government continues to back Australia's sustainable forestry industry and is today announcing 16 new grants through the $73 million Support Plantation Establishment program.

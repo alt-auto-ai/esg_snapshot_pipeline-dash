@@ -2,77 +2,73 @@
 # What's new
 Find new or recently updated information from the last month.
 Search
-**Showing** 1 - 10 of 72
+**Showing** 1 - 10 of 90
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * Auditors (1)
-  * Employer information (1)
-  * General (6)
+  * Employer information (2)
+  * General (3)
   * Large business (1)
-  * Lodgment and payment (2)
-  * Looking after your workers (1)
-  * New legislation (5)
-  * New legislation and policy (4)
+  * Lodgment and payment (4)
+  * Lodgment and reporting (1)
+  * New legislation and policy (7)
   * Payday Super (4)
   * Public advice and guidance (1)
   * Superannuation (1)
-  * Tax time and reporting (1)
-  * Your practice (1)
+  * System and processes (1)
 
 
-Show 72 results
+Show 90 results
 ### Filter
 #### Date Range
 From
 To
 #### Topic
-  * Auditors (1)
-  * Employer information (1)
-  * General (6)
+  * Employer information (2)
+  * General (3)
   * Large business (1)
-  * Lodgment and payment (2)
-  * Looking after your workers (1)
-  * New legislation (5)
-  * New legislation and policy (4)
+  * Lodgment and payment (4)
+  * Lodgment and reporting (1)
+  * New legislation and policy (7)
   * Payday Super (4)
   * Public advice and guidance (1)
   * Superannuation (1)
-  * Tax time and reporting (1)
-  * Your practice (1)
+  * System and processes (1)
 
 
-Show 72 results
-## [What you need to know about the member verification request](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/what-you-need-to-know-about-the-member-verification-request)
-Learn how the member verification request (MVR) will improve the way your SMSF receives super contributions. 
-15 May 2026
-## [SuperStream Contributions v3.0: is your SMSF ready?](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/superstream-contributions-v3-is-your-smsf-ready)
-SuperStream Contributions v3.0 introduces critical changes that support Payday Super.
-15 May 2026
-## [Faster super payments with the NPP](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/faster-super-payments-with-the-npp)
-The New Payments Platform (NPP) means employer super contributions can reach your SMSF faster.
-15 May 2026
-## [Emma Rosenzweig shares tips on being ready for Payday Super](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/emma-rosenzweig-shares-tips-on-being-ready-for-payday-super)
-Supporting SMSFs to make the shift for Payday Super readiness.
-15 May 2026
-## [MTAS: What tax agents need to know for Tax Time 2026](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/mtas-what-tax-agents-need-to-know-for-tax-time-2026)
-Your updated 2026 trust tax return lodgment experience is just around the corner.
-15 May 2026
-## [What's on our radar for R&DTI claims?](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/tax-professionals-newsroom/what-s-on-our-radar-for-r-and-dti-claims)
-Read our areas of concern for research and development tax incentive claims to make sure your clients' are airtight.
-14 May 2026
-## [Annual obligations and balance amounts](https://www.ato.gov.au/tax-and-super-professionals/for-superannuation-professionals/apra-regulated-funds/fund-reporting-protocols/annual-obligations-and-balance-amounts)
-Guidance for meeting your annual reporting obligations.
-14 May 2026
-## [Apply to buy residential property as a foreign person](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/residential-property-application-for-foreign-investors)
-Check the conditions to apply for approval to buy Australian residential property as a foreign person.
-13 May 2026
-## [Report a breach of Australian foreign investment rules](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/how-we-ensure-compliance-by-a-foreign-person/report-a-breach-of-the-foreign-investment-rules)
-How to tell us confidentially if you suspect, know, or have breached Australia's foreign investment rules.
-13 May 2026
-## [Types of property a foreign person can buy](https://www.ato.gov.au/individuals-and-families/investments-and-assets/foreign-resident-investments/foreign-investment-in-australia/types-of-property-a-foreign-person-can-buy)
-Check what types of residential property a foreign person can buy in Australia.
-13 May 2026
+Show 90 results
+## [Tax Time toolkit for small business](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/tax-time/tax-time-toolkits/tax-time-toolkit-small-business)
+Information to help small businesses at tax time and all year round.
+27 May 2026
+### [Welcome to the 2026 Tax Time toolkit for small business](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/tax-time/tax-time-toolkits/tax-time-toolkit-small-business/assistant-commissioners-foreword)
+Assistant Commissioner, Angela Allen, launches the 2026 Tax Time toolkit for sma...
+## [Payday Super resources](https://www.ato.gov.au/businesses-and-organisations/super-for-employers/payday-super/payday-super-resources)
+Resources to help you understand and get ready for Payday Super (starting 1 July 2026).
+28 May 2026
+## [Final countdown to Payday Super!](https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/self-managed-super-funds-smsf/smsf-newsroom/final-countdown-to-payday-super)
+With less than 5 weeks until Payday Super starts, DC Emma Rosenzweig shares what to focus on in the lead up to 1 July. 
+27 May 2026
+## [Overview of record-keeping rules for business](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/record-keeping-for-business/overview-of-record-keeping-rules-for-business)
+Overview about business record-keeping requirements so you meet your tax, superannuation and registration obligations.
+27 May 2026
+## [Business deductions](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/income-and-deductions-for-business/deductions)
+Understand which business expenses can be claimed as tax deductions.
+27 May 2026
+## [Landcare operations](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/primary-producers/livestock-and-other-assets/deductions-and-offsets-for-capital-expenditure/landcare-operations)
+Primary producers may be able to claim a deduction for capital expenditure on landcare operations.
+27 May 2026
+## [Instant asset write-off for eligible businesses](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
+Instant asset write-off is a component of the simplified depreciation rules, which also include the small business pool.
+27 May 2026
+## [Taxable payments reporting and contractors](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report/taxable-payments-reporting-and-contractors)
+Lodge a Taxable payments annual report (TPAR) to report payments made to contractors for providing certain services.
+27 May 2026
+## [Assets and exclusions](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/assets-and-exclusions)
+How the simplified depreciation rules apply to assets and which assets are excluded.
+27 May 2026
+## [What to include in your business's assessable income](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/income-and-deductions-for-business/assessable-income/what-income-to-include)
+What to include in your assessable income from carrying on your business.
+27 May 2026
 Report webpage issue

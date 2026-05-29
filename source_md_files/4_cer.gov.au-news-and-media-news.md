@@ -4,6 +4,14 @@ Last updated 5 September 2024
 Stay up to date on the latest news from the Clean Energy Regulator.
 You can also browse our [media releases](https://cer.gov.au/news-and-media/media-centre/media-releases "Media releases").
 ## All news
+ACCU
+NRMS
+Biodiversity
+News
+#### Second Nature Repair Market project registered
+28 May 2026
+The second Nature Repair Market project has been registered in New South Wales. 
+[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/may/second-nature-repair-market-project-registered)
 RET
 News
 #### Register of solar water heaters version 57 is now available
@@ -60,10 +68,4 @@ News
 02 March 2026
 We’ve introduced new photo requirements for solar battery installations. 
 [ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/march/new-solar-battery-photo-requirements-now-place)
-NGER
-News
-#### 2024–25 National Greenhouse and Energy Reporting data now available
-27 February 2026
-We have published the 2024–25 National Greenhouse and Energy Reporting (NGER) data. 
-[ Read more arrow_right_alt ](https://cer.gov.au/news-and-media/news/2026/february/2024-25-national-greenhouse-and-energy-reporting-data-now-available)
 ## Was this page helpful?

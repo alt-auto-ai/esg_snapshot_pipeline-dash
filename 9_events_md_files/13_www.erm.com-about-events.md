@@ -213,6 +213,7 @@
   * [A Spotlight on Energy - ERM's Quarterly Trends Webinar Series, April 2026](https://www.erm.com/about/events/a-spotlight-on-energy-quarterly-trends-webinar-series-april-2026/)
   * [ERM at the III AESAS Conference on Contaminated Site Management](https://www.erm.com/about/events/erm-at-the-iii-aesas-conference-on-contaminated-site-management/)
   * [ERM at ARPEL Conference 2026](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
+  * [ERM at Sustainability Week 2026](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
   * [ReThink HK 2025](https://www.erm.com/about/events/rethink-hk-2025/)
   * [ERM at SETAC Latin America 2025](https://www.erm.com/about/events/erm-at-setac-latin-america-2025/)
   * [Decarbonize Smarter: How to Maximize Impact with Energy Efficiency & Public Funding Support](https://www.erm.com/about/events/decarbonize-smarter-how-to-maximize-impact-with-energy-efficiency-public-funding-support/)
@@ -259,6 +260,7 @@
   * [Crop Protection training series with Fresenius 2026](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
   * [Chem Logistics & SCM Summit 2026](https://www.erm.com/about/events/chem-logistics--scm-summit-2026/)
   * [ERM Webinar: How leading pharma organizations are decarbonizing their supply chain](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
+  * [Global Offshore Wind Manchester 2026](https://www.erm.com/about/events/global-offshore-wind-2026/)
   * [EDA Annual Convention 2026](https://www.erm.com/about/events/eda-annual-convention-2026/)
   * [Sustainable Aviation Futures (SAF) Congress 2026](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
 
@@ -459,6 +461,13 @@
 Our Company Our People Our Work Events Locations Sustainability News Sustainability Who we are Working with ERM ERM Foundation
 #  Events
 ##  ERM shares insights and participates at a number of events throughout the year
+[ ](https://www.erm.com/about/events/global-offshore-wind-2026/)
+Event
+[Global Offshore Wind Manchester 2026](https://www.erm.com/about/events/global-offshore-wind-2026/)
+16-17 June 2026
+Manchester Central
+The Global Offshore Wind 2026 is one of Europe’s largest and most influential offshore wind industry gatherings, bringing together the full global value chain of the sector. The event attracts over 5,000 delegates, alongside more than 200 speakers, hundreds of exhibitors, and participants from dozens of countries, highlighting its strong international reach.
+[ Event details ](https://www.erm.com/about/events/global-offshore-wind-2026/)
 [ ](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
 Event
 [Sustainable Aviation Futures (SAF) Congress 2026](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
@@ -487,6 +496,13 @@ June 1–4, 2026
 Hilton Hotel in Buenos Aires, Argentina
 ERM announces its participation in the ARPEL Conference 2026, taking place from June 1–4, 2026, at the Hilton Hotel in Buenos Aires, Argentina.
 [ Event details ](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
+[ ](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
+Event
+[ERM at Sustainability Week 2026](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
+May 26-28
+Wyndham Hotel in Bridgetown, Barbados
+ERM will be sponsoring the IDB Sustainability Week 2026, taking place in Barbados from May 24–26.
+[ Event details ](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
 [ ](https://www.erm.com/about/events/ehs-congress-2026/)
 Event
 [EHS Congress Berlin 2026](https://www.erm.com/about/events/ehs-congress-2026/)
@@ -527,19 +543,6 @@ Event
 Zoom
 In this executive-level webinar, AstraZeneca and Takeda, along with ERM, will explore how leading pharma companies are moving from strategy to implementation, building actionable supply chain decarbonization roadmaps that deliver tangible results.
 [ Event details ](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
-[ ](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
-Event
-[ERM webinar: Managing Water Constraints in Data Center and Semiconductor Growth](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
-30 April 2026
-Zoom
-[ Event details ](https://www.erm.com/about/events/water-stewardship-in-hyperscale-data-centre-development/)
-[ ](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
-Event
-[MEW Marine Energy Wales Conference 2026](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
-28-29 April 2026
-Llandudno 
-The Marine Energy Wales (MEW) Conference 2026, held on 28–29 April 2026 at Venue Cymru in Llandudno, is the UK’s largest dedicated marine renewable energy gathering, bringing together industry leaders, policymakers, researchers, and supply‑chain organisations to explore the future of tidal, wave, and floating offshore wind energy in Wales.
-[ Event details ](https://www.erm.com/about/events/mew-marine-energy-wales-conference--2026/)
 Load More
 [Load More](https://www.erm.com/about/events/?page=2)
 ## [ How can we help?  How can we help you? Contact us to discuss how we can help your organization.  Contact us now ](https://www.erm.com/contact-us/)

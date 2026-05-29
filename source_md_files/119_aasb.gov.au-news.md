@@ -5,6 +5,22 @@
 Select category:
 [All](https://aasb.gov.au/news/) [Standards](https://aasb.gov.au/news/?category=Standards)
 Filter by date range:
+20
+MAY
+2026
+AASB
+### May Reporting Roundup
+The May edition of 
+[Read more](https://aasb.gov.au/news/may-reporting-roundup/)
+18
+MAY
+2026
+AASB
+### Action Alert No. 247
+The [Action Alert](https://aasb.gov.au/media/z0sdm3ly/247_actionalert.pdf "https://aasb.gov.au/media/z0sdm3ly/247_actionalert.pdf") for the 220th AASB Board meeting is now available. The AASB met in public and in private on 14 May 2026. At the meeting, the Board made key decisions in relation to:
+  * Presentation and Disclosure in Financial
+...
+[Read more](https://aasb.gov.au/news/action-alert-no-247/)
 05
 MAY
 2026
@@ -12,18 +28,16 @@ AASB
 ### AASB Dialogue Series – R&D Reporting under IFRS: Evidence, Insights and Implications
 Join us for an insightful webinar on the latest evidence in R&D (Research and Development) reporting under IFRS. **Register**
 [Read more](https://aasb.gov.au/news/aasb-dialogue-series-r-d-reporting-under-ifrs-evidence-insights-and-implications/)
-01
-MAY
-2026
-AASB
 ### AASB May 2026 Board Meeting Public Agenda and Papers out now
+01 May
+2026
+01 May 2026
 The [public agenda](https://aasb.gov.au/media/e12aopyw/aasbpublicagendam220_14may26.pdf) and [public papers](https://aasb.gov.au/board-centre/current-board-papers/) for AASB Board Meeting 220, to be held on 14 May 2026, are now available.
 [Read more](https://aasb.gov.au/news/aasb-may-2026-board-meeting-public-agenda-and-papers-out-now/)
-23
-APRIL
-2026
-AASB
 ### April Reporting Roundup
+23 Apr
+2026
+23 April 2026
 The _Reporting Roundup_ features the upcoming Dialogue Series event, key partnerships with ASIC and CSIRO and new AASB S2 educational materials.
 [Read more](https://aasb.gov.au/news/april-reporting-roundup/)
 ### e-learning modules for sustainability reporting developed with ASIC

@@ -1,7 +1,9 @@
 [ Skip to main content ](https://www.apvma.gov.au/news-and-publications/news#main-content "Skip to main content")
+The APVMA [Online Services Portal(Opens in a new tab/window)](https://portal.apvma.gov.au/) will be unavailable from 9 pm to 10 pm (AEST) Friday 29 May 2026 due to scheduled maintenance.
 # News
 Subscribe to receive 
 ### 2026 
+  * [EPAC2026 milestone achieved with submission of OECD CRP report](https://www.apvma.gov.au/news-and-publications/news/epac2026-milestone-achieved-submission-oecd-crp-report) - 27 May 2026
   * [APVMA releases Q2 performance report for 2025–26](https://www.apvma.gov.au/news-and-publications/news/apvma-releases-q2-performance-report-2025-26) - 31 March 2026
   * [Trans-Tasman pilot for manufacturers of agricultural chemicals and veterinary medicines to register products in both countries](https://www.apvma.gov.au/news-and-publications/news/trans-tasman-pilot-manufacturers-agricultural-chemicals-and-veterinary-medicines-register-products) - 31 March 2026
   * [Updates from EPAC2026](https://www.apvma.gov.au/news-and-publications/news/updates-epac2026) - 25 March 2026

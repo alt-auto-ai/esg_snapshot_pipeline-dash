@@ -4,48 +4,48 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **307** results 
+Showing **1** to **10** of **317** results 
 Sort by
-## [Next generation of farmers invited to help shape the future of agriculture in Victoria](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/next-generation-of-farmers-invited-to-help-shape-the-future-of-agriculture-in-victoria)
-14 May 2026
-Emerging leaders from across Victorian agriculture are invited to submit expressions of interest for the next 2-year term of the Young Farmers Advisory Council.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/next-generation-of-farmers-invited-to-help-shape-the-future-of-agriculture-in-victoria>
-## [Safe Food Victoria appoints board members](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/safe-food-victoria-appoints-board-members)
-12 May 2026
-The Minister for Agriculture has approved the inaugural Safe Food Victoria Board.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/safe-food-victoria-appoints-board-members>
-## [On-farm action at off farm events across the state](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/on-farm-action-at-off-farm-events-across-the-state)
-11 May 2026
-Agriculture Victoria is supporting farmers through drought with practical events, both in-person and online.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/on-farm-action-at-off-farm-events-across-the-state>
-## [Tap into valuable soil moisture data this season](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/tap-into-valuable-soil-moisture-data-this-season)
-07 May 2026
-Farmers statewide are encouraged to subscribe to Agriculture Victoria's Soil Moisture Monitoring Cropping Report e-newsletter for real-time soil water data.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/tap-into-valuable-soil-moisture-data-this-season>
-## [Case study – avocado and domestic ducks don’t mix](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-avocado-and-domestic-ducks-dont-mix)
-04 May 2026
-In April 2025, Agriculture Victoria investigated the sudden deaths of ducks in a backyard setup in south west Victoria.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-avocado-and-domestic-ducks-dont-mix>
-## [Hawkesdale farmers guilty of cattle and sheep neglect](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/hawkesdale-farmers-guilty-of-cattle-and-sheep-neglect)
-30 Apr 2026
-The owners of 3 Hawkesdale farming properties have been found guilty and fined after an animal welfare complaint.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/hawkesdale-farmers-guilty-of-cattle-and-sheep-neglect>
-## [Make on-farm upgrades this autumn with a drought grant](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/make-on-farm-upgrades-this-autumn-with-a-drought-grant)
-28 Apr 2026
-Farm Drought Support Grants are available to primary producers to support on-farm infrastructure improvements and essential business activities.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/make-on-farm-upgrades-this-autumn-with-a-drought-grant>
-## [One-on-one support for drought affected producers](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/one-on-one-support-for-drought-affected-producers)
-28 Apr 2026
-Victorian farmers are being encouraged to access free one-on-one consultations to help take stock and develop a tailored drought management plan.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/one-on-one-support-for-drought-affected-producers>
-## [Case study - suspect lesser loosestrife toxicity](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-suspect-lesser-loosestrife-toxicity)
-27 Apr 2026
-In a challenging 2025 that saw limited pasture availability, many animals were grazed in unusual locations and on unconventional forage sources.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/case-study-suspect-lesser-loosestrife-toxicity>
-## [Gippsland Irrigation Expo to help farmers future proof](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof)
-24 Apr 2026
-With more farmers planning for drier years and tightening water allocations, the Gippsland Irrigation Expo is returning on 20 May at the Sale Showgrounds.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/gippsland-irrigation-expo-to-help-farmers-future-proof>
+## [Why do dam repairs often fail?](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/why-do-dam-repairs-often-fail)
+29 May 2026
+Farmers may be considering repairs to leaking or failed dams to increase their water storage capacity.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/why-do-dam-repairs-often-fail>
+## [Locust alert. Report activity now](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/locust-alert.-report-activity-now)
+27 May 2026
+Agriculture Victoria is urging landholders and land managers to report locust activity to support reducing the risk of damaging infestations this spring.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/locust-alert.-report-activity-now>
+## [Varroa mite chemical resistance in Victoria](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/varroa-mite-chemical-resistance-in-victoria)
+26 May 2026
+Testing of an apiary in north east Victoria has confirmed Varroa mites with resistance to pyrethroid miticide treatments.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/varroa-mite-chemical-resistance-in-victoria>
+## [Twin lamb disease](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/twin-lamb-disease)
+26 May 2026
+As we move further into winter, sheep producers may begin to see cases of pregnancy toxaemia or twin lamb disease in their ewes.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/twin-lamb-disease>
+## [To clean or not to clean? Managing dam sediment](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/to-clean-or-not-to-clean-managing-dam-sediment)
+25 May 2026
+Farmers in south west Victoria may be considering cleaning out sediment from their dams after prolonged dry weather.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/to-clean-or-not-to-clean-managing-dam-sediment>
+## [Know the rules when spraying with drones](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/know-the-rules-when-spraying-with-drones)
+25 May 2026
+Operators of drones used for aerial spraying of agricultural chemicals need to be aware of the rules to keep people, animals and crops safe.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/know-the-rules-when-spraying-with-drones>
+## [Later lambing working well in the Mallee](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/later-lambing-working-well-in-the-mallee)
+20 May 2026
+Mallee sheep producers are seeing strong results following a 3-year on-farm demonstration, More Northern Mallee Lambs.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/later-lambing-working-well-in-the-mallee>
+## [Soil moisture data driving on-farm pasture decisions](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/soil-moisture-data-driving-on-farm-pasture-decisions)
+19 May 2026
+Soil moisture data is proving to be a valuable tool for farmers planning pasture management and responding to changing seasonal conditions.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/soil-moisture-data-driving-on-farm-pasture-decisions>
+## [Cereal and pulse disease guides now available](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cereal-and-pulse-disease-guides-now-available)
+19 May 2026
+Agriculture Victoria’s 2026 cereal and pulse disease guides are now available to help grain growers make informed decisions around disease management this seaso
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cereal-and-pulse-disease-guides-now-available>
+## [Turn challenges into opportunities at conferences](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/turn-challenges-into-opportunities-at-conferences)
+15 May 2026
+Explore ways to turn today's challenges into tomorrow's opportunities at Agriculture Victoria’s BestWool/BestLamb and BetterBeef Conferences.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/turn-challenges-into-opportunities-at-conferences>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)

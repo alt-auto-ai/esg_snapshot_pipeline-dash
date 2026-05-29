@@ -2,6 +2,20 @@ Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/australians-told-to-take-the-bus-as-mining-diesel-use-soars/)
+New research reveals that mining companies use 8 billion litres of diesel per year, while the government is urging ordinary Australians to take the bus and pump up their tyres to save fuel.
+[](https://australiainstitute.org.au/post/nacc-resignation-an-opportunity-for-much-needed-fresh-start/)
+The resignation of Commissioner Paul Brereton is an opportunity for the National Anti-Corruption Commission to make a fresh start under new leadership, according to transparency experts.
+[](https://australiainstitute.org.au/post/doubling-down-on-secrecy-government-delays-releasing-foi-documents-about-foi-changes-to-avoid-scrutiny-in-senate-estimates/)
+In an ironic act of secrecy, a Freedom Of Information (FOI) request by The Australia Institute has exposed how the Attorney General’s Department deliberately avoided scrutiny of the government’s bungled attempt to change the nation’s FOI laws.
+[](https://australiainstitute.org.au/post/no-wonder-the-rich-are-complaining-new-research-reveals-that-revenue-equivalent-to-a-quarter-of-australias-gdp-flows-through-trusts/)
+With changes to the way trusts are taxed soon to be introduced to parliament, new research by The Australia Institute reveals that revenue equivalent to almost a quarter of GDP now flows through trusts.
+[](https://australiainstitute.org.au/post/theres-nothing-more-fair-dinkum-than-getting-a-fair-return-for-australias-gas/)
+Prime Minister Anthony Albanese has called on The Australia Institute to be “fair dinkum” about its calls for a 25% gas tax. Today, The Australia Institute has taken out full-page advertisements in newspapers around the country to remind the Prime Minister that there’s nothing more fair dinkum than getting a fair price for Australian gas to pay for essential
+[](https://australiainstitute.org.au/post/sa-fracking-ban-backflip-senseless-and-unnecessary/)
+The Australia Institute has taken out a full-page advertisement in today’s Adelaide Advertiser to remind South Australians that Premier Peter Malinauskas’ decision to overturn the state’s ban on gas fracking is not only irresponsible, but also unnecessary. Co-CEO of The Australia Institute, Dr Richard Denniss, said everyone from former Federal Opposition Leader Peter Dutton to current One Nation
+[](https://australiainstitute.org.au/post/cant-tax-illegal-tobacco-wont-tax-gas-industry-new-budget-analysis/)
+Australia may be awash with illegal tobacco, but the federal government still collects more tax from smokers than it does from the Petroleum Resource Rent Tax (PRRT), according to new budget analysis by The Australia Institute.
 [](https://australiainstitute.org.au/post/coles-guilty-of-fake-discounts-but-it-shouldnt-be-the-only-corporate-giant-taken-down-down-for-gouging-australians/)
 The Australia Institute welcomes the Federal Court’s finding that Coles has misled Australian shoppers by promoting fake discounts on everyday grocery products.
 [](https://australiainstitute.org.au/post/a-plan-to-fix-the-national-electricity-market/)
@@ -50,20 +64,6 @@ New Australia Institute research warns that Australia’s democracy is being str
 Updated analysis by The Australia Institute reveals that a fair and appropriate increase to the minimum wage, and accompanying increases to award rates, would not have a significant effect on inflation.
 [](https://australiainstitute.org.au/post/even-liberal-voters-agree-its-time-to-ditch-howard-era-perks-for-property-investors-polls/)
 New polling conducted for the Australia Institute reveals broad support for reducing the perks which give property investors a significant advantage over owner-occupiers in the property market. Even Liberal voters are ready to scrap the capital gains tax discount introduced by the Howard government in1999, which has enabled investors to pay tax on just half of what
-[](https://australiainstitute.org.au/post/art-attack-australian-artists-should-be-properly-funded-not-forced-to-beg/)
-A hearing will be held at Parliament House today, looking at ways to attract more donations to the struggling arts sector, as part of a Parliamentary Inquiry into Arts and Cultural Philanthropy.
-[](https://australiainstitute.org.au/post/tax-gas-exports-invest-in-health-aged-care-new-polls/)
-Five news polls conducted for The Australia Institute reveal an overwhelming majority of Australians want a gas export tax to fund improvements in services like health and aged care.
-[](https://australiainstitute.org.au/post/free-childcare-free-university-the-simple-sensible-policy-which-would-have-raised-63-8-billion-in-under-four-years/)
-Extraordinary new analysis by The Australia Institute reveals that if the Albanese government had introduced a 25% gas export tax after Russia’s invasion of Ukraine, it would have raised more than 63 billion dollars.
-[](https://australiainstitute.org.au/post/all-pain-no-gain-rate-rise-wont-bring-down-petrol-prices-but-it-will-hurt-households/)
-The Reserve Bank’s decision to raise interest rates today will inflict more unnecessary pain on households struggling with a long-running cost-of-living crisis and soaring fuel prices. 
-[](https://australiainstitute.org.au/post/war-what-is-it-good-for-the-gas-industry/)
-The Iran conflict is driving up fuel prices across the world, which will flow through to food and other necessities for Australian households. It is also generating vast profits for the handful of largely foreign owned companies exporting Australia’s gas.
-[](https://australiainstitute.org.au/post/overwhelming-support-for-abortion-access-despite-election-rhetoric-new-poll/)
-New polling conducted for The Australia Institute reveals broad support for access to abortion services, despite anti-abortion rhetoric ahead of the South Australian election and Farrer by-election.
-[](https://australiainstitute.org.au/post/gun-law-fail-dodgy-licences-lead-to-firearms-flood/)
-Hundreds of thousands of gun owners have no genuine reason to have a firearm according to analysis released today by The Australia Institute.
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

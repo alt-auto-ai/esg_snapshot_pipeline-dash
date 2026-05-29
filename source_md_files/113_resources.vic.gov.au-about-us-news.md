@@ -49,13 +49,14 @@ Geology and data
 
 
 Landholders and community
+  * [Mineral sands and the community](https://resources.vic.gov.au/landholders-and-community/mineral-sands-and-the-community)
   * [Mineral licences and landholder FAQs](https://resources.vic.gov.au/landholders-and-community/mineral-licences-and-landholder-faqs)
   * [Private land access agreements](https://resources.vic.gov.au/landholders-and-community/commercial-consent-agreement)
   * [How mineral exploration and mining are regulated in Victoria](https://resources.vic.gov.au/landholders-and-community/how-mineral-exploration-and-mining-are-regulated-in-victoria)
   * [Community engagement and the duty to consult](https://resources.vic.gov.au/landholders-and-community/community-engagement-and-the-duty-to-consult)
+
+
   * [Key site updates](https://resources.vic.gov.au/landholders-and-community/key-site-updates)
-
-
   * [Rehabilitation](https://resources.vic.gov.au/landholders-and-community/rehabilitation)
 
 
@@ -109,6 +110,11 @@ Recreational prospecting
 We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
 [Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
 ## Latest news
+[ ](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
+### [Grant submissions closing soon](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
+27/05/2026
+Applications for the $1 million Advancing Antimony Grants program close at 5pm on Tuesday 23 June.
+[Read more](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
 [ ](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
 ### [Victoria’s first female mining warden appointed](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
 08/05/2026
@@ -134,9 +140,4 @@ We scan ASX announcements and company websites for updates on exploration and mi
 11/03/2026
 Resources Victoria continues to use a range of compliance tools to ensure potential impacts of quarrying on the environment are minimised and sites can be rehabilitated when production ends.
 [Read more](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
-[ ](https://resources.vic.gov.au/about-us/news/grants-to-support-development-of-processing-facility)
-### [Grants to support development of processing facility](https://resources.vic.gov.au/about-us/news/grants-to-support-development-of-processing-facility)
-02/03/2026
-New Advancing Antimony Grants will support creating an antimony processing facility in Victoria.
-[Read more](https://resources.vic.gov.au/about-us/news/grants-to-support-development-of-processing-facility)
 Feedback

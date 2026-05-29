@@ -6,79 +6,79 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1257)
+####  News (1267)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
   * News announcement
-  * 13 May 2026
+  * 28 May 2026
 
 
-[Commission provides EU countries with practical examples to address energy crisis](https://energy.ec.europa.eu/news/commission-provides-eu-countries-practical-examples-address-energy-crisis-2026-05-13_en)
-The Commission is continuing to support EU countries in addressing the impact of the energy crisis resulting from the conflict in the Middle East.
+[Commission discusses gas and oil supply risks with EU countries as the conflict in the Middle East reaches a 3-month mark](https://energy.ec.europa.eu/news/commission-discusses-gas-and-oil-supply-risks-eu-countries-conflict-middle-east-reaches-3-month-mark-2026-05-28_en)
+In a meeting of the Gas Coordination Group held on 26 May and an ad hoc meeting of the Oil Coordination Group held yesterday, the Commission and EU countries discussed the security of gas and oil supplies in the EU in light of the continued tensions in the Middle East. 
 2 min read
   * News announcement
-  * 8 May 2026
+  * 27 May 2026
 
 
-[Commission publishes guidance to support EU transport sector affected by the Middle East crisis](https://transport.ec.europa.eu/news-events/news/commission-publishes-guidance-support-eu-transport-sector-affected-middle-east-crisis-2026-05-08_en)
-Today, the European Commission has adopted guidance to the EU transport and tourism sector amid ongoing fuel supply disruptions and the closure of certain air and shipping routes linked to the Middle East crisis.
+[New EU Task Force on Fusion Energy](https://energy.ec.europa.eu/news/new-eu-task-force-fusion-energy-2026-05-27_en)
+The European Nuclear Safety Regulators Group (ENSREG) new Task Force on Fusion Energy held its inaugural meeting on 26-27 May 2026 in Cadarache, France with representatives from Finland, France, Germany, Ireland, Italy, Spain and Sweden, the European Commission and observers from the IAEA and the UK
 1 min read
-  * Daily news
-  * 7 May 2026
+  * Press release
+  * 22 May 2026
 
 
-[EU awards over €1 billion to European hydrogen projects to accelerate the clean transition](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1004)
-Today, the European Commission has selected nine hydrogen production projects under the third auction of the European Hydrogen Bank (EHB).
-1 min read
-  * News announcement
-  * 7 May 2026
-
-
-[EU prepares coordinated response to address the jet fuel supply situation as the conflict in the Middle East persists ](https://energy.ec.europa.eu/news/eu-prepares-coordinated-response-address-jet-fuel-supply-situation-conflict-middle-east-persists-2026-05-07_en)
-Today’s Oil Coordination Group meeting gathered experts from the European Commission, EU countries, and the Energy Community secretariat to discuss the oil security of supply situation in Europe and how to best coordinate at EU level as the Middle East conflict continues.
-1 min read
-  * Speech
-  * 5 May 2026
-
-
-[Speech by Commissioner Jørgensen at the French G7 Presidency's International High-Level Multi-Stakeholder Event on Methane Action](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_987)
-The current energy crisis is a stark reminder that Europe is too dependent on imported fossil fuels, and that our way forward is more homegrown energy.
-1 min read
-  * News article
-  * 5 May 2026
-
-
-[Eurostat: EU household gas prices up in the second half of 2025](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260505-2)
-In the second half of 2025, household gas prices in the EU continued to show the seasonal fluctuation between semesters that was visible before the 2022 crisis, with this pattern distorted during 2022 and 2023.
-1 min read
-  * News article
-  * 5 May 2026
-
-
-[Eurostat: EU household electricity prices stable in 2025](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260505-1)
-In the second half of 2025, average electricity prices for households in the EU remained largely stable, with a slight increase to €28.96 from €28.79 per 100 kWh in the first half of the year. These price levels remain well above levels from before the 2022 energy crisis.
+[Commission awards €400 million to European projects to decarbonise heat production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1134)
+Today, the European Commission has selected 65 projects under the Innovation Fund Heat Auction, the first ever EU-wide auction to accelerate the deployment of innovative clean heat technologies across European industry.
 1 min read
   * News announcement
-  * 5 May 2026
+  * 22 May 2026
 
 
-[2026 European Sustainable Energy Awards: vote for your favourite finalist](https://energy.ec.europa.eu/news/2026-european-sustainable-energy-awards-vote-your-favourite-finalist-2026-05-05_en)
-The 9 finalists for the 2026 European Sustainable Energy Awards (EUSEW Awards) have been announced today, highlighting outstanding contributions from individuals and projects to the clean energy transition in Europe.
+[Copenhagen Forum underlines importance of energy infrastructure](https://energy.ec.europa.eu/news/copenhagen-forum-underlines-importance-energy-infrastructure-2026-05-22_en)
+Policymakers, industry representatives and stakeholders met in Copenhagen on 21-22 May for the 12th Energy Infrastructure Forum with a near unanimous message that the ongoing conflicts in the Middle East and Ukraine highlight that energy infrastructure is more important than ever.
+3 min read
+  * Press release
+  * 20 May 2026
+
+
+[Commission approves €1.3 billion German State aid to support renewable hydrogen production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1096)
+The European Commission has approved, under EU State aid rules, a €1.3 billion German State aid scheme to support the production of renewable hydrogen through the European Hydrogen Bank's “Auctions-as-a-Service” tool for the auction that closed in 2026.
+1 min read
+  * News article
+  * 20 May 2026
+
+
+[Expert group recommendations on making smart charging and demand response easier](https://transport.ec.europa.eu/news-events/news/expert-group-recommendations-making-smart-charging-and-demand-response-easier-2026-05-20_en)
+On 20 May, two expert groups of the European Commission—the Smart Energy Expert Group and the Sustainable Transport Forum—alongside the European Coalition of the Willing on Bi-Directional Charging, established by Germany, have presented a comprehensive set of recommendations to simplify data exchang
+1 min read
+  * News announcement
+  * 20 May 2026
+
+
+[Commission publishes overview of national emergency measures taken to protect consumers and industry](https://energy.ec.europa.eu/news/commission-publishes-overview-national-emergency-measures-taken-protect-consumers-and-industry-2026-05-20_en)
+The Commission has set up a repository of the different emergency measures taken by national governments [link] since the start of the Middle East conflict at the end of February to ease the impact on consumers.
 2 min read
+  * Statement
+  * 20 May 2026
+
+
+[Joint readout between Commissioner Jørgensen and Minister Bowen](https://energy.ec.europa.eu/news/joint-readout-between-commissioner-jorgensen-and-minister-bowen-2026-05-20_en)
+Today Australia's Minister for Climate Change and Energy Chris Bowen and European Commissioner for Energy and Housing Dan Jørgensen discussed their deep concern over the conflict in the Middle East which continues to impact prices, energy supply chains and economic growth.
+2 min read
+  * News article
+  * 19 May 2026
+
+
+[5 things you should know about nuclear energy](https://energy.ec.europa.eu/news/5-things-you-should-know-about-nuclear-energy-2026-05-19_en)
+As the European Union continues to phase out polluting fossil fuels, more focus is on low-emissions technologies like nuclear to power our economy.
+7 min read
   * News announcement
-  * 5 May 2026
+  * 18 May 2026
 
 
-[EU-Moldova High-Level Energy Dialogue: Renewed commitment to closer energy cooperation](https://energy.ec.europa.eu/news/eu-moldova-high-level-energy-dialogue-renewed-commitment-closer-energy-cooperation-2026-05-05_en)
-The European Commission and the Republic of Moldova held today the 7th High-Level Energy Dialogue in Brussels, reaffirming their strong partnership on energy security and Moldova’s gradual integration into the European energy market.
-1 min read
-  * News announcement
-  * 5 May 2026
-
-
-[Commissioner Jørgensen hosts high-level implementation dialogue on energy efficiency](https://energy.ec.europa.eu/news/commissioner-jorgensen-hosts-high-level-implementation-dialogue-energy-efficiency-2026-05-05_en)
-Key stakeholders, including industry leaders, financial institutions, civil society, and policymakers, came together in Brussels today to discuss practical solutions for successfully implementing the Energy Efficiency Directive (EED).
-1 min read
+[EU continues to monitor oil market situation and prepares coordinated response to address the jet fuel supply situation](https://energy.ec.europa.eu/news/eu-continues-monitor-oil-market-situation-and-prepares-coordinated-response-address-jet-fuel-supply-2026-05-18_en)
+While there are no shortages of fuel in the EU at present, regional supply constraints could arise in the next weeks if the blockage of oil supplies via the Strait of Hormuz does not get resolved – with jet fuel being the primary concern.
+2 min read
 Share this page 
   * [ X ](https://energy.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://energy.ec.europa.eu/news_en#facebook "Share via Facebook")

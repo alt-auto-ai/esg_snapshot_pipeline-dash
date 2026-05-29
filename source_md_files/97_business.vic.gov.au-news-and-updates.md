@@ -8,8 +8,16 @@ Location
 metropolitanregional
 Topic
 Bushfire supportEventsFinanceGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStaff managementStarting a businessSustainabilityTourism industry
-5 May 2026 
-Tourism industry
+18 May 2026 
+Manufacturing
+## [Swap your shop to Aussie-made during Australian Made Week 2026](https://business.vic.gov.au/news-and-updates/2026/swap-your-shop-to-aussie-made-during-australian-made-week-2026)
+Hop onboard and become Australian Made certified.
+2026May18
+Indigenous business 
+## [All In during National Reconciliation Week 2026](https://business.vic.gov.au/news-and-updates/2026/all-in-during-national-reconciliation-week-2026)
+This year’s theme, ‘All In’, calls for all Australians to take meaningful, everyday action toward reconciliation.
+2026May5
+Tourism industry 
 ## [Autumn festivals and markets that will leaf you blown away](https://business.vic.gov.au/news-and-updates/2026/autumn-festivals-and-markets-that-will-leaf-you-blown-away)
 Rake in the last of Autumn with Victoria’s festivals and markets.
 2026April22
@@ -52,14 +60,6 @@ Sally from Sheforce shares her story this Social Enterprise Day, Thursday 20 Nov
 Marketing 
 ## [Celebrating the Victorian Aboriginal Business Awards 2025](https://business.vic.gov.au/news-and-updates/2025/celebrating-the-victorian-aboriginal-business-awards-2025)
 Recognising the achievements of First Nation businesses and entrepreneurs.
-2025November5
-Marketing 
-## [3 award-winning small business success stories](https://business.vic.gov.au/news-and-updates/2025/3-award-winning-small-business-success-stories)
-3 winners of the Lord Mayor's Small Business Awards share their stories.
-2025October21
-Events 
-## [3 small businesses making Halloween their business](https://business.vic.gov.au/news-and-updates/2025/3-small-businesses-making-halloween-their-business)
-From broomstick creators to cauldron makers, here are 3 businesses that are taking advantage of Halloween this October.
   * [1](https://business.vic.gov.au/news-and-updates)
   * [2](https://business.vic.gov.au/news-and-updates)
   * [3](https://business.vic.gov.au/news-and-updates)
@@ -68,7 +68,7 @@ From broomstick creators to cauldron makers, here are 3 businesses that are taki
   * [Next](https://business.vic.gov.au/news-and-updates)
   * [Last](https://business.vic.gov.au/news-and-updates)
 
-Page 1 of 7
+Page 1 of 8
 ## Stay updated
 Subscribe to Business Victoria newsletter and get the guidance, services and skills you need to successfully start, run and transform your business — delivered to
 [Back to top](https://business.vic.gov.au/news-and-updates)

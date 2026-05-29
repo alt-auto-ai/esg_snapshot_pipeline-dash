@@ -3,33 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
-  * 15 May 2026
-### [Strengthening Victoria's Palliative Care System](https://www.premier.vic.gov.au/strengthening-victorias-palliative-care-system)
-The Allan Labor Government is making sure Victorians at the end of their life can live their final days in dignity and comfort. Minister Shing today ...
-  * 15 May 2026
-### [$1.5 Billion Boost To Victorian Economy](https://www.premier.vic.gov.au/15-billion-boost-victorian-economypdf)
-Labor is backing major events in Melbourne - creating thousands of jobs and growing the economy. Minister Dimopoulos today released an independent rep...
-  * 15 May 2026
-### [Construction To Begin On Western Highway Upgrade This Year](https://www.premier.vic.gov.au/construction-begin-western-highway-upgrade-year)
-Construction on the Western Highway Upgrade between Buangor and Ararat is set to begin before the end of the year, following the Albanese Labor Govern...
-  * 15 May 2026
-### [State Funeral For The Hon. Norman Henry Lacy](https://www.premier.vic.gov.au/state-funeral-hon-norman-henry-lacy)
-A State Funeral to celebrate the life of The Hon. Norman Henry Lacy will be held at 11am on Tuesday, 19 May at St Mark’s Anglican Church in Camberwell...
-  * 15 May 2026
-### [Liberals To Cut Aged Pension From Long-Time Migrants](https://www.premier.vic.gov.au/liberals-cut-aged-pension-long-time-migrants)
-Federal Liberal Leader Angus Taylor says he will cut off long-time permanent residents from the aged pension. These are people who worked, paid taxes ...
-  * 14 May 2026
-### [More Than $37 Million Boost For Long-Term Bushfire Recovery In Victoria](https://www.premier.vic.gov.au/more-37-million-boost-long-term-bushfire-recovery-victoria)
-The Albanese and Allan Labor Governments are continuing to support communities recovering from the January 2026 bushfires. An extra $37 million will ...
-  * 14 May 2026
-### [More Funding To Upgrade Donnybrook Road](https://www.premier.vic.gov.au/more-funding-upgrade-donnybrook-road)
-Drivers in Melbourne’s outer north will soon benefit from safer and more reliable journeys thanks to $45 million in additional funding from the Albane...
-  * 14 May 2026
-### [Food Relief Funding For Neighbourhood Houses](https://www.premier.vic.gov.au/food-relief-funding-neighbourhood-houses)
-Labor is backing Neighbourhood Houses across Victoria with dedicated food relief funding. Right now, families are doing it tough. The cost of grocer...
-  * 14 May 2026
-### [Getting More Young People Into Jobs In Melbourne’s West](https://www.premier.vic.gov.au/getting-more-young-people-jobs-melbournes-west)
-Labor is helping more young people in Melbourne’s west to get job-ready and employed. Minister Suleyman today launched the Western Pathways Program a...
+  * 29 May 2026
+### [More Productive Trees On Farms To Benefit Landowners](https://www.premier.vic.gov.au/more-productive-trees-farms-benefit-landowners)
+Labor is making it easier for farmers to plant trees on their farms. Minister Settle announced the rollout of the Trees on Farms Utilisation Program a...
+  * 29 May 2026
+### [More Green Space For Families In Flemington](https://www.premier.vic.gov.au/more-green-space-families-flemington)
+Flemington residents will benefit from a brand-new green space opening this year. Murnalung Park will open in mid-2026 and includes a large children’...
+  * 29 May 2026
+### [Spectacular Melbourne Show To Honour Living Legend](https://www.premier.vic.gov.au/spectacular-melbourne-show-honour-living-legend)
+There will be no sitting in silence at Rod Laver Arena this September, when a star-studded lineup of some of the world’s best performers honour Austra...
+  * 29 May 2026
+### [Cutting Power Bills With $11 Billion In Renewables](https://www.premier.vic.gov.au/cutting-power-bills-11-billion-renewables)
+The Allan Labor Government is bringing down power bills by fast-tracking renewable energy projects. Minister for Planning Sonya Kilkenny has recently...
+  * 29 May 2026
+### [Liberal And National Cuts Coming To Regional Victoria](https://www.premier.vic.gov.au/liberal-and-national-cuts-coming-regional-victoria)
+Jess Wilson and her junior partners in the Nationals have announced the first part of their cuts plan. The Liberals and Nationals will slash 1 in 7 p...
+  * 29 May 2026
+### [Delivering Better, Faster Specialist Care Across Victoria](https://www.premier.vic.gov.au/delivering-better-faster-specialist-care-across-victoria)
+The Allan Labor Government is making sure Victorians get the specialist care they need, faster and closer to home. Waiting months for a specialist car...
+  * 28 May 2026
+### [Breathing New Life Into Local Sports Facilities](https://www.premier.vic.gov.au/breathing-new-life-local-sports-facilities)
+Labor is backing better facilities for grassroots sporting clubs. Minister Spence today visited Lionheart Reserve in Taylors Lakes to announce applica...
+  * 28 May 2026
+### [Supporting Local Sports Clubs With New Facilities](https://www.premier.vic.gov.au/supporting-local-sports-clubs-new-facilities)
+Local sports clubs in Fitzroy can look forward to a new home ground advantage with major upgrades underway at Brunswick Street Oval. Minister Spence ...
+  * 28 May 2026
+### [Hundreds Of Improvements In Our Tiny Towns](https://www.premier.vic.gov.au/hundreds-improvements-our-tiny-towns)
+Labor is backing local projects in regional Victoria to make sure even the smallest towns can thrive. Minister Settle announced more than 100 projects...
 
 
 ## Subscribe to our media releases

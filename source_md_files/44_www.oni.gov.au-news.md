@@ -1,6 +1,11 @@
 [Skip to main content](https://www.oni.gov.au/news#main-content "Skip to main content")
 # News and updates
-Showing 1 - 9 of 55
+Showing 1 - 9 of 56
+[Senate Estimates - May 2026](https://www.oni.gov.au/news/senate-estimates-may-2026)
+Opening Statement from Director-General of National Intelligence 
+  * Director-General 
+
+
 [Senate Estimates - February 2026](https://www.oni.gov.au/news/senate-estimates-february-2025)
 Opening Statement from Director-General of National Intelligence 
   * Director-General 
@@ -38,11 +43,6 @@ Director-General of National Intelligence acknowledges review findings
 
 [DGNI participates in CSIS Pacific Policy Pulse series](https://www.oni.gov.au/news/dgni-participates-csis-pacific-policy-pulse-series)
 Interview with the Director-General of National Intelligence 
-  * Director-General 
-
-
-[Senate Estimates - February 2025](https://www.oni.gov.au/news/february-2025-senate-estimates)
-Opening Statement from Director-General of National Intelligence 
   * Director-General 
 
 

@@ -9,13 +9,6 @@ our events offer a platform to learn, connect, and take action.
 
 ### Check out our upcoming events and register today to be part of the conversation!
 ## Our Event Calendar
-## [Uniting Business Live Australia Sustainability in Action](https://www.unaansw.org.au/donate)
-#### 13-14 May 2026
-Jones Bay Wharf, Piers 19-21, 26/32 Pirrama Road, Pyrmont
-## [The Essential Role of Peacekeeping](https://www.unaansw.org.au/donate)
-#### 19 May 2026, 9-10am
-Online
-​
 ## [World Environment Day: The Materiality of Waste](https://www.unaansw.org.au/donate)
 #### 6 June 2026, 9-11am & 12-2pm
 Reverse Garbage NSW, 30 Carrington Rd, Marrickville NSW 2204, Australia

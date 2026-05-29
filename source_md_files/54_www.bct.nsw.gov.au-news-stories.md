@@ -36,6 +36,14 @@ From
 To
 Clear all filters
 News
+28 May 2026
+### [Navigating the dry times and ongoing conservation management](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/dry-conditions)
+Drought conditions across parts of NSW continue to place growing pressure on livestock, wildlife, production systems and conservation areas. 
+Ministerial media release
+22 May 2026
+### [National Biodiversity Day: Private Landholders deliver conservation win](https://www.nsw.gov.au/ministerial-releases/impact-report)
+Private landholders across NSW are making a powerful impact by protecting the state’s threatened species and environment.
+News
 14 May 2026
 ### [Discovering restoration at rare sandhill woodlands near Deniliquin](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/sandhill-woodlands)
 One of the Western Riverina region’s most distinctive and threatened ecosystems is showing encouraging signs of recovery. 
@@ -67,14 +75,6 @@ News
 26 March 2026
 ### [Co-investment lends confidence to Indigenous-led conservation effort](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/co-investment-lends-confidence-to-indigenous-led-conservation-effort)
 Gayini shows what’s possible when Country is cared for by the people who know it best, proving when culture leads, conservation thrives. 
-News
-25 March 2026
-### [UNSW studies grazing impact on Gayini’s threatened landscapes](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/unsw-grazing-research)
-The NSW Biodiversity Conservation Trust is funding UNSW researchers from the Centre for Ecosystem Science to examine how Gayini’s ecosystems, particularly the floodplains and wetlands, respond to managed water flows and different grazing regimes. Their study will assess changes in water, soil and vegetation. 
-News
-18 March 2026
-### [Biodiversity Offsets Payment Calculator consultation: What we heard](https://www.nsw.gov.au/departments-and-agencies/dcceew/nsw-biodiversity-conservation-trust/news/what-we-heard)
-The NSW Biodiversity Conservation Trust has published a What we heard report summarising feedback received during public consultation on proposed changes to the Biodiversity Offsets Payment Calculator (BOPC) Order 2022.
   * keyboard_arrow_left
   * 1
   * 2

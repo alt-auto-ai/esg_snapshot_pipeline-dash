@@ -1,6 +1,18 @@
 [ Skip to main content ](https://www.afca.org.au/news/latest-news#main-content)
 #  Latest news
 ### Year published
+28  MAY 26 
+##### [Update on Interprac complaints](https://www.afca.org.au/news/latest-news/update-on-interprac-complaints)
+This is an update on complaints relating to Interprac Financial Planning (Interprac) following court proceedings commenced by Interprac against AFCA in the Federal Court. 
+26  MAY 26 
+##### [AFCA publishes details of expelled members](https://www.afca.org.au/news/latest-news/afca-publishes-details-of-expelled-members-0)
+The Australian Financial Complaints Authority (AFCA) has published the details of 4 members that have been expelled from AFCA.
+25  MAY 26 
+##### [Paul Woodburn appointed as Lead Ombudsman Superannuation ](https://www.afca.org.au/news/latest-news/paul-woodburn-appointed-lead-ombudsman-superannuation)
+AFCA is pleased to announce Paul Woodburn has been appointed as the new Lead Ombudsman Superannuation, commencing 25 May 2026 on a five-year term.
+21  MAY 26 
+##### [AFCA publishes latest Systemic Issues Insight Report](https://www.afca.org.au/news/latest-news/afca-publishes-latest-systemic-issues-insight-report)
+AFCA has published Edition 8 of their Systemic Issues Insights Report, which outlines the systemic issues identified and markers of excellence observed for the first half of the 2025-2026 
 12  MAY 26 
 ##### [How AFCA call recording impacts you](https://www.afca.org.au/news/latest-news/how-afca-call-recording-impacts-you)
 AFCA has introduced call recording across case‑handling teams, as part of our ongoing work to improve the quality, accuracy and efficiency of how we investigate and resolve complaints.
@@ -25,18 +37,6 @@ AFCA has published a new short video from Shail Singh, Lead Ombudsman Investment
 12  MAR 26 
 ##### [AFCA publishes updated Rules and Operational Guidelines](https://www.afca.org.au/news/latest-news/afca-publishes-updated-rules-and-operational-guidelines)
 AFCA has published its updated Rules and Operational Guidelines (OGs), which come into effect on 12 March 2026 following extensive consultation with industry, consumer groups, paid representatives and other stakeholders, and subsequent ASIC approval. 
-10  MAR 26 
-##### [New proximate cause e-learning module on AFCA website](https://www.afca.org.au/news/latest-news/new-proximate-cause-e-learning-module-on-afca-website)
-AFCA has published a new e-learning module that provides insight into AFCA’s processes for complaints that include proximate cause as an issue. 
-03  MAR 26 
-##### [Update on response to Shield and First Guardian collapse, including AFCA membership of financial firms in liquidation](https://www.afca.org.au/news/latest-news/update-on-response-to-shield-and-first-guardian-collapse-including-afca-membership-of-financial-firms-in-liquidation)
-The Australian Financial Complaints Authority (AFCA) has decided that no financial firm known to be involved in the collapse of the Shield and First Guardian Master Funds will be expelled from AFCA at this time. 
-27  FEB 26 
-##### [AFCA publishes video update explaining the United Global Capital and Next Generation Advice lead decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-united-global-capital-and-next-generation-advice-lead-decision)
-AFCA has published a new short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the lead decision involving United Global Capital and Next Generation Advice, both in liquidation. 
-20  FEB 26 
-##### [AFCA publishes video update on understanding the roles of AFCA, ASIC and CSLR](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-on-understanding-the-roles-of-afca-asic-and-cslr)
-AFCA has published a new video featuring Shail Singh, Lead Ombudsman Investments and Advice, to help consumers understand the different roles of AFCA, ASIC and the CSLR as they navigate i 
 ## Live Chat
 Minimize window
 View our chat service terms and conditions

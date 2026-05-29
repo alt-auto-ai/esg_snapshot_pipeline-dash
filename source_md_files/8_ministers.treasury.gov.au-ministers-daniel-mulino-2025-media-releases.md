@@ -13,6 +13,9 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Albanese Government steps up industry protections to stop scams](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/albanese-government-steps-industry-protections-stop)
+28 May 2026
+The Albanese Government is strengthening protections for Australians, taking decisive action to disrupt scams and making Australia a harder target for criminals. 
 ### [Legislation providing access to offenders’ super for victims and survivors of child sexual abuse passes the Parliament](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-providing-access-offenders-super-victims)
 14 May 2026
 The Albanese Government is ensuring convicted child sexual abusers cannot hide their assets in superannuation to avoid paying compensation to their victims. 
@@ -70,6 +73,3 @@ The Albanese Government is asking for feedback on design options to improve prod
 ### [Legislation introduced to strengthen Australia’s financial reporting system](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-introduced-strengthen-australias-financial)
 12 February 2026
 The Albanese Government has today introduced legislation which will deliver the most significant reform to Australia’s financial reporting standard setters in over two decades. 
-### [Consulting on enhancing oversight and governance of Managed Investment Schemes](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consulting-enhancing-oversight-and-governance-managed)
-10 February 2026
-The Albanese government is releasing the first of the consultation papers to improve consumer protections in the wake of the collapse of the Shield and First Guardian Master Funds. 

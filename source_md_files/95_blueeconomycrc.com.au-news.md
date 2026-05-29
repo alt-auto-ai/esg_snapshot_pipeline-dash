@@ -24,7 +24,7 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 
 ## [Webinar: SeaFisher Offshore Fish Pen Advancements](https://blueeconomycrc.com.au/webinar-seafisher-offshore-fish-pen-advancements/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-06T14:42:07+10:00April 1st, 2026|
+[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-05-21T13:56:56+10:00April 1st, 2026|
   * [Where has all the King Island Bull Kelp Gone?](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/) [](https://blueeconomycrc.com.au/where-has-all-the-king-island-bull-kelp-gone/)
 
 
@@ -35,36 +35,6 @@ Latest News[Anneka Ferguson](https://blueeconomycrc.com.au/author/becrc/ "Posts 
 
 ## [From PhD into Practice ~ Conversations with Kelly Hoareau](https://blueeconomycrc.com.au/phd-into-practice-kelly-hoareau/)
 [Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-04-08T11:17:38+10:00March 25th, 2026|
-  * [Susie Kropman Joins the Blue Economy CRC](https://blueeconomycrc.com.au/susie-kropman-joins-the-blue-economy-crc/) [](https://blueeconomycrc.com.au/susie-kropman-joins-the-blue-economy-crc/)
-
-
-## [Susie Kropman Joins the Blue Economy CRC](https://blueeconomycrc.com.au/susie-kropman-joins-the-blue-economy-crc/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-03-12T08:22:05+11:00March 12th, 2026|
-  * [Blue Economy CRC Hosts European Union Economic and Trade Delegation](https://blueeconomycrc.com.au/eu-economic-and-trade-delegation/) [](https://blueeconomycrc.com.au/eu-economic-and-trade-delegation/)
-
-
-## [Blue Economy CRC Hosts European Union Economic and Trade Delegation](https://blueeconomycrc.com.au/eu-economic-and-trade-delegation/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-03-11T13:56:28+11:00March 10th, 2026|
-  * [Enabling a sustainable blue economy in the Bay of Bengal](https://blueeconomycrc.com.au/enabling-sustainable-blue-economy-in-the-bay-of-bengal/) [](https://blueeconomycrc.com.au/enabling-sustainable-blue-economy-in-the-bay-of-bengal/)
-
-
-## [Enabling a sustainable blue economy in the Bay of Bengal](https://blueeconomycrc.com.au/enabling-sustainable-blue-economy-in-the-bay-of-bengal/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-02-24T13:50:34+11:00February 23rd, 2026|
-  * [DFAT Australia Awards Study Tour](https://blueeconomycrc.com.au/dfat-australia-awards-study-tour/) [](https://blueeconomycrc.com.au/dfat-australia-awards-study-tour/)
-
-
-## [DFAT Australia Awards Study Tour](https://blueeconomycrc.com.au/dfat-australia-awards-study-tour/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2026-02-24T13:23:22+11:00February 16th, 2026|
-  * [Behavioural Economics takes PhD Scholar to Antarctica](https://blueeconomycrc.com.au/behavioural-economics-phd-antarctica/) [](https://blueeconomycrc.com.au/behavioural-economics-phd-antarctica/)
-
-
-## [Behavioural Economics takes PhD Scholar to Antarctica](https://blueeconomycrc.com.au/behavioural-economics-phd-antarctica/)
-[Tegan Chilli Frog](https://blueeconomycrc.com.au/author/tegan-chilli-frog/ "Posts by Tegan Chilli Frog")2026-02-04T09:50:58+11:00February 2nd, 2026|
-  * [2025 at a Glance](https://blueeconomycrc.com.au/2025-at-a-glance/) [](https://blueeconomycrc.com.au/2025-at-a-glance/)
-
-
-## [2025 at a Glance](https://blueeconomycrc.com.au/2025-at-a-glance/)
-[Vanessa Fairweather](https://blueeconomycrc.com.au/author/vanessa-chilli-frog/ "Posts by Vanessa Fairweather")2025-12-23T10:44:29+11:00December 23rd, 2025|
 _Loading the next set of posts..._
 1[2](https://blueeconomycrc.com.au/news/page/2/)[Next](https://blueeconomycrc.com.au/news/page/2/)
 NEWSLETTERS
@@ -150,5 +120,6 @@ The Blue Economy Cooperative Research Centre (CRC) is established and supported 
 
 
 © Copyright 2026 Blue Economy CRC-Co Ltd | ABN: 64 634 684 549 | Website by 
-[Page load link](https://blueeconomycrc.com.au/news/) [ Go to Top ](https://blueeconomycrc.com.au/news/)
+[Page load link](https://blueeconomycrc.com.au/news/)
+[ Go to Top ](https://blueeconomycrc.com.au/news/)
 Notifications
