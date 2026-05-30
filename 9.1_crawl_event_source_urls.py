@@ -9,6 +9,11 @@ from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 from crawl4ai.async_dispatcher import MemoryAdaptiveDispatcher, CrawlerMonitor
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+INPUT_CSV = os.path.join(SCRIPT_DIR, "9_events_source.csv")
+OUTPUT_DIR = os.path.join(SCRIPT_DIR, "9_events_md_files")
+FAILURE_LOG = os.path.join(SCRIPT_DIR, "9_events_crawl_failures.md")
+
 def fix_url(url):
     """Fix URL format if needed"""
     if not url:
@@ -66,11 +71,11 @@ async def process_url(url, index, crawler, config, fallback_config, total_urls, 
             result = await crawler.arun(url=fixed_url, config=run_config)
             if result.success:
                 # Create output directory if it doesn't exist
-                os.makedirs('9_events_md_files', exist_ok=True)
+                os.makedirs(OUTPUT_DIR, exist_ok=True)
                 
                 # Save markdown to file
                 url_slug = sanitize_url_for_filename(fixed_url)
-                output_file = f'9_events_md_files//{index}_{url_slug}.md'
+                output_file = os.path.join(OUTPUT_DIR, f"{index}_{url_slug}.md")
                 with open(output_file, 'w', encoding='utf-8') as f:
                     f.write(result.markdown.raw_markdown)
                 print(f"[{index}/{total_urls}] Successfully processed: {fixed_url}")
@@ -177,7 +182,7 @@ async def main():
     )
 
     # Read URLs from CSV
-    df = pd.read_csv('9_events_source.csv')
+    df = pd.read_csv(INPUT_CSV)
     urls = df.iloc[:, 0].tolist()  # Get first column
     total_urls = len(urls)
     failures = []  # List to track failures
@@ -204,7 +209,7 @@ async def main():
     
     # Write failures to markdown file if any occurred
     if failures:
-        failure_file = '9_events_crawl_failures.md'
+        failure_file = FAILURE_LOG
         with open(failure_file, 'w', encoding='utf-8') as f:
             f.write("# Crawl Failures Log\n\n")
             f.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
@@ -222,7 +227,7 @@ async def main():
     
     print("=" * 50)
     print(f"Completed processing {total_urls} URLs")
-    print(f"Successful results saved in: 9_events_md_files")
+    print(f"Successful results saved in: {OUTPUT_DIR}")
     print(f"Failed URLs: {len(failures)} out of {total_urls}")
 
 if __name__ == "__main__":

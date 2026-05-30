@@ -39,9 +39,8 @@ else:
     PROFILE = "OAI"
 
 # ----------------- ENV -----------------
-load_dotenv()
-
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 # Paths
 SOURCE_DIR = os.getenv(
@@ -56,6 +55,18 @@ INPUT_LINKS_CSV = os.getenv(  # NEW: CSV with Date,Title,URL,md_file
     "INPUT_LINKS_CSV",
     os.path.join(PROJECT_ROOT, "3_story_file_name_links.csv")
 )  # NEW
+
+cwd_source_dir = os.path.abspath("source_md_files_cleaned")
+if "SOURCE_DIR" not in os.environ and os.path.isdir(cwd_source_dir) and glob.glob(os.path.join(cwd_source_dir, "*.md")):
+    SOURCE_DIR = cwd_source_dir
+
+cwd_links_csv = os.path.abspath("3_story_file_name_links.csv")
+if "INPUT_LINKS_CSV" not in os.environ and os.path.exists(cwd_links_csv):
+    INPUT_LINKS_CSV = cwd_links_csv
+
+cwd_output_csv = os.path.abspath("4_story_esg_or_not.csv")
+if "OUTPUT_CSV" not in os.environ and os.path.isdir(os.getcwd()):
+    OUTPUT_CSV = cwd_output_csv
 
 # API config
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")

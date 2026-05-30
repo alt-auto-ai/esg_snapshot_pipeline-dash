@@ -85,6 +85,7 @@ As climate impacts intensify, investors are calling for stronger corporate actio
 13 October 2025
 IGCC’s Climate Capability for Boards report sets out what good climate governance looks like — and how investors can assess and engage company boards on transition readiness. It identifies five principles for effective oversight and provides practical tools to guide investor engagement. 
 [Corporate Engagement](https://igcc.org.au/workstream/corporate-engagement/)[Corporate Engagement Working Group](https://igcc.org.au/working_group/corporate-engagement/)[Investor Group on Climate Change](https://igcc.org.au/topic/investor-group-on-climate-change/)
+<<<<<<< HEAD
 ###  [ As Climate Risks Escalate, IGCC Summit 2025 Puts the Asia Pacific Opportunity in the Spotlight ](https://igcc.org.au/media-release-as-climate-risks-escalate-igcc-summit-2025-puts-the-asia-pacific-opportunity-in-the-spotlight/)
 1 October 2025
 Sydney, 1 October 2025 — The Investor Group on Climate Change (IGCC) has announced the full agenda and speaker line-up for the IGCC Summit 2025, to be held in Sydney on 16–17 October. 
@@ -283,3 +284,5 @@ Our members have identified climate change-related damages as one of the greates
 18 July 2024
 IGCC supports the Future Made in Australia agenda which the Government is consulting on, specifically in relation to green metals investment. 
 [Australia](https://igcc.org.au/market/australia/)[Decarbonising the Economy](https://igcc.org.au/topic/decarbonisation/)[Energy Transition Working Group](https://igcc.org.au/working_group/energy-transition/)[Mining](https://igcc.org.au/topic/mining/)[Policy & Advocacy](https://igcc.org.au/workstream/policy-advocacy/)[Policy & Advocacy Working Group](https://igcc.org.au/working_group/policy-advocacy/)
+=======
+>>>>>>> 7bac5f0 (update pipeline)

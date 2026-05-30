@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # 1,204 sustainability jobs in Australia - Full Time
+=======
+# 1,034 sustainability jobs in Australia - Full Time
+>>>>>>> 7bac5f0 (update pipeline)
 Skip to content
 Refine by location
   * [Surry Hills NSW 2010](https://au.seek.com/sustainability-jobs/in-Surry-Hills-NSW-2010/full-time?daterange=3)
   * [All Brisbane QLD](https://au.seek.com/sustainability-jobs/in-All-Brisbane-QLD/full-time?daterange=3)
+<<<<<<< HEAD
   * [Parkville VIC 3052](https://au.seek.com/sustainability-jobs/in-Parkville-VIC-3052/full-time?daterange=3)
+=======
+  * [All Perth WA](https://au.seek.com/sustainability-jobs/in-All-Perth-WA/full-time?daterange=3)
+>>>>>>> 7bac5f0 (update pipeline)
   * [All Sydney NSW](https://au.seek.com/sustainability-jobs/in-All-Sydney-NSW/full-time?daterange=3)
   * [All Canberra ACT](https://au.seek.com/sustainability-jobs/in-All-Canberra-ACT/full-time?daterange=3)
   * [All Melbourne VIC](https://au.seek.com/sustainability-jobs/in-All-Melbourne-VIC/full-time?daterange=3)
@@ -29,11 +37,16 @@ Read More⁠
   * [](https://au.seek.com/coordinator-jobs/in-All-Australia)
 
 
+<<<<<<< HEAD
 1,204 jobs
+=======
+1,034 jobs
+>>>>>>> 7bac5f0 (update pipeline)
 New
 New to you
 Done
 Modify my search
+<<<<<<< HEAD
 [](https://au.seek.com/job/92411079?type=standard&ref=search-standalone#sol=b7c3a53ea5db7b453d987f41fa1d0958d1c5296a)
 [](https://au.seek.com/job/92411079?type=standard&ref=search-standalone&origin=jobCard#sol=b7c3a53ea5db7b453d987f41fa1d0958d1c5296a)
 Listed four minutes ago
@@ -82,10 +95,46 @@ Listed one day ago
 at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
 Be an early applicant
 This is a Full time job
+=======
+[](https://au.seek.com/job/92411079?type=standard&ref=search-standalone#sol=f5c71f33ce91aabc779ddcfeed53ae714bc88493)
+[](https://au.seek.com/job/92411079?type=standard&ref=search-standalone&origin=jobCard#sol=f5c71f33ce91aabc779ddcfeed53ae714bc88493)
+Listed one day ago
+[](https://au.seek.com/companies/news-corp-433222)
+### 
+[Sustainability Manager](https://au.seek.com/job/92411079?type=standard&ref=search-standalone&origin=cardTitle#sol=f5c71f33ce91aabc779ddcfeed53ae714bc88493)
+at [News Corp Australia](https://au.seek.com/News-Corp-jobs "Jobs at News Corp")
+Be an early applicant
+This is a Full time job
+Surry Hills, Sydney NSW(Hybrid)
+  * Excellent platform to continue growing your career
+  * Collaborate with a passionate and like-minded team
+  * Work with some of Australia's most recognised and prestigious brands
+
+
+  * Excellent platform to continue growing your career
+  * Collaborate with a passionate and like-minded team
+  * Work with some of Australia's most recognised and prestigious brands
+
+
+Lead sustainability strategy at Australia's leading media company, driving climate reporting, emissions reduction and business-wide impact.
+Lead sustainability strategy at Australia's leading media company, driving climate reporting, emissions reduction and business-wide impact.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+1d ago
+1d ago
+[](https://au.seek.com/job/92380653?type=standard&ref=search-standalone#sol=c7df4a057d5208f4941f868940f3626b866b9962)
+[](https://au.seek.com/job/92380653?type=standard&ref=search-standalone&origin=jobCard#sol=c7df4a057d5208f4941f868940f3626b866b9962)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380653?type=standard&ref=search-standalone&origin=cardTitle#sol=c7df4a057d5208f4941f868940f3626b866b9962)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+This is a Full time job
+>>>>>>> 7bac5f0 (update pipeline)
 Brisbane QLD
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+<<<<<<< HEAD
 1d ago
 1d ago
 [](https://au.seek.com/job/92326821?type=standard&ref=search-standalone#sol=af70834a2e6e1e1d56b10fd16f289c0428bc9f59)
@@ -193,6 +242,31 @@ Listed one day ago
 [](https://au.seek.com/companies/seek-grad-158284953965453)
 ### 
 [2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380658?type=standard&ref=search-standalone&origin=cardTitle#sol=50c09db95dc993946b1a99f2e106bdda4c9fe02f)
+=======
+2d ago
+2d ago
+[](https://au.seek.com/job/92380646?type=standard&ref=search-standalone#sol=2fa8a5b13d1624f54e2009e0d71d237fc1a1e48e)
+[](https://au.seek.com/job/92380646?type=standard&ref=search-standalone&origin=jobCard#sol=2fa8a5b13d1624f54e2009e0d71d237fc1a1e48e)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380646?type=standard&ref=search-standalone&origin=cardTitle#sol=2fa8a5b13d1624f54e2009e0d71d237fc1a1e48e)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Brisbane QLD
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380648?type=standard&ref=search-standalone#sol=cd81a4662d36c7f9642b9ed9092b7eeb62c5dcf8)
+[](https://au.seek.com/job/92380648?type=standard&ref=search-standalone&origin=jobCard#sol=cd81a4662d36c7f9642b9ed9092b7eeb62c5dcf8)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380648?type=standard&ref=search-standalone&origin=cardTitle#sol=cd81a4662d36c7f9642b9ed9092b7eeb62c5dcf8)
+>>>>>>> 7bac5f0 (update pipeline)
 at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
 Be an early applicant
 This is a Full time job
@@ -200,6 +274,7 @@ Perth WA
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+<<<<<<< HEAD
 1d ago
 1d ago
 [](https://au.seek.com/job/92380647?type=standard&ref=search-standalone#sol=18f513735d5740ac0683a9092f5fc6f1e446450b)
@@ -223,6 +298,30 @@ Listed one day ago
 [](https://au.seek.com/companies/seek-grad-158284953965453)
 ### 
 [2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380648?type=standard&ref=search-standalone&origin=cardTitle#sol=a6f9acbdb58179e72e40c5f5858b0cb3bd6cf3a4)
+=======
+2d ago
+2d ago
+[](https://au.seek.com/job/92380660?type=standard&ref=search-standalone#sol=0691a5709f9bbf938c5ad2d34e7468e8f9886abc)
+[](https://au.seek.com/job/92380660?type=standard&ref=search-standalone&origin=jobCard#sol=0691a5709f9bbf938c5ad2d34e7468e8f9886abc)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380660?type=standard&ref=search-standalone&origin=cardTitle#sol=0691a5709f9bbf938c5ad2d34e7468e8f9886abc)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+This is a Full time job
+Sydney NSW
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380658?type=standard&ref=search-standalone#sol=40c12602fd56a9413a41109cae6d88a4019fa7d9)
+[](https://au.seek.com/job/92380658?type=standard&ref=search-standalone&origin=jobCard#sol=40c12602fd56a9413a41109cae6d88a4019fa7d9)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380658?type=standard&ref=search-standalone&origin=cardTitle#sol=40c12602fd56a9413a41109cae6d88a4019fa7d9)
+>>>>>>> 7bac5f0 (update pipeline)
 at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
 Be an early applicant
 This is a Full time job
@@ -230,6 +329,7 @@ Perth WA
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+<<<<<<< HEAD
 1d ago
 1d ago
 [](https://au.seek.com/job/92380650?type=standard&ref=search-standalone#sol=91b021d4a6e79adc4239785e5b2132795382d055)
@@ -238,6 +338,104 @@ Listed one day ago
 [](https://au.seek.com/companies/seek-grad-158284953965453)
 ### 
 [2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380650?type=standard&ref=search-standalone&origin=cardTitle#sol=91b021d4a6e79adc4239785e5b2132795382d055)
+=======
+2d ago
+2d ago
+[](https://au.seek.com/job/92380657?type=standard&ref=search-standalone#sol=e372e48005e487218ba7b26dd6131979be0b956b)
+[](https://au.seek.com/job/92380657?type=standard&ref=search-standalone&origin=jobCard#sol=e372e48005e487218ba7b26dd6131979be0b956b)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380657?type=standard&ref=search-standalone&origin=cardTitle#sol=e372e48005e487218ba7b26dd6131979be0b956b)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Canberra ACT
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380659?type=standard&ref=search-standalone#sol=98766ff39a44be20ea2cb023e27327fc4b385230)
+[](https://au.seek.com/job/92380659?type=standard&ref=search-standalone&origin=jobCard#sol=98766ff39a44be20ea2cb023e27327fc4b385230)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380659?type=standard&ref=search-standalone&origin=cardTitle#sol=98766ff39a44be20ea2cb023e27327fc4b385230)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+This is a Full time job
+Melbourne VIC
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380649?type=standard&ref=search-standalone#sol=b704523b2ecd2c3dafd88b78edecf8a2f7f27247)
+[](https://au.seek.com/job/92380649?type=standard&ref=search-standalone&origin=jobCard#sol=b704523b2ecd2c3dafd88b78edecf8a2f7f27247)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380649?type=standard&ref=search-standalone&origin=cardTitle#sol=b704523b2ecd2c3dafd88b78edecf8a2f7f27247)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+This is a Full time job
+Melbourne VIC
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380647?type=standard&ref=search-standalone#sol=6e13c2dd399938bcc46bd2d240b34afadbc7bb61)
+[](https://au.seek.com/job/92380647?type=standard&ref=search-standalone&origin=jobCard#sol=6e13c2dd399938bcc46bd2d240b34afadbc7bb61)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380647?type=standard&ref=search-standalone&origin=cardTitle#sol=6e13c2dd399938bcc46bd2d240b34afadbc7bb61)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Canberra ACT
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380651?type=standard&ref=search-standalone#sol=77fa7652a1d781174a2274550d67a4a7dc9071b6)
+[](https://au.seek.com/job/92380651?type=standard&ref=search-standalone&origin=jobCard#sol=77fa7652a1d781174a2274550d67a4a7dc9071b6)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380651?type=standard&ref=search-standalone&origin=cardTitle#sol=77fa7652a1d781174a2274550d67a4a7dc9071b6)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Adelaide SA
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380645?type=standard&ref=search-standalone#sol=3e2fcc224d1596a87b1df2b4bd48dd75b580158f)
+[](https://au.seek.com/job/92380645?type=standard&ref=search-standalone&origin=jobCard#sol=3e2fcc224d1596a87b1df2b4bd48dd75b580158f)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380645?type=standard&ref=search-standalone&origin=cardTitle#sol=3e2fcc224d1596a87b1df2b4bd48dd75b580158f)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Adelaide SA
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92380650?type=standard&ref=search-standalone#sol=b1f38a6084bc965cd8e9274e51d35669c2d7445e)
+[](https://au.seek.com/job/92380650?type=standard&ref=search-standalone&origin=jobCard#sol=b1f38a6084bc965cd8e9274e51d35669c2d7445e)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2027 EY Graduate Program – Climate Change and Sustainability Services](https://au.seek.com/job/92380650?type=standard&ref=search-standalone&origin=cardTitle#sol=b1f38a6084bc965cd8e9274e51d35669c2d7445e)
+>>>>>>> 7bac5f0 (update pipeline)
 at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
 Be an early applicant
 This is a Full time job
@@ -245,6 +443,7 @@ Sydney NSW
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 If you've recently graduated, or are about to, become an EY graduate and set yourself up for a world of opportunities.
 subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+<<<<<<< HEAD
 1d ago
 1d ago
 [](https://au.seek.com/job/92380659?type=standard&ref=search-standalone#sol=d4f06a0b4343ce0233cb22cad6cb40d516f56920)
@@ -595,8 +794,289 @@ subClassification: Government - StateGovernment - Stateclassification: Governmen
 3d ago
 [](https://au.seek.com/job/92380745?type=standard&ref=search-standalone#sol=14f3f94f777a6ac25f9219725e3a569d31567c30)
 [](https://au.seek.com/job/92380745?type=standard&ref=search-standalone&origin=jobCard#sol=14f3f94f777a6ac25f9219725e3a569d31567c30)
+=======
+2d ago
+2d ago
+[](https://au.seek.com/job/92370991?type=standard&ref=search-standalone#sol=8ed874e28fd0dd150d5299acc237aa24dab94a09)
+[](https://au.seek.com/job/92370991?type=standard&ref=search-standalone&origin=jobCard#sol=8ed874e28fd0dd150d5299acc237aa24dab94a09)
+Listed two days ago
+[](https://au.seek.com/companies/levande-175789999255195)
+### 
+[Senior Sustainability Specialist](https://au.seek.com/job/92370991?type=standard&ref=search-standalone&origin=cardTitle#sol=8ed874e28fd0dd150d5299acc237aa24dab94a09)
+at [Levande](https://au.seek.com/Levande-jobs "Jobs at Levande")
+This is a Full time job
+Sydney NSW(Hybrid)
+  * Shape climate reporting and emissions assurance across a national portfolio
+  * Work closely with executive leaders on strategic sustainability initiatives
+  * Drive decarbonisation, ESG reporting and sustainability performance
+
+
+  * Shape climate reporting and emissions assurance across a national portfolio
+  * Work closely with executive leaders on strategic sustainability initiatives
+  * Drive decarbonisation, ESG reporting and sustainability performance
+
+
+Senior Sustainability Specialist role leading climate reporting, emissions assurance and ESG initiatives across a national property portfolio.
+Senior Sustainability Specialist role leading climate reporting, emissions assurance and ESG initiatives across a national property portfolio.
+subClassification: Analysis & ReportingAnalysis & Reportingclassification: Accounting(Accounting)
+2d ago
+2d ago
+[](https://au.seek.com/job/92395478?type=standard&ref=search-standalone#sol=e6181569a497e8eef15682d7ae768585d8cf2a0c)
+[](https://au.seek.com/job/92395478?type=standard&ref=search-standalone&origin=jobCard#sol=e6181569a497e8eef15682d7ae768585d8cf2a0c)
 Listed one day ago
 ### 
+[Manager Sustainable Living](https://au.seek.com/job/92395478?type=standard&ref=search-standalone&origin=cardTitle#sol=e6181569a497e8eef15682d7ae768585d8cf2a0c)
+at [Blue Mountains City Council](https://au.seek.com/Blue-Mountains-City-Council-jobs "Jobs at Blue Mountains City Council")
+Be an early applicant
+This is a Full time job
+Katoomba, Blue Mountains & Central West NSW
+commencing at $161,533 per year
+We are seeking an experienced manager to lead Councils operational transition towards Net Zero emissions.
+We are seeking an experienced manager to lead Councils operational transition towards Net Zero emissions.
+subClassification: ManagementManagementclassification: Community Services & Development(Community Services & Development)
+1d ago
+1d ago
+[](https://au.seek.com/job/92371189?type=standard&ref=search-standalone#sol=3882e1db8984eddccb8fda366063be60d29d2b98)
+[](https://au.seek.com/job/92371189?type=standard&ref=search-standalone&origin=jobCard#sol=3882e1db8984eddccb8fda366063be60d29d2b98)
+Listed two days ago
+[](https://au.seek.com/companies/northern-beaches-council-942637)
+### 
+[Executive Manager Environment & Resilience](https://au.seek.com/job/92371189?type=standard&ref=search-standalone&origin=cardTitle#sol=3882e1db8984eddccb8fda366063be60d29d2b98)
+at [Northern Beaches Council](https://au.seek.com/Northern-Beaches-Council-jobs "Jobs at Northern Beaches Council")
+Be an early applicant
+This is a Full time job
+Cromer, Sydney NSW
+  * Values based culture and a teams oriented working environment
+  * A culture of supporting continuous professional development
+  * Employee wellness program and a range of lifestyle benefits
+
+
+  * Values based culture and a teams oriented working environment
+  * A culture of supporting continuous professional development
+  * Employee wellness program and a range of lifestyle benefits
+
+
+Are you an experienced leader with a record of delivering outstanding environmental outcomes? We have an amazing opportunity for you to join our team!
+Are you an experienced leader with a record of delivering outstanding environmental outcomes? We have an amazing opportunity for you to join our team!
+subClassification: Government - LocalGovernment - Localclassification: Government & Defence(Government & Defence)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379149?type=standard&ref=search-standalone#sol=d10fd7c134271fb8ee74f391818dbfd10f70e858)
+[](https://au.seek.com/job/92379149?type=standard&ref=search-standalone&origin=jobCard#sol=d10fd7c134271fb8ee74f391818dbfd10f70e858)
+Listed two days ago
+[](https://au.seek.com/companies/environment-protection-authority-victoria-435816)
+### 
+[Environment Protection Officer](https://au.seek.com/job/92379149?type=standard&ref=search-standalone&origin=cardTitle#sol=d10fd7c134271fb8ee74f391818dbfd10f70e858)
+at [Environment Protection Authority Victoria](https://au.seek.com/Environment-Protection-Authority-Victoria-jobs "Jobs at Environment Protection Authority Victoria")
+This is a Full time job
+Dandenong, Melbourne VIC
+$81,496 to $90,227
+  * Be responsible for EPA's on-ground regulatory response
+  * Contribute to education, compliance monitoring and inspections
+  * Fixed Term, Full Time opportunity until 30 October 2026!
+
+
+  * Be responsible for EPA's on-ground regulatory response
+  * Contribute to education, compliance monitoring and inspections
+  * Fixed Term, Full Time opportunity until 30 October 2026!
+
+
+An exciting Fixed Term/ Full Time opportunity for a passionate regulator until 12 August 2027!
+An exciting Fixed Term/ Full Time opportunity for a passionate regulator until 12 August 2027!
+subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
+2d ago
+2d ago
+[](https://au.seek.com/job/92396905?type=standard&ref=search-standalone#sol=7e899fe897a2b26e89ef217bfe8e247c29f66efc)
+[](https://au.seek.com/job/92396905?type=standard&ref=search-standalone&origin=jobCard#sol=7e899fe897a2b26e89ef217bfe8e247c29f66efc)
+Listed one day ago
+### 
+[Environmental Advisor](https://au.seek.com/job/92396905?type=standard&ref=search-standalone&origin=cardTitle#sol=7e899fe897a2b26e89ef217bfe8e247c29f66efc)
+at [Wulguru Technical Services Pty Ltd](https://au.seek.com/Wulguru-Technical-Services-jobs "Jobs at Wulguru Technical Services")
+This is a Full time job
+Townsville, Northern QLD
+  * • No two days are the same in this leading edge environmental consultancy.
+  * • Work and collaborate across functional teams in an informal and fun culture
+  * • Involved in Spatial/GIS, 3D analysis, remote sensing, satellite imagery.
+
+
+  * • No two days are the same in this leading edge environmental consultancy.
+  * • Work and collaborate across functional teams in an informal and fun culture
+  * • Involved in Spatial/GIS, 3D analysis, remote sensing, satellite imagery.
+
+
+Be part of a busy team providing environmental consultancy services to a variety of clients across Queensland.
+Be part of a busy team providing environmental consultancy services to a variety of clients across Queensland.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+1d ago
+1d ago
+[](https://au.seek.com/job/92422337?type=standard&ref=search-standalone#sol=1c1be6e0667db6e2d46018e7347f71a79bfe6ed9)
+[](https://au.seek.com/job/92422337?type=standard&ref=search-standalone&origin=jobCard#sol=1c1be6e0667db6e2d46018e7347f71a79bfe6ed9)
+Listed four hours ago
+[](https://au.seek.com/companies/sodexo-432610)
+### 
+[National Waste & Sustainability SME](https://au.seek.com/job/92422337?type=standard&ref=search-standalone&origin=cardTitle#sol=1c1be6e0667db6e2d46018e7347f71a79bfe6ed9)
+at [Sodexo](https://au.seek.com/Sodexo-jobs "Jobs at Sodexo")
+Be an early applicant
+This is a Full time job
+Sydney NSW
+We’re seeking a high-performing Operations & Waste Services Manager to lead multi-site delivery for a key national account.
+We’re seeking a high-performing Operations & Waste Services Manager to lead multi-site delivery for a key national account.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+4h ago
+4h ago
+[](https://au.seek.com/job/92379665?type=standard&ref=search-standalone#sol=7560ba1de3f718aa6bad1cefe4ff89587c741f1e)
+[](https://au.seek.com/job/92379665?type=standard&ref=search-standalone&origin=jobCard#sol=7560ba1de3f718aa6bad1cefe4ff89587c741f1e)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379665?type=standard&ref=search-standalone&origin=cardTitle#sol=7560ba1de3f718aa6bad1cefe4ff89587c741f1e)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Perth WA
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379670?type=standard&ref=search-standalone#sol=c84b7d39e2d736062487664fea7ee181cd0d5fae)
+[](https://au.seek.com/job/92379670?type=standard&ref=search-standalone&origin=jobCard#sol=c84b7d39e2d736062487664fea7ee181cd0d5fae)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379670?type=standard&ref=search-standalone&origin=cardTitle#sol=c84b7d39e2d736062487664fea7ee181cd0d5fae)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Hobart TAS
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92412324?type=standard&ref=search-standalone#sol=535277c2cfef3c51b237ab21612177444fff9313)
+[](https://au.seek.com/job/92412324?type=standard&ref=search-standalone&origin=jobCard#sol=535277c2cfef3c51b237ab21612177444fff9313)
+Listed one day ago
+[](https://au.seek.com/companies/department-of-water-and-environmental-regulation-wa-158933825545806)
+### 
+[Director Green Energy](https://au.seek.com/job/92412324?type=standard&ref=search-standalone&origin=cardTitle#sol=535277c2cfef3c51b237ab21612177444fff9313)
+at [Department of Water and Environmental Regulation](https://au.seek.com/Department-of-Water-and-Environmental-Regulation-WA-jobs "Jobs at Department of Water and Environmental Regulation WA")
+Be an early applicant
+This is a Full time job
+Joondalup, Perth WA(Hybrid)
+$171,519 – $185,781 per year
+  * Position available in Joondalup or Perth
+  * A collaborative, values-driven culture.
+  * Flexible working arrangements to suit your lifestyle.
+
+
+  * Position available in Joondalup or Perth
+  * A collaborative, values-driven culture.
+  * Flexible working arrangements to suit your lifestyle.
+
+
+Play a key role in shaping WA’s energy transition.
+Play a key role in shaping WA’s energy transition.
+subClassification: Government - StateGovernment - Stateclassification: Government & Defence(Government & Defence)
+1d ago
+1d ago
+[](https://au.seek.com/job/92379659?type=standard&ref=search-standalone#sol=965e5d4d257b7d04fe03dabbe1a7b23c1a4366e4)
+[](https://au.seek.com/job/92379659?type=standard&ref=search-standalone&origin=jobCard#sol=965e5d4d257b7d04fe03dabbe1a7b23c1a4366e4)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379659?type=standard&ref=search-standalone&origin=cardTitle#sol=965e5d4d257b7d04fe03dabbe1a7b23c1a4366e4)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Adelaide SA
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379661?type=standard&ref=search-standalone#sol=c38d162d41428bad155a74f6d63b271d92917dfd)
+[](https://au.seek.com/job/92379661?type=standard&ref=search-standalone&origin=jobCard#sol=c38d162d41428bad155a74f6d63b271d92917dfd)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379661?type=standard&ref=search-standalone&origin=cardTitle#sol=c38d162d41428bad155a74f6d63b271d92917dfd)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Brisbane QLD
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379669?type=standard&ref=search-standalone#sol=f2e2a6f2a4867715ce4198e741cdcca68c71fc97)
+[](https://au.seek.com/job/92379669?type=standard&ref=search-standalone&origin=jobCard#sol=f2e2a6f2a4867715ce4198e741cdcca68c71fc97)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379669?type=standard&ref=search-standalone&origin=cardTitle#sol=f2e2a6f2a4867715ce4198e741cdcca68c71fc97)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Melbourne VIC
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379663?type=standard&ref=search-standalone#sol=8029a17879eab2d72276e46cb403e248f65913ee)
+[](https://au.seek.com/job/92379663?type=standard&ref=search-standalone&origin=jobCard#sol=8029a17879eab2d72276e46cb403e248f65913ee)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379663?type=standard&ref=search-standalone&origin=cardTitle#sol=8029a17879eab2d72276e46cb403e248f65913ee)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Canberra ACT
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379671?type=standard&ref=search-standalone#sol=ef190c467491e8894a47e11261bf48c64a750a03)
+[](https://au.seek.com/job/92379671?type=standard&ref=search-standalone&origin=jobCard#sol=ef190c467491e8894a47e11261bf48c64a750a03)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379671?type=standard&ref=search-standalone&origin=cardTitle#sol=ef190c467491e8894a47e11261bf48c64a750a03)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Sydney NSW
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/92379666?type=standard&ref=search-standalone#sol=1cd45c157148aeba09d62fbacf2db21f0b7b987f)
+[](https://au.seek.com/job/92379666?type=standard&ref=search-standalone&origin=jobCard#sol=1cd45c157148aeba09d62fbacf2db21f0b7b987f)
+Listed two days ago
+[](https://au.seek.com/companies/seek-grad-158284953965453)
+### 
+[2026/27 EY Vacationer Program – Climate Change and Sustainability Services](https://au.seek.com/job/92379666?type=standard&ref=search-standalone&origin=cardTitle#sol=1cd45c157148aeba09d62fbacf2db21f0b7b987f)
+at [SEEK Grad](https://au.seek.com/SEEK-Grad-jobs "Jobs at SEEK Grad")
+Be an early applicant
+This is a Full time job
+Darwin NT
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+Join the EY Vacationer Program and explore what your future career could look like. Gain real‑world exposure, build your skills, and set yourself up f
+subClassification: OtherOtherclassification: Engineering(Engineering)
+2d ago
+2d ago
+[](https://au.seek.com/job/91919244?type=standard&ref=search-standalone#sol=12f62d6d9708b3024bb85d8fc4a8ce530149dce7)
+[](https://au.seek.com/job/91919244?type=standard&ref=search-standalone&origin=jobCard#sol=12f62d6d9708b3024bb85d8fc4a8ce530149dce7)
+>>>>>>> 7bac5f0 (update pipeline)
+Listed one day ago
+[](https://au.seek.com/companies/yindjibarndi-energy-corporation-173214293995076)
+### 
+<<<<<<< HEAD
 [Project Manager - Carbon Projects](https://au.seek.com/job/92380745?type=standard&ref=search-standalone&origin=cardTitle#sol=14f3f94f777a6ac25f9219725e3a569d31567c30)
 at [Aurec](https://au.seek.com/Aurec-Group-jobs "Jobs at Aurec Group")
 This is a Full time job
@@ -605,6 +1085,101 @@ Up to $130k plus super
 Want to work on projects that do some *real* good in the world? Then we should be talking.
 Want to work on projects that do some *real* good in the world? Then we should be talking.
 subClassification: Conservation, Parks & WildlifeConservation, Parks & Wildlifeclassification: Farming, Animals & Conservation(Farming, Animals & Conservation)
+=======
+[Environment & Heritage Officer - Karratha Based (No FIFO)](https://au.seek.com/job/91919244?type=standard&ref=search-standalone&origin=cardTitle#sol=12f62d6d9708b3024bb85d8fc4a8ce530149dce7)
+at [Yindjibarndi Energy Corporation](https://au.seek.com/Yindjibarndi-Energy-Corporation-jobs "Jobs at Yindjibarndi Energy Corporation")
+This is a Full time job
+Karratha, Port Hedland, Karratha & Pilbara WA
+$120,000 TRP + remote allowance + annual bonus
+  * Be Part of one of Australia's largest Indigenous Renewable Energy Partnerships
+  * We Care About Values, Team Culture & Eco-Friendly Energy Efficiency
+  * Karratha Based Role - Bonus + Remote Allowance (No housing is included)
+
+
+  * Be Part of one of Australia's largest Indigenous Renewable Energy Partnerships
+  * We Care About Values, Team Culture & Eco-Friendly Energy Efficiency
+  * Karratha Based Role - Bonus + Remote Allowance (No housing is included)
+
+
+Opportunity for a Karratha based individual who thrives in the field & is committed to protecting country & supporting major renewable energy projects
+Opportunity for a Karratha based individual who thrives in the field & is committed to protecting country & supporting major renewable energy projects
+subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
+1d ago
+1d ago
+[](https://au.seek.com/job/92371327?type=standard&ref=search-standalone#sol=91c7054a4d0f77d01dd1cf7c0e8cf0683bafebd7)
+[](https://au.seek.com/job/92371327?type=standard&ref=search-standalone&origin=jobCard#sol=91c7054a4d0f77d01dd1cf7c0e8cf0683bafebd7)
+Listed two days ago
+[](https://au.seek.com/companies/surf-coast-shire-council-877938)
+### 
+[Circular Economy Team Leader](https://au.seek.com/job/92371327?type=standard&ref=search-standalone&origin=cardTitle#sol=91c7054a4d0f77d01dd1cf7c0e8cf0683bafebd7)
+at [Surf Coast Shire Council](https://au.seek.com/Surf-Coast-Shire-Council-jobs "Jobs at Surf Coast Shire Council")
+Be an early applicant
+This is a Full time job
+Torquay, South West Coast VIC(Hybrid)
+$101,213 – $108,972 pa plus 12% super
+  * Drive real environmental impact through circular economy leadership
+  * Join an innovative team shaping sustainable community outcomes
+  * Work where lifestyle, purpose and progressive thinking connect
+
+
+  * Drive real environmental impact through circular economy leadership
+  * Join an innovative team shaping sustainable community outcomes
+  * Work where lifestyle, purpose and progressive thinking connect
+
+
+Lead innovative circular economy initiatives shaping a sustainable future for the Surf Coast Shire through collaboration, impact and change.
+Lead innovative circular economy initiatives shaping a sustainable future for the Surf Coast Shire through collaboration, impact and change.
+subClassification: Environment & Sustainability ConsultingEnvironment & Sustainability Consultingclassification: Consulting & Strategy(Consulting & Strategy)
+2d ago
+2d ago
+[](https://au.seek.com/job/92407903?type=standard&ref=search-standalone#sol=e581e45b94c5edc3208a2a7362ca575145f1e5e4)
+[](https://au.seek.com/job/92407903?type=standard&ref=search-standalone&origin=jobCard#sol=e581e45b94c5edc3208a2a7362ca575145f1e5e4)
+Listed one day ago
+[](https://au.seek.com/companies/university-of-tasmania-432845)
+### 
+[Professor of Sustainable Systems and Integrative Assessment](https://au.seek.com/job/92407903?type=standard&ref=search-standalone&origin=cardTitle#sol=e581e45b94c5edc3208a2a7362ca575145f1e5e4)
+at [University of Tasmania](https://au.seek.com/University-of-Tasmania-jobs "Jobs at University of Tasmania")
+Be an early applicant
+This is a Full time job
+Hobart TAS
+Academic level E $205,285 - $209,39 + 17% super
+  * Strengthen the delivery of IMAS Strategy 2025-2030
+  * Lead the development of our bid for
+
+
+  * Strengthen the delivery of IMAS Strategy 2025-2030
+  * Lead the development of our bid for
+
+
+Provide leadership to design submission of the NESP3 Marine Hub bid, enabling sustainable Australian oceans through evidence-to-impact implementation.
+Provide leadership to design submission of the NESP3 Marine Hub bid, enabling sustainable Australian oceans through evidence-to-impact implementation.
+subClassification: Teaching - TertiaryTeaching - Tertiaryclassification: Education & Training(Education & Training)
+1d ago
+1d ago
+[](https://au.seek.com/job/92391215?type=standard&ref=search-standalone#sol=6b94323965849ced08aa91529d5e91e91e406240)
+[](https://au.seek.com/job/92391215?type=standard&ref=search-standalone&origin=jobCard#sol=6b94323965849ced08aa91529d5e91e91e406240)
+Listed one day ago
+[](https://au.seek.com/companies/snowy-hydro-834492)
+### 
+[Senior Environmental Advisor](https://au.seek.com/job/92391215?type=standard&ref=search-standalone&origin=cardTitle#sol=6b94323965849ced08aa91529d5e91e91e406240)
+at [Snowy Hydro Pty Ltd](https://au.seek.com/Snowy-Hydro-jobs "Jobs at Snowy Hydro")
+Be an early applicant
+This is a Full time job
+Cooma, Tumut, Snowy & Monaro NSW(Hybrid)
+  * Join a 100% Australian Owned and operated renewable energy company
+  * Full time Monday to Friday | Cooma | Relocation Support Available
+  * Enjoy competitive remuneration and a supportive workplace culture
+
+
+  * Join a 100% Australian Owned and operated renewable energy company
+  * Full time Monday to Friday | Cooma | Relocation Support Available
+  * Enjoy competitive remuneration and a supportive workplace culture
+
+
+Provide expert environmental advice to the business and maintain the regulatory performance of Snowy Hydro's operations.
+Provide expert environmental advice to the business and maintain the regulatory performance of Snowy Hydro's operations.
+subClassification: Environmental, Earth & GeosciencesEnvironmental, Earth & Geosciencesclassification: Science & Technology(Science & Technology)
+>>>>>>> 7bac5f0 (update pipeline)
 1d ago
 1d ago
 Modify my search

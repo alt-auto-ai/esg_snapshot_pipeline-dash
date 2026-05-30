@@ -8,6 +8,8 @@ TARGET_FOLDERS = [
     r"10_job_md_files"
 ]
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+
 def delete_files_in_folders(folders_to_clean: list[str]):
     """
     Iterates through a list of folders and deletes all files found within them.
@@ -18,6 +20,8 @@ def delete_files_in_folders(folders_to_clean: list[str]):
 
     for folder_path_str in folders_to_clean:
         folder_path = Path(folder_path_str)
+        if not folder_path.is_absolute():
+            folder_path = SCRIPT_DIR / folder_path
         files_deleted_in_folder = 0
 
         print(f"\nProcessing folder: {folder_path_str}")

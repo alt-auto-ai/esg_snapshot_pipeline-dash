@@ -138,10 +138,11 @@ def remove_blank_markdown_files(folder):
     for path in glob.glob(os.path.join(folder, "*.md")):
         try:
             with open(path, "r", encoding="utf-8", errors="ignore") as file:
-                if file.read().strip() == "":
-                    os.remove(path)
-                    removed.append(os.path.basename(path))
-                    print(f"[🗑] Removed blank file: {os.path.basename(path)}")
+                is_blank = file.read().strip() == ""
+            if is_blank:
+                os.remove(path)
+                removed.append(os.path.basename(path))
+                print(f"[🗑] Removed blank file: {os.path.basename(path)}")
         except Exception as e:
             print(f"[!] Failed to check/remove blank file {path}: {e}")
     print(f"[INFO] Blank .md files removed from {folder}: {len(removed)}")

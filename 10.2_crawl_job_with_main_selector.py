@@ -34,17 +34,19 @@ from bs4 import BeautifulSoup  # pip install beautifulsoup4
 # =========================
 # CONFIG
 # =========================
-CSV_PATH = r"10.1_job_data.csv"
-CSV_WITH_SELECTORS_PATH = r"10.2_job_links_with_selectors.csv"
+SCRIPT_DIR = Path(__file__).resolve().parent
 
-OUTPUT_DIR = r"10_job_md_files"
-FAIL_LOG = r"10.2_job_failures.csv"
-INVALID_LOG = r"10.2_job_invalid_urls.csv"
-NORMALIZED_MAP_LOG = r"10.2_job_normalized_map.csv"
-SELECTOR_LOG = r"10.2_job_guessed_selectors.csv"
+CSV_PATH = str(SCRIPT_DIR / "10.1_job_data.csv")
+CSV_WITH_SELECTORS_PATH = str(SCRIPT_DIR / "10.2_job_links_with_selectors.csv")
+
+OUTPUT_DIR = str(SCRIPT_DIR / "10_job_md_files")
+FAIL_LOG = str(SCRIPT_DIR / "10.2_job_failures.csv")
+INVALID_LOG = str(SCRIPT_DIR / "10.2_job_invalid_urls.csv")
+NORMALIZED_MAP_LOG = str(SCRIPT_DIR / "10.2_job_normalized_map.csv")
+SELECTOR_LOG = str(SCRIPT_DIR / "10.2_job_guessed_selectors.csv")
 
 # NEW: output file mapping input rows to md filenames
-STORY_FILENAME_LINKS = r"10.2_job_links.csv"  # NEW
+STORY_FILENAME_LINKS = str(SCRIPT_DIR / "10.2_job_links.csv")  # NEW
 
 MAX_CONCURRENT = 10
 DEDUPE = False  # keep False so you crawl duplicates too

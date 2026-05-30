@@ -9,6 +9,12 @@ from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 from crawl4ai.async_dispatcher import MemoryAdaptiveDispatcher, CrawlerMonitor
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+os.environ.setdefault("CRAWL4_AI_BASE_DIRECTORY", SCRIPT_DIR)
+SOURCE_LINK_CSV = os.path.join(SCRIPT_DIR, '0_source_link.csv')
+SOURCE_MD_DIR = os.path.join(SCRIPT_DIR, 'source_md_files')
+FAILURE_LOG = os.path.join(SCRIPT_DIR, '1_source_crawl_failures.md')
+
 def fix_url(url):
     """Fix URL format if needed"""
     if not url:
@@ -62,9 +68,9 @@ async def process_url(url, index, crawler, config, total_urls, failures):
     try:
         result = await crawler.arun(url=fixed_url, config=config)
         if result.success:
-            os.makedirs('source_md_files', exist_ok=True)
+            os.makedirs(SOURCE_MD_DIR, exist_ok=True)
             url_slug = sanitize_url_for_filename(fixed_url)
-            output_file = f'source_md_files//{index}_{url_slug}.md'
+            output_file = os.path.join(SOURCE_MD_DIR, f'{index}_{url_slug}.md')
             with open(output_file, 'w', encoding='utf-8') as f:
                 f.write(result.markdown.raw_markdown)
             print(f"[{index}/{total_urls}] Successfully processed: {fixed_url}")
@@ -138,7 +144,7 @@ async def main():
     )
 
     # Read URLs from CSV
-    df = pd.read_csv('0_source_link.csv', usecols=[0], engine='python')
+    df = pd.read_csv(SOURCE_LINK_CSV, usecols=[0], engine='python')
     urls = df.iloc[:, 0].tolist()  # Get first column
     total_urls = len(urls)
     failures = []  # List to track failures
@@ -165,7 +171,7 @@ async def main():
     
     # Write failures to markdown file if any occurred
     if failures:
-        failure_file = '1_source_crawl_failures.md'
+        failure_file = FAILURE_LOG
         with open(failure_file, 'w', encoding='utf-8') as f:
             f.write("# Crawl Failures Log\n\n")
             f.write(f"Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")

@@ -10,6 +10,7 @@ English Search
 [](https://press.un.org/en/content/secretary-general/press-release#main-content)
 # Secretary-General: Press Release
 * * *
+<<<<<<< HEAD
 28 May 2026
 Press Release
 SG/SM/23151
@@ -22,6 +23,25 @@ SG/SM/23150
 Following is the text of UN Secretary-General António Guterres’ video message for World Environment Day, observed on 5 June:
 28 May 2026
 Press Release
+=======
+29 May 2026
+Press Release
+SG/SM/23152
+### [Increase Investment, Governance to Ensure All Africans Have Safely Managed Water, Sanitation Services, Secretary-General Urges Africa Dialogue Series](https://press.un.org/en/2026/sgsm23152.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video message to the Africa Dialogue Series 2026: “Water and Sanitation for Life: Harnessing Water Resources for the Africa We Want”, today in New York:
+28 May 2026
+Press Release
+SG/SM/23151
+### [Ukraine War Risks Spiralling Out of Control, Secretary-General Warns Security Council, Calls for Full, Unconditional Ceasefire](https://press.un.org/en/2026/sgsm23151.doc.htm)
+Following are UN Secretary-General António Guterres’ remarks to the Security Council meeting on Ukraine, in New York today:
+28 May 2026
+Press Release
+SG/SM/23150
+### [Each Degree of Temperature Overshoot Brings Harm, Secretary-General Warns on World Environment Day, Calls for Rapid Shift to Renewables](https://press.un.org/en/2026/sgsm23150.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video message for World Environment Day, observed on 5 June:
+28 May 2026
+Press Release
+>>>>>>> 7bac5f0 (update pipeline)
 SG/SM/23149
 ### [As UN80 Enters ‘Critical New Phase’ for Decisions, Delivery, Secretary-General Urges General Assembly to Support Reforms, Meet ‘Bedrock’ Treaty Obligations](https://press.un.org/en/2026/sgsm23149.doc.htm)
 Following are UN Secretary-General António Guterres’ remarks to the General Assembly on the UN80 Initiative, in New York today:
@@ -55,8 +75,11 @@ Press Release
 SG/SM/23144
 ### [Secretary-General Urges Reinvigorated Commitment to End Colonialism, Build Just, Inclusive Future, as Caribbean Regional Seminar on Decolonization Begins](https://press.un.org/en/2026/sgsm23144.doc.htm)
 Following is UN Secretary-General António Guterres’ message for the opening of the Caribbean Regional Seminar on Decolonization, in Managua today:
+<<<<<<< HEAD
 22 May 2026
 Press Release
 SG/SM/23143
 ### [Secretary-General Disappointed at Lack of Consensus at Nuclear Non-proliferation Conference](https://press.un.org/en/2026/sgsm23143.doc.htm)
 The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
+=======
+>>>>>>> 7bac5f0 (update pipeline)

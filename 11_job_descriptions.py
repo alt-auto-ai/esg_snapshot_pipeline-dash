@@ -31,14 +31,15 @@ else:
 
 
 # ----------------- ENV -----------------
-load_dotenv()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(SCRIPT_DIR, ".env"))
 
-INPUT_CSV = r"10.2_job_links.csv"
-SOURCE_DIR = r"10_job_md_files"
-OUTPUT_CSV = r"11_job_all_data.csv"
+INPUT_CSV = os.path.join(SCRIPT_DIR, r"10.2_job_links.csv")
+SOURCE_DIR = os.path.join(SCRIPT_DIR, r"10_job_md_files")
+OUTPUT_CSV = os.path.join(SCRIPT_DIR, r"11_job_all_data.csv")
 QUALITY_CHECK_DIR = os.getenv(
     "QUALITY_CHECK_DIR",
-    r"Quality_Check",
+    os.path.join(SCRIPT_DIR, r"Quality_Check"),
 )
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")

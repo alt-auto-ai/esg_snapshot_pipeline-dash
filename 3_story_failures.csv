@@ -1,4 +1,5 @@
 url,error
+<<<<<<< HEAD
 https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service,"Unexpected error in _crawl_web at line 718 in _crawl_web (../../../miniconda3/envs/esg/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
 Error: Failed on navigating ACS-GOTO:
 Page.goto: net::ERR_TIMED_OUT at https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service
@@ -18,3 +19,6 @@ Code context:
  721                       # Walk the redirect chain.  Playwright returns only the last
  722                       # hop, so we trace the `request.redirected_from` links until the
  723                       # first response that differs from the final one and surface its"
+=======
+https://audit.wa.gov.au/wp-content/uploads/2026/05/Universities-and-TAFEs-improve-financial-controls.pdf,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (174 bytes, 0 chars visible)"
+>>>>>>> 7bac5f0 (update pipeline)

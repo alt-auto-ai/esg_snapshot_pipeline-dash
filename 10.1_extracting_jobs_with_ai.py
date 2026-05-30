@@ -40,10 +40,15 @@ else:
     PROFILE = "OAI"
 
 # ----------------- ENV -----------------
-load_dotenv()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(SCRIPT_DIR, ".env"))
 
 SOURCE_DIR = os.getenv("SOURCE_DIR", r"10_jobs_source_md_files")
+if not os.path.isabs(SOURCE_DIR):
+    SOURCE_DIR = os.path.join(SCRIPT_DIR, SOURCE_DIR)
 OUTPUT_CSV = os.getenv("OUTPUT_CSV", r"10.1_job_data.csv")
+if not os.path.isabs(OUTPUT_CSV):
+    OUTPUT_CSV = os.path.join(SCRIPT_DIR, OUTPUT_CSV)
 
 # API config
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/")
@@ -97,7 +102,6 @@ if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
 
 # ----------------- Prompt loading -----------------
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROMPT_FILE_PATH = os.path.join(SCRIPT_DIR, PROMPT_FILE)
 
 def load_prompt_yaml(path):

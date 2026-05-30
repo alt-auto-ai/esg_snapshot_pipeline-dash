@@ -13,11 +13,19 @@ The 2026 Climate Governance Forum will equip directors and senior leaders with p
 [ Tue 28 Apr event Wollongong, NSW 5:15pm AEST Illawarra Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001104.html)
 [ Tue 12 May event 9:00am AEST Tech Governance Forum 2026 - Virtual ](https://www.aicd.com.au/events/all-events/online/EVNT-001055.html)
 [ Tue 19 May event Toowoomba, QLD 5:15pm AEST Toowoomba Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001100.html)
+<<<<<<< HEAD
 [ Thu 28 May event Morwell, VIC 5:15pm AEST Gippsland Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/vic/EVNT-001110.html)
 [ Thu 28 May event Brisbane, QLD 5:30pm AEST Brisbane Graduates Networking Evening ](https://www.aicd.com.au/events/all-events/qld/EVNT-001172.html)
 [ Tue 02 Jun event Surfers Paradise, QLD 5:15pm AEST Gold Coast Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001114.html)
 [ Tue 02 Jun event SYDNEY, NSW 5:15pm AEST Sydney Director Download: Executive Board Dynamics: When Challenge Meets Partnership ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001187.html)
 [ Wed 03 Jun event Launceston, TAS 12:15pm AEST Launceston Directors Briefing: Culture in the Boardroom ](https://www.aicd.com.au/events/all-events/tas/EVNT-001152.html)
+=======
+[ Tue 02 Jun event Surfers Paradise, QLD 5:15pm AEST Gold Coast Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001114.html)
+[ Tue 02 Jun event SYDNEY, NSW 5:15pm AEST Sydney Director Download: Executive Board Dynamics: When Challenge Meets Partnership ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001187.html)
+[ Wed 03 Jun event Launceston, TAS 12:15pm AEST Launceston Directors Briefing: Culture in the Boardroom ](https://www.aicd.com.au/events/all-events/tas/EVNT-001152.html)
+[ Thu 04 Jun event Brisbane, Qld 11:00am AEST Brisbanes Biggest Boardroom Lunch ](https://www.aicd.com.au/events/all-events/qld/EVNT-001061.html)
+[ Thu 04 Jun event DARWIN, NT 5:15pm ACST Darwin Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nt/EVNT-001101.html)
+>>>>>>> 7bac5f0 (update pipeline)
 No current events match your criteria. Please try again. 
 Australia’s leading magazine for directors 
 Delivering timely insights, expert perspectives and practical guidance for today’s boards. 

@@ -37,21 +37,28 @@ else:
 
 
 # ----------------- ENV -----------------
-load_dotenv()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(SCRIPT_DIR, ".env"))
 
-INPUT_CSV = r"9.3_events_links.csv"
+INPUT_CSV = os.path.join(SCRIPT_DIR, r"9.3_events_links.csv")
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"9.2_events_page_mds",
+    os.path.join(SCRIPT_DIR, r"9.2_events_page_mds"),
 )
+if not os.path.isabs(SOURCE_DIR):
+    SOURCE_DIR = os.path.join(SCRIPT_DIR, SOURCE_DIR)
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"9.4_events_all_data.csv",
+    os.path.join(SCRIPT_DIR, r"9.4_events_all_data.csv"),
 )
+if not os.path.isabs(OUTPUT_CSV):
+    OUTPUT_CSV = os.path.join(SCRIPT_DIR, OUTPUT_CSV)
 QUALITY_CHECK_DIR = os.getenv(
     "QUALITY_CHECK_DIR",
-    r"Quality_Check",
+    os.path.join(SCRIPT_DIR, r"Quality_Check"),
 )
+if not os.path.isabs(QUALITY_CHECK_DIR):
+    QUALITY_CHECK_DIR = os.path.join(SCRIPT_DIR, QUALITY_CHECK_DIR)
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1").rstrip("/")

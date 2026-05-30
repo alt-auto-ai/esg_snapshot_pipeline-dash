@@ -33,21 +33,38 @@ else:
     PROFILE = "OAI"
 
 # ----------------- ENV -----------------
-load_dotenv()
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 # Paths
-SOURCE_DIR = r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
-INPUT_CSV = r"8_esg_draft_single.csv"
+SOURCE_DIR = os.getenv("SOURCE_DIR", os.path.join(PROJECT_ROOT, "source_md_files_cleaned"))
+INPUT_CSV = os.getenv("INPUT_CSV", os.path.join(PROJECT_ROOT, "8_esg_draft_single.csv"))
 # 🆕 Write to 8.1_esg_highlights.csv (per request)
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"8.1_esg_highlights_multi.csv"
+    os.path.join(PROJECT_ROOT, "8.1_esg_highlights_multi.csv")
 )
 # 📎 Also mirror into Quality_Check
 QUALITY_CHECK_DIR = os.getenv(
     "QUALITY_CHECK_DIR",
-    r"Quality_Check"
+    os.path.join(PROJECT_ROOT, "Quality_Check")
 )
+
+cwd_source_dir = os.path.abspath("source_md_files_cleaned")
+if "SOURCE_DIR" not in os.environ and os.path.isdir(cwd_source_dir) and any(name.lower().endswith(".md") for name in os.listdir(cwd_source_dir)):
+    SOURCE_DIR = cwd_source_dir
+
+cwd_input_csv = os.path.abspath("8_esg_draft_single.csv")
+if "INPUT_CSV" not in os.environ and os.path.exists(cwd_input_csv):
+    INPUT_CSV = cwd_input_csv
+
+cwd_output_csv = os.path.abspath("8.1_esg_highlights_multi.csv")
+if "OUTPUT_CSV" not in os.environ:
+    OUTPUT_CSV = cwd_output_csv
+
+cwd_quality_check_dir = os.path.abspath("Quality_Check")
+if "QUALITY_CHECK_DIR" not in os.environ and os.path.isdir(cwd_quality_check_dir):
+    QUALITY_CHECK_DIR = cwd_quality_check_dir
 
 # API config
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -102,7 +119,7 @@ if not MODEL_NAME:
 
 # ----------------- Prompt loading -----------------
 # 🔁 Use 8.1_esg_highlights.yaml (per request)
-PROMPT_FILE_PATH = r"8.1_esg_highlights.yaml"
+PROMPT_FILE_PATH = os.path.join(PROJECT_ROOT, "8.1_esg_highlights.yaml")
 
 def load_prompt_yaml(path):
     with open(path, "r", encoding="utf-8") as f:

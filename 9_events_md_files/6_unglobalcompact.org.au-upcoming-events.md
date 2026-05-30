@@ -1,4 +1,4 @@
-Press Alt+1 for screen-reader mode, Alt+0 to cancel
+For screen-reader mode - click the first button of the website
 # Upcoming Events
 View all locations Sydney Melbourne Brisbane Perth Adelaide Hobart Online Antalya, Türkiye
 11 Jun   

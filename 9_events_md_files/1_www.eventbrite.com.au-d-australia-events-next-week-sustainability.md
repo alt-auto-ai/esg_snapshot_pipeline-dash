@@ -25,13 +25,21 @@ Wednesday at 9:00 AM
 South Wharf · Melbourne Convention and Exhibition Centre (MCEC)
 From $1,271.93
 _Share this event: Sustainability Business Live_ _Save this event: Sustainability Business Live_
+<<<<<<< HEAD
   * Thu, 4 June, 5:30 pm
+=======
+  * Thursday at 5:30 PM
+>>>>>>> 7bac5f0 (update pipeline)
 Sydney · Pyrmont Bridge Hotel
 From £0.00
 Small99
 9.6k followers
 _Save this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_ _Share this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_
+<<<<<<< HEAD
 Thu, 4 June, 5:30 pm
+=======
+Thursday at 5:30 PM
+>>>>>>> 7bac5f0 (update pipeline)
 Sydney · Pyrmont Bridge Hotel
 From £0.00
 _Share this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_ _Save this event: Sydney - Small99's People, Planet, Pint™: Sustainability Meetup_
@@ -64,7 +72,11 @@ Thursday at 9:00 AM
 Balmain · Regus Balmain
 From $743.56
 MG Aussie
+<<<<<<< HEAD
 436 followers
+=======
+437 followers
+>>>>>>> 7bac5f0 (update pipeline)
 _Save this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_ _Share this event: Building Sustainable & ESG-Driven Organizations – 1 Day Course in Sydney_
 Sales Ended
 Thursday at 9:00 AM
@@ -125,7 +137,11 @@ From $0.00
 _Share this event: Dairy Innovation Day 2026_ _Save this event: Dairy Innovation Day 2026_
   * [](https://www.eventbrite.com.au/e/create-your-own-natural-cleaning-products-sunday-session-tickets-1987963508368?aff=ebdssbdestsearch)
 ### [Create your own natural cleaning products - Sunday session](https://www.eventbrite.com.au/e/create-your-own-natural-cleaning-products-sunday-session-tickets-1987963508368?aff=ebdssbdestsearch)
+<<<<<<< HEAD
 Sunday at 1:00 PM
+=======
+Tomorrow at 1:00 PM
+>>>>>>> 7bac5f0 (update pipeline)
 MOUNT MARTHA · Eco Living Display Centre
 From $25.00
 Mornington Peninsula Shire
@@ -133,6 +149,7 @@ Mornington Peninsula Shire
 _Save this event: Create your own natural cleaning products - Sunday session_ _Share this event: Create your own natural cleaning products - Sunday session_
 [](https://www.eventbrite.com.au/e/create-your-own-natural-cleaning-products-sunday-session-tickets-1987963508368?aff=ebdssbdestsearch)
 ### [Create your own natural cleaning products - Sunday session](https://www.eventbrite.com.au/e/create-your-own-natural-cleaning-products-sunday-session-tickets-1987963508368?aff=ebdssbdestsearch)
+<<<<<<< HEAD
 Sunday at 1:00 PM
 MOUNT MARTHA · Eco Living Display Centre
 From $25.00
@@ -151,6 +168,26 @@ Sat, 6 June, 1:00 pm
 MOUNT MARTHA · Eco Living Display Centre
 From $15.00
 _Share this event: Preserve your own olives workshop_ _Save this event: Preserve your own olives workshop_
+=======
+Tomorrow at 1:00 PM
+MOUNT MARTHA · Eco Living Display Centre
+From $25.00
+_Share this event: Create your own natural cleaning products - Sunday session_ _Save this event: Create your own natural cleaning products - Sunday session_
+  * [](https://www.eventbrite.com.au/e/its-a-hairy-world-film-series-melbourne-screening-i-1-june-tickets-1986491570763?aff=ebdssbdestsearch)
+### [It's A Hairy World Film Series Melbourne Screening I 1 June](https://www.eventbrite.com.au/e/its-a-hairy-world-film-series-melbourne-screening-i-1-june-tickets-1986491570763?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+Yarraville · Sun Theatre
+From $10.00
+Sustainable Salons
+49 followers
+_Save this event: It's A Hairy World Film Series Melbourne Screening I 1 June_ _Share this event: It's A Hairy World Film Series Melbourne Screening I 1 June_
+[](https://www.eventbrite.com.au/e/its-a-hairy-world-film-series-melbourne-screening-i-1-june-tickets-1986491570763?aff=ebdssbdestsearch)
+### [It's A Hairy World Film Series Melbourne Screening I 1 June](https://www.eventbrite.com.au/e/its-a-hairy-world-film-series-melbourne-screening-i-1-june-tickets-1986491570763?aff=ebdssbdestsearch)
+Monday at 6:30 PM
+Yarraville · Sun Theatre
+From $10.00
+_Share this event: It's A Hairy World Film Series Melbourne Screening I 1 June_ _Save this event: It's A Hairy World Film Series Melbourne Screening I 1 June_
+>>>>>>> 7bac5f0 (update pipeline)
   * [](https://www.eventbrite.com.au/e/leadership-matters-breakfast-with-balaji-krishnamurthy-tickets-1988470919047?aff=ebdssbdestsearch)
 ### [Leadership Matters Breakfast with Balaji Krishnamurthy](https://www.eventbrite.com.au/e/leadership-matters-breakfast-with-balaji-krishnamurthy-tickets-1988470919047?aff=ebdssbdestsearch)
 Wednesday at 7:00 AM
@@ -165,6 +202,23 @@ Wednesday at 7:00 AM
 Burswood · Crown Perth, Grand Ballroom
 From $185.00
 _Share this event: Leadership Matters Breakfast with Balaji Krishnamurthy_ _Save this event: Leadership Matters Breakfast with Balaji Krishnamurthy_
+<<<<<<< HEAD
+=======
+  * [](https://www.eventbrite.com.au/e/preserve-your-own-olives-workshop-tickets-1985342985313?aff=ebdssbdestsearch)
+### [Preserve your own olives workshop](https://www.eventbrite.com.au/e/preserve-your-own-olives-workshop-tickets-1985342985313?aff=ebdssbdestsearch)
+Sat, 6 June, 1:00 pm
+MOUNT MARTHA · Eco Living Display Centre
+From $15.00
+Mornington Peninsula Shire
+452 followers
+_Save this event: Preserve your own olives workshop_ _Share this event: Preserve your own olives workshop_
+[](https://www.eventbrite.com.au/e/preserve-your-own-olives-workshop-tickets-1985342985313?aff=ebdssbdestsearch)
+### [Preserve your own olives workshop](https://www.eventbrite.com.au/e/preserve-your-own-olives-workshop-tickets-1985342985313?aff=ebdssbdestsearch)
+Sat, 6 June, 1:00 pm
+MOUNT MARTHA · Eco Living Display Centre
+From $15.00
+_Share this event: Preserve your own olives workshop_ _Save this event: Preserve your own olives workshop_
+>>>>>>> 7bac5f0 (update pipeline)
   * [](https://www.eventbrite.com.au/e/support-at-home-in-practice-registration-1989455614297?aff=ebdssbdestsearch)
 ### [Support at Home in Practice](https://www.eventbrite.com.au/e/support-at-home-in-practice-registration-1989455614297?aff=ebdssbdestsearch)
 Wednesday at 9:30 AM
@@ -210,7 +264,11 @@ Tuesday at 9:00 AM
 Melbourne · Regus 120 Collins Street
 From $743.56
 MG Aussie
+<<<<<<< HEAD
 436 followers
+=======
+437 followers
+>>>>>>> 7bac5f0 (update pipeline)
 _Save this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_ _Share this event: Waste Management Skills for Manufacturing – 1 Day Training in Melbourne_
 Sales Ended
 Tuesday at 9:00 AM
@@ -258,6 +316,7 @@ Fri, 5 June, 7:00 pm
 Doncaster · Manningham Function Centre, Function Room 1
 Free
 _Share this event: Inspired Living Series - World Environment Day_ _Save this event: Inspired Living Series - World Environment Day_
+<<<<<<< HEAD
   * [](https://www.eventbrite.com.au/e/national-electric-aviation-summit-tickets-1989067622804?aff=ebdssbdestsearch)
 ### [National Electric Aviation Summit](https://www.eventbrite.com.au/e/national-electric-aviation-summit-tickets-1989067622804?aff=ebdssbdestsearch)
 Wednesday at 9:00 AM
@@ -270,6 +329,8 @@ Wednesday at 9:00 AM
 Albion Park Rail · Aviation Museum Australia - HARS
 Free
 _Share this event: National Electric Aviation Summit_ _Save this event: National Electric Aviation Summit_
+=======
+>>>>>>> 7bac5f0 (update pipeline)
 
 
 View map
@@ -286,6 +347,43 @@ View map
 [Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
 [Things to do in Fortitude Valley](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)[](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)
 [Things to do in Symonston](https://www.eventbrite.com.au/ttd/australia--symonston/)[](https://www.eventbrite.com.au/ttd/australia--symonston/)
+<<<<<<< HEAD
+=======
+[](https://www.eventbrite.com.au/e/sighting-and-listening-occasion-june-2nd-2026-tickets-1990264298092?aff=ebdssbdestsearch)
+### [Sighting and Listening Occasion-June 2nd 2026](https://www.eventbrite.com.au/e/sighting-and-listening-occasion-june-2nd-2026-tickets-1990264298092?aff=ebdssbdestsearch)
+Tuesday at 6:30 PM AEST
+Free
+Adidam Australia
+102 followers
+Promoted
+_Save this event: Sighting and Listening Occasion-June 2nd 2026_ _Share this event: Sighting and Listening Occasion-June 2nd 2026_
+ _Promoted event actions_
+[](https://www.eventbrite.com.au/e/practical-assistive-technology-online-workshop-and-qa-for-parents-tickets-1988542065849?aff=ebdssbdestsearch)
+### [Practical Assistive Technology: Online Workshop and Q&A for Parents](https://www.eventbrite.com.au/e/practical-assistive-technology-online-workshop-and-qa-for-parents-tickets-1988542065849?aff=ebdssbdestsearch)
+Thu, 11 June, 7:00 pm AEST
+From $200.00
+P
+By **Psychological Assessment Solutions**
+Promoted
+_Save this event: Practical Assistive Technology: Online Workshop and Q &A for Parents_ _Share this event: Practical Assistive Technology: Online Workshop and Q &A for Parents_
+ _Promoted event actions_
+[](https://www.eventbrite.com.au/e/overcoming-chronic-stress-burnout-information-presentation-tickets-1990208371815?aff=ebdssbdestsearch)
+### [Overcoming Chronic Stress & Burnout - Information Presentation](https://www.eventbrite.com.au/e/overcoming-chronic-stress-burnout-information-presentation-tickets-1990208371815?aff=ebdssbdestsearch)
+Monday at 7:00 PM AEST
+Free
+Promoted
+_Save this event: Overcoming Chronic Stress & Burnout - Information Presentation_ _Share this event: Overcoming Chronic Stress & Burnout - Information Presentation_
+ _Promoted event actions_
+[](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
+### [The Scale Engine](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
+Tuesday at 10:00 AM AEST
+Free
+Basic Bananas
+709 followers
+Promoted
+_Save this event: The Scale Engine_ _Share this event: The Scale Engine_
+ _Promoted event actions_
+>>>>>>> 7bac5f0 (update pipeline)
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)

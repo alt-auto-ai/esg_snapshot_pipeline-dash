@@ -24,21 +24,34 @@ args = parser.parse_args()
 PROFILE = "OAI"
 
 # ----------------- ENV -----------------
-load_dotenv()
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(PROJECT_ROOT, ".env"))
 
 # Paths
 SOURCE_DIR = os.getenv(
     "SOURCE_DIR",
-    r"/home/z440/Desktop/Projects/ESG_SNAPSHOT_AUTOMATED/source_md_files_cleaned"
+    os.path.join(PROJECT_ROOT, "source_md_files_cleaned")
 )
 INPUT_CSV = os.getenv(
     "INPUT_CSV",
-    r"4.1_story_type.csv"
+    os.path.join(PROJECT_ROOT, "4.1_story_type.csv")
 )
 OUTPUT_CSV = os.getenv(
     "OUTPUT_CSV",
-    r"5_story_jurisdiction.csv"
+    os.path.join(PROJECT_ROOT, "5_story_jurisdiction.csv")
 )
+
+cwd_source_dir = os.path.abspath("source_md_files_cleaned")
+if "SOURCE_DIR" not in os.environ and os.path.isdir(cwd_source_dir) and any(name.lower().endswith(".md") for name in os.listdir(cwd_source_dir)):
+    SOURCE_DIR = cwd_source_dir
+
+cwd_input_csv = os.path.abspath("4.1_story_type.csv")
+if "INPUT_CSV" not in os.environ and os.path.exists(cwd_input_csv):
+    INPUT_CSV = cwd_input_csv
+
+cwd_output_csv = os.path.abspath("5_story_jurisdiction.csv")
+if "OUTPUT_CSV" not in os.environ:
+    OUTPUT_CSV = cwd_output_csv
 
 # API config
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
@@ -102,7 +115,7 @@ if not MODEL_NAME:
     raise SystemExit(f"[CONFIG ERROR] {PROFILE}_MODEL_NAME is not set in .env")
 
 # ----------------- Prompt loading -----------------
-PROMPT_FILE_PATH = r"5_story_filter_jurisdiction.yaml"
+PROMPT_FILE_PATH = os.path.join(PROJECT_ROOT, "5_story_filter_jurisdiction.yaml")
 
 def load_prompt_yaml(path):
     with open(path, "r", encoding="utf-8") as f:

@@ -1,4 +1,5 @@
 Date,Title,URL,URL_selector
+<<<<<<< HEAD
 2026-05-29,Sustainability Manager,https://au.seek.com/job/92411079?type=standard&ref=search-standalone&origin=cardTitle#sol=6e736c45fb3084c0c3b1d250597914b74ae88163,section:nth-of-type(1)
 2026-05-28,Executive Manager Environment & Resilience,https://au.seek.com/job/92371189?type=standard&ref=search-standalone&origin=jobCard#sol=95be13dced86dcb53d99974cca7c6102fc3e83c2,div:nth-of-type(1)
 2026-05-28,Environment Protection Officer,https://au.seek.com/job/92379149?type=standard&ref=search-standalone&origin=cardTitle#sol=8df64faa119f09107a1b6bcf11497e3e181a2ade,div:nth-of-type(1)
@@ -47,3 +48,34 @@ Date,Title,URL,URL_selector
 2026-05-29,Chief Executive Officer,https://au.seek.com/job/92327870?type=standard&ref=search-standalone&origin=cardTitle#sol=666dace4ec95a695b396e26d1699e0db6bc9e8a5,section:nth-of-type(1)
 2026-05-29,Chief Executive Officer,https://au.seek.com/job/92327853?type=standard&ref=search-standalone&origin=cardTitle#sol=c6e2cb897bba9ced808b51d8ab44896d5e48f078,section:nth-of-type(1)
 2026-05-29,General Manager - Technology,https://au.seek.com/job/92383479?type=standard&ref=search-standalone&origin=cardTitle#sol=c298a841e348fd85209773e5150a813ff6f3af83,div:nth-of-type(1)
+=======
+2026-05-29,"Deputy Director-General Capability, Corporate Management and Transformation",https://www.apsjobs.gov.au/s/job-details?title=deputy-director-general-capability-corporate-management-and-transformation&Id=a05OY00000OrdwfYAB,#main
+2026-05-28,Assistant Director - Environment and Sustainability,https://www.apsjobs.gov.au/s/job-details?title=assistant-director-environment-and-sustainability&Id=a05OY00000OjR7tYAF,article.job_detail__content.theme__secondary
+2026-05-28,Base Support Officers and Estate Management & Planning Officers,https://www.apsjobs.gov.au/s/job-details?title=base-support-officers-and-estate-management-planning-officers&Id=a05OY00000OhsddYAB,#main
+2026-05-25,Property Officer,https://www.apsjobs.gov.au/s/job-details?title=property-officer&Id=a05OY00000OjqmDYAR,#main
+2026-05-25,Property Services Officer,https://www.apsjobs.gov.au/s/job-details?title=property-services-officer&Id=a05OY00000OaZsfYAF,article.job_detail__content.theme__secondary
+2026-05-22,EL2 Director Internal Review,https://www.apsjobs.gov.au/s/job-details?title=el2-director-internal-review&Id=a05OY00000OjydJYAR,#main
+2026-05-22,Director (EL2) and Assistant Director (EL1) Nuclear Security,https://www.apsjobs.gov.au/s/job-details?title=director-el2-and-assistant-director-el1-nuclear-security&Id=a05OY00000OidkcYAB,article.job_detail__content.theme__secondary
+2026-05-22,Agency Security Officer,https://www.apsjobs.gov.au/s/job-details?title=agency-security-officer&Id=a05OY00000Oa5WPYAZ,article.job_detail__content.theme__secondary
+2026-05-18,Finance Manager - CSIRO Procurement,https://www.apsjobs.gov.au/s/job-details?title=finance-manager-csiro-procurement&Id=a05OY00000OdX37YAF,#main
+2026-05-18,Property Services and Capital Projects Managers,https://www.apsjobs.gov.au/s/job-details?title=property-services-and-capital-projects-managers&Id=a05OY00000OcrThYAJ,#main
+2026-05-15,Assistant Director,https://www.apsjobs.gov.au/s/job-details?title=assistant-director&Id=a05OY00000Oc49dYAB,article.job_detail__content.theme__secondary
+2026-05-15,"Assistant Director, Investor Relations",https://www.apsjobs.gov.au/s/job-details?title=assistant-director-investor-relations&Id=a05OY00000ObKBdYAN,article.job_detail__content.theme__secondary
+2026-05-15,"Deputy Chief Executive Officer, Legal, Actuarial, Governance and Reviews",https://www.apsjobs.gov.au/s/job-details?title=deputy-chief-executive-officer-legal-actuarial-governance-and-reviews&Id=a05OY00000OaWbRYAV,#main
+2026-05-15,Estate Strategic Planners,https://www.apsjobs.gov.au/s/job-details?title=estate-strategic-planners&Id=a05OY00000OXODpYAP,#main
+2026-05-12,Property Services Support Officer,https://www.apsjobs.gov.au/s/job-details?title=property-services-support-officer&Id=a05OY00000OXa8YYAT,#main
+2026-05-29,APS5 Analysts,https://www.apsjobs.gov.au/s/job-details?title=aps5-analysts&Id=a05OY00000OqPR8YAN,#main
+2026-05-29,Expeditioner Services Team Coordinator,https://www.apsjobs.gov.au/s/job-details?title=expeditioner-services-team-coordinator&Id=a05OY00000OqIpRYAV,#main
+2026-05-28,APS4 Analysts,https://www.apsjobs.gov.au/s/job-details?title=aps4-analysts&Id=a05OY00000OqDbGYAV,#main
+2026-05-28,"APS6 - Project Manager, Community Assets and Works",https://www.apsjobs.gov.au/s/job-details?title=aps6-project-manager-community-assets-and-works&Id=a05OY00000OpDOoYAN,#main
+2026-05-28,APS5-APS6 Analysts and Investigators,https://www.apsjobs.gov.au/s/job-details?title=aps5-aps6-analysts-and-investigators&Id=a05OY00000OoipdYAB,#main
+2026-05-27,Manager – Environmental Markets,https://www.apsjobs.gov.au/s/job-details?title=manager-environmental-markets&Id=a05OY00000OkWa9YAF,#main
+2026-05-27,Finance Business Partner,https://www.apsjobs.gov.au/s/job-details?title=finance-business-partner&Id=a05OY00000OnTO1YAN,#main
+2026-05-26,EL1 - Assistant Director - RPM and Data Governance (Multiple Roles),https://www.apsjobs.gov.au/s/job-details?title=el1-assistant-director-rpm-and-data-governance-multiple-roles-&Id=a05OY00000OlHUDYA3,#main
+2026-05-25,2026-27 Non-ongoing Employment & APS Mobility Register,https://www.apsjobs.gov.au/s/job-details?title=2026-27-non-ongoing-employment-aps-mobility-register&Id=a05OY00000NEW9GYAX,#main
+2026-05-25,Advisory Panel Secretariat,https://www.apsjobs.gov.au/s/job-details?title=advisory-panel-secretariat&Id=a05OY00000Ol0BdYAJ,#main
+2026-05-25,Senior RSV Nuyina Engineering and Technical Support Officer,https://www.apsjobs.gov.au/s/job-details?title=senior-rsv-nuyina-engineering-and-technical-support-officer&Id=a05OY00000OkZZeYAN,article.job_detail__content.theme__secondary
+2026-05-22,APS5-APS6 Investment Review Officers,https://www.apsjobs.gov.au/s/job-details?title=aps5-aps6-investment-review-officers&Id=a05OY00000OiZInYAN,#main
+2026-05-22,Permit and Research Support Officer – (Affirmative Measure – Indigenous),https://www.apsjobs.gov.au/s/job-details?title=permit-and-research-support-officer-affirmative-measure-indigenous-&Id=a05OY00000OjdAfYAJ,article.job_detail__content.theme__secondary
+2026-05-22,Permit and Research Support Officer,https://www.apsjobs.gov.au/s/job-details?title=permit-and-research-support-officer&Id=a05OY00000OjcOHYAZ,article.job_detail__content.theme__secondary
+>>>>>>> 7bac5f0 (update pipeline)

@@ -7,6 +7,48 @@ en
 Welcome to the ECESP archive of circular economy news, sorted according to date of publication. The search function on the left is available for past news articles.  
 Do you have a big announcement? Are you looking for participants or partners? Are you collecting feedback? If so, **g**et in touch with the****
 # All News
+<<<<<<< HEAD
+=======
+  * ##  [Funding: Calls for projects and proposals ](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/funding-calls-projects-and-proposals)
+[Financing items](https://circulareconomy.europa.eu/platform/en/financing)
+29 May 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Sector
+[Innovation and investment](https://circulareconomy.europa.eu/platform/en/sector/innovation-and-investment)
+Key Area
+[Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
+Here, you can find various calls for proposals and projects for which funding is available. The calls are published in our Financing section and will be removed once the deadline has passed. 
+For ease of reference, we will provide a list with brief descriptions and deadlines here!
+  * ##  [Do you know about the revised Waste Shipment Regulation?](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/do-you-know-about-revised-waste-shipment-regulation)
+[European Commission press release](https://environment.ec.europa.eu/news/new-waste-shipment-regulation-and-diwass-platform-go-live-2026-05-21_en)
+29 May 2026
+News type
+[New EU initiative](https://circulareconomy.europa.eu/platform/en/news-type/new-eu-initiative)
+Sector
+[Digital solutions](https://circulareconomy.europa.eu/platform/en/sector/digital-solutions),
+[Governance](https://circulareconomy.europa.eu/platform/en/sector/governance),
+[Waste management & Secondary Raw Materials](https://circulareconomy.europa.eu/platform/en/sector/waste-management-secondary-raw-materials)
+Scope
+[EU](https://circulareconomy.europa.eu/platform/en/scope/eu)
+Key Area
+[Waste management](https://circulareconomy.europa.eu/platform/en/key-area/waste-management)
+The revised Waste Shipment Regulation
+The Digital Waste Shipment System (DIWASS) has also been launched, and will cut red tape for businesses and authorities. Read all about it!
+  * ##  [Business statement calling for coordinated policy action to enable a more circular fashion industry](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/business-statement-calling-coordinated-policy-action-enable-more-circular-fashion-industry-0)
+29 May 2026
+News type
+[Announcement](https://circulareconomy.europa.eu/platform/en/news-type/announcement)
+Sector
+[Clothing and Fashion industry](https://circulareconomy.europa.eu/platform/en/sector/clothing-and-fashion-industry),
+[Governance](https://circulareconomy.europa.eu/platform/en/sector/governance)
+Scope
+[International](https://circulareconomy.europa.eu/platform/en/scope/international)
+Key Area
+[Production](https://circulareconomy.europa.eu/platform/en/key-area/production)
+The Ellen MacArthur Foundation has issued a business statement to policymakers calling for coordinated policy action across finance, environment and industry portfolios. 
+These changes would enable governments to rebalance the economics of fashion in favour of circular business models. See what it calls for!
+>>>>>>> 7bac5f0 (update pipeline)
   * ##  [RTSI 2026: call for contributions!](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/rtsi-2026-call-contributions)
 27 May 2026
 News type
@@ -111,6 +153,7 @@ Key Area
 EVEN-CLOSER is a European initiative driving critical raw materials recovery from e-waste.
 They are looking for startups active in this sector, as well as for experienced mentors.
 **Apply by 29 May**!
+<<<<<<< HEAD
   * ##  [Public consultation on adding exemptions to the rule on portable batteries](https://circulareconomy.europa.eu/platform/en/news-and-events/all-news/public-consultation-adding-exemptions-rule-portable-batteries)
 [Public consultation](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14857-Batteries-Regulation-list-of-products-exempted-from-the-general-removability-and-replaceability-requirements_en)
 05 May 2026
@@ -152,6 +195,8 @@ Scope
 Key Area
 [Innovation and investments](https://circulareconomy.europa.eu/platform/en/key-area/innovation-and-investments)
 Europe’s flagship environmental label is doing better than ever, with the latest figures underscoring its growing role in steering the market towards more sustainable choices. 
+=======
+>>>>>>> 7bac5f0 (update pipeline)
 
 
 ## Search the database

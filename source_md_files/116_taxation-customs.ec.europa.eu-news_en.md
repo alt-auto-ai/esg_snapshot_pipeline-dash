@@ -6,9 +6,27 @@ All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
+<<<<<<< HEAD
 ####  News (680)
+=======
+####  News (681)
+>>>>>>> 7bac5f0 (update pipeline)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
+  * News announcement
+  * 22 May 2026
+
+
+[VAT in the Digital Age: 2026 Work Programme available](https://taxation-customs.ec.europa.eu/news/vat-digital-age-2026-work-programme-available-2026-05-22_en)
+The European Commission has published the work programme for VAT in the Digital Age (ViDA), covering implementation activities planned for 2026.
+1 min read
+  * News article
+  * 29 May 2026
+
+
+[Pillar 2 Global Minimum Tax Directive: New FAQ available](https://taxation-customs.ec.europa.eu/news/pillar-2-global-minimum-tax-directive-new-faq-available-2026-05-29_en)
+Qualified status for the income inclusion rule of the Cypriot law transposing the Pillar 2 Directive.
+2 min read
   * News announcement
   * 22 May 2026
 
@@ -72,6 +90,7 @@ The study on wealth taxation, including net wealth, capital and exit taxes aims 
 [New EU guidance promotes cooperation between customs and businesses to tackle illicit trade](https://taxation-customs.ec.europa.eu/news/new-eu-guidance-promotes-cooperation-between-customs-and-businesses-tackle-illicit-trade-2026-04-14_en)
 The European Commission has released a new guidance document, prepared in consultation with trade associations, "AEO – Customs Cooperation to Detect, Report and React to Suspicious Activities"
 1 min read
+<<<<<<< HEAD
   * News article
   * 7 April 2026
 
@@ -79,6 +98,8 @@ The European Commission has released a new guidance document, prepared in consul
 [First CBAM certificate price is now available](https://taxation-customs.ec.europa.eu/news/first-cbam-certificate-price-now-available-2026-04-07_en)
 The European Commission has published the first price of CBAM certificates for 2026 Q1 on its new dedicated page on the CBAM website, marking an important milestone in the implementation of CBAM.
 1 min read
+=======
+>>>>>>> 7bac5f0 (update pipeline)
 Share this page 
   * [ X ](https://taxation-customs.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://taxation-customs.ec.europa.eu/news_en#facebook "Share via Facebook")

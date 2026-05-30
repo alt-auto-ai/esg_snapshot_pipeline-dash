@@ -194,7 +194,7 @@ Where and how Australia provides emergency assistance.
 
 
 #### [International Labour Mobility](https://www.dfat.gov.au/people-to-people/international-labour-mobility "International Labour Mobility")
-  * [Pacific Labour Mobility Scheme](https://www.dfat.gov.au/geo/pacific/engagement/pacific-labour-mobility "Pacific Labour Mobility")
+  * [Pacific Labour Mobility Scheme](https://www.dfat.gov.au/geo/pacific/engagement/pacific-australia-labour-mobility-scheme "The Pacific Australia Labour Mobility \(PALM\) scheme")
   * [Agriculture Visa](https://www.dfat.gov.au/people-to-people/international-labour-mobility/australian-agriculture-visa "Vietnam Labour Mobility Arrangement")
 
 

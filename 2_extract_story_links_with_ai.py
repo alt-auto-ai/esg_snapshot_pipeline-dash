@@ -34,9 +34,12 @@ else:
     PROFILE = "OAI"
 
 # ----------------- ENV -----------------
-load_dotenv()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+load_dotenv(os.path.join(SCRIPT_DIR, ".env"))
 
 SOURCE_DIR = os.getenv("SOURCE_DIR", r"source_md_files")
+if not os.path.isabs(SOURCE_DIR):
+    SOURCE_DIR = os.path.join(SCRIPT_DIR, SOURCE_DIR)
 OUTPUT_CSV = os.getenv("OUTPUT_CSV", r"./2_story_links.csv")
 
 # API config
@@ -116,7 +119,6 @@ GPT5_REASONING_EFFORT = (get_env(f"{ENV_PREFIX}_REASONING_EFFORT", "low") or "lo
 GPT5_TEXT_VERBOSITY = (get_env(f"{ENV_PREFIX}_TEXT_VERBOSITY", "medium") or "medium").strip().lower()
 
 # ----------------- Prompt loading -----------------
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROMPT_FILE_PATH = os.path.join(SCRIPT_DIR, PROMPT_FILE)
 
 def load_prompt_yaml(path):

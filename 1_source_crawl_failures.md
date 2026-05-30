@@ -1,12 +1,17 @@
 # Crawl Failures Log
 
+<<<<<<< HEAD
 Generated on: 2026-05-29 16:48:11
+=======
+Generated on: 2026-05-30 17:36:18
+>>>>>>> 7bac5f0 (update pipeline)
 
 Total URLs processed: 214
-Total failures: 1
+Total failures: 2
 
 ## Detailed Failure Logs
 
+<<<<<<< HEAD
 ### URL #207
 - **URL:** https://esgnews.com/category/esg/
 - **Timestamp:** 2026-05-29 16:48:03
@@ -15,18 +20,15 @@ Error: Failed on navigating ACS-GOTO:
 Page.goto: Timeout 30000ms exceeded.
 Call log:
   - navigating to "https://esgnews.com/category/esg/", waiting until "domcontentloaded"
+=======
+### URL #132
+- **URL:** https://www.consilium.europa.eu/en/press/press-releases/
+- **Timestamp:** 2026-05-30 17:34:24
+- **Error:** Blocked by anti-bot protection: Cloudflare JS challenge
+>>>>>>> 7bac5f0 (update pipeline)
 
-
-Code context:
- 713                                   tag="GOTO",
- 714                                   params={"url": url},
- 715                               )
- 716                               response = None
- 717                           else:
- 718 →                             raise RuntimeError(f"Failed on navigating ACS-GOTO:\n{str(e)}")
- 719   
- 720                       # ──────────────────────────────────────────────────────────────
- 721                       # Walk the redirect chain.  Playwright returns only the last
- 722                       # hop, so we trace the `request.redirected_from` links until the
- 723                       # first response that differs from the final one and surface its
+### URL #189
+- **URL:** https://www.bloomberg.com/professional/insights/?type=article&series=&search=ESG
+- **Timestamp:** 2026-05-30 17:35:40
+- **Error:** Blocked by anti-bot protection: PerimeterX block
 

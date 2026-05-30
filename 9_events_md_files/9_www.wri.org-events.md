@@ -1,14 +1,18 @@
 Opens in a new window Opens an external website Opens an external website in a new window
-<!---->Close this dialog<!----> 
+Close this dialog
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
+<<<<<<< HEAD
 [Storage Preferences](https://www.wri.org/events#9c11d537-26c8-48b2-a095-1dd238a87192)
+=======
+[Storage Preferences](https://www.wri.org/events#7b45f3c2-a8e4-4f68-a4c3-c7e92fd3fa1d)
+>>>>>>> 7bac5f0 (update pipeline)
   * Targeted Advertising
   * Personalization
   * Analytics
 
 
 Save  Accept All  Reject Non-Essential 
-<!---->Close Cookie Preferences<!----> 
+Close Cookie Preferences
 [ Skip to main content ](https://www.wri.org/events#main-content)
 [ Accessibility ](https://www.wri.org/accessibility)
 [ ](https://www.wri.org/)
