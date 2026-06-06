@@ -1,12 +1,11 @@
 © Department of Finance   
 This content is only accurate as at the date of printing or download. Refer to [Home | Department of Finance](https://www.finance.gov.au/) to ensure you are viewing the latest version. 
-<<<<<<< HEAD
-29/05/2026 
-=======
-30/05/2026 
->>>>>>> 7bac5f0 (update pipeline)
+06/06/2026 
 # Latest News
 ### 2026 
+[ Fri   
+05 Jun   
+2026  **National Reconciliation Week 2026: All In** Government Finance (Department) ](https://www.finance.gov.au/about-us/news/2026/national-reconciliation-week-2026-all)
 [ Fri   
 29 May   
 2026  **Australian Government General Government Sector Monthly Financial Statements for April 2026** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2026/mfs-april)
@@ -94,10 +93,6 @@ This content is only accurate as at the date of printing or download. Refer to [
 [ Fri   
 02 Jan   
 2026  **PGPA Newsletter 114** Government PGPA Act ](https://www.finance.gov.au/about-us/news/2026/pgpa-newsletter-114)
-### 2025 
-[ Wed   
-24 Dec   
-2025  **Australian Government General Government Sector Monthly Financial Statements for November 2025** Government Monthly Financial Statements ](https://www.finance.gov.au/publications/commonwealth-monthly-financial-statements/2025/mfs-november)
 ×
 Close
 The Department of Finance acknowledges the Traditional Owners and Custodians throughout Australia and their continuing connection to land, water and community.

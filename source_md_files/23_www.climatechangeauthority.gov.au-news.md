@@ -3,7 +3,28 @@
 ## News and media
 This page contains news items and media releases related to the Authority’s work. For speeches and opinion pieces delivered by the Authority’s Chair and other representatives, go to [Speeches and opinion pieces](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces "Speeches and opinion pieces ").
 #### Latest news 
-Showing 1 - 9 of 110
+Showing 1 - 9 of 113
+4 Jun 2026
+[Energy security and climate action must go hand in hand](https://www.climatechangeauthority.gov.au/energy-security-and-climate-action-must-go-hand-hand)
+At Sustainability Business LIVE, Climate Change Authority Chair Matt Kean highlighted the growing role of households in Australia’s energy transition, pointing… 
+  * News 
+  * Speeches 
+
+
+3 Jun 2026
+[Infrastructure is the blueprint for Australia’s net zero and climate-resilient future](https://www.climatechangeauthority.gov.au/infrastructure-blueprint-australias-net-zero-and-climate-resilient-future)
+Infrastructure decisions made today shape emissions, resilience and costs for decades. Decarbonisation and adaptation must be built into the blueprint, by… 
+  * News 
+  * Speeches 
+
+
+2 Jun 2026
+[Australia’s energy transition accelerates toward a cleaner, safer grid](https://www.climatechangeauthority.gov.au/australias-energy-transition-accelerates-toward-cleaner-safer-grid)
+The speech highlights Australia’s accelerating shift to a low‑carbon energy system, driven by renewables, storage, and electrification, while emphasising the… 
+  * News 
+  * Speeches 
+
+
 21 May 2026
 [Australia and Southeast Asia: Turning climate ambition into investment action](https://www.climatechangeauthority.gov.au/australia-and-southeast-asia-turning-climate-ambition-investment-action)
 In this keynote address, The Hon. Matt Kean highlights the immense opportunity and urgency of financing Southeast Asia’s clean energy transition. He emphasises… 
@@ -44,27 +65,6 @@ At the Smart Energy Awards, Authority Chair Matt Kean honours leaders and John G
 Authority Chair Matt Keen urges the electrification of efficient buildings to cut costs, improve health, and strengthen energy security. 
   * News 
   * Speeches 
-
-
-30 Apr 2026
-[Delivering emissions reduction while maintaining energy reliability](https://www.climatechangeauthority.gov.au/delivering-emissions-reduction-while-maintaining-energy-reliability)
-During the CEDA Climate and Energy Summit, Climate Change Authority Chair Matt Kean outlined Australia’s climate and energy outlook, highlighting observed… 
-  * News 
-  * Speeches 
-
-
-29 Apr 2026
-[On Good Authority - 22 April 2026](https://www.climatechangeauthority.gov.au/good-authority-22-april-2026)
-Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
-  * News 
-  * On Good Authority 
-
-
-8 Apr 2026
-[On Good Authority - 8 April 2026](https://www.climatechangeauthority.gov.au/good-authority-8-april-2026)
-Our weekly newsletter, packed with climate change news and updates on the Authority’s work. 
-  * News 
-  * On Good Authority 
 
 
 [ Click here to view speeches ](https://www.climatechangeauthority.gov.au/speeches-and-opinion-pieces)

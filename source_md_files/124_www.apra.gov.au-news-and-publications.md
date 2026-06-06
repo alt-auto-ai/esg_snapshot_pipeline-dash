@@ -9,6 +9,18 @@
   * [Speeches](https://www.apra.gov.au/news-and-publications/40)
 
 
+5 June 2026
+#### Opening Statement to Senate Economics Legislation Committee – June 2026
+Opening statements 
+[Opening Statement to Senate Economics Legislation Committee – June 2026](https://www.apra.gov.au/news-and-publications/opening-statement-to-senate-economics-legislation-committee-%E2%80%93-june-2026)
+4 June 2026
+#### APRA finalises new IRB accreditation pathway for banks
+Media Releases 
+[APRA finalises new IRB accreditation pathway for banks](https://www.apra.gov.au/news-and-publications/apra-finalises-new-irb-accreditation-pathway-for-banks)
+2 June 2026
+#### APRA finalises FAQ on liquidity treatment of deposits with settlement service providers
+Media Releases 
+[APRA finalises FAQ on liquidity treatment of deposits with settlement service providers](https://www.apra.gov.au/news-and-publications/apra-finalises-faq-on-liquidity-treatment-of-deposits-settlement-service)
 29 May 2026
 #### APRA imposes additional licence conditions on HTFS Nominees Pty Limited
 Media Releases 
@@ -81,18 +93,6 @@ Media Releases
 #### APRA releases Monthly Authorised Deposit-taking Institution Statistics for March 2026
 Media Releases 
 [APRA releases Monthly Authorised Deposit-taking Institution Statistics for March 2026](https://www.apra.gov.au/news-and-publications/apra-releases-monthly-authorised-deposit-taking-institution-statistics-for-71)
-30 April 2026
-#### APRA calls for a step-change in AI-related risk management and governance
-Media Releases 
-[APRA calls for a step-change in AI-related risk management and governance](https://www.apra.gov.au/news-and-publications/apra-calls-for-a-step-change-ai-related-risk-management-and-governance)
-30 April 2026
-#### APRA finalises targeted amendments to CPS 230 Operational Risk Management
-Media Releases 
-[APRA finalises targeted amendments to CPS 230 Operational Risk Management](https://www.apra.gov.au/news-and-publications/apra-finalises-targeted-amendments-to-cps-230-operational-risk-management)
-29 April 2026
-#### APRA and ASIC publish latest data on life insurance claims and disputes - December 2025
-Media Releases 
-[APRA and ASIC publish latest data on life insurance claims and disputes - December 2025](https://www.apra.gov.au/news-and-publications/apra-and-asic-publish-latest-data-on-life-insurance-claims-and-disputes-12)
 #### Subscribe for updates
 To receive media releases, publications, speeches and other industry-related information by email 
 [Subscribe](https://www.apra.gov.au/newsletter-signup)

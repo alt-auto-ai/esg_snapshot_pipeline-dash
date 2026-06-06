@@ -189,6 +189,11 @@ def pick_md_filename(row: dict) -> str:
     return (row.get("md_file") or row.get("FileName") or row.get("filename") or "").strip()
 
 
+def format_job_description(description: str) -> str:
+    description = (description or "").strip()
+    return re.sub(r"^([^*\[]+?)\s+(is|are)\s+hiring\b", r"**\1** \2 hiring", description, count=1)
+
+
 async def process_row_async(session: aiohttp.ClientSession, row: dict, sem: asyncio.Semaphore, idx: int, total: int) -> tuple[str, str]:
     md_file = pick_md_filename(row)
     async with sem:
@@ -270,7 +275,8 @@ async def main_async():
         for row in input_rows:
             md_file = pick_md_filename(row)
             out_row = {k: (row.get(k) or "") for k in fieldnames}
-            out_row[desc_col] = description_by_md.get(md_file, "") if md_file else ""
+            desc = description_by_md.get(md_file, "") if md_file else ""
+            out_row[desc_col] = format_job_description(desc)
             writer.writerow(out_row)
 
     try:

@@ -8,27 +8,16 @@ Remarks by IMF Managing Director Kristalina Georgieva at the Africa Forward Summ
 IMF Spokesperson Julie Kozack discusses the IMF’s latest developments and answers questions on today’s global economy.
 SearchSearch
 ##### Latest News
-<<<<<<< HEAD
-=======
-  * [May 30, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Fiji](https://www.imf.org/en/news/articles/2026/05/29/pr26178-fiji-imf-executive-board-concludes-2026-article-iv-consultation)
-  * [May 30, 2026IMF Executive Board Concludes 2026 Article IV Consultation and Mid-Term Review Under the Flexible Credit Line Arrangement with Costa Rica](https://www.imf.org/en/news/articles/2026/05/29/pr26177-costa-rica-exec-board-concludes-2026-aiv-consult-mid-term-review-fcl-arrangement)
-  * [May 30, 2026Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization](https://www.imf.org/en/news/articles/2026/05/29/pr26176-joint-statement-by-heads-of-iea-imf-wbg-and-wto)
->>>>>>> 7bac5f0 (update pipeline)
-  * [May 29, 2026Transcript: Press Conference on the IMF Executive Board Completion of the Combined Fifth and Sixth Reviews for the Extended Fund Facility with Sri Lanka](https://www.imf.org/en/news/articles/2026/05/28/tr-05282026-press-conference-imf-completion-combined-5th-and-6th-rev-for-eff-sri-lanka)
-  * [May 29, 2026The Gambia: IMF Staff Complete 2026 Article IV Consultation and Reach Staff-Level Agreement on the Fifth Review Under the Extended Credit Facility Arrangement and the Second Review under the Resilience and Sustainability Facility Arrangement](https://www.imf.org/en/news/articles/2026/05/28/pr26173-the-gambia-staff-complete-2026-aiv-consult-reach-sla-5th-review-ecf-2nd-review-rsf)
-  * [May 28, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Greece](https://www.imf.org/en/news/articles/2026/05/27/pr26169-greece-imf-executive-board-concludes-2026-article-iv-consultation)
-  * [May 28, 2026Italy: Staff Concluding Statement of the 2026 Article IV Mission](https://www.imf.org/en/news/articles/2026/05/27/mcs-05262026-italy-staff-concluding-statement-of-the-2026-article-iv-mission)
-  * [May 28, 2026IMF Executive Board Completes the Combined Fifth and Sixth Reviews Under the Extended Fund Facility for Sri Lanka ](https://www.imf.org/en/news/articles/2026/05/27/pr26172-sri-lanka-imf-completes-combined-5th-and-6th-reviews-under-eff)
-<<<<<<< HEAD
-  * [May 27, 2026IMF Executive Board Concludes 2026 Article IV Consultation and Completes Fifth and Sixth Reviews Under the Extended Fund Facility and Resilience and Sustainability Facility with Seychelles ](https://www.imf.org/en/news/articles/2026/05/26/pr26171-seychelles-imf-concludes-2026-aiv-consultation-completes-5th-6th-rev-under-eff-and-rsf)
-  * [May 27, 2026IMF Staff Completes the 2026 Article IV mission and Reaches Staff-Level Agreement with Burkina Faso on the Fifth Review under the Extended Credit Facility (ECF) and the First Review under the Resilience and Sustainability Facility (RSF)](https://www.imf.org/en/news/articles/2026/05/26/pr26170-burkina-faso-staff-completes-article-iv-reaches-sla-fifth-review-ecf-first-review-rsf)
-  * [May 26, 2026Republic of Lithuania: Staff Concluding Statement of the 2026 Article IV Mission ](https://www.imf.org/en/news/articles/2026/05/26/mcs052626-lithuania-article-iv-mission)
+  * [June 6, 2026Statement by IMF Deputy Managing Director Kenji Okumura at the Conclusion of His Visit to Thailand](https://www.imf.org/en/news/articles/2026/06/04/pr-26184-thailand-statement-by-imf-dmd-kenji-okumura-at-the-conclusion-of-his-visit-to-thailand)
+  * [June 5, 2026IMF Staff Concludes Visit to San Marino ](https://www.imf.org/en/news/articles/2026/06/05/pr26186-san-marino-imf-staff-concludes-visit-to-san-marino)
+  * [June 5, 2026IMF Executive Board Concludes 2026 Article IV Consultation with Kyrgyz Republic](https://www.imf.org/en/news/articles/2026/06/04/pr26185-kyrgyz-republic-imf-executive-board-concludes-2026-article-iv-consultation)
+  * [June 5, 2026Press Briefing Transcript: Julie Kozack, Director, Communications Department, June 4, 2026](https://www.imf.org/en/news/articles/2026/06/04/tr-06042026-imf-regular-briefing-june-4-2026)
+  * [June 4, 2026IMF Reaches Staff Level Agreement on the Fifth Review of the Extended Credit Facility for Ethiopia](https://www.imf.org/en/news/articles/2026/06/03/pr26183-ethiopia-imf-reaches-staff-level-agreement-fifth-review-extended-credit-facility)
+  * [June 3, 2026IMF Staff Completes 2026 Article IV Mission to Saudi Arabia](https://www.imf.org/en/news/articles/2026/06/03/pr26181-saudi-arabia-imf-staff-completes-2026-article-iv-mission)
+  * [June 3, 2026Bangladesh Authorities’ Request for a New IMF-supported Program ](https://www.imf.org/en/news/articles/2026/06/03/pr26182-bangladesh-authorities-request-for-a-new-imf-supported-program)
+  * [June 3, 2026IMF Announces Appointment of Mateusz Szczurek as Director of the European Department](https://www.imf.org/en/news/articles/2026/06/02/pr26180-imf-announces-appointment-of-mateusz-szczurek-director-of-eur-dep)
 
-[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=5%2F29%2F2026)
-=======
-
-[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=5%2F30%2F2026)
->>>>>>> 7bac5f0 (update pipeline)
+[More](https://www.imf.org/en/news/searchnews#sortCriteria=%40imfdate%20descending&DateFrom=1%2F1%2F2026&DateTo=6%2F6%2F2026)
 ##### For Journalists
 The IMF Press Center is a password-protected site for working journalists.
   * [Login](https://presscenter.imf.org/Account/Login)

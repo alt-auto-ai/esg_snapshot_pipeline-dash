@@ -2,6 +2,13 @@
 # News and media
 See our latest news and announcements. Discover more about what we do.
 ## Featured
+### [Agriculture production set to ease amid drier outlook](https://www.agriculture.gov.au/about/news/abares-june-reports-2026)
+  * Media release
+  * ABARES
+
+
+02 June 2026
+Following a record year in 2025-26, ABARES is forecasting the value of agricultural production to…
 ### [Building First Nations pathways into biosecurity](https://www.agriculture.gov.au/about/news/building-first-nations-pathways-into-biosecurity)
   * News
   * Biosecurity
@@ -16,14 +23,14 @@ The department has partnered with the Aboriginal Health and Medical Research Cou
 
 18 May 2026
 The development of a Western Australian Sheep Industry Strategy: WA Roadmap to 2028 responds…
-### [Nominate now for the 2026 Australian Biosecurity Awards](https://www.agriculture.gov.au/about/news/nominate-now-2026-aba)
-  * Newsletter
-  * Biosecurity
-
-
-05 May 2026
-Across Australia, people are taking action every day to protect our agriculture, environment and…
 ## Latest
+### [WA Roadmap to 2028: Report](https://www.agriculture.gov.au/about/news/wa-roadmap-to-2028-report)
+  * News
+  * Live animal exports
+
+
+03 June 2026
+The WA Roadmap to 2028 (the Roadmap), published on The Future Flock web
 ### [Mastering biosecurity – inaugural Indigenous Rangers Biosecurity Masterclass held in Darwin](https://www.agriculture.gov.au/about/news/inaugural-indigenous-ranger-biosecurity-masterclass)
   * Newsletter
   * Biosecurity
@@ -31,6 +38,13 @@ Across Australia, people are taking action every day to protect our agriculture,
 
 18 May 2026
 Coming from as far west as the Kimberley coast and from the top of the Northern Territory’s Arnhem…
+### [Nominate now for the 2026 Australian Biosecurity Awards](https://www.agriculture.gov.au/about/news/nominate-now-2026-aba)
+  * Newsletter
+  * Biosecurity
+
+
+05 May 2026
+Across Australia, people are taking action every day to protect our agriculture, environment and…
 ### [Detector dog teams protect Australia from exotic animal diseases](https://www.agriculture.gov.au/about/news/detector-dog-teams-protect)
   * News
   * Biosecurity
@@ -66,20 +80,6 @@ When it comes to stopping biosecurity threats at the border, some of Australia�
 
 16 April 2026
 Containment feeding is one practical way that livestock producers can manage feed shortages during…
-### [Supporting drought-ready decision makers in South Australia](https://www.agriculture.gov.au/about/news/supporting-drought-ready-sa)
-  * Case study
-  * Drought
-
-
-16 April 2026
-Drought in South Australia has placed sustained pressure on farm businesses, including livestock…
-### [Broadacre farmland price growth continues but pace slows ](https://www.agriculture.gov.au/about/news/broadacre-farm-price-continues-growth)
-  * Media release
-  * Agriculture
-
-
-31 March 2026
-The pace of growth in Australian broadacre farmland prices is moderating across most farmland types…
 [All news](https://www.agriculture.gov.au/about/news/all)
 ## 
 Stay informed

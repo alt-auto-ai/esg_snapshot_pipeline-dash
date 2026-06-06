@@ -16,6 +16,12 @@
 
 [](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/feed)
 ### 2026
+### [National Accounts – March quarter 2026](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/national-accounts-march-quarter-2026)
+3 June 2026
+Today’s National Accounts show the Australian economy grew 0.3 per cent in the March quarter, to be 2.5 per cent higher through the year. 
+### [More tax cuts in one month from today](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/more-tax-cuts-one-month-today)
+1 June 2026
+The Albanese Labor Government is delivering another tax cut for every Australian taxpayer in one month from today. 
 ### [Business investment booming under Labor](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/business-investment-booming-under-labor)
 28 May 2026
 New figures released by the ABS today show private sector investment is soaring under the Albanese Labor Government. 
@@ -70,9 +76,3 @@ The Albanese Labor Government is acting to strengthen the annual superannuation 
 ### [Reserve Bank decision](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/reserve-bank-decision-1)
 5 May 2026
 Today the independent Reserve Bank Monetary Policy Board increased the cash rate by 25 basis points. 
-### [Fairer tax treatment to encourage affordable EVs](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/fairer-tax-treatment-encourage-affordable-evs)
-5 May 2026
-Joint media release with the Hon Chris Bowen MP, Minister for Climate Change and Energy 
-### [Productivity package to turbocharge construction and businesses across NSW](https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/media-releases/productivity-package-turbocharge-construction-and)
-1 May 2026
-The Albanese Government is funding reforms to fast‑track approvals and get businesses up and running as quickly as possible in New South Wales. 

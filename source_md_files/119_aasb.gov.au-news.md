@@ -5,6 +5,13 @@
 Select category:
 [All](https://aasb.gov.au/news/) [Standards](https://aasb.gov.au/news/?category=Standards)
 Filter by date range:
+05
+JUNE
+2026
+AASB
+### AASB June 2026 Board Meeting Public Agenda and Papers out now
+The [public agenda](https://aasb.gov.au/media/faadnvvh/aasbpublicagendam221_19june26.pdf) and [public papers](https://aasb.gov.au/board-centre/current-board-papers/) for AASB Board Meeting 221, to be held on 19 June 2026, are now available.
+[Read more](https://aasb.gov.au/news/aasb-june-2026-board-meeting-public-agenda-and-papers-out-now/)
 20
 MAY
 2026
@@ -21,11 +28,10 @@ The [Action Alert](https://aasb.gov.au/media/z0sdm3ly/247_actionalert.pdf "https
   * Presentation and Disclosure in Financial
 ...
 [Read more](https://aasb.gov.au/news/action-alert-no-247/)
-05
-MAY
-2026
-AASB
 ### AASB Dialogue Series – R&D Reporting under IFRS: Evidence, Insights and Implications
+05 May
+2026
+05 May 2026
 Join us for an insightful webinar on the latest evidence in R&D (Research and Development) reporting under IFRS. **Register**
 [Read more](https://aasb.gov.au/news/aasb-dialogue-series-r-d-reporting-under-ifrs-evidence-insights-and-implications/)
 ### AASB May 2026 Board Meeting Public Agenda and Papers out now

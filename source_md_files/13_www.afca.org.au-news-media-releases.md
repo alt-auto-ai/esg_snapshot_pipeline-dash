@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.afca.org.au/news/media-releases#main-content)
 #  Media releases
 ### Year published
+02  JUN 26 
+##### [AFCA opens consultation on Rules change for genetic testing in life insurance](https://www.afca.org.au/news/media-releases/afca-opens-consultation-on-rules-change-for-genetic-testing-in-life-insurance)
+The Australian Financial Complaints Authority (AFCA) is opening public consultation on proposed amendments to the rules that govern its work, following changes to genetic testing protections in life insurance. 
 26  MAR 26 
 ##### [AFCA appoints Chief Scams Officer ](https://www.afca.org.au/news/media-releases/afca-appoints-chief-scams-officer)
 The Australian Financial Complaints Authority (AFCA) has appointed David Lacey as its inaugural Chief Scams Officer (CSO). The Chief Scams Officer is a key leadership role at AFCA as it establishes the world’s first multi-party dispute resolution scheme for scams. 
@@ -28,9 +31,6 @@ Annual Review: complaints still too high, as households continue to face cost-of
 04  SEP 25 
 ##### [AFCA named Australia’s Best Workplace for Fathers](https://www.afca.org.au/news/media-releases/afca-named-australias-best-workplace-for-fathers)
 The Australian Financial Complaints Authority (AFCA) has been named Australia’s Best Workplace for Fathers at the 2025 Australian Fathering Awards. 
-23  JUL 25 
-##### [AFCA receives more than 100,000 financial complaints in 2024-25](https://www.afca.org.au/news/media-releases/afca-receives-more-100000-financial-complaints-in-2024-25)
-The Australian Financial Complaints Authority (AFCA) has received more than 100,000 complaints for the second year in a row.
 ## Media contacts
 Email:   
 

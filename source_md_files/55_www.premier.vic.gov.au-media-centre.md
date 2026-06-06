@@ -3,48 +3,33 @@
 Read the latest news or search using the filters.
 Filters
 Displaying 1-9 of 10000+ results 
-<<<<<<< HEAD
-=======
-  * 30 May 2026
-### [Leading Manufacturer Turns Up The Heat In Victoria](https://www.premier.vic.gov.au/leading-manufacturer-turns-heat-victoria)
-A leading manufacturer is expanding its local operations in another big vote of confidence for Victoria. Minister Brooks today visited Rinnai Australi...
-  * 29 May 2026
-### [Winter Blitz To Remove Another Level Crossing](https://www.premier.vic.gov.au/winter-blitz-remove-another-level-crossing)
-The Allan Labor Government is undertaking a winter blitz of works to slash congestion and make life easier. Melton will be a step closer to becoming ...
-  * 29 May 2026
-### [Building Better Libraries Close To Home](https://www.premier.vic.gov.au/building-better-libraries-close-home)
-Labor is upgrading public libraries across the state so families can enjoy more free spaces close to home. The Government has opened a new grant roun...
->>>>>>> 7bac5f0 (update pipeline)
-  * 29 May 2026
-### [More Productive Trees On Farms To Benefit Landowners](https://www.premier.vic.gov.au/more-productive-trees-farms-benefit-landowners)
-Labor is making it easier for farmers to plant trees on their farms. Minister Settle announced the rollout of the Trees on Farms Utilisation Program a...
-  * 29 May 2026
-### [More Green Space For Families In Flemington](https://www.premier.vic.gov.au/more-green-space-families-flemington)
-Flemington residents will benefit from a brand-new green space opening this year. Murnalung Park will open in mid-2026 and includes a large children’...
-  * 29 May 2026
-### [Spectacular Melbourne Show To Honour Living Legend](https://www.premier.vic.gov.au/spectacular-melbourne-show-honour-living-legend)
-There will be no sitting in silence at Rod Laver Arena this September, when a star-studded lineup of some of the world’s best performers honour Austra...
-  * 29 May 2026
-### [Cutting Power Bills With $11 Billion In Renewables](https://www.premier.vic.gov.au/cutting-power-bills-11-billion-renewables)
-The Allan Labor Government is bringing down power bills by fast-tracking renewable energy projects. Minister for Planning Sonya Kilkenny has recently...
-  * 29 May 2026
-### [Liberal And National Cuts Coming To Regional Victoria](https://www.premier.vic.gov.au/liberal-and-national-cuts-coming-regional-victoria)
-Jess Wilson and her junior partners in the Nationals have announced the first part of their cuts plan. The Liberals and Nationals will slash 1 in 7 p...
-  * 29 May 2026
-### [Delivering Better, Faster Specialist Care Across Victoria](https://www.premier.vic.gov.au/delivering-better-faster-specialist-care-across-victoria)
-The Allan Labor Government is making sure Victorians get the specialist care they need, faster and closer to home. Waiting months for a specialist car...
-<<<<<<< HEAD
-  * 28 May 2026
-### [Breathing New Life Into Local Sports Facilities](https://www.premier.vic.gov.au/breathing-new-life-local-sports-facilities)
-Labor is backing better facilities for grassroots sporting clubs. Minister Spence today visited Lionheart Reserve in Taylors Lakes to announce applica...
-  * 28 May 2026
-### [Supporting Local Sports Clubs With New Facilities](https://www.premier.vic.gov.au/supporting-local-sports-clubs-new-facilities)
-Local sports clubs in Fitzroy can look forward to a new home ground advantage with major upgrades underway at Brunswick Street Oval. Minister Spence ...
-  * 28 May 2026
-### [Hundreds Of Improvements In Our Tiny Towns](https://www.premier.vic.gov.au/hundreds-improvements-our-tiny-towns)
-Labor is backing local projects in regional Victoria to make sure even the smallest towns can thrive. Minister Settle announced more than 100 projects...
-=======
->>>>>>> 7bac5f0 (update pipeline)
+  * 6 June 2026
+### [Tap And Go Is Here](https://www.premier.vic.gov.au/tap-and-go-here)
+The Allan Labor Government is making public transport easier and more affordable. With half-price fares now in place until the end of the year, Victor...
+  * 5 June 2026
+### [Final Designs For Macleod's New Rail Bridge](https://www.premier.vic.gov.au/final-designs-macleods-new-rail-bridge)
+Labor has released the final designs to remove the Ruthven Street level crossing in Macleod and started early works. Removing the dangerous and conge...
+  * 5 June 2026
+### [Statement From The Premier](https://www.premier.vic.gov.au/statement-premier-168)
+Gary Maas, the Member for Narre Warren South, has advised me that he will not be seeking re-election in 2026. For more than two decades, Gary has wor...
+  * 5 June 2026
+### [Seymour Set For More World-Class Cycling Action](https://www.premier.vic.gov.au/seymour-set-more-world-class-cycling-action)
+More cycling enthusiasts can explore the Goulburn Valley region, thanks to Labor locking in a world series cycling event for another two years in Seym...
+  * 5 June 2026
+### [Labor Builds More Homes In Fitzroy](https://www.premier.vic.gov.au/labor-builds-more-homes-fitzroy)
+Labor is building more homes for Victorians. Today, the Allan Labor Government broke ground at the Fitzroy Gasworks. It’s where 1,400 new homes, gre...
+  * 5 June 2026
+### [More Homes For Women Who Need It Most](https://www.premier.vic.gov.au/more-homes-women-who-need-it-most)
+More women will soon have a place to call home thanks to Labor’s investment in social housing. Minister Staikos today announced works are now underw...
+  * 5 June 2026
+### [Work Powers Ahead On Ballarat Freight Hub](https://www.premier.vic.gov.au/work-powers-ahead-ballarat-freight-hub)
+Work is underway on the $55 million Ballarat Intermodal Freight Hub, a major project which will move more freight by rail and help reduce emissions wh...
+  * 5 June 2026
+### [Jess Wilson Votes Against Keeping Big Money Out Of Elections](https://www.premier.vic.gov.au/jess-wilson-votes-against-keeping-big-money-out-elections)
+Jess Wilson’s Liberal Nationals have voted against free and fair elections in Victoria. That’s because she wants elections to be decided by those with...
+  * 4 June 2026
+### [Business Investment Rising In Victoria](https://www.premier.vic.gov.au/business-investment-rising-victoria)
+Victoria is a state of ideas, innovation and ambition – and yesterday’s National Accounts data confirms it. New Australian Bureau of Statistics (ABS)...
 
 
 ## Subscribe to our media releases

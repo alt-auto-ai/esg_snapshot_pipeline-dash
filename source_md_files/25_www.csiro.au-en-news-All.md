@@ -1,7 +1,7 @@
 Blog icon
 # All news and articles
 Contact 
-12 of 1086 results (sorted by date)
+12 of 1088 results (sorted by date)
 Clear filters
 Search news
 Dates
@@ -14,6 +14,15 @@ News Types
 
 Apply filter
 ##  Filtering by: 
+  * [ News Release 4 June 2026 3 min read ​​Most detailed map of the Universe’s hidden magnetic fields released ​Scientists have produced a map of the Universe’s magnetic fields revealing an invisible cosmic web that shapes how galaxies form and evolve.  ](https://www.csiro.au/en/news/All/News/2026/June/SPICE-RACS)
+Related Tags
+    * [ Askap ](https://www.csiro.au/en/news/All?articletags={8BD7C557-89DD-4934-B705-ADF241E629C0}|Askap)
+    * [ Astronomy ](https://www.csiro.au/en/news/All?articletags={6EA5E0BD-B2FE-4176-901F-B2711CAF7B4C}|Astronomy)
+    * [ Radio astronomy ](https://www.csiro.au/en/news/All?articletags={82197EBA-FC46-4B1F-AC77-55D6944BCE8D}|Radio%20astronomy)
+  * [ News Release 1 June 2026 2 min read New digital toolkit to tackle pest management The Pest READI digital toolkit allows growers to assess their farms and ensure they are fully prepared for pest and disease threats.  ](https://www.csiro.au/en/news/All/News/2026/June/New-digital-toolkit-to-tackle-pest-management)
+Related Tags
+    * [ Agriculture ](https://www.csiro.au/en/news/All?articletags={CEBAF982-DE90-4C6E-84A9-B868F0C86940}|Agriculture)
+    * [ Pests ](https://www.csiro.au/en/news/All?articletags={121ADA6E-F906-44D6-BF3A-F1EC91B275C3}|Pests)
   * [ News Release 18 May 2026 3 min read CSIRO launches new AI infrastructure to help robots and machines learn in real time By processing data on site rather than in distant cloud systems, the Vetra AI infrastructure enables faster, safer learning for robotics and other AI-powered technologies.  ](https://www.csiro.au/en/news/All/News/2026/May/Vetra-AI-infrastructure)
 Related Tags
     * [ Ai ](https://www.csiro.au/en/news/All?articletags={3561EDFE-C4FF-46C3-88B3-EA5663D710E8}|Ai)
@@ -56,11 +65,6 @@ Related Tags
   * [ News Release 25 March 2026 2 min read Robots take the heat for humans maintaining our biggest solar farms CSIRO’s AI-powered robots are changing the game for Australia’s large-scale solar farms, helping energy assets perform at their best and accelerating the energy transition.  ](https://www.csiro.au/en/news/All/News/2026/March/Robot-Solar-Farm)
 Related Tags
     * [ Robots ](https://www.csiro.au/en/news/All?articletags={A1D33457-8DF6-40AC-AB52-3926BDE0409A}|Robots)
-  * [ News Release 23 March 2026 2 min read Queensland Government and CSIRO launch free program to help SMEs to innovate Queensland-based small to medium-sized enterprises (SMEs) developing sustainable solutions are invited to apply for CSIRO’s Innovate to Grow: Circular Economy and Sustainability – a free eight-week online R&D training program.  ](https://www.csiro.au/en/news/All/News/2026/March/Queensland-Government-and-CSIRO-launch-free-program-to-help-SMEs-to-innovate)
-  * [ News Release 18 March 2026 1 min read Australian scientists achieve energy storage and quantum battery breakthrough Researchers develop the first quantum battery that could pave the way for long- distance charging of devices and super-fast charging of electric cars.  ](https://www.csiro.au/en/news/All/News/2026/March/Quantum-battery-full-cycle)
-Related Tags
-    * [ Quantum ](https://www.csiro.au/en/news/All?articletags={34D1BE1A-BD87-4500-B35B-3887807DB9BC}|Quantum)
-    * [ Manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|Manufacturing)
 
 
 There is no news match your search term.

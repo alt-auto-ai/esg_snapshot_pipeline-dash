@@ -473,7 +473,7 @@ function buildCardBody(s) {
       if (index === 0) return '<strong>' + esc(text) + '</strong>';
       return esc(text);
     });
-    if (s.URL) narrative.push('<a href="' + esc(s.URL) + '" target="_blank">Read more</a>');
+    if (s.URL) narrative.push('<a href="' + esc(s.URL) + '" target="_blank">More</a>');
     h = narrativeHtml(narrative);
   }
   if (hook || oneLiner) {
@@ -927,7 +927,7 @@ function buildMdBody(s) {
     if (index === 0) return '**' + text + '**';
     return text;
   }).join(' ');
-  return body + (s.URL ? ' [**Read more**](' + s.URL + ')' : '');
+  return body + (s.URL ? ' [**More**](' + s.URL + ')' : '');
 }
 
 function generateDoc() {

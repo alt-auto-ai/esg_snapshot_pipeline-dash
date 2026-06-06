@@ -3,6 +3,14 @@
 View our latest media releases, staff articles and speeches.
 Filters
 Media releases
+05 June 2026
+###  [Regulator releases final decision on Melbourne Water’s prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-final-decision-melbourne-waters-prices)
+The Essential Services Commission has released its final decision on how much Melbourne Water can charge for water, sewerage, waterways and drainage services over the next five years, starting 1 July 2026. 
+Media releases
+05 June 2026
+###  [Regulator releases final decision on North East Water’s pricing ](https://www.esc.vic.gov.au/media-centre/regulator-releases-final-decision-north-east-waters-pricing)
+The Essential Services Commission has released its final decision on how much North East Water can charge customers for water and sewerage services over the next five years, starting 1 July 2026. 
+Media releases
 25 May 2026
 ###  [Regulator reduces Victorian default electricity prices](https://www.esc.vic.gov.au/media-centre/regulator-reduces-victorian-default-electricity-prices)
 The Essential Services Commission has announced a reduction in Victoria’s default electricity prices to apply from 1 July 2026 to 30 June 2027. 
@@ -34,14 +42,6 @@ Media releases
 02 April 2026
 ###  [Regulator releases draft decision on Melbourne Water’s prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-draft-decision-melbourne-waters-prices)
 The Essential Services Commission has released its draft decision on how much Melbourne Water can charge its customers for water, sewerage, waterways and drainage services over the next five years, from 1 July 2026. 
-Media releases
-02 April 2026
-###  [Regulator releases draft decision on North East Water’s proposed prices ](https://www.esc.vic.gov.au/media-centre/regulator-releases-draft-decision-north-east-waters-proposed-prices)
-The Essential Services Commission has released its draft decision on how much North East Water can charge customers for water services over the next five years, from 1 July 2026. 
-Media releases
-27 March 2026
-###  [Businesses forfeit $4.2 million in energy efficiency certificates, one banned for false claims](https://www.esc.vic.gov.au/media-centre/businesses-forfeit-42-million-energy-efficiency-certificates-one-banned-false-claims)
-The Essential Services Commission has banned one accredited business from the Victorian Energy Upgrades (VEU) program, and refused millions of dollars in certificates claimed by two businesses for allegedly providing false information about energy efficiency projects and breaching consumer protec
 ## For general enquiries
 Phone:   
 Email: 

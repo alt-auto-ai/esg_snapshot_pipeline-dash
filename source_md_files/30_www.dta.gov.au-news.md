@@ -13,7 +13,19 @@ Articles
 Updates
 Search
 Filter by Topic- Any - Artificial Intelligence Assurance Australian Government Architecture Benefits Management BuyICT Contestability Corporate Data and Digital Government Strategy Digital and ICT procurement Digital Experience Policy Digital Investment Plans Digital Leadership Digital Marketplace Digital Service Standard Enterprise Resource Planning Industry Engagement International Engagement Investment Oversight Framework Major Digital Projects Report Policy, Guidance, Standards Strategic Planning Whole-of-Government Arrangements Workforce Planning Archived
-Displaying 1 - 10 of 355
+Displaying 1 - 10 of 357
+Article
+04
+Jun 2026
+## [Trustworthy AI agents: New technical guidance](https://www.dta.gov.au/articles/trustworthy-ai-agents-new-technical-guidance)
+We published a new AI technical standard addendum to set clear expectations for how agencies manage and operate agentic AI systems.
+[Artificial Intelligence](https://www.dta.gov.au/taxonomy/term/33)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
+Article
+02
+Jun 2026
+## [Help us design a new contracting suitability assessment framework for coordinated contracting arrangements ](https://www.dta.gov.au/articles/help-us-design-new-contracting-suitability-assessment-framework-coordinated-contracting-arrangements)
+DTA opens consultation into new contracting suitability assessment framework
+[Whole-of-Government Arrangements](https://www.dta.gov.au/taxonomy/term/43)[Industry Engagement](https://www.dta.gov.au/taxonomy/term/41)
 Article
 22
 Apr 2026
@@ -62,16 +74,4 @@ Feb 2026
 ## [DTA signs new 5-year agreement with Microsoft: Delivering value and innovation for the Australian Government ](https://www.dta.gov.au/articles/dta-signs-new-5-year-agreement-microsoft-delivering-value-and-innovation-australian-government)
 The Digital Transformation Agency has secured a new five-year Volume Sourcing Agreement with Microsoft on behalf of the Australian Government, reinforcing its commitment to delivering value, consistency and innovation across government. 
 [Whole-of-Government Arrangements](https://www.dta.gov.au/taxonomy/term/43)[Digital Marketplace](https://www.dta.gov.au/taxonomy/term/52)[Digital and ICT procurement](https://www.dta.gov.au/taxonomy/term/44)
-Article
-20
-Feb 2026
-## [Insights from our Digital Project Governance Boards launch session ](https://www.dta.gov.au/articles/insights-our-digital-project-governance-boards-launch-session)
-Leading researchers connect to launch ‘Steering for Success’ - DTA’s new governance board guidance. 
-[Assurance](https://www.dta.gov.au/taxonomy/term/48)[Policy, Guidance, Standards](https://www.dta.gov.au/taxonomy/term/37)
-Article
-17
-Feb 2026
-## [Australia rises to second globally in the OECD Digital Government Index](https://www.dta.gov.au/articles/australia-rises-second-globally-oecd-digital-government-index)
-Australia’s sustained investment in governance, shared platforms and user centred services across government has been recognised on the global stage. We have strengthened our position as a world leader, now ranking second in the OECD’s Digital Government Index.
-[International Engagement](https://www.dta.gov.au/taxonomy/term/32)
 [Return focus to the top of the page](https://www.dta.gov.au/news#top)

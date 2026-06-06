@@ -1,6 +1,9 @@
 # Media Releases
 Page 1 of 29
-. Showing 1 to 10 out of 284 results. 
+. Showing 1 to 10 out of 285 results. 
+## [Tech reuse for good — supporting Australians with access to digital devices](https://www.minister.industry.gov.au/ministers/charlton/media-releases/tech-reuse-good-supporting-australians-access-digital-devices)
+5 June 2026
+The Albanese Labor Government today reaffirmed its commitment to digital inclusion, backing the Tech Reuse for Good Charter to ensure all Australians can thrive in the digital age, with no-one held back or left behind.
 ## [Securing more fertiliser for Australian farmers ](https://www.minister.industry.gov.au/ministers/timayres/media-releases/securing-more-fertiliser-australian-farmers)
 27 May 2026
 Joint media release with the Minister for Trade and Tourism, Don Farrell and Minister for Agriculture, Fisheries and Forestry, Julie Collins.
@@ -35,8 +38,4 @@ The Australian and Tasmanian Governments have provided additional support for Li
 ## [Government secures winter gas supply](https://www.minister.industry.gov.au/ministers/king/media-releases/government-secures-winter-gas-supply)
 15 May 2026
 The Albanese Labor Government is taking every practical action to ensure Australians have secure, affordable gas.
-## [Albanese Labor Government secures first shipments of additional farm fertiliser](https://www.minister.industry.gov.au/ministers/timayres/media-releases/albanese-labor-government-secures-first-shipments-additional-farm-fertiliser)
-14 May 2026
-Joint media release with Prime Minister Anthony Albanese, Minister for Trade and Tourism, Don Farrell, and Minister for Agriculture, Fisheries and Forestry, Julie Collins.
-The Albanese Labor Government has secured approximately 90,000 tonnes of agricultural grade urea for Australian farmers, producers, and our agriculture industry to keep Australia’s food supply chain moving.
 [Back to top](https://www.minister.industry.gov.au/ministers/media-releases#top "Back to top")

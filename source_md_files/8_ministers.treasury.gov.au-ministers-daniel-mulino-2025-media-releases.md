@@ -13,6 +13,12 @@
 
 [](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/feed)
 ### 2026
+### [Draft regulations released ahead of the ban on use of genetic test results in life insurance](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/draft-regulations-released-ahead-ban-use-genetic-test)
+5 June 2026
+The Albanese Government has today released draft regulations ahead of the upcoming ban on the use of adverse genetic testing results in life insurance, which will commence on 8 October 2026. 
+### [Review of tax and corporate whistleblowing](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/review-tax-and-corporate-whistleblowing)
+2 June 2026
+The Government has opened consultation on a review of tax and corporate whistleblowing laws in Australia to ensure they are working to effectively protect whistleblowers. 
 ### [Albanese Government steps up industry protections to stop scams](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/albanese-government-steps-industry-protections-stop)
 28 May 2026
 The Albanese Government is strengthening protections for Australians, taking decisive action to disrupt scams and making Australia a harder target for criminals. 
@@ -67,9 +73,3 @@ Today, we are releasing the Retirement Reporting Framework and Best Practice Pri
 ### [Reuniting Australians with their lost superannuation](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/reuniting-australians-their-lost-superannuation)
 21 February 2026
 Australians are leaving $21.5 billion dollars in unclaimed superannuation earnings to languish in forgotten accounts. 
-### [Consultation on a Sustainable Financial Product Label Policy Framework](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/consultation-sustainable-financial-product-label-policy)
-13 February 2026
-The Albanese Government is asking for feedback on design options to improve product information for sustainable financial products. 
-### [Legislation introduced to strengthen Australia’s financial reporting system](https://ministers.treasury.gov.au/ministers/daniel-mulino-2025/media-releases/legislation-introduced-strengthen-australias-financial)
-12 February 2026
-The Albanese Government has today introduced legislation which will deliver the most significant reform to Australia’s financial reporting standard setters in over two decades. 

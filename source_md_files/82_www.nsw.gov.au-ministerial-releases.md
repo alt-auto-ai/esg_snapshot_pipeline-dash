@@ -27,62 +27,53 @@ From
 To
 Clear all filters
 Ministerial media release
-29 May 2026
-<<<<<<< HEAD
-### [Shovels in the ground on $35 million Hillsborough Road upgrade](https://www.nsw.gov.au/ministerial-releases/construction-underway-hillsborough-road)
-Major construction is now underway on stage one of the Hillsborough Road upgrade, marking the beginning of a major overhaul of one of Lake Macquarie’s busiest transport corridors.
+5 June 2026
+### [NSW scores with extended trading for FIFA World Cup](https://www.nsw.gov.au/departments-and-agencies/dciths/ministerial-media-releases/nsw-scores-extended-trading-for-fifa-world-cup)
+The Minns Labor Government is giving fans the chance to enjoy early-morning matches and provide a boost to local hospitality venues with extended trading hours for licensed venues statewide during the FIFA World Cup.
 Ministerial media release
-29 May 2026
-### [Screening checks available for workers as $2.5 million Lung Bus Arrives in Tweed Heads](https://www.nsw.gov.au/ministerial-releases/screening-checks-available-for-workers-as-25-million-lung-bus-arrives-tweed-heads)
-Lung Screening checks are available for Northern Rivers workers as the icare Lung Bus rolls into the Northern Rivers region for the first time in 2026.
-=======
-### [Screening checks available for workers as $2.5 million Lung Bus Arrives in Tweed Heads](https://www.nsw.gov.au/ministerial-releases/screening-checks-available-for-workers-as-25-million-lung-bus-arrives-tweed-heads)
-Lung Screening checks are available for Northern Rivers workers as the icare Lung Bus rolls into the Northern Rivers region for the first time in 2026.
+5 June 2026
+### [Tough new laws cracking down on organised crime networks pass NSW Parliament](https://www.nsw.gov.au/ministerial-releases/tough-new-laws-cracking-down-on-organised-crime-networks-pass-nsw-parliament)
+The Minns Labor Government’s reforms cracking down on organised crime, with new offences and tougher penalties for public shootings, firebombings and the recruitment of children for criminal activity, have passed NSW Parliament.
 Ministerial media release
-29 May 2026
-### [Shovels in the ground on $35 million Hillsborough Road upgrade](https://www.nsw.gov.au/ministerial-releases/construction-underway-hillsborough-road)
-Major construction is now underway on stage one of the Hillsborough Road upgrade, marking the beginning of a major overhaul of one of Lake Macquarie’s busiest transport corridors.
->>>>>>> 7bac5f0 (update pipeline)
+5 June 2026
+### [New partnership helps more people avoid visits to EDs](https://www.nsw.gov.au/ministerial-releases/new-partnership-helps-more-people-avoid-visits-to-eds)
+A new collaboration between NSW Ambulance and the Illawarra Shoalhaven Local Health District (ISLHD) is helping patients receive the right care in the right place while easing pressure on emergency departments (EDs).
 Ministerial media release
-29 May 2026
-### [Moama Ambulance Station opens](https://www.nsw.gov.au/ministerial-releases/moama-ambulance-station-opens)
-Border communities are now benefiting from enhanced frontline emergency care, with the opening of Moama Ambulance Station and 13 additional paramedics commencing work in the community earlier this month.
+5 June 2026
+### [Securing our future: $221 million to deliver a new era of threatened species protection](https://www.nsw.gov.au/ministerial-releases/securing-our-future-221-million-to-deliver-a-new-era-of-threatened-species-protection)
+The Minns Labor Government is transforming how it protects the environment, investing $221 million in a new, holistic approach to threatened species conservation.
 Ministerial media release
-29 May 2026
-### [Additional NSW Ambulance paramedics for Eden community](https://www.nsw.gov.au/ministerial-releases/more-paramedics-for-eden)
-The Far South Coast is benefiting from a boost to frontline emergency care, with an additional eight paramedics starting work in the community earlier this month.
+5 June 2026
+### [‘Operation Broadwater’ blitzes building sites between Coffs Harbour and Tweed Heads](https://www.nsw.gov.au/ministerial-releases/operation-broadwater-blitzes-building-sites-between-coffs-harbour-and-tweed-heads)
+The Minns Labor Government has blitzed more than 100 building sites from Coffs Harbour to Tweed Heads to help lift construction standards and boost confidence in the home building industry.
 Ministerial media release
-29 May 2026
-### [Additional NSW Ambulance paramedics for Wentworth](https://www.nsw.gov.au/ministerial-releases/additional-nsw-ambulance-paramedics-for-wentworth)
-The border community of Wentworth is now benefiting from a boost to frontline emergency care, with an additional eight paramedics starting work in the community earlier this month.
+5 June 2026
+### [Building 113 new homes from vacant lots in Southwest Sydney](https://www.nsw.gov.au/ministerial-releases/affordable-homes-from-vacant-lots)
+Construction is now underway on 113 social and affordable homes in Padstow, one of fourteen projects made possible under round two of the Housing Australia Future Fund (HAFF).
 Ministerial media release
-28 May 2026
-### [$65 million investment and more than 200 new jobs in Parkes](https://www.nsw.gov.au/ministerial-releases/65-million-investment-and-more-than-200-new-jobs-parkes)
-The Parkes Special Activation Precinct is set for a major economic boost, with three companies planning to establish operations in the precinct in a move expected to generate $65 million in private investment and more than 100 new permanent jobs for the region.
-Ministerial statement
-28 May 2026
-### [Multicultural NSW CEO Joseph La Posta departs after almost a decade of service](https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service)
-The following is a statement from Minister for Multiculturalism Steve Kamper
+5 June 2026
+### [Land Audit grows housing pipeline by 670 homes](https://www.nsw.gov.au/ministerial-releases/land-audit-grows-housing-pipeline-by-670-homes)
+The Minns Labor Government is delivering more homes. The land audit has identified more than 670 new homes which could be delivered across surplus and underutilised NSW Government-owned sites as part of the NSW Government’s $6.6 billion Building Homes for NSW program to help deliver 30,000 homes across the state.
 Ministerial media release
-28 May 2026
-### [Major win for the Hawkesbury communities as New Richmond Bridge reaches major milestone](https://www.nsw.gov.au/ministerial-releases/new-richmond-bridge-built-sooner)
-In a major win for Hawkesbury communities, the New Richmond Bridge and surrounding road projects will now be delivered sooner. 
+5 June 2026
+### [Nation-leading ‘good character’ reforms pass NSW Parliament](https://www.nsw.gov.au/ministerial-releases/nation-leading-good-character-reforms-pass-nsw-parliament)
+Victim-survivors of crime will be better protected following the passage of the Minns Labor Government’s reforms abolishing ‘good character’ as a mitigating factor at sentencing for all offences.
 Ministerial media release
-28 May 2026
-### [$12 million unlocked to deliver infrastructure in regional communities](https://www.nsw.gov.au/ministerial-releases/12-million-unlocked-to-deliver-infrastructure-regional-communities)
-The Minns Labor Government has unlocked another $12 million to help regional communities accelerate housing delivery with the opening of round five of the Low-Cost Loans initiative.
+5 June 2026
+### [$105 million Moree Hospital Redevelopment reaches new heights](https://www.nsw.gov.au/ministerial-releases/new-moree-hospital-building)
+The Moree Hospital Redevelopment has reached a major milestone, with the new two-storey acute services building reaching its highest point and the roof now complete. 
 Ministerial media release
-28 May 2026
-### [New support program to keep Aboriginal families safe in regional and remote NSW](https://www.nsw.gov.au/ministerial-releases/new-support-program-to-keep-aboriginal-families-safe-regional-and-remote-nsw)
-The Minns Labor Government is strengthening support of Aboriginal and Torres Strait Islander women and children escaping abuse in regional and remote New South Wales, with a new culturally safe support program under the Staying in Community Leaving Violence (SiCLV) initiative.
+5 June 2026
+### [Laws giving police, courts greater power to combat extremism pass Parliament](https://www.nsw.gov.au/ministerial-releases/laws-give-police-and-courts-greater-power-to-combat-extremism)
+The Minns Labor Government’s reforms cracking down on conduct which indicates support for Nazi ideology and giving courts greater powers to hold extremists to account have passed NSW Parliament.
   * keyboard_arrow_left
   * 1
   * 2
   * 3
   * ...
-  * 576
-  * 577
-  * 578
+  * 580
+  * 581
+  * 582
   * keyboard_arrow_right
 
 

@@ -3,6 +3,14 @@
   * News
 
 
+[ ](https://www.greenindustries.sa.gov.au/news/events-venues-guidelines-2026-update)
+  * Tools and guides
+  * June 01, 2026
+
+
+##### [Updated guidelines help events and venues reduce waste](https://www.greenindustries.sa.gov.au/news/events-venues-guidelines-2026-update)
+Event organisers, venue managers, councils and landowners now have access to updated guidance to help...
+[Read more](https://www.greenindustries.sa.gov.au/news/events-venues-guidelines-2026-update)
 [ ](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
   * Circular economy
   * Funding
@@ -45,14 +53,6 @@ Applications for the Circular Impact Accelerator 2026 will open on Wednesday 28 
 ##### [Depots open to get batteries out of bins and reduce fire risk](https://www.greenindustries.sa.gov.au/news/embedded-battery-depots-open)
 South Australians can now drop off embedded battery products at 4 sites across Adelaide, helping...
 [Read more](https://www.greenindustries.sa.gov.au/news/embedded-battery-depots-open)
-[ ](https://www.greenindustries.sa.gov.au/news/2025-2030-circular-economy-strategy)
-  * Circular economy
-  * December 11, 2025
-
-
-##### [Introducing our 2025–2030 circular economy strategy](https://www.greenindustries.sa.gov.au/news/2025-2030-circular-economy-strategy)
-Green Industries SA (GISA) has today released Accelerating SA’s transition to a circular economy: South...
-[Read more](https://www.greenindustries.sa.gov.au/news/2025-2030-circular-economy-strategy)
   * [1](https://www.greenindustries.sa.gov.au/news?page=1&prop_ModuleId=1534&prop_parentid_list=2725)
   * [2](https://www.greenindustries.sa.gov.au/news?page=2&prop_ModuleId=1534&prop_parentid_list=2725)
   * [3](https://www.greenindustries.sa.gov.au/news?page=3&prop_ModuleId=1534&prop_parentid_list=2725)
@@ -79,10 +79,10 @@ Green Industries SA (GISA) has today released Accelerating SA’s transition to 
 
 
 ##### RECENT POSTS
+  * [Updated guidelines help events and venues reduce waste](https://www.greenindustries.sa.gov.au/news/events-venues-guidelines-2026-update)
   * [$20k awarded to circular economy innovators](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-pitch-night-2026)
   * [Heavy vehicle sustainability guide released with support from Green Industries SA](https://www.greenindustries.sa.gov.au/news/heavy-vehicle-sustainability-guide-released)
   * [Updated Disaster Waste Management Guidelines now available](https://www.greenindustries.sa.gov.au/news/disaster-waste-management-guidelines-updated)
-  * [Launching soon: Circular Impact Accelerator 2026](https://www.greenindustries.sa.gov.au/news/circular-impact-accelerator-2026)
 
 
 ##### CATEGORIES

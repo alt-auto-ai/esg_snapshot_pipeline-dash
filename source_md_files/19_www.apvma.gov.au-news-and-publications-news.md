@@ -1,5 +1,4 @@
 [ Skip to main content ](https://www.apvma.gov.au/news-and-publications/news#main-content "Skip to main content")
-The APVMA [Online Services Portal(Opens in a new tab/window)](https://portal.apvma.gov.au/) will be unavailable from 9 pm to 10 pm (AEST) Friday 29 May 2026 due to scheduled maintenance.
 # News
 Subscribe to receive 
 ### 2026 

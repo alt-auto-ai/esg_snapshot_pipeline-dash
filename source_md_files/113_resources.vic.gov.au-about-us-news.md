@@ -87,7 +87,7 @@ Legislation and regulations
 
 
   * [Victorian Mining Register](https://resources.vic.gov.au/legislation-and-regulations/victorian-mining-register)
-  * [Extractive industries rehabilitation](https://resources.vic.gov.au/legislation-and-regulations/extractive-industry-rehabilitation)
+  * [Rehabilitation bonds for mineral exploration, mines and quarries](https://resources.vic.gov.au/legislation-and-regulations/rehabilitation-bonds-for-mineral-exploration-mines-and-quarries)
   * [Victorian Mining Warden](https://resources.vic.gov.au/legislation-and-regulations/victorian-mining-warden)
   * [Working with other regulators](https://resources.vic.gov.au/legislation-and-regulations/memoranda-of-understanding)
 
@@ -104,40 +104,40 @@ Recreational prospecting
 [Home](https://resources.vic.gov.au) > [About us](https://resources.vic.gov.au/about-us) >
 # News
 ## Featured news
-[](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
-### [Minerals industry updates for February and March 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
-10/04/2026
-We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
-[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
+[](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
+### [Minerals industry updates for April and May 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
+02/06/2026
+We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for April and May 2026.
+[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
 ## Latest news
+[ ](https://resources.vic.gov.au/about-us/news/shining-a-light-on-women-in-the-resources-sector)
+### [Shining a light on women in the resources sector](https://resources.vic.gov.au/about-us/news/shining-a-light-on-women-in-the-resources-sector)
+05/06/2026
+The 2026 Victorian Women in Resources Awards were bestowed on five high-performing industry figures this week.
+[Read more](https://resources.vic.gov.au/about-us/news/shining-a-light-on-women-in-the-resources-sector)
+[ ](https://resources.vic.gov.au/about-us/news/improvements-to-the-quarry-rehabilitation-bond-system)
+### [Improvements to the quarry rehabilitation bond system](https://resources.vic.gov.au/about-us/news/improvements-to-the-quarry-rehabilitation-bond-system)
+04/06/2026
+Resources Victoria is helping ensure ongoing investment in the state’s quarry sector through reforms to the state’s rehabilitation bond system.
+[Read more](https://resources.vic.gov.au/about-us/news/improvements-to-the-quarry-rehabilitation-bond-system)
+[ ](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
+### [Minerals industry updates for April and May 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
+02/06/2026
+We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for April and May 2026.
+[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-april-and-may-2026)
+[ ](https://resources.vic.gov.au/about-us/news/new-group-brings-together-mining-and-farming-sectors)
+### [New group brings together mining and farming sectors](https://resources.vic.gov.au/about-us/news/new-group-brings-together-mining-and-farming-sectors)
+02/06/2026
+A specialist working group has been established to advise Resources Victoria on how to build confidence that mining land can be successfully rehabilitated back for agriculture use.
+[Read more](https://resources.vic.gov.au/about-us/news/new-group-brings-together-mining-and-farming-sectors)
+[ ](https://resources.vic.gov.au/about-us/news/new-airborne-survey-to-help-map-central-victorias-geology)
+### [New airborne survey to help map central Victoria’s geology](https://resources.vic.gov.au/about-us/news/new-airborne-survey-to-help-map-central-victorias-geology)
+01/06/2026
+Is it a bird? Is it a passenger plane? Between June and November, if you’re north or west of Melbourne, you may spot something a little different overhead: a specially equipped aircraft conducting a geoscience survey.
+[Read more](https://resources.vic.gov.au/about-us/news/new-airborne-survey-to-help-map-central-victorias-geology)
 [ ](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
 ### [Grant submissions closing soon](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
 27/05/2026
 Applications for the $1 million Advancing Antimony Grants program close at 5pm on Tuesday 23 June.
 [Read more](https://resources.vic.gov.au/about-us/news/grant-submissions-closing-soon)
-[ ](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
-### [Victoria’s first female mining warden appointed](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
-08/05/2026
-Ms Karen Streckfuss has been appointed Victoria’s Mining Warden for a period of three years.
-[Read more](https://resources.vic.gov.au/about-us/news/victorias-first-female-mining-warden-appointed)
-[ ](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
-### [Advancing the potential for antimony processing](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
-29/04/2026
-We are guiding efforts to develop a local critical minerals supply chain to boost the state’s advanced manufacturing, support regional economic development and potentially create new well-paid local jobs.
-[Read more](https://resources.vic.gov.au/about-us/news/advancing-the-potential-for-antimony-processing)
-[ ](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
-### [Securing future quarry resources](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
-27/04/2026
-Strategic Extractive Resource Areas (SERAs) are now in place at Lang Lang, Oaklands Junction and Trafalgar.
-[Read more](https://resources.vic.gov.au/about-us/news/securing-future-quarry-resources)
-[ ](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
-### [Minerals industry updates for February and March 2026](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
-10/04/2026
-We scan ASX announcements and company websites for updates on exploration and mining activity. Here are the releases for February and March 2026.
-[Read more](https://resources.vic.gov.au/about-us/news/minerals-industry-updates-for-february-and-march-2026)
-[ ](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
-### [Overextraction is high priority for the resources regulator](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
-11/03/2026
-Resources Victoria continues to use a range of compliance tools to ensure potential impacts of quarrying on the environment are minimised and sites can be rehabilitated when production ends.
-[Read more](https://resources.vic.gov.au/about-us/news/overextraction-is-high-priority-for-the-resources-regulator)
 Feedback

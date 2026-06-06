@@ -216,6 +216,8 @@
   * [ERM at Sustainability Week 2026](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
   * [ReThink HK 2025](https://www.erm.com/about/events/rethink-hk-2025/)
   * [ERM at SETAC Latin America 2025](https://www.erm.com/about/events/erm-at-setac-latin-america-2025/)
+  * [Workiva Accelerate CDMX 2026](https://www.erm.com/about/events/workiva-accelerate/)
+  * [ERM at Gecamin Planning for Closure 2026](https://www.erm.com/about/events/erm-at-gecamin-planning-for-closure-20262/)
   * [Decarbonize Smarter: How to Maximize Impact with Energy Efficiency & Public Funding Support](https://www.erm.com/about/events/decarbonize-smarter-how-to-maximize-impact-with-energy-efficiency-public-funding-support/)
   * [ABIM 2025](https://www.erm.com/about/events/abim-2025/)
   * [VERGE 25](https://www.erm.com/about/events/verge-25/)
@@ -263,6 +265,7 @@
   * [Global Offshore Wind Manchester 2026](https://www.erm.com/about/events/global-offshore-wind-2026/)
   * [EDA Annual Convention 2026](https://www.erm.com/about/events/eda-annual-convention-2026/)
   * [Sustainable Aviation Futures (SAF) Congress 2026](https://www.erm.com/about/events/sustainable-aviation-futures-saf-congress-2026/)
+  * [World Agri-Tech South America Summit 2026](https://www.erm.com/about/events/world-agri-tech-south-america-summit-2026/)
 
 
 [ Locations ](https://www.erm.com/about/locations/)
@@ -461,6 +464,13 @@
 Our Company Our People Our Work Events Locations Sustainability News Sustainability Who we are Working with ERM ERM Foundation
 #  Events
 ##  ERM shares insights and participates at a number of events throughout the year
+[ ](https://www.erm.com/about/events/world-agri-tech-south-america-summit-2026/)
+Event
+[ERM at the World Agri-Tech South America Summit 2026](https://www.erm.com/about/events/world-agri-tech-south-america-summit-2026/)
+June 23-24, 2026
+Hotel Unique, São Paolo, Brazil
+ERM will be at the World Agri-Tech South America Summit, a flagship event that brings together 600+ global and regional leaders across the agri-food value chain.
+[ Event details ](https://www.erm.com/about/events/world-agri-tech-south-america-summit-2026/)
 [ ](https://www.erm.com/about/events/global-offshore-wind-2026/)
 Event
 [Global Offshore Wind Manchester 2026](https://www.erm.com/about/events/global-offshore-wind-2026/)
@@ -489,6 +499,13 @@ Event
 Croke Park
 The European Demolition Association Annual Convention 2026 will take place from 10–12 June 2026 in Dublin, bringing together international professionals from the demolition, decontamination, and recycling (DDR) sectors.
 [ Event details ](https://www.erm.com/about/events/eda-annual-convention-2026/)
+[ ](https://www.erm.com/about/events/erm-at-gecamin-planning-for-closure-20262/)
+Event
+[ERM at Gecamin – Planning for Closure 2026](https://www.erm.com/about/events/erm-at-gecamin-planning-for-closure-20262/)
+2-4 June 2026
+Hotel Sheraton Santiago
+ERM will be presenting at Gecamin a leading international conference focused on mine closure planning and management, bringing together key stakeholders from industry, government, and multilateral organizations. The event highlights best practices in sustainability, environmental management, social risk, and ESG integration, promoting a “mining for closure” approach that optimizes outcomes across the entire mining lifecycle.
+[ Event details ](https://www.erm.com/about/events/erm-at-gecamin-planning-for-closure-20262/)
 [ ](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
 Event
 [ERM at ARPEL Conference 2026](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
@@ -496,6 +513,13 @@ June 1–4, 2026
 Hilton Hotel in Buenos Aires, Argentina
 ERM announces its participation in the ARPEL Conference 2026, taking place from June 1–4, 2026, at the Hilton Hotel in Buenos Aires, Argentina.
 [ Event details ](https://www.erm.com/about/events/erm-at-arpel-conference-2026/)
+[ ](https://www.erm.com/about/events/workiva-accelerate/)
+Event
+[Workiva Accelerate CDMX 2026](https://www.erm.com/about/events/workiva-accelerate/)
+June 3, 2026 
+St Regis, Mexico City
+ERM will participate as a sponsor of Workiva Accelerate CDMX 2026, an event that will bring together leaders in finance, risk, and sustainability to discuss how integrated governance, AI, and evolving regulatory trends are transforming transparency and decision-making within organizations. We invite you to join the conversation and visit us at the booth area to connect and exchange ideas. The event is free to attend with limited capacity.
+[ Event details ](https://www.erm.com/about/events/workiva-accelerate/)
 [ ](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
 Event
 [ERM at Sustainability Week 2026](https://www.erm.com/about/events/erm-at-sustainability-week-2026/)
@@ -523,26 +547,6 @@ Event
 May 19-22, 2026
 Québec City Convention Centre
 [ Event details ](https://www.erm.com/about/events/erm-at-iaia26/)
-[ ](https://www.erm.com/about/events/setac-2026/)
-Event
-[SETAC Europe Annual Meeting 2026](https://www.erm.com/about/events/setac-2026/)
-17-21 May 2026
-MECC MAASTRICHT
-ERM is pleased to announce its participation as an event partner at the SETAC Europe 36th Annual Meeting.
-[ Event details ](https://www.erm.com/about/events/setac-2026/)
-[ ](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
-Event
-[Crop protection training series with Fresenius 2026](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
-5 & 8 May 2026
-ERM is leading an online Crop Protection training series together with Fresenius.
-[ Event details ](https://www.erm.com/about/events/crop-protection-training-series-with-fresenius-2026/)
-[ ](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
-Event
-[Decarbonization that Pays Off: Value‑Led Strategies for Pharma Supply Chains](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
-7 May - 3 PM CEST
-Zoom
-In this executive-level webinar, AstraZeneca and Takeda, along with ERM, will explore how leading pharma companies are moving from strategy to implementation, building actionable supply chain decarbonization roadmaps that deliver tangible results.
-[ Event details ](https://www.erm.com/about/events/erm-webinar-how-leading-pharma-organizations-are-decarbonizing-their-supply-chain/)
 Load More
 [Load More](https://www.erm.com/about/events/?page=2)
 ## [ How can we help?  How can we help you? Contact us to discuss how we can help your organization.  Contact us now ](https://www.erm.com/contact-us/)

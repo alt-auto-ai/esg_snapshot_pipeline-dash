@@ -1,83 +1,84 @@
 News - European Commission [Skip to main content](https://environment.ec.europa.eu/news_en#main-content)
 This site uses cookies. Visit our [cookies policy page](https://commission.europa.eu/cookies-policy_en) or click the link in any footer for more information and to change your preferences.
 [Accept all cookies](https://environment.ec.europa.eu/news_en#accept) [Accept only essential cookies](https://environment.ec.europa.eu/news_en#refuse)
-An official website of the European Union An official EU website How do you know? 
+An official website of the European Union An official EU website How do you know?
 All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-####  News (1018)
+####  News (1028)
 [RSS](https://environment.ec.europa.eu/node/92/rss_en)
 Showing results 1 to 10
   * News article
-  * 27 May 2026
+  * 4 June 2026
 
 
-[Commission seeks input on digital action plan for water sector](https://environment.ec.europa.eu/news/commission-seeks-input-digital-action-plan-water-sector-2026-05-27_en)
-The initiative will help shape EU-wide strategies that integrate smart technology across the industry.
+[Commissioner Roswall and youth discuss nature-based future](https://environment.ec.europa.eu/news/commissioner-roswall-and-youth-discuss-nature-based-future-2026-06-04_en)
+The Youth Policy Dialogue in Brussels brought together 13 young European leaders to discuss how investments in nature can drive both environmental protection and economic resilience.
 2 min read
   * News article
-  * 22 May 2026
+  * 4 June 2026
 
 
-[Commission boosts EU water resilience with fresh guidance ](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1129)
-The new document ensures a more harmonised implementation of water laws by reducing compliance uncertainties, among other things.
-1 min read
-  * News article
-  * 22 May 2026
-
-
-[EU delivering on biodiversity ahead of CBD COP17](https://environment.ec.europa.eu/news/eu-delivering-biodiversity-ahead-cbd-cop17-2026-05-22_en)
-Protecting biodiversity is increasingly recognised not only as an environmental necessity, but also as an economic and security imperative.
-5 min read
-  * News article
-  * 22 May 2026
-
-
-[CBD COP17: Addressing the biodiversity financing gap ](https://environment.ec.europa.eu/news/cbd-cop17-addressing-biodiversity-financing-gap-2026-05-22_en)
-Around 100 stakeholders gathered online and in Brussels to find innovative ideas on scaling up private investment in biodiversity.
+[Amazonian Indigenous women win 2026 #ForOurPlanet prize](https://environment.ec.europa.eu/news/amazonian-indigenous-women-win-2026-forourplanet-prize-2026-06-04_en)
+The award highlights the initiative's commitment to strengthening the leadership of Indigenous women in protecting the Amazon rainforest.
 3 min read
   * News article
-  * 21 May 2026
+  * 3 June 2026
 
 
-[New Waste Shipment Regulation and DIWASS platform go live](https://environment.ec.europa.eu/news/new-waste-shipment-regulation-and-diwass-platform-go-live-2026-05-21_en)
-The Digital Waste Shipment System (DIWASS) will be key for the EU's circular economy transition and a decisive step towards full digitalisation.
+[EU poll shows continued support for biodiversity protection](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1224)
+A special Eurobarometer survey revealed that over 90% of Europeans view protecting nature as essential for health and economic prosperity.
+1 min read
+  * News article
+  * 3 June 2026
+
+
+[Wins for nature and clean environment at 2026 LIFE Awards](https://cinea.ec.europa.eu/news-events/news/celebrating-wins-nature-clean-environment-and-climate-2026-life-awards-2026-06-03_en)
+This year’s winners recognise exceptional projects that protect and restore nature, promote the circular economy and sustainable resource use.
+1 min read
+  * News article
+  * 3 June 2026
+
+
+[EU Green Week 2026 opens with focus on nature investment](https://environment.ec.europa.eu/news/eu-green-week-2026-opens-focus-nature-investment-2026-06-03_en)
+The flagship annual environment conference kicked off in Brussels to explore how investment in nature can strengthen Europe.
 4 min read
   * News article
-  * 20 May 2026
+  * 3 June 2026
 
 
-[Multi-hazard floods in Europe tripled over 30 years](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/floods-compounding-hazards-increased-almost-threefold-30-years-2026-05-20_en)
-Average economic losses from so-called compound floods are nearly three times higher than those from single-source floods.
+[Commissioner Roswall's opening speech at EU Green Week 2026](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1247)
+Read the Commissioner's full address at the annual environment conference in Brussels.
 1 min read
   * News article
-  * 20 May 2026
+  * 3 June 2026
 
 
-A new cohort of projects backs solutions pushed by youngsters, from urban habitats to DNA-based monitoring.
+[The 8th Natura 2000 Award edition is launched! ](https://environment.ec.europa.eu/news/8th-natura-2000-award-edition-launched-2026-06-03_en)
+To the heroes of nature conservation
+4 min read
+  * News article
+  * 1 June 2026
+
+
+[How to make energy-intensive industries more sustainable](https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/innovative-techniques-what-works-best-making-energy-intensive-industries-more-sustainable-2026-06-01_en)
+A new JRC analysis identifies and maps market-ready or nearly ready innovative techniques capable of reducing the environmental impact of energy-intensive industries in the EU.
 1 min read
   * News article
-  * 19 May 2026
+  * 1 June 2026
 
 
-[Commission seeks feedback on industrial biotechnology and biomanufacturing](https://single-market-economy.ec.europa.eu/news/commission-seeks-feedback-industrial-biotechnology-and-biomanufacturing-2026-05-18_en)
-Companies, professionals, experts, academics and citizens can share their views on how to address the main challenges and bottlenecks.
+[Commission accelerates transition away from animal testing](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214)
+A new roadmap phasing out the use of animals in chemical safety assessments has been presented.
 1 min read
   * News blog
-  * 18 May 2026
+  * 1 June 2026
 
 
-[Meet Ernesto Montoya - Natural and historical heritage communicator ](https://environment.ec.europa.eu/news/meet-ernesto-montoya-natural-and-historical-heritage-communicator-2026-05-18_en)
-Ernesto Montoya, a Spanish heritage communicator and creator of Vieja Tierra, explores how understanding rural landscapes, nature, and history can strengthen people’s connection to and protection of Extremadura’s ecosystems.
-2 min read
-  * News blog
-  * 18 May 2026
-
-
-[Meet Catarina Barreiros - zero waste brand co-founder ](https://environment.ec.europa.eu/news/meet-catarina-barreiros-zero-waste-brand-co-founder-2026-05-18_en)
-Catarina Barreiros, a Portuguese sustainability strategist and co-founder of Do Zero, works to make environmental responsibility and social impact accessible while promoting a deeper connection between people and nature.
-2 min read
+[How green roofs improve urban life & boost climate resilience](https://environment.ec.europa.eu/news/how-green-roofs-improve-urban-life-boost-climate-resilience-2026-06-01_en)
+As modern cities grapple with rising temperatures and a decline in traditional green spaces, building-integrated vegetation, or green roofs, has emerged as a practical solution.
+3 min read
 Share this page 
   * [ X ](https://environment.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://environment.ec.europa.eu/news_en#facebook "Share via Facebook")

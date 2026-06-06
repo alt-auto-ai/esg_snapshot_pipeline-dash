@@ -1,24 +1,7 @@
 url,error
-<<<<<<< HEAD
-https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service,"Unexpected error in _crawl_web at line 718 in _crawl_web (../../../miniconda3/envs/esg/lib/python3.11/site-packages/crawl4ai/async_crawler_strategy.py):
-Error: Failed on navigating ACS-GOTO:
-Page.goto: net::ERR_TIMED_OUT at https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service
-Call log:
-  - navigating to ""https://www.nsw.gov.au/ministerial-releases/multicultural-nsw-ceo-joseph-la-posta-departs-after-almost-a-decade-of-service"", waiting until ""domcontentloaded""
-
-
-Code context:
- 713                                   tag=""GOTO"",
- 714                                   params={""url"": url},
- 715                               )
- 716                               response = None
- 717                           else:
- 718 →                             raise RuntimeError(f""Failed on navigating ACS-GOTO:\n{str(e)}"")
- 719   
- 720                       # ──────────────────────────────────────────────────────────────
- 721                       # Walk the redirect chain.  Playwright returns only the last
- 722                       # hop, so we trace the `request.redirected_from` links until the
- 723                       # first response that differs from the final one and surface its"
-=======
-https://audit.wa.gov.au/wp-content/uploads/2026/05/Universities-and-TAFEs-improve-financial-controls.pdf,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements (174 bytes, 0 chars visible)"
->>>>>>> 7bac5f0 (update pipeline)
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1231,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19152 bytes, 0 chars visible)"
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19296 bytes, 0 chars visible)"
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1244,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19306 bytes, 0 chars visible)"
+https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1247,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19120 bytes, 0 chars visible)"
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1214,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19380 bytes, 0 chars visible)"
+https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1224,"Blocked by anti-bot protection: Structural: minimal_text, no_content_elements, script_heavy_shell (19258 bytes, 0 chars visible)"

@@ -32,8 +32,4 @@
   
 Energy & Mining  
 https://www.energymining.sa.gov.au/home/news  
-<<<<<<< HEAD
-May 29, 2026 4:13 pm 
-=======
-May 30, 2026 5:03 pm 
->>>>>>> 7bac5f0 (update pipeline)
+June 6, 2026 1:58 pm 

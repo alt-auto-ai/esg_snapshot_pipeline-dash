@@ -34,4 +34,4 @@ Thursday, 19 Feb 2026
 Closing the Gap | News
 ## [ Commonwealth Closing the Gap report release ](https://www.niaa.gov.au/news-and-media/commonwealth-closing-gap-report-release)
 Thursday, 12 Feb 2026
-1-9 of 342 results 
+1-9 of 345 results 

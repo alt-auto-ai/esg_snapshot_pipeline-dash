@@ -1,18 +1,14 @@
 Opens in a new window Opens an external website Opens an external website in a new window
-Close this dialog
+<!---->Close this dialog<!----> 
 This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.  [Privacy Policy](https://www.wri.org/about/privacy-policy)
-<<<<<<< HEAD
-[Storage Preferences](https://www.wri.org/events#9c11d537-26c8-48b2-a095-1dd238a87192)
-=======
-[Storage Preferences](https://www.wri.org/events#7b45f3c2-a8e4-4f68-a4c3-c7e92fd3fa1d)
->>>>>>> 7bac5f0 (update pipeline)
+[Storage Preferences](https://www.wri.org/events#eef6c8fb-ba3d-4600-8917-d8af01e2960d)
   * Targeted Advertising
   * Personalization
   * Analytics
 
 
 Save  Accept All  Reject Non-Essential 
-Close Cookie Preferences
+<!---->Close Cookie Preferences<!----> 
 [ Skip to main content ](https://www.wri.org/events#main-content)
 [ Accessibility ](https://www.wri.org/accessibility)
 [ ](https://www.wri.org/)
@@ -54,32 +50,28 @@ Not sure where to find something? Search all of the site's content.
 # Events
 #### All Topics
 [All Topics](https://www.wri.org/events)
-[Cities ](https://www.wri.org/events)
 [Climate ](https://www.wri.org/events)
 [Energy ](https://www.wri.org/events)
-[Forests ](https://www.wri.org/events)
 Filters
 ### Event Type
+  * Event [Event ](https://www.wri.org/events)
   * In-Person [In-Person ](https://www.wri.org/events)
-  * Webinar [Webinar ](https://www.wri.org/events)
 
 
 4 Resources for 
 [Climate](https://www.wri.org/climate)
 Event 
-Past Event May 28, 2026
-###  [Navigating Systems Change Lab: Governance Deep Dive](https://hub.wri.org/events/2026/5/navigating-systems-change-lab-governance-deep-dive?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Cities](https://www.wri.org/cities)
+June 11, 2026
+###  [From Strategies to Action: Aligning Climate Goals, Development and Finance](https://hub.wri.org/events/2026/6/strategies-action-aligning-climate-goals-development-and-finance?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Climate](https://www.wri.org/climate)
 Event 
-June 2, 2026
-###  [Accelerating Nature-Based Solutions: Insights from Brazil, India & Indonesia](https://hub.wri.org/events/2026/6/accelerating-nature-based-solutions-insights-brazil-india-indonesia?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/6/accelerating-nature-based-solutions-insights-brazil-india-indonesia#register)
-[Forests](https://www.wri.org/forests)
-[Cameroon](https://www.wri.org/resources/region/africa-8911/country/cameroon-8895)
+June 22 -25, 2026
+###  [WRI at London Climate Action Week 2026](https://hub.wri.org/events/2026/6/wri-london-climate-action-week-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
+[Climate](https://www.wri.org/climate)
+[United Kingdom](https://www.wri.org/resources/region/europe-10885/country/united-kingdom-8966)
 Event 
-June 4, 2026
-###  [Forest Transparency in Cameroon: Insights, Challenges and the Road Ahead](https://hub.wri.org/events/2026/6/forest-transparency-cameroon-insights-challenges-and-road-ahead?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
-[Register](https://hub.wri.org/events/2026/6/forest-transparency-cameroon-insights-challenges-and-road-ahead#register)
+June 24, 2026
+###  [The WRI Hub at London Climate Action Week 2026](https://hub.wri.org/events/2026/6/wri-hub-london-climate-action-week-2026?returnTo=https%3A%2F%2Fwww.wri.org%2Fevents)
 [Energy Access](https://www.wri.org/energy/energy-access)
 Event 
 October 26 -28, 2026

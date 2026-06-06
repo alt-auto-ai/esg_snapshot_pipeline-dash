@@ -10,76 +10,53 @@ English Search
 [](https://press.un.org/en/content/secretary-general/press-release#main-content)
 # Secretary-General: Press Release
 * * *
-<<<<<<< HEAD
-28 May 2026
+5 June 2026
 Press Release
-SG/SM/23151
-### [Ukraine War Risks Spiralling Out of Control, Secretary-General Warns Security Council, Calls for Full, Unconditional Ceasefire](https://press.un.org/en/2026/sgsm23151.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks to the Security Council meeting on Ukraine, in New York today:
-28 May 2026
+SG/SM/23162
+### [Secretary-General Honours Recipients of UN Military Gender Advocate, Woman Police Officer of the Year, Captain Mbaye Diagne Medal, at Awards Ceremony](https://press.un.org/en/2026/sgsm23162.doc.htm)
+Following are UN Secretary-General António Guterres’ remarks to the Military Gender Advocate of the Year Award, United Nations Woman Police Officer of the Year Award, the Captain Mbaye Diagne Medal for Exceptional Courage Ceremony and the Dag Hammarskjöld Medal Ceremony, in New York today: 
+4 June 2026
 Press Release
-SG/SM/23150
-### [Each Degree of Temperature Overshoot Brings Harm, Secretary-General Warns on World Environment Day, Calls for Rapid Shift to Renewables](https://press.un.org/en/2026/sgsm23150.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message for World Environment Day, observed on 5 June:
-28 May 2026
+SG/SM/23160
+### [Secretary-General Expresses Hope Israel-Lebanon Ceasefire Will Lead to Lasting Peace](https://press.un.org/en/2026/sgsm23160.doc.htm)
+The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
+4 June 2026
 Press Release
-=======
-29 May 2026
+SG/SM/23161
+### [Honour Changemakers that Reshape Communities for Better, Secretary-General Urges in Message for 100-Day Countdown to International Day of Peace ](https://press.un.org/en/2026/sgsm23161.doc.htm)
+Following is UN Secretary-General António Guterres’ message for the 100-day countdown to the International Day of Peace, observed on 13 June:
+4 June 2026
 Press Release
-SG/SM/23152
-### [Increase Investment, Governance to Ensure All Africans Have Safely Managed Water, Sanitation Services, Secretary-General Urges Africa Dialogue Series](https://press.un.org/en/2026/sgsm23152.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message to the Africa Dialogue Series 2026: “Water and Sanitation for Life: Harnessing Water Resources for the Africa We Want”, today in New York:
-28 May 2026
+SG/SM/23159
+### [Secretary-General Condemns Killing of Serbian Peacekeeper in Lebanon](https://press.un.org/en/2026/sgsm23159.doc.htm)
+The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
+2 June 2026
 Press Release
-SG/SM/23151
-### [Ukraine War Risks Spiralling Out of Control, Secretary-General Warns Security Council, Calls for Full, Unconditional Ceasefire](https://press.un.org/en/2026/sgsm23151.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks to the Security Council meeting on Ukraine, in New York today:
-28 May 2026
+SG/SM/23156
+### [As El Niño Nears, Secretary-General Urges ‘Climate Action Equal to Crisis’](https://press.un.org/en/2026/sgsm23156.doc.htm)
+Following is the text of UN Secretary-General António Guterres’ video statement on the release of the World Meteorological Organization El Niño/La Niña Update:
+2 June 2026
 Press Release
-SG/SM/23150
-### [Each Degree of Temperature Overshoot Brings Harm, Secretary-General Warns on World Environment Day, Calls for Rapid Shift to Renewables](https://press.un.org/en/2026/sgsm23150.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message for World Environment Day, observed on 5 June:
-28 May 2026
+SG/T/3465
+### [Activities of Secretary-General in Japan, 17-20 May](https://press.un.org/en/2026/sgt3465.doc.htm)
+The Secretary-General arrived in Tokyo, Japan, on the afternoon of Sunday, 17 May.
+2 June 2026
 Press Release
->>>>>>> 7bac5f0 (update pipeline)
-SG/SM/23149
-### [As UN80 Enters ‘Critical New Phase’ for Decisions, Delivery, Secretary-General Urges General Assembly to Support Reforms, Meet ‘Bedrock’ Treaty Obligations](https://press.un.org/en/2026/sgsm23149.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks to the General Assembly on the UN80 Initiative, in New York today:
-28 May 2026
+SG/SM/23158
+### [Trust Forms When ‘We Listen, Talk and Connect’, Says UN Chief in International Day Message](https://press.un.org/en/2026/sgsm23158.doc.htm)
+Following is UN Secretary-General António Guterres’ message on the International Day for Dialogue among Civilizations, observed on 10 June:
+2 June 2026
 Press Release
-SG/SM/23148
-### [Creole Culture ‘Tells the Story of Humankind’, Secretary-General Says in Video Message to International Event](https://press.un.org/en/2026/sgsm23148.doc.htm)
-Following is the text of UN Secretary-General António Guterres’ video message for the International Event on Creole Culture, in Praia today:
-27 May 2026
-Press Release
-SG/SM/23147
-### [Fight against Poverty Demands Urgent Reform of Unfair Global Financial System, Secretary-General Says in Message to Forum](https://press.un.org/en/2026/sgsm23147.doc.htm)
-Following is UN Secretary-General António Guterres’ message to the 2026 Global Poverty Reduction and Development Forum, held in Beijing today:
-26 May 2026
+SG/SM/23157
+### [Secretary-General Congratulates Khalilur Rahman of Bangladesh on Election as Next President of General Assembly](https://press.un.org/en/2026/sgsm23157.doc.htm)
+Following are UN Secretary-General António Guterres’ remarks on the election of the President of the General Assembly for its eighty-first session, in New York today:
+1 June 2026
 Biographical Note
-SG/A/2416
-### [Secretary-General Appoints Mohamed El-Amine Souef of Comoros Special Representative for Central Africa, Head of UN Regional Office](https://press.un.org/en/2026/sga2416.doc.htm)
-United Nations Secretary-General António Guterres announced today the appointment of Mohamed El-Amine Souef of the Comoros as his new Special Representative for Central Africa and Head of the United Nations Regional Office for Central Africa (UNOCA). He succeeds Abdou Abarry of Niger, to whom the Secretary-General is grateful for his important contribution and service to UNOCA.
-26 May 2026
-Press Release
-SG/SM/23146
-### [United Nations Charter Remains Humanity’s Best Hope for Peace, Secretary-General Tells Security Council, Urging Greater Action to Uphold its Purposes amid Profound Threats ](https://press.un.org/en/2026/sgsm23146.doc.htm)
-Following are UN Secretary-General António Guterres’ remarks to the UN Security Council open debate on upholding the purposes and principles of the UN Charter and strengthening the UN-centred international system, in New York today:
-25 May 2026
-Press Release
-SG/SM/23145
-### [Secretary-General Strongly Condemns Deadly Explosion Targeting Train in Pakistan](https://press.un.org/en/2026/sgsm23145.doc.htm)
-The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
-25 May 2026
-Press Release
-SG/SM/23144
-### [Secretary-General Urges Reinvigorated Commitment to End Colonialism, Build Just, Inclusive Future, as Caribbean Regional Seminar on Decolonization Begins](https://press.un.org/en/2026/sgsm23144.doc.htm)
-Following is UN Secretary-General António Guterres’ message for the opening of the Caribbean Regional Seminar on Decolonization, in Managua today:
-<<<<<<< HEAD
-22 May 2026
-Press Release
-SG/SM/23143
-### [Secretary-General Disappointed at Lack of Consensus at Nuclear Non-proliferation Conference](https://press.un.org/en/2026/sgsm23143.doc.htm)
-The following statement was issued today by the Spokesman for UN Secretary-General António Guterres:
-=======
->>>>>>> 7bac5f0 (update pipeline)
+SG/A/2420
+### [Secretary-General Appoints Rosemary Kalapurakal of India United Nations Resident Coordinator in Zimbabwe](https://press.un.org/en/2026/sga2420.doc.htm)
+United Nations Secretary-General António Guterres has appointed Rosemary Kalapurakal of India as the United Nations Resident Coordinator in Zimbabwe, with the host Government’s approval. She takes up her duties on 1 June.
+1 June 2026
+Biographical Note
+SG/A/2418
+### [Secretary-General Appoints Nikolas Myint of Germany United Nations Resident Coordinator in Malaysia](https://press.un.org/en/2026/sga2418.doc.htm)
+United Nations Secretary-General António Guterres has appointed Nikolas Myint of Germany as the United Nations Resident Coordinator in Malaysia, with the host Government’s approval. He will have additional responsibility for programme matters in Brunei Darussalam and Singapore. His appointment is effective as of 31 May.

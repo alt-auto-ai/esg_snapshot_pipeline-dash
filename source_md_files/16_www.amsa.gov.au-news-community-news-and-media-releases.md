@@ -1,5 +1,5 @@
 [ Skip to main content ](https://www.amsa.gov.au/news-community/news-and-media-releases#main-content)
-AMSA Connect phone services may have longer wait times on Monday 1 June 2026 while we operate with reduced staffing due to the Reconciliation Day Public Holiday in Canberra. Our search and rescue team will continue to operate during this time.
+AMSA Connect phone services will be closed for the public holiday on Monday 8 June 2026, reopening on Tuesday 9 June 2026. Our search and rescue team will continue to operate during this time. 
 Close alert banner
 # News and updates
 Read our latest news articles and updates.
@@ -9,6 +9,10 @@ Media releases are published on the [AMSA Media Centre.](https://media.amsa.gov.
 
 ### [myAMSA NOW OPEN – Apply online for your near coastal ticket Published 29/09/2025 myAMSA is here!  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/myamsa-now-open)
+### [Safety lesson: capsize after beaching on sandbar Published 04/06/2026 A hire vessel capsized after it was beached on a sandbank in a designated no-go area. The incident…  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/safety-lesson-capsize-after-beaching-sandbar)
+### [Marine incident report: January – March 2026 Published 04/06/2026 Between January and March 2026, we received 344 marine incident reports involving domestic…  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/marine-incident-report-january-march-2026)
 ### [Managing fatigue: A safety priority for domestic commercial vessels Published 27/03/2026 Fatigue remains one of the most significant hazards in domestic commercial vessel (DCV) operation  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/managing-fatigue-safety-priority-domestic-commercial-vessels)
 ### [Safer vessels, safer waters: Inspections annual report 2025  Published 26/03/2026 As part of our commitment to safe, clean seas and compliant vessels, we undertake vessel…  
@@ -29,10 +33,10 @@ Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/amsa-
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/exemption-31-update-fishing-operations-new-approval-required)
 ### [Help shape fire safety standards for domestic commercial vessels  Published 24/11/2025 Consultation is now open on proposed changes to the National Standard for Commercial Vessels (NSCV…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/help-shape-fire-safety-standards-domestic-commercial-vessels)
-### [Marine incident report: July - September 2025 Published 14/11/2025 Between July and September 2025, we received 263 marine incident reports involving domestic…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/marine-incident-report-july-september-2025)
 ### [Out now: Safety lessons learned from a marine incident investigation Published 14/11/2025 In our latest safety lesson, we examine key learnings from a marine incident investigation where a…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/out-now-safety-lessons-learned-marine-incident-investigation)
+### [Marine incident report: July - September 2025 Published 14/11/2025 Between July and September 2025, we received 263 marine incident reports involving domestic…  
+Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/marine-incident-report-july-september-2025)
 ### [myAMSA NOW OPEN – Apply online for your near coastal ticket Published 29/09/2025 myAMSA is here!  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/myamsa-now-open)
 ### [Out now: Maritime Safety Awareness Bulletin — cargo securing of containers Published 26/09/2025 The latest edition of the Maritime Safety Awareness Bulletin highlights the critical importance of…  
@@ -41,10 +45,6 @@ Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/out-n
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/have-your-say-draft-standards-electrical-installations-now)
 ### [Updated standard for wheelhouse visibility, escape, accommodation, and personal safety Published 01/09/2025 On 1 September 2025 the updated edition of the National Standard for Commercial Vessels (NSCV) Part…  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/updated-standard-wheelhouse-visibility-escape-accommodation)
-### [Revised marine orders 16 and 19 to commence 1 September 2025 Published 01/09/2025 Find out what’s changed and how updated vessel tonnage and load line rules support safer maritime…  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/revised-marine-orders-16-and-19-commence-1-september-2025)
-### [June 2025 marine incident report Published 05/08/2025 There were 82 reported marine incidents reported involving domestic commercial vessels in June.  
-Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/june-2025-marine-incident-report)
 ### [January 2024 marine incident report and monthly safety lesson Published 27/02/2024 There were 111 reported incidents involving domestic commercial vessels in January.  
 Read more ](https://www.amsa.gov.au/news-community/news-and-media-releases/january-2024-marine-incident-report-and-monthly-safety)
 ### [AMSA encourages maritime careers at expo Published 20/03/2024 On 13 March we attended the Australian Maritime College (AMC) Careers Expo in Launceston.  

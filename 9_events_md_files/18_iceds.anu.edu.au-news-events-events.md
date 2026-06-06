@@ -31,7 +31,7 @@ Menu
   * [Bachelor degrees & honours](https://iceds.anu.edu.au/short-courses/bachelor-degrees-honours)
   * [Master degrees](https://iceds.anu.edu.au/short-courses/master-degrees)
   * [Graduate certificates](https://iceds.anu.edu.au/short-courses/graduate-certificates)
-  * [Courses](https://iceds.anu.edu.au/short-courses/short-courses)
+  * [Study options across ANU](https://iceds.anu.edu.au/short-courses/study-options-across-anu)
   * [PhD](https://iceds.anu.edu.au/short-courses/phd)
 
 
@@ -68,7 +68,11 @@ Menu
 # Events
 Check out our calendar of events and participate in our seminars and public lectures.
 ## Upcoming events
-_No events are currently scheduled._
+[ ](https://iceds.anu.edu.au/news-events/events/climate-change-looks-grim-we-have-many-solutions)
+11 Jun 2026 | 12 - 1pm
+### [Climate change looks grim but we have many of the solutions](https://iceds.anu.edu.au/news-events/events/climate-change-looks-grim-we-have-many-solutions)
+ATSE Oration 2026 delivered by Emeritus Professor Mark Howden.
+[View the event](https://iceds.anu.edu.au/news-events/events/climate-change-looks-grim-we-have-many-solutions)
 [View all past events](https://iceds.anu.edu.au/news-events/events/past-events "Past events")
 [Close menu](https://iceds.anu.edu.au/news-events/events#mm-0)
 We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)

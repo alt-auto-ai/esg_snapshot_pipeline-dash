@@ -19,8 +19,12 @@ Research
 Speeches
 SUBMIT
 Clear All
-Displaying: 266 results
+Displaying: 267 results
 View:  10 20 30 40 50
+  * [ ](https://www.futurefund.gov.au/news-room/20260528---Senate-Estimates---Opening-Statement)
+    * 01.06.2026
+###  [Statement to the Senate Finance and Public Administration Committee](https://www.futurefund.gov.au/news-room/20260528---Senate-Estimates---Opening-Statement?page=0&itemsPerPage=10)
+Statement by Dr Raphael Arndt, Chief Executive Officer of the Future Fund Management Agency, to the Senate Finance and Public Administration Committee. 
   * [ ](https://www.futurefund.gov.au/news-room/Portfolio-update-to-31-March-2026)
     * 05.05.2026
 ###  [Portfolio update to 31 March 2026](https://www.futurefund.gov.au/news-room/Portfolio-update-to-31-March-2026?page=0&itemsPerPage=10)
@@ -57,9 +61,5 @@ Op Ed by Dr Raphael Arndt, CEO Future Fund - Growth is great but resilience is t
     * 03.11.2025
 ###  [Portfolio update to 30 September 2025](https://www.futurefund.gov.au/news-room/Portfolio-update-to-30-September-2025?page=0&itemsPerPage=10)
 The Future Fund has released its portfolio update to 30 September 2025. 
-  * [ ](https://www.futurefund.gov.au/news-room/20251009---Senate-Estimates---Opening-Statement)
-    * 09.10.2025
-###  [Statement to the Senate Finance and Public Administration Committee](https://www.futurefund.gov.au/news-room/20251009---Senate-Estimates---Opening-Statement?page=0&itemsPerPage=10)
-Statement by Dr Raphael Arndt, Chief Executive Officer of the Future Fund Management Agency to the Senate Finance and Public Administration Committee. 
 
 

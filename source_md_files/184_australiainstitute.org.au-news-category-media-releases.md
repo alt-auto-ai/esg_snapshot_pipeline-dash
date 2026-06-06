@@ -2,6 +2,11 @@ Filter posts
 [Economics](https://australiainstitute.org.au/news/category/media-releases/?branch=economics) [Climate & Energy](https://australiainstitute.org.au/news/category/media-releases/?branch=climate-energy) [Democracy & Accountability](https://australiainstitute.org.au/news/category/media-releases/?branch=democracy-accountability) [Environment](https://australiainstitute.org.au/news/category/media-releases/?branch=environment) [International & Security Affairs](https://australiainstitute.org.au/news/category/media-releases/?branch=international-security-affairs) [Law, Society & Culture](https://australiainstitute.org.au/news/category/media-releases/?branch=law-society-culture)
 [Carmichael Centre](https://australiainstitute.org.au/news/category/media-releases/?branch=carmichael-centre) [Centre for Sex & Gender Equality](https://australiainstitute.org.au/news/category/media-releases/?branch=centre-for-sex-and-gender-equality)
 [ACT](https://australiainstitute.org.au/news/category/media-releases/?state=act "Australian Capital Territory") [NSW](https://australiainstitute.org.au/news/category/media-releases/?state=nsw "New South Wales") [NT](https://australiainstitute.org.au/news/category/media-releases/?state=nt "Northern Territory") [QLD](https://australiainstitute.org.au/news/category/media-releases/?state=qld "Queensland") [SA](https://australiainstitute.org.au/news/category/media-releases/?state=sa "South Australia") [TAS](https://australiainstitute.org.au/news/category/media-releases/?state=tas "Tasmania") [VIC](https://australiainstitute.org.au/news/category/media-releases/?state=vic "Victoria") [WA](https://australiainstitute.org.au/news/category/media-releases/?state=wa "Western Australia")
+[](https://australiainstitute.org.au/post/australians-support-stronger-whistleblower-laws-while-labor-drags-its-feet/)
+New polling conducted for The Australia Institute reveals 9 in 10 Australians support stronger legal protections for whistleblowers. 
+[](https://australiainstitute.org.au/post/if-the-howard-government-had-implemented-angus-taylors-tax-indexation-policy-australians-would-be-147-per-week-worse-off-now-new-analysis/)
+New analysis by The Australia Institute reveals that if the Howard Government had introduced the current Liberal policy of indexing tax brackets to inflation to counter bracket creep, Australians would be paying significantly more tax today.
+# May 2026
 [](https://australiainstitute.org.au/post/australians-told-to-take-the-bus-as-mining-diesel-use-soars/)
 New research reveals that mining companies use 8 billion litres of diesel per year, while the government is urging ordinary Australians to take the bus and pump up their tyres to save fuel.
 [](https://australiainstitute.org.au/post/nacc-resignation-an-opportunity-for-much-needed-fresh-start/)
@@ -59,11 +64,6 @@ Australia’s gas exporters pay little tax or royalties, employ few people, push
 Every week the federal government delays implementing a 25% gas export tax costs the Australian public around $350 million in revenue, new research from The Australia Institute reveals.
 [](https://australiainstitute.org.au/post/same-parliament-more-australians-representation-gap-widens-to-record-high-but-pm-is-satisfied-with-his-supermajority/)
 New Australia Institute research warns that Australia’s democracy is being stretched thin, with each MP now representing almost four times as many people as at Federation.
-# March 2026
-[](https://australiainstitute.org.au/post/vital-wage-rise-would-be-a-lifeline-to-low-income-earners-and-wouldnt-drive-inflation-new-analysis/)
-Updated analysis by The Australia Institute reveals that a fair and appropriate increase to the minimum wage, and accompanying increases to award rates, would not have a significant effect on inflation.
-[](https://australiainstitute.org.au/post/even-liberal-voters-agree-its-time-to-ditch-howard-era-perks-for-property-investors-polls/)
-New polling conducted for the Australia Institute reveals broad support for reducing the perks which give property investors a significant advantage over owner-occupiers in the property market. Even Liberal voters are ready to scrap the capital gains tax discount introduced by the Howard government in1999, which has enabled investors to pay tax on just half of what
 # General Enquiries
 Emily Bird Office Manager
 # Media Enquiries

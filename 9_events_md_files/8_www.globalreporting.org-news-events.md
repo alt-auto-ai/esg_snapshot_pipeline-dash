@@ -319,3 +319,4 @@ Hilghlighted events and external engagements
 ## Invite GRI to speak at your event
 A GRI speaker at your event or conference can make all the difference in getting the sustainability reporting message across.
 [ Learn more ](https://www.globalreporting.org/news/events/invite-gri-to-speak-at-your-event/)
+Feedback

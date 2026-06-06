@@ -1,160 +1,84 @@
 DG Energy news [Skip to main content](https://energy.ec.europa.eu/news_en#main-content)
 This site uses cookies. Visit our [cookies policy page](https://commission.europa.eu/cookies-policy_en) or click the link in any footer for more information and to change your preferences.
 [Accept all cookies](https://energy.ec.europa.eu/news_en#accept) [Accept only essential cookies](https://energy.ec.europa.eu/news_en#refuse)
-An official website of the European Union An official EU website How do you know? 
+An official website of the European Union An official EU website How do you know?
 All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-<<<<<<< HEAD
-####  News (1267)
-=======
-####  News (1269)
->>>>>>> 7bac5f0 (update pipeline)
+####  News (1280)
 [RSS](https://energy.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
   * News article
-  * 29 May 2026
+  * 5 June 2026
 
 
-[Eurostat: Energy use in the industry sector continues to decline](https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20260529-1)
-In 2024, the EU’s industry sector used 8 835 petajoules (PJ) of energy, an 8.1% decrease compared with 2014. The final energy consumption has been steadily declining since 1990.
+[5 things you should know about climate scenarios](https://climate.ec.europa.eu/news-other-reads/news/five-things-you-should-know-about-climate-scenarios-2026-06-05_en)
+Here are 5 facts to help shed some light on the latest news.
 1 min read
   * News announcement
-<<<<<<< HEAD
-  * 28 May 2026
+  * 4 June 2026
 
 
-[Commission discusses gas and oil supply risks with EU countries as the conflict in the Middle East reaches a 3-month mark](https://energy.ec.europa.eu/news/commission-discusses-gas-and-oil-supply-risks-eu-countries-conflict-middle-east-reaches-3-month-mark-2026-05-28_en)
-In a meeting of the Gas Coordination Group held on 26 May and an ad hoc meeting of the Oil Coordination Group held yesterday, the Commission and EU countries discussed the security of gas and oil supplies in the EU in light of the continued tensions in the Middle East. 
-2 min read
-  * News announcement
-  * 27 May 2026
-
-
-[New EU Task Force on Fusion Energy](https://energy.ec.europa.eu/news/new-eu-task-force-fusion-energy-2026-05-27_en)
-The European Nuclear Safety Regulators Group (ENSREG) new Task Force on Fusion Energy held its inaugural meeting on 26-27 May 2026 in Cadarache, France with representatives from Finland, France, Germany, Ireland, Italy, Spain and Sweden, the European Commission and observers from the IAEA and the UK
-1 min read
-  * Press release
-  * 22 May 2026
-
-
-[Commission awards €400 million to European projects to decarbonise heat production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1134)
-Today, the European Commission has selected 65 projects under the Innovation Fund Heat Auction, the first ever EU-wide auction to accelerate the deployment of innovative clean heat technologies across European industry.
+[ Flagship projects on AI for grids and data centre sustainability ](https://energy.ec.europa.eu/news/flagship-projects-ai-grids-and-data-centre-sustainability-2026-06-04_en)
+EU policymakers and high-level industry representatives yesterday launched 2 flagship initiatives designed to prepare the EU’s energy system for a more digitalised future.
 1 min read
   * News announcement
-  * 22 May 2026
+  * 4 June 2026
 
 
-[Copenhagen Forum underlines importance of energy infrastructure](https://energy.ec.europa.eu/news/copenhagen-forum-underlines-importance-energy-infrastructure-2026-05-22_en)
-Policymakers, industry representatives and stakeholders met in Copenhagen on 21-22 May for the 12th Energy Infrastructure Forum with a near unanimous message that the ongoing conflicts in the Middle East and Ukraine highlight that energy infrastructure is more important than ever.
-3 min read
-  * Press release
-  * 20 May 2026
-
-
-[Commission approves €1.3 billion German State aid to support renewable hydrogen production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1096)
-The European Commission has approved, under EU State aid rules, a €1.3 billion German State aid scheme to support the production of renewable hydrogen through the European Hydrogen Bank's “Auctions-as-a-Service” tool for the auction that closed in 2026.
-1 min read
-  * News article
-  * 20 May 2026
-
-
-[Expert group recommendations on making smart charging and demand response easier](https://transport.ec.europa.eu/news-events/news/expert-group-recommendations-making-smart-charging-and-demand-response-easier-2026-05-20_en)
-On 20 May, two expert groups of the European Commission—the Smart Energy Expert Group and the Sustainable Transport Forum—alongside the European Coalition of the Willing on Bi-Directional Charging, established by Germany, have presented a comprehensive set of recommendations to simplify data exchang
-1 min read
-  * News announcement
-  * 20 May 2026
-
-
-[Commission publishes overview of national emergency measures taken to protect consumers and industry](https://energy.ec.europa.eu/news/commission-publishes-overview-national-emergency-measures-taken-protect-consumers-and-industry-2026-05-20_en)
-The Commission has set up a repository of the different emergency measures taken by national governments [link] since the start of the Middle East conflict at the end of February to ease the impact on consumers.
-=======
-  * 29 May 2026
-
-
-[Commission welcomes ENTSO-E report confirming EU electricity preparedness for summer](https://energy.ec.europa.eu/news/commission-welcomes-entso-e-report-confirming-eu-electricity-preparedness-summer-2026-05-29_en)
-In its latest report Summer Outlook 2026, published today, the European Network for Transmission System Operators for Electricity (ENTSO-E) confirms that it does not foresee general risks to the security of electricity supply across most of the EU for the coming summer.
-2 min read
-  * News announcement
-  * 28 May 2026
-
-
-[Commission discusses gas and oil supply risks with EU countries as the conflict in the Middle East reaches a 3-month mark](https://energy.ec.europa.eu/news/commission-discusses-gas-and-oil-supply-risks-eu-countries-conflict-middle-east-reaches-3-month-mark-2026-05-28_en)
-In a meeting of the Gas Coordination Group held on 26 May and an ad hoc meeting of the Oil Coordination Group held yesterday, the Commission and EU countries discussed the security of gas and oil supplies in the EU in light of the continued tensions in the Middle East. 
->>>>>>> 7bac5f0 (update pipeline)
-2 min read
-  * Statement
-  * 20 May 2026
-
-
-[Joint readout between Commissioner Jørgensen and Minister Bowen](https://energy.ec.europa.eu/news/joint-readout-between-commissioner-jorgensen-and-minister-bowen-2026-05-20_en)
-Today Australia's Minister for Climate Change and Energy Chris Bowen and European Commissioner for Energy and Housing Dan Jørgensen discussed their deep concern over the conflict in the Middle East which continues to impact prices, energy supply chains and economic growth.
-2 min read
-  * News article
-  * 19 May 2026
-
-
-[5 things you should know about nuclear energy](https://energy.ec.europa.eu/news/5-things-you-should-know-about-nuclear-energy-2026-05-19_en)
-As the European Union continues to phase out polluting fossil fuels, more focus is on low-emissions technologies like nuclear to power our economy.
+[June infringements package: key decisions on energy](https://energy.ec.europa.eu/news/june-infringements-package-key-decisions-energy-2026-06-04_en)
+In its regular package of infringement decisions, the European Commission pursues legal action against Member States for failing to comply with their obligations under EU law.
 7 min read
   * News announcement
-<<<<<<< HEAD
-  * 18 May 2026
+  * 3 June 2026
 
 
-[EU continues to monitor oil market situation and prepares coordinated response to address the jet fuel supply situation](https://energy.ec.europa.eu/news/eu-continues-monitor-oil-market-situation-and-prepares-coordinated-response-address-jet-fuel-supply-2026-05-18_en)
-While there are no shortages of fuel in the EU at present, regional supply constraints could arise in the next weeks if the blockage of oil supplies via the Strait of Hormuz does not get resolved – with jet fuel being the primary concern.
-=======
-  * 27 May 2026
-
-
-[New EU Task Force on Fusion Energy](https://energy.ec.europa.eu/news/new-eu-task-force-fusion-energy-2026-05-27_en)
-The European Nuclear Safety Regulators Group (ENSREG) new Task Force on Fusion Energy held its inaugural meeting on 26-27 May 2026 in Cadarache, France with representatives from Finland, France, Germany, Ireland, Italy, Spain and Sweden, the European Commission and observers from the IAEA and the UK
-1 min read
-  * Press release
-  * 22 May 2026
-
-
-[Commission awards €400 million to European projects to decarbonise heat production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1134)
-Today, the European Commission has selected 65 projects under the Innovation Fund Heat Auction, the first ever EU-wide auction to accelerate the deployment of innovative clean heat technologies across European industry.
-1 min read
-  * News announcement
-  * 22 May 2026
-
-
-[Copenhagen Forum underlines importance of energy infrastructure](https://energy.ec.europa.eu/news/copenhagen-forum-underlines-importance-energy-infrastructure-2026-05-22_en)
-Policymakers, industry representatives and stakeholders met in Copenhagen on 21-22 May for the 12th Energy Infrastructure Forum with a near unanimous message that the ongoing conflicts in the Middle East and Ukraine highlight that energy infrastructure is more important than ever.
+[Commission presents measures to digitalise Europe’s energy system while ensuring sustainable digitalisation ](https://energy.ec.europa.eu/news/commission-presents-measures-digitalise-europes-energy-system-while-ensuring-sustainable-2026-06-03_en)
+The European Commission has taken a significant step to address the impact of digital technologies on the energy sector.
 3 min read
   * Press release
-  * 20 May 2026
+  * 3 June 2026
 
 
-[Commission approves €1.3 billion German State aid to support renewable hydrogen production](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1096)
-The European Commission has approved, under EU State aid rules, a €1.3 billion German State aid scheme to support the production of renewable hydrogen through the European Hydrogen Bank's “Auctions-as-a-Service” tool for the auction that closed in 2026.
-1 min read
-  * News article
-  * 20 May 2026
-
-
-[Expert group recommendations on making smart charging and demand response easier](https://transport.ec.europa.eu/news-events/news/expert-group-recommendations-making-smart-charging-and-demand-response-easier-2026-05-20_en)
-On 20 May, two expert groups of the European Commission—the Smart Energy Expert Group and the Sustainable Transport Forum—alongside the European Coalition of the Willing on Bi-Directional Charging, established by Germany, have presented a comprehensive set of recommendations to simplify data exchang
+[Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1187)
+The European Commission today presented the European Technological Sovereignty Package, a set of measures to strengthen Europe's capacity in semiconductors, artificial intelligence (AI), cloud and open source.
 1 min read
   * News announcement
-  * 20 May 2026
+  * 3 June 2026
 
 
-[Commission publishes overview of national emergency measures taken to protect consumers and industry](https://energy.ec.europa.eu/news/commission-publishes-overview-national-emergency-measures-taken-protect-consumers-and-industry-2026-05-20_en)
-The Commission has set up a repository of the different emergency measures taken by national governments [link] since the start of the Middle East conflict at the end of February to ease the impact on consumers.
+[Executive Vice-President Ribera and Commissioner Jørgensen in Finland to discuss clean energy transition and housing affordability](https://energy.ec.europa.eu/news/executive-vice-president-ribera-and-commissioner-jorgensen-finland-discuss-clean-energy-transition-2026-06-03_en)
+This week, both Executive Vice-President for Clean, Just and Competitive Transition Teresa Ribera and Commissioner for Energy and Housing Dan Jørgensen are visiting Finland to discuss electrification, energy security, affordability and competitiveness.
 2 min read
-  * Statement
-  * 20 May 2026
+  * Speech
+  * 3 June 2026
 
 
-[Joint readout between Commissioner Jørgensen and Minister Bowen](https://energy.ec.europa.eu/news/joint-readout-between-commissioner-jorgensen-and-minister-bowen-2026-05-20_en)
-Today Australia's Minister for Climate Change and Energy Chris Bowen and European Commissioner for Energy and Housing Dan Jørgensen discussed their deep concern over the conflict in the Middle East which continues to impact prices, energy supply chains and economic growth.
->>>>>>> 7bac5f0 (update pipeline)
+[Remarks by Executive Vice-President Virkkunen and Commissioner Jørgensen on the tech sovereignty package](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1244)
+AI and digital tools are changing the way we live, the way we work, and the way we use our energy.
+1 min read
+  * News announcement
+  * 2 June 2026
+
+
+[Gas Market Task Force presents its findings on the functioning of EU gas and gas derivatives markets ](https://energy.ec.europa.eu/news/gas-market-task-force-presents-its-findings-functioning-eu-gas-and-gas-derivatives-markets-2026-06-02_en)
+A dedicated group of EU gas experts drawn together to scrutinise the way that EU gas and gas derivatives markets work in practice has presented its analysis in a special report published by the Commission.
 2 min read
+  * News announcement
+  * 2 June 2026
+
+
+[20th anniversary of European Sustainable Energy Week welcomes all EU energy commissioners since 2007](https://energy.ec.europa.eu/news/20th-anniversary-european-sustainable-energy-week-welcomes-all-eu-energy-commissioners-2007-2026-06-02_en)
+The theme of this year’s event is 'A Clean, Secure and Competitive Energy Union'.
+2 min read
+  * Speech
+  * 1 June 2026
+
+
+[Speech by Commissioner Jørgensen at Nuclear Europe Conference 2026](https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1231)
+Nuclear and renewables can become the joint guarantors of Europe's independence, security, and competitiveness.
+1 min read
 Share this page 
   * [ X ](https://energy.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://energy.ec.europa.eu/news_en#facebook "Share via Facebook")

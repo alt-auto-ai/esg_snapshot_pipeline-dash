@@ -1,11 +1,6 @@
 For screen-reader mode - click the first button of the website
 # Upcoming Events
 View all locations Sydney Melbourne Brisbane Perth Adelaide Hobart Online Antalya, Türkiye
-11 Jun   
-2026
-Online 1.00pm - 2.00pm (AEST)
-## [Combined stream | Modern Slavery Community of Practice](https://unglobalcompact.org.au/events/combined-stream-modern-slavery-community-of-practice/)
-The UN Global Compact Network Australia ('UNGCNA') hosts a Modern Slavery Community of Practice (MSCoP) for business participants. The MSCoP ...
 25 Jun   
 2026
 Online 1.00pm - 2.30pm (AEST)
@@ -51,6 +46,11 @@ In 2026, Australia assumes the role of Presidency for Negotiations at COP31 – 
 Online 1.00pm - 2.30pm (AEDT)
 ## [Optimising stream | Modern Slavery Community of Practice](https://unglobalcompact.org.au/events/optimising-stream-modern-slavery-community-of-practice-2/)
 The UN Global Compact Network Australia ('UNGCNA') hosts a Modern Slavery Community of Practice (MSCoP) for business participants. The MSCoP ...
+03 Dec   
+2026
+Online 1.00pm - 2.30pm (AEDT)
+## [Implementing stream | Modern Slavery Community of Practice](https://unglobalcompact.org.au/events/implementing-stream-modern-slavery-community-of-practice/)
+The UN Global Compact Network Australia ('UNGCNA') hosts a Modern Slavery Community of Practice (MSCoP) for business participants. The MSCoP ...
 **1** [2](https://unglobalcompact.org.au/upcoming-events/?scope&posts_per_page=10&location&paged=2&action=get_all_all_events "2") [>](https://unglobalcompact.org.au/upcoming-events/?scope&posts_per_page=10&location&paged=2&action=get_all_all_events "2")
 [view past events](https://unglobalcompact.org.au/past-events-2/)
 28 Oct   
@@ -59,11 +59,6 @@ Melbourne
 ## [Australian Dialogue on Business and Human Rights](https://unglobalcompact.org.au/events/australian-dialogue-on-business-and-human-rights/)
 Savet the Date: Australia’s annual multi-sector, multi-stakeholder forum dedicated to advancing the business and human rights agenda Since 2014, the ...
 **1**
-11 Jun   
-2026
-Online 1.00pm - 2.00pm (AEST)
-## [Combined stream | Modern Slavery Community of Practice](https://unglobalcompact.org.au/events/combined-stream-modern-slavery-community-of-practice/)
-The UN Global Compact Network Australia ('UNGCNA') hosts a Modern Slavery Community of Practice (MSCoP) for business participants. The MSCoP ...
 25 Jun   
 2026
 Online 1.00pm - 2.30pm (AEST)

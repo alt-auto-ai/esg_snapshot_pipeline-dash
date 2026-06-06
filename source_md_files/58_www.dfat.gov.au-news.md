@@ -142,6 +142,7 @@
   * [Performance assessment](https://www.dfat.gov.au/development/performance-assessment "Australia’s development program — performance assessment")
   * [Development evaluation](https://www.dfat.gov.au/development/performance-assessment/development-evaluation "Development evaluation")
   * [Budget and statistical information](https://www.dfat.gov.au/development/australias-development-budget-and-statistical-information "Australia’s development budget and statistical information")
+  * [International Development Transparency](https://www.dfat.gov.au/development/international-development-transparency "International Development Transparency")
   * [AusDevPortal](https://adp.dfat.gov.au/)
 
 
@@ -234,6 +235,24 @@ The Australian Passport Office and its agents are committed to providing a secur
 #  News
 ## 
 Latest news
+  * ### 
+[Listings under Part 4 of the Charter of the United Nations Act 1945](https://www.dfat.gov.au/news/news/listings-under-part-4-charter-united-nations-act-1945-1)
+In accordance with section 15 of the Charter of the United Nations Act 1945 (COTUNA), the Minister for Foreign Affairs (the Minister) has listed three persons by legislative instrument (Charter of the United Nations (Listed Persons and Entities) Amendment (No. 2) Instrument 2026. 
+6 June 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/listings-under-part-4-charter-united-nations-act-1945-1)
+  * Prime Minister of Australia, the Hon Anthony Albanese MP, and the Prime Minister of Solomon Islands, the Hon Matthew Wale CBE, issued a joint statement committing to elevate the bilateral relationship on the basis of mutual trust, respect and open dialogue. Leaders agreed to commence negotiations towards a comprehensive treaty to capture the two countries’ joint ambition for the relationship.
+3 June 2026
+Category
+International relations
+  * ### 
+[3 Persons and 4 entities listed under the Autonomous Sanctions Regulations 2011 – Human Rights](https://www.dfat.gov.au/news/news/3-persons-and-4-entities-listed-under-autonomous-sanctions-regulations-2011-human-rights)
+In accordance with regulation 6A(4) of the _Autonomous Sanctions Regulations 2011_ (the Regulations), the Minister for Foreign Affairs (the Minister) has designated the following individuals for targeted financial sanctions and declared them for travel bans (together 'listed').
+2 June 2026
+Category
+International relations
+[Read more](https://www.dfat.gov.au/news/news/3-persons-and-4-entities-listed-under-autonomous-sanctions-regulations-2011-human-rights)
   * ### 
 [Statement on the 2026 Nuclear Non-Proliferation Treaty Review Conference](https://www.dfat.gov.au/news/news/statement-2026-nuclear-non-proliferation-treaty-review-conference)
 The Australian Government is disappointed that the 11th Review Conference of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) did not reach a consensus outcome.
@@ -557,27 +576,6 @@ The second grant round under the First Nations International Fellowships and Par
 Category
 Trade and investment
 [Read more](https://www.dfat.gov.au/news/news/first-nations-international-fellowships-and-partnerships-grants-program-round-opening-0)
-  * ### 
-[Man charged for allegedly contravening sanctions laws](https://www.dfat.gov.au/news/news/man-charged-allegedly-contravening-sanctions-laws)
-Following a referral from the Australian Sanctions Office, the Australian Federal Police has charged a western Sydney man for allegedly sending funds to designated entities in contravention of Australian sanctions laws.
-15 October 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/news/man-charged-allegedly-contravening-sanctions-laws)
-  * ### 
-[Media Freedom Coalition Statement on Chinese journalist Zhang Zhan](https://www.dfat.gov.au/news/news/media-freedom-coalition-statement-chinese-journalist-zhang-zhan)
-The undersigned members of the Media Freedom Coalition express their strong concern about the detention and conviction of Chinese journalist Zhang Zhan.
-13 October 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/news/media-freedom-coalition-statement-chinese-journalist-zhang-zhan)
-  * ### 
-[Call for Submissions - Potential new autonomous sanctions framework for Afghanistan](https://www.dfat.gov.au/news/call-submissions-potential-new-autonomous-sanctions-framework-afghanistan)
-The Department of Foreign Affairs and Trade (DFAT) is undertaking public consultation on proposed amendments to the Autonomous Sanctions Regulations 2011 (Cth). Submissions close on Wednesday 22 October 2025.
-8 October 2025
-Category
-International relations
-[Read more](https://www.dfat.gov.au/news/call-submissions-potential-new-autonomous-sanctions-framework-afghanistan)
 
 
 Site map +

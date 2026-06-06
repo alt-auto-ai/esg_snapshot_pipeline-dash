@@ -31,7 +31,7 @@ Menu
   * [Bachelor degrees & honours](https://iceds.anu.edu.au/short-courses/bachelor-degrees-honours)
   * [Master degrees](https://iceds.anu.edu.au/short-courses/master-degrees)
   * [Graduate certificates](https://iceds.anu.edu.au/short-courses/graduate-certificates)
-  * [Courses](https://iceds.anu.edu.au/short-courses/short-courses)
+  * [Study options across ANU](https://iceds.anu.edu.au/short-courses/study-options-across-anu)
   * [PhD](https://iceds.anu.edu.au/short-courses/phd)
 
 

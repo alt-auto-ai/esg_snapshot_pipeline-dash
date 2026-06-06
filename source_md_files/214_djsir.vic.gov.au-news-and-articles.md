@@ -4,7 +4,15 @@ News and articles
 # News and articles
 # News and articles
 Latest news and announcements from the department, showcasing the people, projects and programs that make Victoria the best place to live, work, stay, experience, invest and study
-Showing **1** to 12 of 236 items.
+Showing **1** to 12 of 238 items.
+News
+01 June 2026
+## [Creating pathways to jobs in Melbourne’s west](https://djsir.vic.gov.au/news-and-articles/creating-pathways-to-jobs-in-melbournes-west)
+The Western Pathways Program is helping young people to get job-ready and break the cycle of disadvantage.
+News
+01 June 2026
+## [Victoria heats up with major manufacturing expansion](https://djsir.vic.gov.au/news-and-articles/victoria-heats-up-with-major-manufacturing-expansion)
+Rinnai Australia is expanding its Braeside advanced manufacturing facility securing local jobs and more across the supply chain.
 News
 28 May 2026
 ## [RNA innovation to help cows thrive and agricultural pests buzz off ](https://djsir.vic.gov.au/news-and-articles/rna-innovation-to-help-cows-thrive-and-agricultural-pests-buzz-off)
@@ -45,12 +53,4 @@ News
 29 April 2026
 ## [More First Peoples economic opportunities in Shepparton](https://djsir.vic.gov.au/news-and-articles/more-first-peoples-economic-opportunities-in-shepparton)
 The Yorta Yorta Nation Aboriginal Corporation has created a new economic hub on High Street in Shepparton
-News
-28 April 2026
-## [Victoria’s TAFEs leading the nation in clean energy training](https://djsir.vic.gov.au/news-and-articles/victorias-tafes-leading-the-nation-in-clean-energy-training)
-A Renewable Energy TAFE Centre of Excellence is coming to Victoria.
-News
-23 April 2026
-## [ACE scholarships for teaching in adult and community education ](https://djsir.vic.gov.au/news-and-articles/ace-scholarships-for-teaching-in-adult-and-community-education)
-Scholarships now available to help people train in teaching language, literacy and numeracy to adults.
 Previous  1 [2](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) [3](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=3) [4](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=4) [5](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=5) [6](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=6) [7](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=7) [8](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=8) [9](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=9) [10](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=10) [ [Next](https://djsir.vic.gov.au/news-and-articles?result_1316903_result_page=2) ] 

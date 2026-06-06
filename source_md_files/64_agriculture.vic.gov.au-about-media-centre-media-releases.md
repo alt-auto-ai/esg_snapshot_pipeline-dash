@@ -4,8 +4,16 @@
 [About](https://agriculture.vic.gov.au/about)
 # Media Releases
 # Media releases
-Showing **1** to **10** of **317** results 
+Showing **1** to **10** of **319** results 
 Sort by
+## [Black field crickets active in south west](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/black-field-crickets-active-in-south-west)
+03 Jun 2026
+Black field crickets remain active in the south west. Identifying and controlling this native species now can help prevent future damage to pastures and crops.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/black-field-crickets-active-in-south-west>
+## [Don’t let your dog roam](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/dont-let-your-dog-roam)
+02 Jun 2026
+One of my most vivid childhood memories was of a dog attack on the sheep on our neighbour’s property.
+<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/dont-let-your-dog-roam>
 ## [Why do dam repairs often fail?](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/why-do-dam-repairs-often-fail)
 29 May 2026
 Farmers may be considering repairs to leaking or failed dams to increase their water storage capacity.
@@ -38,14 +46,6 @@ Mallee sheep producers are seeing strong results following a 3-year on-farm demo
 19 May 2026
 Soil moisture data is proving to be a valuable tool for farmers planning pasture management and responding to changing seasonal conditions.
 <https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/soil-moisture-data-driving-on-farm-pasture-decisions>
-## [Cereal and pulse disease guides now available](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cereal-and-pulse-disease-guides-now-available)
-19 May 2026
-Agriculture Victoria’s 2026 cereal and pulse disease guides are now available to help grain growers make informed decisions around disease management this seaso
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/cereal-and-pulse-disease-guides-now-available>
-## [Turn challenges into opportunities at conferences](https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/turn-challenges-into-opportunities-at-conferences)
-15 May 2026
-Explore ways to turn today's challenges into tomorrow's opportunities at Agriculture Victoria’s BestWool/BestLamb and BetterBeef Conferences.
-<https://agriculture.vic.gov.au/about/media-centre/media-releases/2026-releases/turn-challenges-into-opportunities-at-conferences>
   * 1
   * [2](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=2)
   * [3](https://agriculture.vic.gov.au/about/media-centre/media-releases?result_518263_result_page=3)
@@ -60,3 +60,4 @@ Explore ways to turn today's challenges into tomorrow's opportunities at Agricul
 
 [Back to top](https://agriculture.vic.gov.au/about/media-centre/media-releases)
 We acknowledge the traditional Aboriginal Owners of Country throughout Victoria, their ongoing connection to this land and we pay our respects to their culture and their Elders past, present and future.
+Feedback

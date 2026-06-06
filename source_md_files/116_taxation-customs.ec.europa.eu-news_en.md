@@ -1,25 +1,28 @@
 News - Taxation and Customs Union - European Commission [Skip to main content](https://taxation-customs.ec.europa.eu/news_en#main-content)
 This site uses cookies. Visit our [cookies policy page](https://commission.europa.eu/cookies-policy_en) or click the link in any footer for more information and to change your preferences.
 [Accept all cookies](https://taxation-customs.ec.europa.eu/news_en#accept) [Accept only essential cookies](https://taxation-customs.ec.europa.eu/news_en#refuse)
-An official website of the European Union An official EU website How do you know? 
+An official website of the European Union An official EU website How do you know?
 All official European Union website addresses are in the **europa.eu** domain.
 [See all EU institutions and bodies](https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/search-all-eu-institutions-and-bodies_en)
 # News
 #### Filter by
-<<<<<<< HEAD
-####  News (680)
-=======
-####  News (681)
->>>>>>> 7bac5f0 (update pipeline)
+####  News (683)
 [RSS](https://taxation-customs.ec.europa.eu/node/2/rss_en)
 Showing results 1 to 10
   * News announcement
-  * 22 May 2026
+  * 5 June 2026
 
 
-[VAT in the Digital Age: 2026 Work Programme available](https://taxation-customs.ec.europa.eu/news/vat-digital-age-2026-work-programme-available-2026-05-22_en)
-The European Commission has published the work programme for VAT in the Digital Age (ViDA), covering implementation activities planned for 2026.
+[New Training available: Military Mobility and the use of Form 302](https://taxation-customs.ec.europa.eu/news/new-training-available-military-mobility-and-use-form-302-2026-06-05_en)
+Discover the new available training for Military Mobility and the use of Form 302
 1 min read
+  * News article
+  * 1 June 2026
+
+
+[The EU advance cargo information system (ICS2) helps customs catch smugglers, fraudsters, and criminal activity ](https://taxation-customs.ec.europa.eu/news/eu-advance-cargo-information-system-ics2-helps-customs-catch-smugglers-fraudsters-and-criminal-2026-06-01_en)
+ICS2 is already providing concrete benefits for customs authorities on the frontline, protecting citizens and the EU economy. Take a look at examples of ICS2 in action in 2025.
+4 min read
   * News article
   * 29 May 2026
 
@@ -76,30 +79,6 @@ On 1 May 2026, the EU-Mercosur Interim Trade Agreement (ITA) will enter into pro
 [CBAM: How to make decarbonisation efforts pay off](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/carbon-border-adjustment-mechanism-how-make-decarbonisation-efforts-pay-2026-05-07_en)
 Join us on 7 May for a webinar designed to help exporters in a third-country master the CBAM methodology and turn compliance into a strategic advantage.
 1 min read
-  * News announcement
-  * 15 April 2026
-
-
-[Publication of the study on Wealth Taxation, Including Net Wealth, Capital and Exit Taxes](https://taxation-customs.ec.europa.eu/news/publication-study-wealth-taxation-including-net-wealth-capital-and-exit-taxes-2026-04-15_en)
-The study on wealth taxation, including net wealth, capital and exit taxes aims to provide a better understanding of these taxes, their interrelation and consequences.
-2 min read
-  * News announcement
-  * 14 April 2026
-
-
-[New EU guidance promotes cooperation between customs and businesses to tackle illicit trade](https://taxation-customs.ec.europa.eu/news/new-eu-guidance-promotes-cooperation-between-customs-and-businesses-tackle-illicit-trade-2026-04-14_en)
-The European Commission has released a new guidance document, prepared in consultation with trade associations, "AEO – Customs Cooperation to Detect, Report and React to Suspicious Activities"
-1 min read
-<<<<<<< HEAD
-  * News article
-  * 7 April 2026
-
-
-[First CBAM certificate price is now available](https://taxation-customs.ec.europa.eu/news/first-cbam-certificate-price-now-available-2026-04-07_en)
-The European Commission has published the first price of CBAM certificates for 2026 Q1 on its new dedicated page on the CBAM website, marking an important milestone in the implementation of CBAM.
-1 min read
-=======
->>>>>>> 7bac5f0 (update pipeline)
 Share this page 
   * [ X ](https://taxation-customs.ec.europa.eu/news_en#x "Share via X")
   * [ Facebook ](https://taxation-customs.ec.europa.eu/news_en#facebook "Share via Facebook")

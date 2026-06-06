@@ -13,14 +13,20 @@ Free
 Thu 25 Jun 
 [ Understanding electric vehicles. Online workshop.  In this workshop learn about electric vehicle options and charging considerations so you can make the switch to an electric vehicle.  ](https://www.climatechoices.act.gov.au/events-news/events/understanding-electric-vehicles8)
 Free 
+Wed 01 Jul 
+[ Plastic Free July – Information stall. In-person stall.  Visit the ACT NoWaste information stall this Plastic Free July to get simple tips and ideas to reduce single-use plastics and cut down everyday plastic use.  ](https://www.climatechoices.act.gov.au/events-news/events/plastic-free-july-information-stall)
+Free 
+Fri 03 Jul 
+[ Plastic Free July – Information stall. In-person stall.  Visit the ACT NoWaste information stall this Plastic Free July to get simple tips and ideas to reduce single-use plastics and cut down everyday plastic use.  ](https://www.climatechoices.act.gov.au/events-news/events/plastic-free-july-information-stall2)
+Free 
 Wed 08 Jul 
 [ Sustainable home energy savings (Tuggeranong Library). In-person workshop.  Join our in-person workshop to discover actions you can take to reduce your energy costs, transition from gas to electric systems, and enhance your home’s comfort throughout the year.  ](https://www.climatechoices.act.gov.au/events-news/events/sustainable-home-energy-savings-tuggeranong-library)
 Free 
 Thu 09 Jul 
 [ Act NoWaste at Goodies Junction Mitchell. In-person meetup.  Visit the ACT NoWaste Education team at Goodies Junction on Concession Card Thursday. Learn easy tips to recycle correctly, reduce waste at home, and know what to put in each bin.  ](https://www.climatechoices.act.gov.au/events-news/events/act-nowaste-at-goodies-junction-mitchell)
 Free 
-Fri 10 Jul 
-[ Act NoWaste at Goodies Junction Mugga Lane. In-person meetup.  Kids can visit the ACT NoWaste Education team at Goodies Junction on Concession Card Thursday these school holidays to enjoy colouring, stickers and sorting games while learning simple tips to recycle right, reduce waste at home and understand what goes in each bin.  ](https://www.climatechoices.act.gov.au/events-news/events/act-nowaste-at-goodies-junction-mugga-lane3)
+Tue 21 Jul 
+[ Plastic Free July – Information stall. In-person stall.  Visit the ACT NoWaste information stall this Plastic Free July to get simple tips and ideas to reduce single-use plastics and cut down everyday plastic use.  ](https://www.climatechoices.act.gov.au/events-news/events/plastic-free-july-information-stall3)
 Free 
 Thu 23 Jul 
 [ Keeping your home warm for less (featuring insulation). Online workshop.  In this workshop, you’ll discover where your home loses heat and simple actions to keep in the warmth so you can save on energy costs during the colder months.  ](https://www.climatechoices.act.gov.au/events-news/events/keeping-your-home-warm-for-less-featuring-insulation)

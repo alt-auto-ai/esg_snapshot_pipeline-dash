@@ -2,81 +2,47 @@
   * [Search](https://statements.qld.gov.au/?Search=True)
 
 
-<<<<<<< HEAD
-Today at 01:09 PM
-[Crisafulli Government fast-tracks more than 5,000 homes for South East Queensland ](https://statements.qld.gov.au/statements/105184)
-The Crisafulli Government has fast-tracked more th...
-Today at 12:37 PM
-[Small-scale miners strike it rich with expanded opportunities in Central West Queensland ](https://statements.qld.gov.au/statements/105183)
-The Crisafulli Government has provided a significa...
-Today at 11:00 AM
-[New bridge to strengthen Richmond flood resilience ](https://statements.qld.gov.au/statements/105180)
-Disaster resilience in Richmond Shire will be boos...
-Today at 10:30 AM
-[New Capricorn Business Hub to deliver for Rockhampton small businesses ](https://statements.qld.gov.au/statements/105178)
-The Crisafulli Government is delivering for small ...
-Yesterday at 05:00 PM
-[Crisafulli Government delivers 109 new police officers to frontline to make Queensland safer ](https://statements.qld.gov.au/statements/105172)
-The Crisafulli Government is restoring safety wher...
-Yesterday at 11:30 AM
-[Crisafulli Government driving new ecotourism opportunities at world-class Eungella National Park ](https://statements.qld.gov.au/statements/105170)
-The Crisafulli Government is unlocking new opportu...
+Today at 12:00 PM
+[50 years of service: Crisafulli Government honours Queensland’s Orange Army ](https://statements.qld.gov.au/statements/105240)
+The Crisafulli Government has today honoured five ...
+Yesterday at 01:30 PM
+[Crisafulli Government delivers $1.5 million to protect Queensland’s threatened species ](https://statements.qld.gov.au/statements/105224)
+The Crisafulli Government is marking World Environ...
+Yesterday at 12:15 PM
+[Crisafulli Government takes to the skies to help map Queensland’s critical minerals future ](https://statements.qld.gov.au/statements/105219)
+Queensland’s critical minerals industry is set to ...
+Yesterday at 12:00 PM
+[Tourism to bloom at Great Barrier Reef](https://statements.qld.gov.au/statements/105226)
+Tourism experiences are set to swell at the Great ...
+Yesterday at 11:15 AM
+[Funding to future-proof farms on the Cassowary Coast ](https://statements.qld.gov.au/statements/105227)
+The Crisafulli Government is delivering a plan for...
 Yesterday at 11:00 AM
-[Crisafulli Government helps tackle crime for small and family businesses ](https://statements.qld.gov.au/statements/105174)
-The Crisafulli Government is making Queensland saf...
+[Future-proofing a much-loved coastal community](https://statements.qld.gov.au/statements/105223)
+A vital project strengthening one of Golden Beach’...
+Yesterday at 10:33 AM
+[Regional Queensland power prices to fall, proof Energy Roadmap delivering ](https://statements.qld.gov.au/statements/105237)
+The Crisafulli Government is delivering cheaper po...
 Yesterday at 10:00 AM
-[Crisafulli Government’s State Flying Squad marks 150 deployments with more than 2,500 arrests ](https://statements.qld.gov.au/statements/105171)
-The Crisafulli Government is making Queensland saf...
-Yesterday at 09:45 AM
-=======
-Today at 02:45 PM
-[Consultation opens on impact of EPBC Act changes on key Queensland industries](https://statements.qld.gov.au/statements/105192)
-The Crisafulli Government is urging Queenslanders ...
-Yesterday at 01:09 PM
-[Crisafulli Government fast-tracks more than 5,000 homes for South East Queensland ](https://statements.qld.gov.au/statements/105184)
-The Crisafulli Government has fast-tracked more th...
-Yesterday at 12:37 PM
-[Small-scale miners strike it rich with expanded opportunities in Central West Queensland ](https://statements.qld.gov.au/statements/105183)
-The Crisafulli Government has provided a significa...
-Yesterday at 11:00 AM
-[New bridge to strengthen Richmond flood resilience ](https://statements.qld.gov.au/statements/105180)
-Disaster resilience in Richmond Shire will be boos...
-Yesterday at 10:30 AM
-[New Capricorn Business Hub to deliver for Rockhampton small businesses ](https://statements.qld.gov.au/statements/105178)
-The Crisafulli Government is delivering for small ...
-Thu 28 May 26 at 05:00 PM
-[Crisafulli Government delivers 109 new police officers to frontline to make Queensland safer ](https://statements.qld.gov.au/statements/105172)
-The Crisafulli Government is restoring safety wher...
-Thu 28 May 26 at 11:30 AM
-[Crisafulli Government driving new ecotourism opportunities at world-class Eungella National Park ](https://statements.qld.gov.au/statements/105170)
-The Crisafulli Government is unlocking new opportu...
-Thu 28 May 26 at 11:00 AM
-[Crisafulli Government helps tackle crime for small and family businesses ](https://statements.qld.gov.au/statements/105174)
-The Crisafulli Government is making Queensland saf...
-Thu 28 May 26 at 10:00 AM
-[Crisafulli Government’s State Flying Squad marks 150 deployments with more than 2,500 arrests ](https://statements.qld.gov.au/statements/105171)
-The Crisafulli Government is making Queensland saf...
-Thu 28 May 26 at 09:45 AM
->>>>>>> 7bac5f0 (update pipeline)
-[Rockhampton secures new Youth Foyer in a big win for Central Queensland ](https://statements.qld.gov.au/statements/105173)
-The Crisafulli and Albanese governments are delive...
-Wed 27 May 26 at 01:19 PM
-[Key Far North Queensland freight route returned to pre-disaster function ](https://statements.qld.gov.au/statements/105163)
-Reconstruction works jointly funded by the Albanes...
-Wed 27 May 26 at 01:00 PM
-[Crisafulli Government delivers safety boost for Western Downs ](https://statements.qld.gov.au/statements/105160)
-The Crisafulli Government is making Queensland saf...
-<<<<<<< HEAD
-Wed 27 May 26 at 12:30 PM
-[Crisafulli Government delivering new opportunities for Mossman farmers ](https://statements.qld.gov.au/statements/105164)
-The Crisafulli Government is delivering $300,000 t...
-=======
->>>>>>> 7bac5f0 (update pipeline)
+[Queenslanders shortchanged by Albanese Government’s TAFE cuts ](https://statements.qld.gov.au/statements/105236)
+Thousands of Queenslanders could be robbed of a br...
+Yesterday at 09:30 AM
+[Crisafulli Government delivers largest Police Dog Squad in Queensland history ](https://statements.qld.gov.au/statements/105231)
+The Crisafulli Government has unleashed the larges...
+Thu 04 Jun 26 at 09:29 PM
+[Nation-leading e-mobility laws delivered](https://statements.qld.gov.au/statements/105238)
+The Crisafulli Government has passed nation-leadin...
+Thu 04 Jun 26 at 02:00 PM
+[Outstanding Queenslanders recognised in 2026 QLD Day Awards ](https://statements.qld.gov.au/statements/105228)
+Queenslanders who embody the State’s spirit throug...
+Thu 04 Jun 26 at 01:50 PM
+[Crisafulli Government launches Parliamentary Inquiry into the councillor conduct framework ](https://statements.qld.gov.au/statements/105232)
+The Crisafulli Government has delivered on a key e...
   * [2](https://statements.qld.gov.au/?pageIndex=2)
   * [3](https://statements.qld.gov.au/?pageIndex=3)
   * [4](https://statements.qld.gov.au/?pageIndex=4)
   * [5](https://statements.qld.gov.au/?pageIndex=5)
   * [>](https://statements.qld.gov.au/?pageIndex=2)
-  * [>>](https://statements.qld.gov.au/?pageIndex=185)
+  * [>>](https://statements.qld.gov.au/?pageIndex=188)
 
 

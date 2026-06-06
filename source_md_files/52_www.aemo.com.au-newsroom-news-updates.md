@@ -38,7 +38,7 @@ Media release (2)
 National (4)
 National Electricity Market (31)
 Network Service Provider (1)
-News (145)
+News (146)
 Notice (7)
 NSW (3)
 Partnership (3)
@@ -78,7 +78,7 @@ x
 2023 (15)
 2024 (18)
 2025 (26)
-2026 (5)
+2026 (6)
 # News Updates
 Search 
 Sort by 
@@ -92,6 +92,7 @@ Date published (Newest) **▾**
   * Reading time (Longest) 
 
 
+  * [ 01/06/2026 6 mins Digital demand surge: Preparing Australia’s power systems for the rise of data centres Australia’s energy systems are actively preparing for the rapid growth of data centres, which are among the fastest growing sources of electricity demand in the National Electricity Market (NEM) and Wholesale Electricity Market (WEM).](https://www.aemo.com.au/newsroom/news-updates/digital-demand-surge "Digital demand surge")
   * [ 14/05/2026 6 mins AEMO appoints 2028 ISP Consumer Panel The Australian Energy Market Operator (AEMO) is pleased to announce the appointment of the   
 2028 Integrated System Plan (ISP) Consumer Panel, an independent advisory body that provides a consumer-focused perspective on Australia’s long-term energy planning.](https://www.aemo.com.au/newsroom/news-updates/aemo-appoints-2028-isp-consumer-panel "AEMO appoints 2028 ISP Consumer Panel")
   * [ 06/05/2026 2 mins Suspension of Photon Energy SGA Pty Ltd (ABN 29 645 266 173)  The Australian Energy Market Operator (AEMO) advises under clause 3.15.21(f) of the National Electricity Rules that Photon Energy SGA Pty Ltd (ABN 29 645 266 173) (Photon Energy) has been suspended from all trading in the National Electricity Market (NEM) with effect from 00:00 hours Australian Eastern Standard time on 7 May 2026. ](https://www.aemo.com.au/newsroom/news-updates/suspension-of-photon-energy-sga-pty-ltd "Suspension of Photon Energy SGA Pty Ltd")
@@ -102,7 +103,6 @@ Date published (Newest) **▾**
   * [ 18/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a Suspension Notice in the Declared Wholesale Gas Market (DWGM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-18-dec-2025-dwgm "National Gas Rules - Public Notice 18 Dec 2025 DWGM")
   * [ 17/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a default notice in the Short Term Trading Market (STTM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-17-dec-2025-sttm "National Gas Rules - Public Notice 17 Dec 2025 STTM")
   * [ 17/12/2025 1 mins National Gas Rules – Public Notice Notice of issue of a Default Notice in the Declared Wholesale Gas Market (DWGM).](https://www.aemo.com.au/newsroom/news-updates/national-gas-rules---public-notice-17-dec-2025-dwgm "National Gas Rules - Public Notice 17 Dec 2025 DWGM")
-  * [ 13/11/2025 3 mins AEMO finalises scenario weightings ahead of Draft 2026 ISP release AEMO is now more than halfway through the development of the 2026 Integrated System Plan (ISP) and is close to publishing the Draft 2026 ISP, which is scheduled for release in just a few weeks.](https://www.aemo.com.au/newsroom/news-updates/aemo-finalises-scenario-weightings-ahead-of-draft-2026-isp-release "AEMO finalises scenario weightings ahead of Draft 2026 ISP release")
 
 
   * [First](https://www.aemo.com.au/newsroom/news-updates)

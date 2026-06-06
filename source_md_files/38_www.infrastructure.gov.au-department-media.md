@@ -22,9 +22,9 @@ For information on major infrastructure programs, or to search for information o
 We maintain an 
 You will need to sign up to access the library. If you need assistance with imagery please email 
 ## Latest news
+[ 03 Jun 2026 Investing in media literacy  Australia’s first National Media Literacy Strategy gets underway. ](https://www.infrastructure.gov.au/department/media/news/investing-media-literacy)
 [ 25 May 2026 Grants announced for Regional and Remote Airport Support Program  Funding will support 34 regional and remote airports impacted by Rex Airlines’ voluntary administration. ](https://www.infrastructure.gov.au/department/media/news/grants-announced-regional-and-remote-airport-support-program)
 [ 25 May 2026 Community Wi-Fi helps close the digital inclusion gap  Free Wi-Fi connectivity is being rolled out in up to 53 remote communities across Australia, under the First Nations Community Wi-Fi program. ](https://www.infrastructure.gov.au/department/media/news/community-wi-fi-helps-close-digital-inclusion-gap)
 [ 21 May 2026 Expressions of interest sought from equipment suppliers for the On Farm Connectivity Program Round 3  We’re seeking interest from businesses that supply connectivity and agricultural technology equipment to Primary Producers and want to participate in Round 3 of the Program. ](https://www.infrastructure.gov.au/department/media/news/expressions-interest-sought-equipment-suppliers-farm-connectivity-program-round-3)
-[ 18 May 2026 Celebrating our sporting volunteers  Share and discover the stories of volunteers this National Volunteer Week. ](https://www.infrastructure.gov.au/department/media/news/celebrating-our-sporting-volunteers)
 [See all news](https://www.infrastructure.gov.au/media-centre/news)
 ## Videos

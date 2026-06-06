@@ -15,15 +15,18 @@ Consent Selection
 **Marketing**
 [Show details](https://www.wbcsd.org/events/)
 Details
-  * Necessary  17
+  * Necessary  19
 Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
-    * [Cookiebot3](https://www.wbcsd.org/events/)
-**CookieConsent [x3]** Stores the user's cookie consent state for the current domain
-**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [Cloudflare1](https://www.wbcsd.org/events/)
+**cf.turnstile.u** This cookie is used to distinguish between humans and bots. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [Cookiebot4](https://www.wbcsd.org/events/)
+**CookieConsent [x4]** Stores the user's cookie consent state for the current domain
+**Maximum Storage Duration** : 403 months**Type** : HTTP Cookie
     * [Digital Ocean1](https://www.wbcsd.org/events/)
 **cookie_consent** Determines whether the user has accepted the cookie consent box. 
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
-    * [Google7](https://www.wbcsd.org/events/)
+    * [Google6](https://www.wbcsd.org/events/)
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
 **_GRECAPTCHA** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
 **Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
@@ -35,8 +38,6 @@ Some of the data collected by this provider is for the purposes of personalizati
 **Maximum Storage Duration** : Session**Type** : HTML Local Storage
 **rc::c** This cookie is used to distinguish between humans and bots. 
 **Maximum Storage Duration** : Session**Type** : HTML Local Storage
-**rc::d-15#** This cookie is used to distinguish between humans and bots. 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **rc::f** This cookie is used to distinguish between humans and bots. 
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
     * [LinkedIn1](https://www.wbcsd.org/events/)
@@ -49,14 +50,15 @@ Some of the data collected by this provider is for the purposes of personalizati
 **wordpress_test_cookie** Used to check if the user's browser supports cookies.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
     * [explorer.land  
-player.vimeo.com  
-2](https://www.wbcsd.org/events/)
-**__cf_bm [x2]** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+linkedin.com  
+vimeo.com  
+3](https://www.wbcsd.org/events/)
+**__cf_bm [x3]** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
     * [www.wbcsd.org1](https://www.wbcsd.org/events/)
 **elementor** Used in context with the website's WordPress theme. The cookie allows the website owner to implement or change the website's content in real-time.
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-  * Preferences  3
+  * Preferences  4
 Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
     * [Cookiebot1](https://www.wbcsd.org/events/)
 **CookieConsentBulkSetting-#** Enables cookie consent across multiple websites
@@ -64,11 +66,14 @@ Preference cookies enable a website to remember information that changes the way
     * [LinkedIn1](https://www.wbcsd.org/events/)
 **lidc** Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. 
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
-    * [cdn.jsdelivr.net1](https://www.wbcsd.org/events/)
-**_ALGOLIA** Necessary in order to optimize the website's search-bar function. The cookie ensures accurate and fast search results.
+    * [cdn.jsdelivr.net2](https://www.wbcsd.org/events/)
+**_ALGOLIA [x2]** Necessary in order to optimize the website's search-bar function. The cookie ensures accurate and fast search results.
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
   * Statistics  9
 Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+    * [Digital Ocean1](https://www.wbcsd.org/events/)
+**mapbox.eventData.uuid:#** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
     * [Google2](https://www.wbcsd.org/events/)
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
 **_ga** Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
@@ -88,10 +93,7 @@ Some of the data collected by this provider is for the purposes of personalizati
     * [events.wbcsd.org1](https://www.wbcsd.org/events/)
 **current_event_page** If consent is given by the visitor, this cookie allows the website to add events into the visitor's calendar.
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-    * [explorer.land1](https://www.wbcsd.org/events/)
-**mapbox.eventData.uuid:#** Pending
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-  * Marketing  17
+  * Marketing  15
 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
     * [LinkedIn1](https://www.wbcsd.org/events/)
 **bcookie** Used by the social networking service, LinkedIn, for tracking the use of embedded services.
@@ -101,9 +103,7 @@ Marketing cookies are used to track visitors across websites. The intention is t
 **Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
 **sp_t** Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. 
 **Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
-    * [YouTube14](https://www.wbcsd.org/events/)
-**__Secure-BUCKET** Pending
-**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+    * [YouTube12](https://www.wbcsd.org/events/)
 **__Secure-ROLLOUT_TOKEN** Pending
 **Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
 **__Secure-YEC** Stores the user's video player preferences using embedded YouTube video
@@ -128,11 +128,9 @@ Marketing cookies are used to track visitors across websites. The intention is t
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 **YtIdbMeta#databases** Used to track user’s interaction with embedded content.
 **Maximum Storage Duration** : Persistent**Type** : IndexedDB
-**yt-player-user-settings** Used by video players to remember the user's preferred sound volume.
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-  * Unclassified 16
+  * Unclassified 12
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-    * [Digital Ocean6](https://www.wbcsd.org/events/)
+    * [Digital Ocean7](https://www.wbcsd.org/events/)
 **auth_refresh_token.local** Pending
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
 **auth_refresh_token_expiration.local** Pending
@@ -145,16 +143,7 @@ Unclassified cookies are cookies that we are in the process of classifying, toge
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
 **cookie_consent_v** Pending
 **Maximum Storage Duration** : Session**Type** : HTTP Cookie
-    * [embed-cdn.spotifycdn.com5](https://www.wbcsd.org/events/)
-**ES|#|EVENT|#|#==|EmbedPlayerActionNonAuth|#** Pending
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**ES|#|GLOBAL_SEQ_NUM** Pending
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**ES|#|INSTALLATION_ID** Pending
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**ES|#|SEQ_NUM|#** Pending
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-**ES|#|STORAGE_ID** Pending
+**mapbox.eventData:** Pending
 **Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
     * [events.wbcsd.org2](https://www.wbcsd.org/events/)
 **total_event_page** Pending
@@ -183,7 +172,7 @@ List of domains your consent applies to:
 
 [ wbcsd.org](https://wbcsd.org)
 
-Cookie declaration last updated on 5/4/26 by 
+Cookie declaration last updated on 6/4/26 by 
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
 [#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
@@ -263,7 +252,7 @@ WBCSD at London Climate Action Week (LCAW)
 ## Discover & register for our events on the WBCSD Events Portal
 [View all Events](https://registration.wbcsd.org/)
 ## Upcoming events
-[ Regional events The Scope 3 Innovation Forum 2026 16 Jun 2026 Join 200+ senior leaders from sustainability, procurement, finance, and operations at Innovation Forum’s The Scope 3 Innovation Forum 2026 — a two-day, high-level gathering focused (…) ](https://www.wbcsd.org/events/the-scope-3-innovation-forum-2026/) [ Strategic events WBCSD at London Climate Action Week (LCAW) 20 Jun 2026 Building on the momentum of WBCSD’s inaugural Annual Meeting, WBCSD will play an active role at London Climate Action Week (LCAW), London, 22–24 June. We (…) ](https://www.wbcsd.org/events/wbcsd-at-london-climate-action-week-lcaw/) [ Strategic events WBCSD at NYC Climate Week 20 Sep 2026 WBCSD will once again convene a high-impact program at NYC Climate Week this September, bringing together senior leaders to elevate sustainability as a decisive driver (…) ](https://www.wbcsd.org/events/wbcsd-at-nyc-climate-week/)
+[ Regional events The Scope 3 Innovation Forum 2026 16 Jun 2026 Join 200+ senior leaders from sustainability, procurement, finance, and operations at Innovation Forum’s The Scope 3 Innovation Forum 2026 — a two-day, high-level gathering focused (…) ](https://www.wbcsd.org/events/the-scope-3-innovation-forum-2026/) [ Strategic events WBCSD at London Climate Action Week (LCAW) 20 Jun 2026 Building on the momentum of WBCSD’s inaugural Annual Meeting, WBCSD will play an active role at London Climate Action Week (LCAW), London, 22–24 June. We (…) ](https://www.wbcsd.org/events/wbcsd-at-london-climate-action-week-lcaw/) [ Strategic events WBCSD Two Lakes Dialogue – 2026 edition  15 Sep 2026 About the Event The Two Lakes Dialogue 2026 is a high-level international platform bringing together business leaders, policymakers, investors and innovators to help companies navigate a (…) ](https://www.wbcsd.org/events/wbcsd-two-lakes-dialogue-2026-edition/)
 ## Past events
 [ View All ](https://www.wbcsd.org/past-events/)
 [ Strategic events WBCSD at GreenBiz26  17 Feb 2026 As a convening partner of Trellis (formerly GreenBiz), WBCSD will once again bring an exciting agenda to Phoenix, Arizona, for GreenBiz 26, taking place from (…) ](https://www.wbcsd.org/events/wbcsd-at-greenbiz26/) [ Regional events WBCSD India Connect at Mumbai Climate Week 2026 16 Feb 2026 India is central to the global sustainability transition because it sits at the intersection of rapid economic growth, rising emissions, and massive development needs. With (…) ](https://www.wbcsd.org/events/wbcsd-india-connect-at-mumbai-climate-week-2026/) [ Strategic events WBCSD at the World Economic Forum Annual Meeting 2026 19 Jan 2026 At the 56th Annual Meeting of the World Economic Forum in January 2026, global leaders will gather in Davos under the theme “A Spirit of (…) ](https://www.wbcsd.org/events/wbcsd-at-the-world-economic-forum-annual-meeting-2026/)

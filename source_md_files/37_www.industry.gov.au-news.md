@@ -27,7 +27,7 @@ May 2026  National Artificial Intelligence Centre
 The new digital platform will help organisations understand and use artificial intelligence (AI) safely and responsibly. 
 ## Filter results
 [ Link copied ](https://www.industry.gov.au/news#filter-results "Copy link to this section")
-Page 1 of 55. Showing results from 1 to 12 of 653.
+Page 1 of 49. Showing results from 1 to 12 of 587.
   * 28 May 2026 
 ### [Cynata Therapeutics is developing new cell therapies to treat chronic disease and acute conditions](https://www.industry.gov.au/news/cynata-therapeutics-developing-new-cell-therapies-treat-chronic-disease-and-acute-conditions)
 The Australian Government’s Biomedical Translation Fund (BTF) is enabling BioScience Managers to invest in companies like Cynata Therapeutics. 
@@ -66,6 +66,6 @@ Nominate areas for a potential future offshore petroleum exploration acreage rel
 Nine projects will be funded under the strategic element of the Global Science and Technology Diplomacy Fund (GSTDF) round 2. 
 
 
-Page 1 of 55. Showing results from 1 to 12 of 653.
-Page 1 of 55. Showing results from 1 to 12 of 653.
+Page 1 of 49. Showing results from 1 to 12 of 587.
+Page 1 of 49. Showing results from 1 to 12 of 587.
 [Back to top](https://www.industry.gov.au/news#skip-links)

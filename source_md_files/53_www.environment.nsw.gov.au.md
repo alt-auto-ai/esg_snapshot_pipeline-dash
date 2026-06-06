@@ -1,14 +1,24 @@
 A NSW Government website
 photo_camera Open description
-A kingfisher bird resting on branch in Moonee Creek, Moonee Beach Nature Reserve.  close Close description
-Credit: Robert Cleary/DCCEEW 
+Lake Burragorang Warragamba Catchment, Nattai National Park.  close Close description
+Credit: John Spencer/DCCEEW 
 # Environment and Heritage
 [ Apply for a licence ](https://www.environment.nsw.gov.au/licences-and-permits) [ Search heritage databases ](https://www.environment.nsw.gov.au/topics/heritage/search-heritage-databases) [ Explore biodiversity data ](https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet) [ Browse publications ](https://www.environment.nsw.gov.au/research-and-publications/publications) [ Find information ](https://www.environment.nsw.gov.au/about-us/find-information) [ Report a problem ](https://www.environment.nsw.gov.au/about-us/report-a-problem-or-incident)
 ## Stay up to date
 photo_camera Open description
-Dolphin.  close Close description
-Credit: Dolphin Research Australia 
-[Have you prepped for the first-ever NSW Dolphin Census this weekend?](https://www.environment.nsw.gov.au/news/have-you-prepped-first-nsw-dolphin-census)
+Gulaga dancers.  close Close description
+Credit: DCCEEW 
+[Celebrating 20 years of joint management at Biamanga and Gulaga national parks](https://www.environment.nsw.gov.au/news/celebrating-20-years-joint-management-biamanga-gulaga-national-parks)
+east
+photo_camera Open description
+Cycling in the Pilliga National Park.  close Close description
+Credit: DCCEEW 
+[Time to hit the trails for the 2026 Tour de Gorge](https://www.environment.nsw.gov.au/news/time-hit-trails-2026-tour-de-gorge)
+east
+photo_camera Open description
+Monaro Grassland Earless Dragon.  close Close description
+Credit: Jesse Campbell/DCCEEW 
+[From classroom to conservation: Monaro school students leave their mark on endangered dragons](https://www.environment.nsw.gov.au/news/classroom-conservation-monaro-school-students-leave-their-mark-endangered-dragons)
 east
 photo_camera Open description
 Researchers from Macquarie University gathering data at Lavender Bay as part of their project 'Living Boulders for reviving marine life on coastal defences'.  close Close description
@@ -34,16 +44,6 @@ photo_camera Open description
 Rocket at Kirkby Park playground, Moree.  close Close description
 Credit: DCCEEW 
 [Iconic Moree rocket blasts onto State Heritage Register](https://www.environment.nsw.gov.au/news/iconic-moree-rocket-state-heritage-register)
-east
-photo_camera Open description
-NPWS crew on the water on Fri 15 May. At helm is Area Manager Shane Robinson, on the bow is Ranger Shaun Kerrigan, and Ranger Scott Munro. Shaun and Shane have combined 35 years experience with tangled whale rescues.  close Close description
-Credit: DCCEEW 
-[ Teamwork saves entangled humpback whale near Forster](https://www.environment.nsw.gov.au/news/teamwork-saves-entangled-humpback-whale-near-forster)
-east
-photo_camera Open description
-Minister Penny Sharpe (left) visited Dorrigo National Park.  close Close description
-Credit: DCCEEW 
-[Coffs Coast set for major tourism boost as work begins on Dorrigo Great Escarpment Walk](https://www.environment.nsw.gov.au/news/coffs-coast-set-major-tourism-boost-work-begins-dorrigo-great-escarpment-walk)
 east
 photo_camera Open description
 Aerial view of swimmers at Bronte Beach.  close Close description

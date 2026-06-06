@@ -1,6 +1,12 @@
 [ Skip to main content ](https://www.afca.org.au/news/latest-news#main-content)
 #  Latest news
 ### Year published
+03  JUN 26 
+##### [AFCA publishes EDR Response Guide for complaints about hail damage claims](https://www.afca.org.au/news/latest-news/afca-publishes-edr-response-guide-for-complaints-about-hail-damage-claims)
+AFCA has published a new External Dispute Resolution (EDR) Response Guide for hail damage claim complaints. 
+01  JUN 26 
+##### [AFCA consults on amendments to Rule C.1.4b) and d)](https://www.afca.org.au/news/latest-news/afca-consults-on-amendments-to-rule-c14b-and-d)
+AFCA is consulting on amendments to its Rules from Monday 1 June to Friday 26 June 2026. 
 28  MAY 26 
 ##### [Update on Interprac complaints](https://www.afca.org.au/news/latest-news/update-on-interprac-complaints)
 This is an update on complaints relating to Interprac Financial Planning (Interprac) following court proceedings commenced by Interprac against AFCA in the Federal Court. 
@@ -31,12 +37,6 @@ The Australian Financial Complaints Authority (AFCA) has published the details o
 13  MAR 26 
 ##### [Receiving banks jurisdiction for scam complaints](https://www.afca.org.au/news/latest-news/receiving-banks-jurisdiction-for-scam-complaints)
 AFCA’s jurisdiction has expanded, allowing us to investigate scam-related complaints involving receiving banks and unauthorised opening of accounts and credit facilities in a consumer’s name without their consent or authority. 
-13  MAR 26 
-##### [AFCA publishes video update explaining the United Global Capital Lead Decision](https://www.afca.org.au/news/latest-news/afca-publishes-video-update-explaining-the-united-global-capital-lead-decision)
-AFCA has published a new short video from Shail Singh, Lead Ombudsman Investments and Advice, explaining the lead decision involving United Global Capital (in liquidation). 
-12  MAR 26 
-##### [AFCA publishes updated Rules and Operational Guidelines](https://www.afca.org.au/news/latest-news/afca-publishes-updated-rules-and-operational-guidelines)
-AFCA has published its updated Rules and Operational Guidelines (OGs), which come into effect on 12 March 2026 following extensive consultation with industry, consumer groups, paid representatives and other stakeholders, and subsequent ASIC approval. 
 ## Live Chat
 Minimize window
 View our chat service terms and conditions

@@ -1,6 +1,10 @@
 [ ](https://theconversation.com/topics/esg-88758) [ ](https://theconversation.com/topics/esg-88758)
 # Articles on ESG
-### Displaying 1 - 20 of 53 articles
+### Displaying 1 - 20 of 55 articles
+[ ](https://theconversation.com/how-businesses-with-ties-to-jeffrey-epstein-saw-norms-and-even-share-prices-suffer-283097) Beyond the well-known names, Jeffrey Epstein’s network of contacts had infiltrated the boardrooms of hundreds of major U.S. companies, with clear consequences for corporate conduct.  Martin BUREAU/AFP via Getty Images
+The more Epstein-connected directors a company had, no matter its size, the more likely it was to have governance problems.
+[ ](https://theconversation.com/the-push-to-standardize-esg-scores-could-make-corporate-greenwashing-easier-not-harder-284170) If shareholders want corporations to take climate change and social responsibility seriously, firms should pay their leaders for results on those dimensions.  (Unsplash+)
+Tying executive pay to ESG metrics is now standard practice at most large companies. But new research finds that when the scoring methodology becomes predictable, it becomes easier to game.
 [ ](https://theconversation.com/companies-are-hyping-ai-the-same-way-they-talked-up-sustainability-but-there-are-ways-to-fix-that-282013) The struggling footwear company Allbirds, which announced in April 2026 that it was rebranding into an AI company, may be one of the most recent notable examples of ‘AI washing.’  Business Wire
 Many companies today overpromise what they can do with AI. They should learn from efforts to combat greenwashing and tighten standards.
 [ ](https://theconversation.com/why-green-finance-isnt-always-as-sustainable-as-it-seems-265240) VectorMine/Shutterstock
@@ -37,10 +41,6 @@ All you need to know about investing your money sustainably.
 The UK is joining the small club of countries with sustainability labels for investment products.
 [ ](https://theconversation.com/responsible-esg-investing-in-the-global-south-requires-overcoming-the-global-norths-saviour-complex-218092) Socially responsible investing in the Global South should respond to local needs rather than investors’ egos.  (Shutterstock)
 Ensuring that ego and prestige of the Global North does not get in the way of on-the-ground results in the Global South will be the key to effective social impact investing in the years to come.
-[ ](https://theconversation.com/how-australian-companies-can-fudge-their-numbers-to-show-social-and-environmental-progress-212442) Shutterstock
-There are perverse incentives to exaggerate sustainablity claims – made easier by the lack of uniformity in measuring and reporting such results.
-[ ](https://theconversation.com/legos-esg-dilemma-why-an-abandoned-plan-to-use-recycled-plastic-bottles-is-a-wake-up-call-for-supply-chain-sustainability-214573) Legos are designed to last for decades. That posed a challenge when the toymaker tried to switch to recycled plastics.  AP Photo/Shizuo Kambayashi
-Corporate supply chains are riddled with high, uncounted emissions, as Lego discovered. New regulations mean more companies will face tough, sometimes surprising, choices.
 ###  Related Topics 
   1. [Blackrock](https://theconversation.com/topics/blackrock-38549)
   2. [Business](https://theconversation.com/topics/business-34339)
@@ -55,6 +55,7 @@ Corporate supply chains are riddled with high, uncounted emissions, as Lego disc
 
 
 ### Job Board
+  * ##### [Deputy Editor, Arts and Culture](https://jobs.theconversation.com/jobs/538599654-deputy-editor-arts-and-culture-at-the-conversation-au-nz?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
   * ##### [Forensicare Postdoctoral Research Fellow/Research Fellow ](https://jobs.theconversation.com/jobs/537162182-forensicare-postdoctoral-research-fellow-research-fellow-at-swinburne-university-of-technology?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
   * ##### [Police Cadet, South Australia Police](https://jobs.theconversation.com/jobs/533901095-police-cadet-south-australia-police-at-government-of-south-australia?utm_source=theconversation.com&utm_medium=website&utm_campaign=sidebar_job)
 

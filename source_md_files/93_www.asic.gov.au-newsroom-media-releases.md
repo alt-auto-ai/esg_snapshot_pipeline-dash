@@ -1,4 +1,29 @@
 Media releases 
+  * ### [ASIC cancels the registered agent status of Registration Pty Ltd and Biz Australia Pty Ltd](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-112mr-asic-cancels-the-registered-agent-status-of-registration-pty-ltd-and-biz-australia-pty-ltd/)
+bannings and alertsmedia release (26-112MR)
+5 June 2026
+bannings and alerts
+ASIC has cancelled the registered agent status of Registration Pty Ltd and Biz Australia Pty Ltd for breaches of ASIC’s Registered Agent Terms and Conditions.
+  * ### [Fashion and beauty retailers trading under the Zara, H&M and Sephora brands pay $596,000 in infringement notices for failing to lodge financial reports on time](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-111mr-fashion-and-beauty-retailers-trading-under-the-zara-h-m-and-sephora-brands-pay-596-000-in-infringement-notices-for-failing-to-lodge-financial-reports-on-time/)
+financial reportingmedia release (26-111MR)
+4 June 2026
+financial reporting
+ASIC has issued infringement notices to three companies operating major fashion and beauty retail businesses in Australia for allegedly failing to lodge their financial reports by the required date.
+  * ### [ASIC disqualifies NSW director Genna Raber for 5 years](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-110mr-asic-disqualifies-nsw-director-genna-raber-for-5-years/)
+bannings and alertsmedia release (26-110MR)
+4 June 2026
+bannings and alerts
+ASIC has disqualified NSW director Genna Raber from managing corporations for the maximum period of five years due to his involvement in the failure of three companies.
+  * ### [NSW directors Adam Rana and Joseph Tarzia fined $10,000 each for failing to have director identification numbers](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-109mr-nsw-directors-adam-rana-and-joseph-tarzia-fined-10-000-each-for-failing-to-have-director-identification-numbers/)
+companiesmedia release (26-109MR)
+2 June 2026
+companies
+Two New South Wales directors have been convicted in the Downing Centre Local Court in Sydney on 19 May 2026 and fined $10,000 each for failing to comply with director identification requirements.
+  * ### [CDPP discontinues insider trading charges against Big Un former CFO Andrew Corner following hung jury](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-108mr-cdpp-discontinues-insider-trading-charges-against-big-un-former-cfo-andrew-corner-following-hung-jury/)
+dealing with asicmedia release (26-108MR)
+1 June 2026
+companiesdealing with asicfinancial marketsfinancial reportingfinancial services
+The Office of the Director of Public Prosecutions (Cth) (CDPP) has determined it will discontinue proceedings against the former chief financial officer (CFO) of collapsed ASX-listed technology company Big Un Limited following a hung jury.
   * ### [Federal Court orders Westpac to pay $26 million penalty for hardship failures](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-107mr-federal-court-orders-westpac-to-pay-26-million-penalty-for-hardship-failures/)
 financial servicesmedia release (26-107MR)
 27 May 2026
@@ -34,6 +59,8 @@ managed investment schemesmedia release (26-101MR)
 21 May 2026
 managed investment schemessuperannuation
 ASIC has commenced civil penalty proceedings in the Federal Court against Equity Trustees Superannuation Limited (Equity Trustees), alleging failures in care, skill and diligence concerning the decision to allow members to invest in the First Guardian Master Fund (First Guardian).
+  * ### Sign up for news alerts
+Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [ASIC continues to ease regulatory burden](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-100mr-asic-continues-to-ease-regulatory-burden/)
 reports and publicationsmedia release (26-100MR)
 19 May 2026
@@ -59,8 +86,6 @@ financial servicesmedia release (26-096MR)
 12 May 2026
 financial services
 Ashley Arandez of Hoppers Crossing in Victoria has been sentenced to 5 years and 6 months imprisonment in the County Court of Victoria, after pleading guilty to offences involving dishonest conduct, carrying on an unlicensed financial services business, and recklessly dealing with the proceeds of crime.
-  * ### Sign up for news alerts
-Subscribe to receive news alerts on a wide range of ASIC activities including enforcement outcomes, consumer warnings, legislative amendments and policy updates.
   * ### [Registration prohibition order against former UGC financial adviser Stephen Rogers increased to three years following review](https://www.asic.gov.au/about-asic/news-centre/find-a-media-release/2026-releases/26-095mr-registration-prohibition-order-against-former-ugc-financial-adviser-stephen-rogers-increased-to-three-years-following-review/)
 financial servicesmedia release (26-095MR)
 12 May 2026

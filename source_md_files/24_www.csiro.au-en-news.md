@@ -4,28 +4,28 @@ Explore the science behind the headlines with our leading experts.
 Contact 
 ## Latest news and articles
 Featured 
-Article 27 May 2026  4 min read 
-### [ Walking forward together through science, partnership and action ](https://www.csiro.au/en/news/All/Articles/2026/May/Walking-Forward-Together)
+News Release 4 June 2026  3 min read 
+### [ ​​Most detailed map of the Universe’s hidden magnetic fields released ](https://www.csiro.au/en/news/All/News/2026/June/SPICE-RACS)
+  * [ ASKAP ](https://www.csiro.au/en/news/All?articletags={8BD7C557-89DD-4934-B705-ADF241E629C0}|ASKAP)
+  * [ Astronomy ](https://www.csiro.au/en/news/All?articletags={6EA5E0BD-B2FE-4176-901F-B2711CAF7B4C}|Astronomy)
+  * [ Radio astronomy ](https://www.csiro.au/en/news/All?articletags={82197EBA-FC46-4B1F-AC77-55D6944BCE8D}|Radio%20astronomy)
+
+
 ## Featured
-  * ### [ Charting her own course: how Brodie’s curiosity and culture are shaping her STEM story ](https://www.csiro.au/en/news/All/Articles/2026/May/Curiosity-and-culture-shaping-a-STEM-story)
-  * ### [ Ancient knowledge and modern science give early warning on plant stress ](https://www.csiro.au/en/news/All/Articles/2026/May/Nallawilli-Bunjil)
+  * ### [ Mapurlarri Prawn Farm moves from pilot towards delivery on the Tiwi Islands ](https://www.csiro.au/en/news/All/Articles/2026/June/Mapurlarri-Prawn-Farm-moves-from-pilot-towards-delivery-on-the-Tiwi-Islands)
+  * ### [ Algal blooms explained: How scientists are helping spot them sooner ](https://www.csiro.au/en/news/All/Articles/2026/June/Algal-blooms-explained)
 
 
 Article 19 May 2026  3 min read 
 ### [ What you need to know about ebolaviruses ](https://www.csiro.au/en/news/All/Articles/2026/May/Ebola-what-you-need-to-know)
-Article 8 May 2026  5 min read 
-### [ Science lighting the way on Australia's roads ](https://www.csiro.au/en/news/All/Articles/2026/May/Science-lighting-the-way-on-roads)
-  * [ Verification and Testing ](https://www.csiro.au/en/news/All?articletags={036912CC-E6F8-48B6-AAFF-64887CC778CB}|Verification%20and%20Testing)
-  * [ safety ](https://www.csiro.au/en/news/All?articletags={79CBEEAC-8821-49FC-B181-A448ADDF6F2C}|safety)
-  * [ innovation ](https://www.csiro.au/en/news/All?articletags={D7D60678-DE1C-460F-9DCC-D8C4005E0A34}|innovation)
-  * [ Industry Innovation ](https://www.csiro.au/en/news/All?articletags={63747C20-B173-41DE-84FF-436F619D57DA}|Industry%20Innovation)
-  * [ Infrastructure ](https://www.csiro.au/en/news/All?articletags={933C76B7-0FBB-4336-83F9-F37FBF752D13}|Infrastructure)
-  * [ manufacturing ](https://www.csiro.au/en/news/All?articletags={3B61DF30-554E-42C4-8906-701B84BACDF1}|manufacturing)
-  * [ Paint ](https://www.csiro.au/en/news/All?articletags={82124074-E8F2-4B00-BE6F-9BB276ADD4AA}|Paint)
+Article 28 May 2026  5 min read 
+### [ Quantum computing could supercharge the energy transition ](https://www.csiro.au/en/news/All/Articles/2026/May/Quantum-computing-could-supercharge-the-energy-transition)
+  * [ energy ](https://www.csiro.au/en/news/All?articletags={88F8DBC0-2ED7-46BB-BC62-864A3F77A807}|energy)
+  * [ technology ](https://www.csiro.au/en/news/All?articletags={1420CE14-4771-4E26-AA62-01B08F10AF29}|technology)
 
 
-Article 29 May 2026  5 min read 
-### [ 10 Young Indigenous Women showing up in STEM in 2026 ](https://www.csiro.au/en/news/All/Articles/2026/May/10-Young-Indigenous-Women-showing-up-in-STEM-in-2026)
+Article 3 June 2026  5 min read 
+### [ CSIRO’s FlexCost analyses the cost of accessing consumer energy resources ](https://www.csiro.au/en/news/All/Articles/2026/June/FlexCost)
 [ View more news ](https://www.csiro.au/en/news/All?type={60727734-1BF6-4FD4-88DA-028304CF3D74}|{01DD0A16-96BC-4001-ACA4-F82DBB83B26C}|{6B6F9B5C-3CB2-42DD-A714-2A012B3720FD}|{9E28CCA8-AAC8-475C-AEB3-7BDE93F6155E})
 ## Media Centre
 ### [ Media releases Official announcements highlighting recent stories and newsworthy information. ](https://www.csiro.au/en/news/All?type={49F817AF-74EB-43C4-A51B-CE2B14F46215})

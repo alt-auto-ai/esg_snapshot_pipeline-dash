@@ -1,15 +1,16 @@
 [ Skip to main content ](https://minister.dcceew.gov.au/bowen/media-releases#main-content)
 # Media releases
+### June 2026 
+## [Battery and solar growth pave way to renewables future](https://minister.dcceew.gov.au/bowen/media-releases/battery-and-solar-growth-pave-way-renewables-future)
+3 June 2026
+Australians are taking up cheap, clean and reliable solar and batteries at world record rates, as a healthy pipeline of investment for large scale renewables shows the energy transformation is full steam ahead.
 ### May 2026 
-<<<<<<< HEAD
-=======
 ## [Joint media release: Albanese Labor Government delivers additional diesel to Queensland](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-albanese-labor-government-delivers-additional-diesel-queensland)
 30 May 2026
 The Albanese Labor Government has secured another 40 million litres of additional diesel for Queenslanders, through an agreement between Export Finance Australia (EFA) and independent supplier Freedom Fuels.
 ## [Government maintains fuel security](https://minister.dcceew.gov.au/bowen/media-releases/government-maintains-fuel-security)
 30 May 2026
 The Albanese Government will maintain maximum flexibility in the domestic fuel market, by extending the temporary relaxation of the baseline Minimum Stockholding Obligation for petrol and diesel for a further three months.
->>>>>>> 7bac5f0 (update pipeline)
 ## [More EV drivers to charge cheap, power homes and sell back to the grid](https://minister.dcceew.gov.au/bowen/media-releases/more-ev-drivers-charge-cheap-power-homes-and-sell-back-grid)
 29 May 2026
 More EV owners will be able to use their cars as batteries on wheels after an Australian vehicle-to-grid (V2G) and smart charging pilot received a funding boost which will test how EVs can help power homes, cut bills and support the grid.
@@ -31,15 +32,3 @@ After discussions between Australia and China, including between the Prime Minis
 ## [Denmark visit to bolster energy security with international partners ](https://minister.dcceew.gov.au/bowen/media-releases/denmark-visit-bolster-energy-security-international-partners)
 18 May 2026
 Minister for Climate Change and Energy Chris Bowen will travel to Denmark this week to strengthen climate and energy partnerships.
-## [Joint media release: Three additional ships of diesel headed to South Australia, Tasmania, Victoria and Queensland](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-three-additional-ships-diesel-headed-south-australia-tasmania-victoria-and-queensland)
-15 May 2026
-The Albanese Labor Government has secured approximately 150 million litres, or 900,000 barrels, of additional diesel in three new shipments through partnerships with Ampol, Viva and regional supplier IOR.
-<<<<<<< HEAD
-## [Joint media release: Strengthening Australia's fuel resilience](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-strengthening-australias-fuel-resilience)
-12 May 2026
-The Albanese Labor Government will deliver a major fuel security and price relief package in the Budget, investing $14.8 billion to immediately secure more fuel, strengthen Australia’s supply chains and build long-term resilience to future fuel shocks.
-## [Joint media release: Albanese Government to secure Australian gas for Australian users ](https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-albanese-government-secure-australian-gas-australian-users)
-7 May 2026
-The Albanese Labor Government will introduce a domestic gas reservation scheme that will require gas exporters supply a proportion of their total production to the Australian market – equivalent to 20 per cent of exports, from 1 July 2027.
-=======
->>>>>>> 7bac5f0 (update pipeline)

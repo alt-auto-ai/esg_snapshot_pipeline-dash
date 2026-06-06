@@ -13,7 +13,7 @@ Create a free IEA account to download our reports or subcribe to a paid service.
 cross
 Close Search
   * CountryChevron down
-    * [ Toggle filter India (63) ](https://www.iea.org/news?country%5B0%5D=india)
+    * [ Toggle filter India (64) ](https://www.iea.org/news?country%5B0%5D=india)
     * [ Toggle filter China (53) ](https://www.iea.org/news?country%5B0%5D=china)
     * [ Toggle filter United States (45) ](https://www.iea.org/news?country%5B0%5D=united-states)
     * [ Toggle filter Indonesia (34) ](https://www.iea.org/news?country%5B0%5D=indonesia)
@@ -66,7 +66,7 @@ Close Search
     * [ Toggle filter Energy Security (209) ](https://www.iea.org/news?topic%5B0%5D=energy-security)
     * [ Toggle filter Climate Change (162) ](https://www.iea.org/news?topic%5B0%5D=climate-change)
     * [ Toggle filter Investment (100) ](https://www.iea.org/news?topic%5B0%5D=investment)
-    * [ Toggle filter Access and Affordability (79) ](https://www.iea.org/news?topic%5B0%5D=access-and-affordability)
+    * [ Toggle filter Access and Affordability (80) ](https://www.iea.org/news?topic%5B0%5D=access-and-affordability)
     * [ Toggle filter Net Zero Emissions (77) ](https://www.iea.org/news?topic%5B0%5D=net-zero-emissions)
     * [ Toggle filter Global Energy Transitions Stocktake (52) ](https://www.iea.org/news?topic%5B0%5D=global-energy-transitions-stocktake)
     * [ Toggle filter Energy Innovation (50) ](https://www.iea.org/news?topic%5B0%5D=energy-innovation)
@@ -77,11 +77,7 @@ Close Search
     * [ Toggle filter Energy and Gender (16) ](https://www.iea.org/news?topic%5B0%5D=energy-and-gender)
     * [ Toggle filter Energy and Water (15) ](https://www.iea.org/news?topic%5B0%5D=energy-and-water)
     * [ Toggle filter Saving Energy (13) ](https://www.iea.org/news?topic%5B0%5D=saving-energy)
-<<<<<<< HEAD
-    * [ Toggle filter The Middle East and Global Energy Markets (7) ](https://www.iea.org/news?topic%5B0%5D=the-middle-east-and-global-energy-markets)
-=======
     * [ Toggle filter The Middle East and Global Energy Markets (8) ](https://www.iea.org/news?topic%5B0%5D=the-middle-east-and-global-energy-markets)
->>>>>>> 7bac5f0 (update pipeline)
   * ProgrammeChevron down
     * [ Toggle filter Clean Energy Transitions Programme (278) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-transitions-programme)
     * [ Toggle filter Clean Energy Transitions in Emerging Economies (23) ](https://www.iea.org/news?programme%5B0%5D=clean-energy-transitions-in-emerging-economies)
@@ -99,19 +95,11 @@ Close Search
     * [ Toggle filter Global Methane Engagement Programme (1) ](https://www.iea.org/news?programme%5B0%5D=global-methane-engagement-programme)
     * [ Toggle filter Transport Project Partnership (1) ](https://www.iea.org/news?programme%5B0%5D=transport-project-partnership)
   * TypeChevron down
-<<<<<<< HEAD
-    * [ Toggle filter News (1263) ](https://www.iea.org/news?type=news)
-    * [ Toggle filter Commentary (350) ](https://www.iea.org/news?type=commentary)
+    * [ Toggle filter News (1266) ](https://www.iea.org/news?type=news)
+    * [ Toggle filter Commentary (352) ](https://www.iea.org/news?type=commentary)
     * [ Toggle filter Press release (173) ](https://www.iea.org/news?type=press-release)
   * YearChevron down
-    * [ Toggle filter 2026 (80) ](https://www.iea.org/news?year=2026)
-=======
-    * [ Toggle filter News (1265) ](https://www.iea.org/news?type=news)
-    * [ Toggle filter Commentary (351) ](https://www.iea.org/news?type=commentary)
-    * [ Toggle filter Press release (173) ](https://www.iea.org/news?type=press-release)
-  * YearChevron down
-    * [ Toggle filter 2026 (83) ](https://www.iea.org/news?year=2026)
->>>>>>> 7bac5f0 (update pipeline)
+    * [ Toggle filter 2026 (85) ](https://www.iea.org/news?year=2026)
     * [ Toggle filter 2025 (167) ](https://www.iea.org/news?year=2025)
     * [ Toggle filter 2024 (148) ](https://www.iea.org/news?year=2024)
     * [ Toggle filter 2023 (159) ](https://www.iea.org/news?year=2023)
@@ -129,16 +117,13 @@ Close Search
 
 
 Filter
-<<<<<<< HEAD
-[ Investment  Impacts of Middle East conflict set to reshape energy investment plans as disruptions put focus on security 28 May 2026  ](https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security)
-[ Methane Abatement  Regulators from around the world convene in Paris as new network aims to tackle methane emissions 22 May 2026  ](https://www.iea.org/news/regulators-from-around-the-world-convene-in-paris-as-new-network-aims-to-tackle-methane-emissions)
-=======
+[ News  New podcast episode explores how energy crisis is shaping investment trends 04 June 2026  ](https://www.iea.org/news/new-podcast-episode-explores-how-energy-crisis-is-shaping-investment-trends)
+[ Space Cooling  India’s electricity demand grows at night: Managing rising cooling demand 03 June 2026  ](https://www.iea.org/commentaries/india-s-electricity-demand-grows-at-night-managing-rising-cooling-demand)
 [ The Middle East and Global Energy Markets  Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group, and World Trade Organization 29 May 2026  ](https://www.iea.org/news/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-trade-organization)
 [ battery storage  Battery storage is scaling up and taking on a larger system role 29 May 2026  ](https://www.iea.org/commentaries/battery-storage-is-scaling-up-and-taking-on-a-larger-system-role)
 [ Investment  Impacts of Middle East conflict set to reshape energy investment plans as disruptions put focus on security 28 May 2026  ](https://www.iea.org/news/impacts-of-middle-east-conflict-set-to-reshape-energy-investment-plans-as-disruptions-put-focus-on-security)
 [ Methane Abatement  Regulators from around the world convene in Paris as new network aims to tackle methane emissions 22 May 2026  ](https://www.iea.org/news/regulators-from-around-the-world-convene-in-paris-as-new-network-aims-to-tackle-methane-emissions)
 [ News  Executive Director hosts Prime Minister of Thailand at IEA headquarters for discussion on key energy issues 22 May 2026  ](https://www.iea.org/news/executive-director-hosts-prime-minister-of-thailand-at-iea-headquarters-for-discussion-on-key-energy-issues)
->>>>>>> 7bac5f0 (update pipeline)
 [ The Middle East and Global Energy Markets  IEA releases major update to tracker of government responses to energy impacts of Middle East conflict 21 May 2026  ](https://www.iea.org/news/iea-releases-major-update-to-tracker-of-government-responses-to-energy-impacts-of-middle-east-conflict)
 [ News  New podcast episode examines hydropower’s major role in electricity systems around the world 21 May 2026  ](https://www.iea.org/news/new-podcast-episode-examines-hydropower-s-major-role-in-electricity-systems-around-the-world)
 [ Electric Vehicles  Close to 30% of cars sold this year are set to be electric as countries and consumers respond to energy crisis 20 May 2026  ](https://www.iea.org/news/close-to-30-of-cars-sold-this-year-are-set-to-be-electric-as-countries-and-consumers-respond-to-energy-crisis)
@@ -156,14 +141,6 @@ Filter
 [ Energy Security  How governments can best support consumers during this energy crisis 21 April 2026  ](https://www.iea.org/commentaries/how-governments-can-best-support-consumers-during-this-energy-crisis)
 [ Energy Security  Global energy demand growth was met by diverse range of sources in 2025, led by solar and then gas 20 April 2026  ](https://www.iea.org/news/global-energy-demand-growth-was-met-by-diverse-range-of-sources-in-2025-led-by-solar-and-then-gas)
 [ News  New podcast episode examines mounting disruptions in oil markets 17 April 2026  ](https://www.iea.org/news/new-podcast-episode-examines-mounting-disruptions-in-oil-markets)
-[ Artificial Intelligence  Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions 16 April 2026  ](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions)
-[ Energy security  IEA Executive Director named in Time 100 list of world’s most influential people for 2nd time 15 April 2026  ](https://www.iea.org/news/iea-executive-director-named-in-time-100-list-of-world-s-most-influential-people-for-2nd-time)
-<<<<<<< HEAD
-[ News  Joint Statement on 13 April by the Heads of the International Energy Agency, International Monetary Fund, and World Bank Group 13 April 2026  ](https://www.iea.org/news/joint-statement-on-13-april-by-the-heads-of-the-international-energy-agency-international-monetary-fund-and-world-bank-group)
-[ Energy Efficiency and Demand  IEA and Mexico host latest edition of Energy Efficiency Policy Training Week 13 April 2026  ](https://www.iea.org/news/iea-and-mexico-host-latest-edition-of-energy-efficiency-policy-training-week)
-[ News  Global shocks have driven a surge in energy policy activity and government spending 10 April 2026  ](https://www.iea.org/news/global-shocks-have-driven-a-surge-in-energy-policy-activity-and-government-spending)
-=======
->>>>>>> 7bac5f0 (update pipeline)
 Previous page Prev
   * 1
   * [2](https://www.iea.org/news?page=2)

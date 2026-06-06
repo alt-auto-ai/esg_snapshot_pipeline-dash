@@ -1,6 +1,9 @@
 [ Skip to main content ](https://www.pmc.gov.au/news#main-content)
 #  News
 Stay up-to-date on the latest departmental and ministerial developments through our news stories, social media updates and the Ministers' pages.
+Fuel Supply Taskforce
+### [Information and support on Australia’s fuel response](https://www.pmc.gov.au/news/information-and-support-australias-fuel-response)
+Friday 5 June 2026
 International forums
 ### [Australia participates in Women Deliver 2026](https://www.pmc.gov.au/news/australia-participates-women-deliver-2026)
 Tuesday 19 May 2026
@@ -34,6 +37,3 @@ Thursday 26 March 2026
 International engagement
 ### [Visit to Australia by Their Majesties The King and Queen of Denmark](https://www.pmc.gov.au/news/visit-australia-their-majesties-king-and-queen-denmark)
 Tuesday 24 March 2026
-Office for Women
-### [Advancing global gender equality](https://www.pmc.gov.au/news/advancing-global-gender-equality)
-Thursday 19 March 2026

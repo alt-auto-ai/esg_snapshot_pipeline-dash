@@ -7,9 +7,13 @@ toChoose end date
 Location
 metropolitanregional
 Topic
-Bushfire supportEventsFinanceGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStaff managementStarting a businessSustainabilityTourism industry
-18 May 2026 
+Bushfire supportEventsGrants and programsIndigenous businessInformation technologyJobs and employmentManufacturingMarketingNoticeRegulation and reformRisk and resilienceStarting a businessTourism industry
+2 Jun 2026 
 Manufacturing
+## [Changes to doing business from July 2026](https://business.vic.gov.au/news-and-updates/2026/changes-to-doing-business-from-july-2026)
+There are changes impacting small businesses from Wednesday 1 July 2026.
+2026May18
+Manufacturing 
 ## [Swap your shop to Aussie-made during Australian Made Week 2026](https://business.vic.gov.au/news-and-updates/2026/swap-your-shop-to-aussie-made-during-australian-made-week-2026)
 Hop onboard and become Australian Made certified.
 2026May18
@@ -56,10 +60,6 @@ Victoria comes alive with colour, flavour and celebration during Lunar New Year.
 Events 
 ## [Social Enterprise Day: business with a social purpose](https://business.vic.gov.au/news-and-updates/2025/social-enterprise-day-business-2025)
 Sally from Sheforce shares her story this Social Enterprise Day, Thursday 20 November 2025.
-2025November5
-Marketing 
-## [Celebrating the Victorian Aboriginal Business Awards 2025](https://business.vic.gov.au/news-and-updates/2025/celebrating-the-victorian-aboriginal-business-awards-2025)
-Recognising the achievements of First Nation businesses and entrepreneurs.
   * [1](https://business.vic.gov.au/news-and-updates)
   * [2](https://business.vic.gov.au/news-and-updates)
   * [3](https://business.vic.gov.au/news-and-updates)
@@ -68,7 +68,7 @@ Recognising the achievements of First Nation businesses and entrepreneurs.
   * [Next](https://business.vic.gov.au/news-and-updates)
   * [Last](https://business.vic.gov.au/news-and-updates)
 
-Page 1 of 8
+Page 1 of 5
 ## Stay updated
 Subscribe to Business Victoria newsletter and get the guidance, services and skills you need to successfully start, run and transform your business — delivered to
 [Back to top](https://business.vic.gov.au/news-and-updates)

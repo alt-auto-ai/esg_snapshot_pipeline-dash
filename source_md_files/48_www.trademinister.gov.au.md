@@ -10,19 +10,22 @@
 
 # Latest news
 ## Media releases
+  * [Travel to France](https://www.trademinister.gov.au/minister/don-farrell/media-release/travel-france)
+1 June 2026
+  * [Albanese Labor Government delivers additional diesel to Queensland](https://www.trademinister.gov.au/minister/don-farrell/media-release/albanese-labor-government-delivers-additional-diesel-queensland)
+30 May 2026
   * [Securing more fertiliser for Australian farmers](https://www.trademinister.gov.au/minister/don-farrell/media-release/securing-more-fertiliser-australian-farmers)
 27 May 2026
   * [Strategic reserve supporting Arafura final investment decision ](https://www.trademinister.gov.au/minister/don-farrell/media-release/strategic-reserve-supporting-arafura-final-investment-decision)
 21 May 2026
   * [Albanese Labor Government helps secure more jet fuel and fertiliser](https://www.trademinister.gov.au/minister/don-farrell/media-release/albanese-labor-government-helps-secure-more-jet-fuel-and-fertiliser)
 19 May 2026
-  * [Travel to Japan and China](https://www.trademinister.gov.au/minister/don-farrell/media-release/travel-japan-and-china)
-18 May 2026
-  * [Three additional shipments of diesel headed to South Australia, Tasmania, Victoria and Queensland](https://www.trademinister.gov.au/minister/don-farrell/media-release/three-additional-shipments-diesel-headed-south-australia-tasmania-victoria-and-queensland)
-15 May 2026
 
 
 ## Transcripts
+  * [Interview with Méabh McMahon, Euronews](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-meabh-mcmahon-euronews)
+Subjects: OECD Ministerial Council Meeting, Australia-EU Free Trade Agreement, Fuel Security
+3 June 2026
   * [Interview with Kieran Gilbert, Sky News](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-news-4)
 Subjects: Fuel supply, domestic coal and gas production, trade with Japan and China, energy transition, CGT changes.
 19 May 2026
@@ -35,9 +38,6 @@ Subjects: Royal Commission on Antisemitism and Social Cohesion, deepening econom
   * [Press conference](https://www.trademinister.gov.au/minister/don-farrell/transcript/press-conference)
 Subjects: Update on Australia’s fuel supply.
 24 April 2026
-  * [Interview with Kieran Gilbert, Sky Newsday](https://www.trademinister.gov.au/minister/don-farrell/transcript/interview-kieran-gilbert-sky-newsday-1)
-Subjects: Fuel supply relations with Singapore, Viva Energy refinery fire, US President Donald Trump’s comments towards Pope Leo.
-17 April 2026
 
 
 ## Speeches

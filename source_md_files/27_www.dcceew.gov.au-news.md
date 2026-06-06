@@ -8,8 +8,29 @@ See our latest news and announcements. Discover more about what we do.
   * Energy
 
 
-05 May 2026
+03 June 2026
 The Australian government is taking action to secure our fuel supply. 
+### [Massive seizure of illegal exotic cockroaches prompts warning](https://www.dcceew.gov.au/about/news/massive-seizure-illegal-exotic-cockroaches-prompts-warning)
+  * Media release
+  * Environment
+
+
+05 June 2026
+The Department of Climate Change, Energy, Environment and Water (DCCEEW) has issued a warning to…
+### [Goulburn Valley water makes a long journey with big results](https://www.dcceew.gov.au/cewh/resources-media/news/goulburn-valley-water-makes-long-journey)
+  * News
+  * Water
+
+
+04 June 2026
+Autumn fresh flows 1,500 km delivering benefits from Shepparton all the way to the Coorong.
+### [Our Capability Review released](https://www.dcceew.gov.au/about/news/capability-review-released)
+  * News
+  * About us
+
+
+02 June 2026
+Our Capability Review has been released.
 ### [Parks Australia prepares for H5 bird flu](https://www.dcceew.gov.au/about/news/parks-australia-prepares-for-h5-bird-flu)
   * News
   * Environment
@@ -38,27 +59,6 @@ The latest Quarterly Update of Australia’s National Greenhouse Gas Inventory: 
 
 28 May 2026
 The 2026-27 Default Market Offer includes an opt-in plan with a daily free-power period.
-### [Nature Repair Market gains momentum](https://www.dcceew.gov.au/about/news/nature-repair-market-gains-momentum)
-  * News
-  * Environment
-
-
-28 May 2026
-The second successful registered project under the Nature Repair Market signals continued growth.
-### [Register your interest to host public electric vehicle chargers](https://www.dcceew.gov.au/about/news/register-your-interest-host-public-electric-vehicle-chargers)
-  * News
-  * Climate change
-
-
-27 May 2026
-The Australian Government is supporting the automotive industry to deliver more public fast EV…
-### [Australia and Türkiye issue joint letter to Parties ahead of COP31](https://www.dcceew.gov.au/about/news/australia-turkiye-issue-joint-letter-parties-ahead-cop31)
-  * News
-  * Climate change
-
-
-27 May 2026
-Australia and Türkiye have issued a joint COP31 Presidency letter.
 [All news](https://www.dcceew.gov.au/about/news/all)
 ## Contact Us
 ### General enquiries

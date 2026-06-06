@@ -5,59 +5,38 @@ Filters
 ## Filters
 Reset
 Languages
-English(40)French(10)
+English(39)French(7)
 Other languages
 Event types
-Roundtable(10)Webinar(9)Workshop(9)Conference(5)Forum(5)Publication launch(2)Ministerial(1)
+Workshop(11)Webinar(10)Roundtable(9)Conference(5)Forum(4)Publication launch(2)
 Event format
-Hybrid(8)Virtual(7)In-person(6)
+Virtual(9)Hybrid(6)In-person(5)
 Event date
-Past events(847)Current events(35)Future events(40)
+Past events(868)Current events(37)Future events(39)
 Topics
-Environment(5)Economy(3)Science, technology and innovation(2)Regional, rural and urban development(2)Climate change(2)Digital(2)Finance and investment(2)Society(1)Taxation(1)Trade(1)Employment(1)
+Environment(4)Regional, rural and urban development(3)Climate change(3)Digital(2)Economy(2)Education and skills(2)Finance and investment(2)Governance(1)Science, technology and innovation(1)Society(1)Taxation(1)Trade(1)
 Policy issues Policy sub-issues Programmes Networks OECD Directorates
 Show results
 ## Filters
 Reset
 Languages
-English(40)French(10)
+English(39)French(7)
 Other languages
 Event types
-Roundtable(10)Webinar(9)Workshop(9)Conference(5)Forum(5)Publication launch(2)Ministerial(1)
+Workshop(11)Webinar(10)Roundtable(9)Conference(5)Forum(4)Publication launch(2)
 Event format
-Hybrid(8)Virtual(7)In-person(6)
+Virtual(9)Hybrid(6)In-person(5)
 Event date
-Past events(847)Current events(35)Future events(40)
+Past events(868)Current events(37)Future events(39)
 Topics
-Environment(5)Economy(3)Science, technology and innovation(2)Regional, rural and urban development(2)Climate change(2)Digital(2)Finance and investment(2)Society(1)Taxation(1)Trade(1)Employment(1)
+Environment(4)Regional, rural and urban development(3)Climate change(3)Digital(2)Economy(2)Education and skills(2)Finance and investment(2)Governance(1)Science, technology and innovation(1)Society(1)Taxation(1)Trade(1)
 Policy issues Policy sub-issues Programmes Networks OECD Directorates
-## 40 results
+## 39 results
 Order byMost relevant Most recent Oldest A-Z Z-A
   * List view
   * Grid view
 
 
-  * [International co-operation for the second quantum revolution](https://www.oecd.org/en/events/2026/06/international-co-operation-for-the-second-quantum-revolution.html)
-Webinar2-3 June 2026
-Co-organised with the support of Finland, Japan, Korea and the United Kingdom, this OECD Ministerial Council Meeting (MCM) 2026 side event will explore countries’ strategic visions for unlocking the transformative potential of quantum technologies while managing their risks, both domestically and through international co-operation.
-  * [Updates on Per- and Polyfluoroalkyl Substances Activities in Canada, China, the United Kingdom and the European Union](https://www.oecd.org/en/events/2026/06/updates-on-per-and-polyfluoroalkyl-substances-activities-in-canada-china-the-united-kingdom-and-the-european-union.html)
-Webinar2 June 2026
-Discover the latest developments in PFAS risk management initiatives across Canada, China, the United Kingdom and the European Union. This webinar will provide valuable insights into evolving policies and strategies shaping the global response to PFAS challenges.
-  * [OECD-ADBI Roundtable on Insurance and Retirement Savings in Asia 2026](https://www.oecd.org/en/events/2026/06/oecd-adbi-roundtable-on-insurance-and-retirement-savings-in-asia-2026.html)
-Roundtable2-3 June 2026
-Taking place over two days, the roundtable discussions will focus on the key developments and challenges facing insurance and retirement saving in the region.
-  * [International Economic Forum on Latin America and the Caribbean: Unlocking Opportunities in a Changing World](https://www.oecd.org/en/events/2026/06/2026-lac-forum.html)
-Forum2-3 June 2026
-The International Economic Forum on Latin America and the Caribbean is a yearly high-level event that brings together policy-makers, CEOs, and experts from Latin America, the Caribbean and Europe to discuss the region’s economic performance and share solutions to its development challenges. The Forum is co-organised by the OECD Development Centre,...
-  * [OECD Ministerial Council Meeting 2026](https://www.oecd.org/en/events/mcm.html)
-Ministerial3-4 June 2026
-The 2026 OECD Ministerial Council Meeting (MCM), chaired by Finland, with Korea and New Zealand as Vice-Chairs, will take place on 3 and 4 June 2026 at the OECD Headquarters in Paris.
-  * [Launch OECD Economic Outlook](https://www.oecd.org/en/events/2026/06/launch-oecd-economic-outlook.html)
-Publication launch3-4 June 2026
-The OECD Economic Outlook presents the OECD’s analysis of the major short-term global economic trends and prospects. The Outlook provides projections across a range of variables for all member countries, the euro area, and selected non-member countries.
-  * [Artificial Intelligence and Skills: What We Know So Far](https://www.oecd.org/en/events/2026/06/artificial-intelligence-and-skills-what-we-know-so-far.html)
-Webinar5-6 June 2026
-AI is often discussed in terms of technological breakthroughs, algorithms and investment figures. Yet as AI continues to transform workplaces, one of the decisive factors in whether economies will benefit from this shift may not be the technology itself, but the skills of the people using it. This webinar will explore what we know so far about...
   * [Innovation and Technological Change for Industrial Transition and Regional Development](https://www.oecd.org/en/events/2026/06/innovation-and-technological-change-for-industrial-transition-and-regional-development.html)
 Webinar10 June 2026
 The seminar will bring together participating regions from North America and the European Union for an interactive, peer-to-peer exchange. It will explore the strategies, policy frameworks and institutional mechanisms that regions can use to enable successful innovation, economic diversification and industrial transition.
@@ -67,6 +46,27 @@ The summer school aims to equip participants with the tools and practical knowle
   * [The OECD Productivity Manual at 25: Looking back, taking stock, and looking ahead](https://www.oecd.org/en/events/2026/06/the-oecd-productivity-manual-at-25-looking-back-taking-stock-and-looking-ahead.html)
 Workshop11-12 June 2026
 This 25th-anniversary event will revisit the vision that shaped the creation of the OECD Manual on Measuring Productivity and review its continued relevance to National Statistical Offices (NSOs), government agencies, international organisations, and researchers. 
+  * [Launch of the OECD Digital Government Outlook](https://www.oecd.org/en/events/2026/06/launch-of-the-oecd-digital-government-outlook.html)
+Publication launchWebinar15 June 2026
+This event explores how countries can move from strong digital foundations to delivering meaningful improvements for citizens and businesses.
+  * [GREEN Action Task Force 2026 Annual Meeting](https://www.oecd.org/en/events/2026/06/GREEN-Action-Task-Force-2026-Annual-Meeting.html)
+ConferenceWorkshop15-16 June 2026
+The GREEN Action Task Force 2026 Annual Meeting will be held on 15-16 June 2026 at the OECD Conference Centre in Paris.
+  * [Strengthening TVET systems: Evidence-based policymaking in a fragmented data landscape](https://www.oecd.org/en/events/2026/06/strengthening-tvet-systems-evidence-based-policymaking-in-a-fragmented-data-landscape.html)
+Webinar16 June 2026
+This webinar explores what TVET data is actually available globally, where the gaps are, and what it took to produce harmonised datasets across different country contexts. 
+  * [ From TVET data availability to data usability for policymaking](https://www.oecd.org/en/events/2026/06/-from-tvet-data-availability-to-data-usability-for-policymaking.html)
+Workshop17 June 2026
+The workshop will provide a technical and practice-oriented space for exchange and discussion around the use of harmonised TVET data for policymaking. 
+  * [OECD Tax and Development Days 2026](https://www.oecd.org/en/events/2026/06/oecd-tax-and-development-days-2026.html)
+Webinar17-18 June 2026
+The OECD Tax and Development Days 2026 will bring together policymakers, tax administrators, international and regional organisations, as well as representatives from business and civil society, to explore how stronger tax capacity, better tax policy and improved compliance can deliver greater development impact in developing countries.
+  * [AI capabilities and well-being](https://www.oecd.org/en/events/2026/06/ai-capabilities-and-well-being.html)
+Workshop17 June 2026
+Join this workshop that will gather experts from international organisations, academia and industry to discuss the definition and measurement of AI capabilities and well-being. 
+  * [ How is the climate alignment of finance evolving?](https://www.oecd.org/en/events/2026/06/how-is-the-climate-alignment-of-finance-evolving.html)
+Webinar18 June 2026
+This webinar explores aligning finance with net-zero emissions and climate resilience and how this supports reaching climate policy goals, increases economic resilience, fosters innovation, and enhances energy security. 
 
 
   *   * 1

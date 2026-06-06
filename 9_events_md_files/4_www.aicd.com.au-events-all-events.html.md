@@ -11,25 +11,17 @@ The 2026 Climate Governance Forum will equip directors and senior leaders with p
 [ Thu 19 Mar event Perth, WA 11:00am AWST Perths Biggest Boardroom Lunch ](https://www.aicd.com.au/events/all-events/wa/EVNT-001043.html)
 [ Thu 23 Apr event Hobart, TAS 5:15pm AEST Hobart Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/tas/EVNT-001109.html)
 [ Tue 28 Apr event Wollongong, NSW 5:15pm AEST Illawarra Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001104.html)
-[ Tue 12 May event 9:00am AEST Tech Governance Forum 2026 - Virtual ](https://www.aicd.com.au/events/all-events/online/EVNT-001055.html)
 [ Tue 19 May event Toowoomba, QLD 5:15pm AEST Toowoomba Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001100.html)
-<<<<<<< HEAD
-[ Thu 28 May event Morwell, VIC 5:15pm AEST Gippsland Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/vic/EVNT-001110.html)
-[ Thu 28 May event Brisbane, QLD 5:30pm AEST Brisbane Graduates Networking Evening ](https://www.aicd.com.au/events/all-events/qld/EVNT-001172.html)
-[ Tue 02 Jun event Surfers Paradise, QLD 5:15pm AEST Gold Coast Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001114.html)
-[ Tue 02 Jun event SYDNEY, NSW 5:15pm AEST Sydney Director Download: Executive Board Dynamics: When Challenge Meets Partnership ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001187.html)
-[ Wed 03 Jun event Launceston, TAS 12:15pm AEST Launceston Directors Briefing: Culture in the Boardroom ](https://www.aicd.com.au/events/all-events/tas/EVNT-001152.html)
-=======
-[ Tue 02 Jun event Surfers Paradise, QLD 5:15pm AEST Gold Coast Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/qld/EVNT-001114.html)
-[ Tue 02 Jun event SYDNEY, NSW 5:15pm AEST Sydney Director Download: Executive Board Dynamics: When Challenge Meets Partnership ](https://www.aicd.com.au/events/all-events/nsw/EVNT-001187.html)
-[ Wed 03 Jun event Launceston, TAS 12:15pm AEST Launceston Directors Briefing: Culture in the Boardroom ](https://www.aicd.com.au/events/all-events/tas/EVNT-001152.html)
-[ Thu 04 Jun event Brisbane, Qld 11:00am AEST Brisbanes Biggest Boardroom Lunch ](https://www.aicd.com.au/events/all-events/qld/EVNT-001061.html)
-[ Thu 04 Jun event DARWIN, NT 5:15pm ACST Darwin Directors Briefing: NFP Governance Performance Study ](https://www.aicd.com.au/events/all-events/nt/EVNT-001101.html)
->>>>>>> 7bac5f0 (update pipeline)
+[ Tue 09 Jun event 1:00pm AEST First Nations Director Update 2026: Online ](https://www.aicd.com.au/events/all-events/online/EVNT-001197.html)
+[ Wed 10 Jun event Barton, ACT 5:15pm AEST Canberra Directors Download - External Party Risk ](https://www.aicd.com.au/events/all-events/act/EVNT-001078.html)
+[ Thu 11 Jun event PERTH, WA 12:15pm AWST National Economic Update 2026 ](https://www.aicd.com.au/events/all-events/wa/EVNT-001072.html)
+[ Fri 12 Jun event MELBOURNE, VIC 12:00pm AEST VIC Womens Lunch 2026 ](https://www.aicd.com.au/events/all-events/vic/EVNT-001085.html)
+[ Tue 16 Jun event Sunshine Coast, QLD 11:45am AEST Sunshine Coast Directors Briefing: Governing Growth Without Losing Control ](https://www.aicd.com.au/events/all-events/qld/EVNT-001033.html)
+[ Tue 16 Jun event Perth, WA 12:00pm AWST Perth Fellows Lunch ](https://www.aicd.com.au/events/all-events/wa/EVNT-001142.html)
 No current events match your criteria. Please try again. 
 Australia’s leading magazine for directors 
 Delivering timely insights, expert perspectives and practical guidance for today’s boards. 
-[ View latest edition ](https://www.aicd.com.au/news-media/company-director-magazine/all-editions/april-2026-edition.html)
+[ View latest edition ](https://www.aicd.com.au/news-media/company-director-magazine/all-editions/june-2026-edition.html)
 This is 
 [ Access this content ](https://www.aicd.com.au/content/aicd.html)
 **Already a member?**

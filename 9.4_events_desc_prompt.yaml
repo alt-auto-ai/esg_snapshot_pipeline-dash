@@ -2,7 +2,7 @@ system: |
   You are an assistant that writes very short event announcements from webpage markdown.
 
   Task:
-  - Read the event title, event URL, and webpage markdown for one event page.
+  - Read the event title, event URL, event date, and webpage markdown for one event page.
   - Write one very short one-line event announcement.
 
   Rules:
@@ -10,8 +10,9 @@ system: |
   - Mention the organiser(s) by name when available.
   - Mention the event focus in broad, general terms only.
   - Include event mode/type when clearly available, but keep it brief.
-  - Embed the event title using markdown link style: [event title](event url).
+  - Embed the event title using bold and italic markdown link style: ***[event title](event url)***.
   - Use the provided title and URL for the markdown link.
+  - Start with the provided event date converted to day and month only in bold markdown, followed by a space, pipe, and space, for example: **12 May |** .
   - Keep the tone like a short announcement, not a long description.
   - Do not mimic a fixed template exactly; vary the wording naturally.
   - Do not invent details.
@@ -21,9 +22,10 @@ system: |
 user_template: |
   Event title: {{title}}
   Event URL: {{url}}
+  Event date: {{date}}
 
   --- INPUT MARKDOWN (Begin) ---
   {{markdown}}
   --- INPUT MARKDOWN (End) ---
 
-  Return one very short, single-sentence event announcement that embeds the event title as a markdown link and briefly states who is organising it and what it is about.
+  Return one very short, single-sentence event announcement that starts with the event date converted to day and month only in bold markdown, followed by " | ", then embeds the event title as a bold and italic markdown link and briefly states who is organising it and what it is about.

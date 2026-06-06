@@ -10,7 +10,13 @@ Filter by theme
 
 
 Filtered by:
-1 - 20 of 1155 media releases
+1 - 20 of 1158 media releases
+03 June 2026
+##  [Australian economy grew 0.3% in the March quarter](https://www.abs.gov.au/media-centre/media-releases/australian-economy-grew-03-march-quarter)
+02 June 2026
+##  [Dwelling approvals fall in April](https://www.abs.gov.au/media-centre/media-releases/dwelling-approvals-fall-april)
+02 June 2026
+##  [First trade deficit since December 2017](https://www.abs.gov.au/media-centre/media-releases/first-trade-deficit-december-2017)
 28 May 2026
 ##  [Transport costs drives fall in household spending](https://www.abs.gov.au/media-centre/media-releases/transport-costs-drives-fall-household-spending)
 28 May 2026
@@ -42,15 +48,9 @@ Filtered by:
 30 April 2026
 ##  [Import prices flat despite rising fuel prices](https://www.abs.gov.au/media-centre/media-releases/import-prices-flat-despite-rising-fuel-prices)
 29 April 2026
-##  [Drug offences down 15% in criminal courts](https://www.abs.gov.au/media-centre/media-releases/drug-offences-down-15-criminal-courts)
-29 April 2026
 ##  [CPI rose 4.6% in the year to March 2026](https://www.abs.gov.au/media-centre/media-releases/cpi-rose-46-year-march-2026)
 29 April 2026
-##  [8 things of interest about Australia’s overseas-born population](https://www.abs.gov.au/media-centre/media-releases/8-things-interest-about-australias-overseas-born-population)
-20 April 2026
-##  [ABS calls for Norfolk Islanders to fill 2026 Census jobs](https://www.abs.gov.au/media-centre/media-releases/abs-calls-norfolk-islanders-fill-2026-census-jobs)
-20 April 2026
-##  [ABS begins nationwide Field Officer recruitment for the 2026 Census](https://www.abs.gov.au/media-centre/media-releases/abs-begins-nationwide-field-officer-recruitment-2026-census)
+##  [Drug offences down 15% in criminal courts](https://www.abs.gov.au/media-centre/media-releases/drug-offences-down-15-criminal-courts)
 [ Back to top of the page ](https://www.abs.gov.au/media-centre/media-releases "Back to top")
 tiktoksocial-twitterarrow-downarrow-leftarrow-rightarrow-upcav-downcav-rightclosedownloadexternal-linkfeedbackfilemenusearchsign-checksign-infosign-warningsocial-facebooksocial-instagramtriangle-downlinkprintquotes-leftcalendardate-addquestionyoutubelinkedin2sphere
 Feedback

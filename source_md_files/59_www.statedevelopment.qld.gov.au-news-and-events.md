@@ -7,6 +7,21 @@
 We're thinking ahead and acting now to secure responsible economic development and liveable communities.
 Read more about our people, projects and places below.
 Select Region: All  Central Queensland Townsville Logan Outback Queensland Darling Downs Gold Coast Brisbane and Redland Ipswich Mackay–Whitsunday Sunshine Coast and Moreton Bay Wide Bay Far North Queensland Select Category: All  Aerospace and space Beef processing Biofutures Biomedical Brisbane 2032 Defence Economic Development Queensland Grants and funding Housing Hydrogen Hydrogen summit Infrastructure Local Government Manufacturing Media Release METS Planning Precincts Priority development areas Priority industries Queens Wharf Brisbane Queensland new-industry development strategy Recovery Renewables Resource recovery Residential developments State development areas Superyachts Women in renewables
+[More homes on the horizon for Gympie and the Fraser Coast](https://www.statedevelopment.qld.gov.au/news-and-events/more-homes-on-the-horizon-for-gympie-and-the-fraser-coast)
+Jun 4, 2026
+Real progress is underway across Gympie, Maryborough and Hervey Bay—with the foundations for new homes being built right now.
+  * [Housing](https://www.statedevelopment.qld.gov.au/news-and-events?category=housing)
+  * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
+  * [Planning](https://www.statedevelopment.qld.gov.au/news-and-events?category=planning)
+
+
+[Victoria Park is moving forward — and it’s about so much more than a stadium ](https://www.statedevelopment.qld.gov.au/news-and-events/victoria-park-is-moving-forward-and-its-about-so-much-more-than-a-stadium)
+Jun 2, 2026
+The next chapter is officially underway at Victoria Park, with initial works beginning on the new Brisbane Stadium.
+  * [Brisbane 2032](https://www.statedevelopment.qld.gov.au/news-and-events?category=brisbane2032)
+  * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
+
+
 [Planning ahead: How regional plans support thriving Queensland communities, and how you can be involved in shaping yours](https://www.statedevelopment.qld.gov.au/news-and-events/planning-ahead-how-regional-plans-support-thriving-queensland-communities,-and-how-you-can-be-involved-in-shaping-yours)
 May 12, 2026
 Queensland’s regional plans play an important role in shaping the places where Queenslanders live, work and play.
@@ -35,21 +50,6 @@ The Olympic and Paralympic Games occur in winter and summer, with unique venues 
 Apr 1, 2026
 Our regions are set to benefit from the Queensland Government’s investment ahead of the Games
   * [Brisbane 2032](https://www.statedevelopment.qld.gov.au/news-and-events?category=brisbane2032)
-
-
-[The start of every home ](https://www.statedevelopment.qld.gov.au/news-and-events/the-start-of-every-home)
-Feb 26, 2026
-Beneath your house, your street and your community is a carefully planned network of infrastructure that makes everyday life possible.
-  * [Housing](https://www.statedevelopment.qld.gov.au/news-and-events?category=housing)
-  * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
-  * [Planning](https://www.statedevelopment.qld.gov.au/news-and-events?category=planning)
-
-
-[Small projects, big impact: infrastructure helping build stronger Queensland communities](https://www.statedevelopment.qld.gov.au/news-and-events/small-projects-big-impact-infrastructure-helping-build-stronger-queensland-communities)
-Feb 20, 2026
-When we think of infrastructure, it’s easy to picture massive bridges, highways or stadiums. But across Queensland, it’s often the smaller projects delivered in partnership with local communities that create the most meaningful change.
-  * [Housing](https://www.statedevelopment.qld.gov.au/news-and-events?category=housing)
-  * [Infrastructure](https://www.statedevelopment.qld.gov.au/news-and-events?category=infrastructure)
 
 
   * [Prev](https://www.statedevelopment.qld.gov.au/news-and-events)

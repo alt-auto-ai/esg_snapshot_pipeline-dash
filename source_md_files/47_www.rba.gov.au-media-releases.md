@@ -2,6 +2,8 @@
   * [RSS Feed of Media Releases](https://www.rba.gov.au/rss/rss-cb-media-releases.xml)
 
 
+[ Payments System Board Update: June 2026 Meeting ](https://www.rba.gov.au/media-releases/2026/mr-26-14.html)
+4 June 2026 Media Release 2026-14
 [ RBA and DFCRC Release Findings From Project Acacia ](https://www.rba.gov.au/media-releases/2026/mr-26-13.html)
 18 May 2026 Media Release 2026-13
 [ Statement by the Monetary Policy Board: Monetary Policy Decision ](https://www.rba.gov.au/media-releases/2026/mr-26-12.html)

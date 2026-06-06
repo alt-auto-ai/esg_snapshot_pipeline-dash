@@ -1,9 +1,9 @@
 [ Skip to main content ](https://www.nacc.gov.au/news-and-media#main-content)
 # News and media releases
-Fast facts as at 27 May 2026
-26
+Fast facts as at 3 June 2026
+29
 Preliminary investigations underway
-33
+34
 Corruption investigations underway
 10
 Joint corruption investigations underway
@@ -11,9 +11,14 @@ Joint corruption investigations underway
 Matters before the court
 28
 Investigations by other agencies being overseen or monitored by the Commission
-2197
+2255
 Referrals received this financial year
-Displaying 1 - 12 of 143 results
+Displaying 1 - 12 of 144 results
+  * News
+
+
+[ Monthly update: June 2026 ](https://www.nacc.gov.au/news-and-media/monthly-update-june-2026)
+4 Jun 2026
   * Media Releases
 
 
@@ -69,8 +74,3 @@ Displaying 1 - 12 of 143 results
 
 [ From review to reform – strengthening capacities to counter corruption: COSP11 ](https://www.nacc.gov.au/news-and-media/review-reform-strengthening-capacities-counter-corruption-cosp11)
 30 Jan 2026
-  * News
-
-
-[ Monthly update: December 2025 ](https://www.nacc.gov.au/news-and-media/monthly-update-december-2025)
-10 Dec 2025

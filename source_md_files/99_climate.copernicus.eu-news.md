@@ -4,6 +4,10 @@ cross close
 [ Copernicus | Europe's eyes on Earth ](http://www.copernicus.eu/)
 #  News 
 Latest news on the Copernicus Climate Change Service
+4th June 2026
+### [New D-Day weather reconstruction highlights key driver of military success and security](https://climate.copernicus.eu/new-d-day-weather-reconstruction-highlights-key-driver-military-success-and-security)
+The Normandy landings of 6 June1944, known as D-Day, saw the land, air, and sea forces of the allied armies undertaking the largest amphibious invasion in military history. The operation, which went by the code name Operation Overlord, was initially planned for 5 June, but the weather forecast for that day predicted stormy conditions in the English Channel, causing the invasion to be postponed. 
+[ ](https://climate.copernicus.eu/new-d-day-weather-reconstruction-highlights-key-driver-military-success-and-security)
 27th May 2026
 ### [Full historical CARRA2 data release offers new insights into Arctic extremes](https://climate.copernicus.eu/full-historical-carra2-data-release-offers-new-insights-arctic-extremes)
 The Arctic is warming at more than twice the global average, making it an important region for monitoring climate change. To support better understanding of key regional processes and inform decision-making, the Copernicus Climate Change Service (C3S*) has released the full 40-year data series (1986-2025) from its second-generation Copernicus Arctic Regional Reanalysis – CARRA2, which is now a pan-Arctic regional reanalysis. 
@@ -40,10 +44,6 @@ he open data provided by the Copernicus Climate Change Service is behind a power
 ### [Sharp temperature contrasts seen in the Northern Hemisphere in January](https://climate.copernicus.eu/sharp-temperature-contrasts-seen-northern-hemisphere-january)
 Last month’s Climate Bulletin from the Copernicus Climate Change Service (C3S), which is implemented by the European Centre for Medium-Range Weather Forecasts (ECMWF), reported that December 2025 was the fifth-warmest December globally in the ERA5 dataset, while 2025 as a whole ranked as the third-warmest year on record. 
 [ ](https://climate.copernicus.eu/sharp-temperature-contrasts-seen-northern-hemisphere-january)
-10th February 2026
-### [The women leading science at ECMWF: Laurence Rouil, Director of CAMS](https://climate.copernicus.eu/women-leading-science-ecmwf-laurence-rouil-director-cams)
-The European Centre for Medium-Range Weather Forecasts (ECMWF) has a long-standing tradition of women in management positions. Every year, the Centre that operates the Copernicus Atmosphere Monitoring Service (CAMS) and the Copernicus Climate Change Service (C3S) pays tribute to the many women making the daily operations of this complex machine possible. 
-[ ](https://climate.copernicus.eu/women-leading-science-ecmwf-laurence-rouil-director-cams)
 ## Use of personal data and cookies
 We use cookies to operate our site, improve the user experience and site performance.
 [Settings](https://climate.copernicus.eu/news "Open consent dialog")

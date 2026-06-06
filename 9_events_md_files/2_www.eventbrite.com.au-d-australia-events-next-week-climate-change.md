@@ -13,445 +13,290 @@ Clear All
 (1)
 Next week
 Clear All
-<<<<<<< HEAD
-  * [](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-### [Climate Fresk Workshop](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-Tuesday at 5:15 PM
-Lane Cove · Lane Cove Library
+  * [](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+### [SIL Reform Unpacked: The new standards, requirements and audit pathway](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+Monday at 12:00 PM AEST
 Free
-Lane Cove Council
-2.4k followers
-_Save this event: Climate Fresk Workshop_ _Share this event: Climate Fresk Workshop_
-[](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-### [Climate Fresk Workshop](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-Tuesday at 5:15 PM
-Lane Cove · Lane Cove Library
-Free
-_Share this event: Climate Fresk Workshop_ _Save this event: Climate Fresk Workshop_
-  * [](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-### [Launceston Planetarium Shows - We Are Guardians](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-Fri, 5 June, 1:00 pm
-=======
-  * [](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
-### [The Scale Engine](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
-Tuesday at 10:00 AM AEST
-Free
-Basic Bananas
-709 followers
+Tania Gomez Consulting
+1.3k followers
 Promoted
-_Save this event: The Scale Engine_ _Share this event: The Scale Engine_
+_Save this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_ _Share this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_
  _Promoted event actions_
-[](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
-### [The Scale Engine](https://www.eventbrite.com.au/e/the-scale-engine-tickets-1989893276356?aff=ebdssbdestsearch)
-Tuesday at 10:00 AM AEST
+[](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+### [SIL Reform Unpacked: The new standards, requirements and audit pathway](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+Monday at 12:00 PM AEST
 Free
 Promoted
-_Share this event: The Scale Engine_ _Save this event: The Scale Engine_
+_Share this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_ _Save this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_
  _Promoted event actions_
-  * [](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-### [How to Take Charge of Your Debilitating Stress](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-Tuesday at 10:00 AM AEST
+  * [](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990861758111?aff=ebdssbdestsearch)
+### [How to Take Charge of Your Debilitating Stress](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990861758111?aff=ebdssbdestsearch)
+Wednesday at 6:00 PM AEST
 Free
 Promoted
 _Save this event: How to Take Charge of Your Debilitating Stress_ _Share this event: How to Take Charge of Your Debilitating Stress_
  _Promoted event actions_
-[](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-### [How to Take Charge of Your Debilitating Stress](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-Tuesday at 10:00 AM AEST
+[](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990861758111?aff=ebdssbdestsearch)
+### [How to Take Charge of Your Debilitating Stress](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990861758111?aff=ebdssbdestsearch)
+Wednesday at 6:00 PM AEST
 Free
 Promoted
 _Share this event: How to Take Charge of Your Debilitating Stress_ _Save this event: How to Take Charge of Your Debilitating Stress_
  _Promoted event actions_
-  * [](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-### [Climate Fresk Workshop](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-Tuesday at 5:15 PM
-Lane Cove · Lane Cove Library
-Free
-Lane Cove Council
-2.4k followers
-_Save this event: Climate Fresk Workshop_ _Share this event: Climate Fresk Workshop_
-[](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-### [Climate Fresk Workshop](https://www.eventbrite.com.au/e/climate-fresk-workshop-tickets-1987876683673?aff=ebdssbdestsearch)
-Tuesday at 5:15 PM
-Lane Cove · Lane Cove Library
-Free
-_Share this event: Climate Fresk Workshop_ _Save this event: Climate Fresk Workshop_
-  * [](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-### [Launceston Planetarium Shows - We Are Guardians](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-Friday at 1:00 PM
->>>>>>> 7bac5f0 (update pipeline)
-Invermay · Queen Victoria Museum at Inveresk
-From $0.00
-QVMAG
-1.4k followers
-_Save this event: Launceston Planetarium Shows - We Are Guardians_ _Share this event: Launceston Planetarium Shows - We Are Guardians_
-[](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-### [Launceston Planetarium Shows - We Are Guardians](https://www.eventbrite.com.au/e/launceston-planetarium-shows-we-are-guardians-tickets-1989892379674?aff=ebdssbdestsearch)
-<<<<<<< HEAD
-Fri, 5 June, 1:00 pm
-=======
-Friday at 1:00 PM
->>>>>>> 7bac5f0 (update pipeline)
-Invermay · Queen Victoria Museum at Inveresk
-From $0.00
-_Share this event: Launceston Planetarium Shows - We Are Guardians_ _Save this event: Launceston Planetarium Shows - We Are Guardians_
-View 10 similar results
   * Sales Ended
 Thursday at 9:00 AM
-Brisbane · Regus-Brisbane – Spaces Jubilee Place
-From $1,142.75
+Hobart · For more information on venue address, reach out to "eventbrite@mgaussie.com"
+From $648.27
 MG Aussie
-<<<<<<< HEAD
-436 followers
-=======
-437 followers
->>>>>>> 7bac5f0 (update pipeline)
-_Save this event: Change Management Practitioner: 2 Days Workshop in Brisbane_ _Share this event: Change Management Practitioner: 2 Days Workshop in Brisbane_
+451 followers
+_Save this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_ _Share this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_
 Sales Ended
 Thursday at 9:00 AM
-Brisbane · Regus-Brisbane – Spaces Jubilee Place
+Hobart · For more information on venue address, reach out to "eventbrite@mgaussie.com"
+From $648.27
+_Share this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_ _Save this event: Drive Change: 1 Day Sustainability & Climate Workshop in Hobart_
+  * Sales Ended
+Wednesday at 9:00 AM
+Darwin City · Regus-Darwin, 66 Smith Street
+From $648.27
+MG Aussie
+451 followers
+_Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_ _Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_
+Sales Ended
+Wednesday at 9:00 AM
+Darwin City · Regus-Darwin, 66 Smith Street
+From $648.27
+_Share this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_ _Save this event: Driving Successful Change Initiatives – 1 Day Workshop in Darwin_
+View 2 similar results
+  * Sales Ended
+Wednesday at 9:00 AM
+Balmain · Regus Balmain
+From $619.67
+MG Aussie
+451 followers
+_Save this event: Managing Change Effectively – 1 Day Workshop in Sydney_ _Share this event: Managing Change Effectively – 1 Day Workshop in Sydney_
+Sales Ended
+Wednesday at 9:00 AM
+Balmain · Regus Balmain
+From $619.67
+_Share this event: Managing Change Effectively – 1 Day Workshop in Sydney_ _Save this event: Managing Change Effectively – 1 Day Workshop in Sydney_
+View 3 similar results
+  * [](https://www.eventbrite.com.au/e/managing-personal-change-1-on-1-zoom-workshop-tickets-1432178557619?aff=ebdssbdestsearch)
+### [Managing Personal Change – 1-on-1 ZOOM Workshop](https://www.eventbrite.com.au/e/managing-personal-change-1-on-1-zoom-workshop-tickets-1432178557619?aff=ebdssbdestsearch)
+Wednesday at 9:00 AM
+Sydney · Sydney
+From $525.44
+Paramount Training & Development
+934 followers
+_Save this event: Managing Personal Change – 1-on-1 ZOOM Workshop_ _Share this event: Managing Personal Change – 1-on-1 ZOOM Workshop_
+[](https://www.eventbrite.com.au/e/managing-personal-change-1-on-1-zoom-workshop-tickets-1432178557619?aff=ebdssbdestsearch)
+### [Managing Personal Change – 1-on-1 ZOOM Workshop](https://www.eventbrite.com.au/e/managing-personal-change-1-on-1-zoom-workshop-tickets-1432178557619?aff=ebdssbdestsearch)
+Wednesday at 9:00 AM
+Sydney · Sydney
+From $525.44
+_Share this event: Managing Personal Change – 1-on-1 ZOOM Workshop_ _Save this event: Managing Personal Change – 1-on-1 ZOOM Workshop_
+  * Sales Ended
+Friday at 9:00 AM
+Melbourne · Regus 120 Collins Street
 From $1,142.75
-_Share this event: Change Management Practitioner: 2 Days Workshop in Brisbane_ _Save this event: Change Management Practitioner: 2 Days Workshop in Brisbane_
+MG Aussie
+451 followers
+_Save this event: Change Management Practitioner: 2 Days Workshop in Melbourne_ _Share this event: Change Management Practitioner: 2 Days Workshop in Melbourne_
+Sales Ended
+Friday at 9:00 AM
+Melbourne · Regus 120 Collins Street
+From $1,142.75
+_Share this event: Change Management Practitioner: 2 Days Workshop in Melbourne_ _Save this event: Change Management Practitioner: 2 Days Workshop in Melbourne_
+View 3 similar results
+  * [](https://www.eventbrite.com.au/e/dr-joe-dispenzas-change-your-mindcreate-new-results-henley-bch-jun26-tickets-1986300251522?aff=ebdssbdestsearch)
+### [Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26](https://www.eventbrite.com.au/e/dr-joe-dispenzas-change-your-mindcreate-new-results-henley-bch-jun26-tickets-1986300251522?aff=ebdssbdestsearch)
+Fri, 12 June, 4:00 pm
+Henley Beach · Ngutungka Henley
+From $795.45
+Sue Bromley
+102 followers
+_Save this event: Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26_ _Share this event: Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26_
+[](https://www.eventbrite.com.au/e/dr-joe-dispenzas-change-your-mindcreate-new-results-henley-bch-jun26-tickets-1986300251522?aff=ebdssbdestsearch)
+### [Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26](https://www.eventbrite.com.au/e/dr-joe-dispenzas-change-your-mindcreate-new-results-henley-bch-jun26-tickets-1986300251522?aff=ebdssbdestsearch)
+Fri, 12 June, 4:00 pm
+Henley Beach · Ngutungka Henley
+From $795.45
+_Share this event: Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26_ _Save this event: Dr. Joe Dispenza's CHANGE YOUR MIND…CREATE NEW RESULTS-Henley Bch-Jun26_
+  * [](https://www.eventbrite.com.au/e/ssn-2026-symposium-converging-crises-mental-wellbeing-and-home-tickets-1985341392549?aff=ebdssbdestsearch)
+### [SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"](https://www.eventbrite.com.au/e/ssn-2026-symposium-converging-crises-mental-wellbeing-and-home-tickets-1985341392549?aff=ebdssbdestsearch)
+Tuesday at 9:30 AM
+Melbourne · Deakin Downtown
+Free
+Deakin Science and Society Network
+352 followers
+_Save this event: SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"__Share this event: SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"_
+[](https://www.eventbrite.com.au/e/ssn-2026-symposium-converging-crises-mental-wellbeing-and-home-tickets-1985341392549?aff=ebdssbdestsearch)
+### [SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"](https://www.eventbrite.com.au/e/ssn-2026-symposium-converging-crises-mental-wellbeing-and-home-tickets-1985341392549?aff=ebdssbdestsearch)
+Tuesday at 9:30 AM
+Melbourne · Deakin Downtown
+Free
+_Share this event: SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"__Save this event: SSN 2026 Symposium "Converging Crises: Mental Wellbeing and Home"_
+  * Tuesday at 5:00 PM
+Parramatta · 119 Macquarie St
+Free
+Parramatta YCW
+10 followers
+_Save this event: Community Movie Nights: 9th June 'Asog' (Pride month special)__Share this event: Community Movie Nights: 9th June 'Asog' (Pride month special)_
+Tuesday at 5:00 PM
+Parramatta · 119 Macquarie St
+Free
+_Share this event: Community Movie Nights: 9th June 'Asog' (Pride month special)__Save this event: Community Movie Nights: 9th June 'Asog' (Pride month special)_
+  * Sales Ended
+Tuesday at 9:00 AM
+Adelaide · Regus-Adelaide, Spaces Wayville
+From $2,383.73
+MG Aussie
+451 followers
+_Save this event: Practical Change Management – 3 Day Workshop in Adelaide_ _Share this event: Practical Change Management – 3 Day Workshop in Adelaide_
+Sales Ended
+Tuesday at 9:00 AM
+Adelaide · Regus-Adelaide, Spaces Wayville
+From $2,383.73
+_Share this event: Practical Change Management – 3 Day Workshop in Adelaide_ _Save this event: Practical Change Management – 3 Day Workshop in Adelaide_
+View 2 similar results
+  * Sales Ended
+Friday at 9:00 AM
+Fortitude Valley · Regus-Brisbane – Spaces Jubilee Place
+From $810.27
+MG Aussie
+451 followers
+_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Brisbane_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Brisbane_
+Sales Ended
+Friday at 9:00 AM
+Fortitude Valley · Regus-Brisbane – Spaces Jubilee Place
+From $810.27
+_Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Brisbane_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Brisbane_
+  * Monday at 6:00 PM
+Exmouth · Froth Craft Brewery Exmouth / Restaurant / Entertainment Venue
+Free
+Divers for Climate
+58 followers
+_Save this event: Divers for Climate Presents - World Ocean Day Fiesta at Froth_ _Share this event: Divers for Climate Presents - World Ocean Day Fiesta at Froth_
+Monday at 6:00 PM
+Exmouth · Froth Craft Brewery Exmouth / Restaurant / Entertainment Venue
+Free
+_Share this event: Divers for Climate Presents - World Ocean Day Fiesta at Froth_ _Save this event: Divers for Climate Presents - World Ocean Day Fiesta at Froth_
+  * Sales Ended
+Sat, 13 June, 9:00 am
+Surfers Paradise · Regus Surfers Paradise
+From $810.27
+MG Aussie
+451 followers
+_Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Gold Coast_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Gold Coast_
+Sales Ended
+Sat, 13 June, 9:00 am
+Surfers Paradise · Regus Surfers Paradise
+From $810.27
+_Share this event: Leading Successful Change Projects – 1 Day Leadership Course in Gold Coast_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Course in Gold Coast_
+View 2 similar results
+  * Sales Ended
+Thursday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
+From $520.15
+MG Aussie
+451 followers
+_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Canberra_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Canberra_
+Sales Ended
+Thursday at 9:00 AM
+Canberra · Regus - Canberra, Gateway Business Center
+From $520.15
+_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Canberra_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Canberra_
 View 4 similar results
-<<<<<<< HEAD
-  * [](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-### [Making the switch to an EV in Yarra: your questions answered](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-Thu, 4 June, 6:30 pm
-Abbotsford · Djerring Centre
+  * [](https://www.eventbrite.com.au/e/rfds-change-the-game-meetup-tickets-1989268236846?aff=ebdssbdestsearch)
+### [RFDS Change the Game Meetup](https://www.eventbrite.com.au/e/rfds-change-the-game-meetup-tickets-1989268236846?aff=ebdssbdestsearch)
+Thursday at 4:00 PM
+Fortitude Valley · Netherworld
 Free
-Yarra City Council
-1.1k followers
-_Save this event: Making the switch to an EV in Yarra: your questions answered_ _Share this event: Making the switch to an EV in Yarra: your questions answered_
-[](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-### [Making the switch to an EV in Yarra: your questions answered](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-Thu, 4 June, 6:30 pm
-Abbotsford · Djerring Centre
+_Save this event: RFDS Change the Game Meetup_ _Share this event: RFDS Change the Game Meetup_
+[](https://www.eventbrite.com.au/e/rfds-change-the-game-meetup-tickets-1989268236846?aff=ebdssbdestsearch)
+### [RFDS Change the Game Meetup](https://www.eventbrite.com.au/e/rfds-change-the-game-meetup-tickets-1989268236846?aff=ebdssbdestsearch)
+Thursday at 4:00 PM
+Fortitude Valley · Netherworld
 Free
-_Share this event: Making the switch to an EV in Yarra: your questions answered_ _Save this event: Making the switch to an EV in Yarra: your questions answered_
-  * [](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-### [Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-Tuesday at 2:00 PM
-Saint Lucia · Room 219, Sir Llew Edwards Building (14)
-Free
-_Save this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_ _Share this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_
-[](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-### [Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-Tuesday at 2:00 PM
-Saint Lucia · Room 219, Sir Llew Edwards Building (14)
-Free
-_Share this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_ _Save this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_
-=======
-  * [](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-### [Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-Tuesday at 2:00 PM
-Saint Lucia · Room 219, Sir Llew Edwards Building (14)
-Free
-_Save this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_ _Share this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_
-[](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-### [Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets](https://www.eventbrite.com.au/e/centring-local-and-indigenous-peoples-rights-in-carbon-offset-markets-tickets-1988558214149?aff=ebdssbdestsearch)
-Tuesday at 2:00 PM
-Saint Lucia · Room 219, Sir Llew Edwards Building (14)
-Free
-_Share this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_ _Save this event: Centring Local and Indigenous Peoples’ Rights in Carbon Offset Markets_
-  * [](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-### [Making the switch to an EV in Yarra: your questions answered](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-Thursday at 6:30 PM
-Abbotsford · Djerring Centre
-Free
-Yarra City Council
-1.1k followers
-_Save this event: Making the switch to an EV in Yarra: your questions answered_ _Share this event: Making the switch to an EV in Yarra: your questions answered_
-[](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-### [Making the switch to an EV in Yarra: your questions answered](https://www.eventbrite.com.au/e/making-the-switch-to-an-ev-in-yarra-your-questions-answered-tickets-1988295221531?aff=ebdssbdestsearch)
-Thursday at 6:30 PM
-Abbotsford · Djerring Centre
-Free
-_Share this event: Making the switch to an EV in Yarra: your questions answered_ _Save this event: Making the switch to an EV in Yarra: your questions answered_
->>>>>>> 7bac5f0 (update pipeline)
-  * [](https://www.eventbrite.com.au/e/carbon-farming-explained-waite-wednesday-tickets-1988288634830?aff=ebdssbdestsearch)
-### [Carbon farming explained - Waite - Wednesday](https://www.eventbrite.com.au/e/carbon-farming-explained-waite-wednesday-tickets-1988288634830?aff=ebdssbdestsearch)
-Wednesday at 9:30 AM
-Urrbrae · Charles Hawker Building
-Free
-Northern and Yorke Landscape Board
-113 followers
-_Save this event: Carbon farming explained - Waite - Wednesday_ _Share this event: Carbon farming explained - Waite - Wednesday_
-[](https://www.eventbrite.com.au/e/carbon-farming-explained-waite-wednesday-tickets-1988288634830?aff=ebdssbdestsearch)
-### [Carbon farming explained - Waite - Wednesday](https://www.eventbrite.com.au/e/carbon-farming-explained-waite-wednesday-tickets-1988288634830?aff=ebdssbdestsearch)
-Wednesday at 9:30 AM
-Urrbrae · Charles Hawker Building
-Free
-_Share this event: Carbon farming explained - Waite - Wednesday_ _Save this event: Carbon farming explained - Waite - Wednesday_
-View 2 similar results
-<<<<<<< HEAD
-  * Thu, 4 June, 5:30 pm
-=======
-  * Thursday at 5:30 PM
->>>>>>> 7bac5f0 (update pipeline)
-Glenunga · Glenunga Hub
-Free
-Persian Cultural Association of South Australia
-125 followers
-_Save this event: Migration Law Updates: Key Policy Changes and Their Impact_ _Share this event: Migration Law Updates: Key Policy Changes and Their Impact_
-<<<<<<< HEAD
-Thu, 4 June, 5:30 pm
-=======
-Thursday at 5:30 PM
->>>>>>> 7bac5f0 (update pipeline)
-Glenunga · Glenunga Hub
-Free
-_Share this event: Migration Law Updates: Key Policy Changes and Their Impact_ _Save this event: Migration Law Updates: Key Policy Changes and Their Impact_
-  * [](https://www.eventbrite.com.au/e/segment-fb-accommodationmulti-site-locations-with-guest-candice-kiss-tickets-1984025052340?aff=ebdssbdestsearch)
-### [Segment: F&B/ Accommodation/Multi Site Locations with Guest Candice Kiss](https://www.eventbrite.com.au/e/segment-fb-accommodationmulti-site-locations-with-guest-candice-kiss-tickets-1984025052340?aff=ebdssbdestsearch)
-Wednesday at 12:00 PM
-Brisbane City · Stilts Dining
-From $291.03
-Connection Central
-34 followers
-_Save this event: Segment: F &B/ Accommodation/Multi Site Locations with Guest Candice Kiss_ _Share this event: Segment: F &B/ Accommodation/Multi Site Locations with Guest Candice Kiss_
-[](https://www.eventbrite.com.au/e/segment-fb-accommodationmulti-site-locations-with-guest-candice-kiss-tickets-1984025052340?aff=ebdssbdestsearch)
-### [Segment: F&B/ Accommodation/Multi Site Locations with Guest Candice Kiss](https://www.eventbrite.com.au/e/segment-fb-accommodationmulti-site-locations-with-guest-candice-kiss-tickets-1984025052340?aff=ebdssbdestsearch)
-Wednesday at 12:00 PM
-Brisbane City · Stilts Dining
-From $291.03
-_Share this event: Segment: F &B/ Accommodation/Multi Site Locations with Guest Candice Kiss_ _Save this event: Segment: F &B/ Accommodation/Multi Site Locations with Guest Candice Kiss_
-  * Sales Ended
-Tuesday at 9:00 AM
-Pialligo · Regus - Canberra, Gateway Business Center
-From $648.27
-MG Aussie
-<<<<<<< HEAD
-436 followers
-=======
-437 followers
->>>>>>> 7bac5f0 (update pipeline)
-_Save this event: Lead Digital Change: 1 Day Public Sector Transformation Workshop, Canberra_ _Share this event: Lead Digital Change: 1 Day Public Sector Transformation Workshop, Canberra_
-Sales Ended
-Tuesday at 9:00 AM
-Pialligo · Regus - Canberra, Gateway Business Center
-From $648.27
-_Share this event: Lead Digital Change: 1 Day Public Sector Transformation Workshop, Canberra_ _Save this event: Lead Digital Change: 1 Day Public Sector Transformation Workshop, Canberra_
-  * [](https://www.eventbrite.com.au/e/embracing-change-with-certainty-coffee-catch-up-knox-victoria-tickets-1989878490130?aff=ebdssbdestsearch)
-### [Embracing Change with Certainty Coffee Catch up - Knox Victoria](https://www.eventbrite.com.au/e/embracing-change-with-certainty-coffee-catch-up-knox-victoria-tickets-1989878490130?aff=ebdssbdestsearch)
-Wednesday at 10:00 AM
-Wantirna South · Billy's Kitchen Knox Ozone
-From $5.94
-ISOARe with Jacqui G
-209 followers
-_Save this event: Embracing Change with Certainty Coffee Catch up - Knox Victoria_ _Share this event: Embracing Change with Certainty Coffee Catch up - Knox Victoria_
-[](https://www.eventbrite.com.au/e/embracing-change-with-certainty-coffee-catch-up-knox-victoria-tickets-1989878490130?aff=ebdssbdestsearch)
-### [Embracing Change with Certainty Coffee Catch up - Knox Victoria](https://www.eventbrite.com.au/e/embracing-change-with-certainty-coffee-catch-up-knox-victoria-tickets-1989878490130?aff=ebdssbdestsearch)
-Wednesday at 10:00 AM
-Wantirna South · Billy's Kitchen Knox Ozone
-From $5.94
-_Share this event: Embracing Change with Certainty Coffee Catch up - Knox Victoria_ _Save this event: Embracing Change with Certainty Coffee Catch up - Knox Victoria_
-  * Sales Ended
-<<<<<<< HEAD
-Fri, 5 June, 9:00 am
-Perth · Regus St Martins Tower
-From $810.27
-MG Aussie
-436 followers
-_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_
-Sales Ended
-Fri, 5 June, 9:00 am
-=======
-Friday at 9:00 AM
-Perth · Regus St Martins Tower
-From $810.27
-MG Aussie
-437 followers
-_Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_ _Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_
-Sales Ended
-Friday at 9:00 AM
->>>>>>> 7bac5f0 (update pipeline)
-Perth · Regus St Martins Tower
-From $810.27
-_Share this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_ _Save this event: Leading Successful Change Projects – 1 Day Leadership Workshop in Perth_
-View 2 similar results
-  * [](https://www.eventbrite.com.au/e/sustainability-business-live-tickets-1978096291256?aff=ebdssbdestsearch)
-### [Sustainability Business Live](https://www.eventbrite.com.au/e/sustainability-business-live-tickets-1978096291256?aff=ebdssbdestsearch)
-Wednesday at 9:00 AM
-South Wharf · Melbourne Convention and Exhibition Centre (MCEC)
-From $1,271.93
-_Save this event: Sustainability Business Live_ _Share this event: Sustainability Business Live_
-[](https://www.eventbrite.com.au/e/sustainability-business-live-tickets-1978096291256?aff=ebdssbdestsearch)
-### [Sustainability Business Live](https://www.eventbrite.com.au/e/sustainability-business-live-tickets-1978096291256?aff=ebdssbdestsearch)
-Wednesday at 9:00 AM
-South Wharf · Melbourne Convention and Exhibition Centre (MCEC)
-From $1,271.93
-_Share this event: Sustainability Business Live_ _Save this event: Sustainability Business Live_
-  * Sales Ended
-<<<<<<< HEAD
-Fri, 5 June, 9:00 am
-Darwin · Regus-Darwin, 66 Smith Street
-From $533.91
-MG Aussie
-436 followers
-_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_
-Sales Ended
-Fri, 5 June, 9:00 am
-=======
-Friday at 9:00 AM
-Darwin · Regus-Darwin, 66 Smith Street
-From $533.91
-MG Aussie
-437 followers
-_Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_ _Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_
-Sales Ended
-Friday at 9:00 AM
->>>>>>> 7bac5f0 (update pipeline)
-Darwin · Regus-Darwin, 66 Smith Street
-From $533.91
-_Share this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_ _Save this event: Australian Healthcare Changes & Opportunities: 1 Day Session in Darwin_
-View 2 similar results
-<<<<<<< HEAD
-  * [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-Sunday at 7:00 PM + 5 more
-Sydney · King Street Wharf 3
-From $62.17
-Inception Cruises
-268 followers
-_Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_ _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_
-[](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-Sunday at 7:00 PM + 5 more
-Sydney · King Street Wharf 3
-From $62.17
-_Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_ _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_
-  * [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1987588673226?aff=ebdssbdestsearch)
-### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1987588673226?aff=ebdssbdestsearch)
-=======
+_Share this event: RFDS Change the Game Meetup_ _Save this event: RFDS Change the Game Meetup_
   * [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1985547156996?aff=ebdssbdestsearch)
 ### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-Tomorrow at 7:00 PM + 5 more
+Monday at 7:00 PM + 6 more
 Sydney · King Street Wharf 3
 From $62.17
 Inception Cruises
-269 followers
+275 followers
 _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_ _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_
 [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1985547156996?aff=ebdssbdestsearch)
 ### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1985547156996?aff=ebdssbdestsearch)
-Tomorrow at 7:00 PM + 5 more
+Monday at 7:00 PM + 6 more
 Sydney · King Street Wharf 3
 From $62.17
 _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_ _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_
+  * [](https://www.eventbrite.com.au/e/breaking-ground-rehydrating-tallering-views-tickets-1988975881403?aff=ebdssbdestsearch)
+### [Breaking Ground - Rehydrating Tallering Views](https://www.eventbrite.com.au/e/breaking-ground-rehydrating-tallering-views-tickets-1988975881403?aff=ebdssbdestsearch)
+Friday at 10:00 AM
+Nunierra · Urawa Rd, Nunierra
+Free
+NACC NRM
+35 followers
+_Save this event: Breaking Ground - Rehydrating Tallering Views_ _Share this event: Breaking Ground - Rehydrating Tallering Views_
+[](https://www.eventbrite.com.au/e/breaking-ground-rehydrating-tallering-views-tickets-1988975881403?aff=ebdssbdestsearch)
+### [Breaking Ground - Rehydrating Tallering Views](https://www.eventbrite.com.au/e/breaking-ground-rehydrating-tallering-views-tickets-1988975881403?aff=ebdssbdestsearch)
+Friday at 10:00 AM
+Nunierra · Urawa Rd, Nunierra
+Free
+_Share this event: Breaking Ground - Rehydrating Tallering Views_ _Save this event: Breaking Ground - Rehydrating Tallering Views_
   * [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1987588673226?aff=ebdssbdestsearch)
 ### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1987588673226?aff=ebdssbdestsearch)
->>>>>>> 7bac5f0 (update pipeline)
-Wednesday at 7:00 PM + 5 more
+Monday at 7:00 PM + 5 more
 Sydney · King Street Wharf 3
 From $30.35
 Discounted Vivid Sydney Cruises
-<<<<<<< HEAD
-40 followers
-_Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_ _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_
-[](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1987588673226?aff=ebdssbdestsearch)
-### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-drone-shows-lights-tickets-1987588673226?aff=ebdssbdestsearch)
-Wednesday at 7:00 PM + 5 more
-Sydney · King Street Wharf 3
-From $30.35
-_Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_ _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Drone Shows, Lights_
-=======
-42 followers
+50 followers
 _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_ _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_
 [](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1987588673226?aff=ebdssbdestsearch)
 ### [Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights](https://www.eventbrite.com.au/e/vivid-sydney-cruise-2026-drinks-food-fireworks-lights-tickets-1987588673226?aff=ebdssbdestsearch)
-Wednesday at 7:00 PM + 5 more
+Monday at 7:00 PM + 5 more
 Sydney · King Street Wharf 3
 From $30.35
 _Share this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_ _Save this event: Vivid Sydney Cruise 2026 | Drinks & Food - Fireworks, Lights_
->>>>>>> 7bac5f0 (update pipeline)
-  * [](https://www.eventbrite.com.au/e/agforce-swq-vegetation-fire-mapping-cooladdi-tickets-1988453356517?aff=ebdssbdestsearch)
-### [AgForce SWQ: Vegetation, Fire, Mapping Cooladdi](https://www.eventbrite.com.au/e/agforce-swq-vegetation-fire-mapping-cooladdi-tickets-1988453356517?aff=ebdssbdestsearch)
-Thu, 28 May, 9:00 am
-Cooladdi · Cooladdi Community Hall
+  * [](https://www.eventbrite.com.au/e/world-environment-day-greenwich-tickets-1988608762340?aff=ebdssbdestsearch)
+### [World Environment Day - Greenwich](https://www.eventbrite.com.au/e/world-environment-day-greenwich-tickets-1988608762340?aff=ebdssbdestsearch)
+Tomorrow at 9:00 AM
+Wollstonecraft · Greendale Park
 Free
-AgForce
-602 followers
-_Save this event: AgForce SWQ: Vegetation, Fire, Mapping Cooladdi_ _Share this event: AgForce SWQ: Vegetation, Fire, Mapping Cooladdi_
-[](https://www.eventbrite.com.au/e/agforce-swq-vegetation-fire-mapping-cooladdi-tickets-1988453356517?aff=ebdssbdestsearch)
-### [AgForce SWQ: Vegetation, Fire, Mapping Cooladdi](https://www.eventbrite.com.au/e/agforce-swq-vegetation-fire-mapping-cooladdi-tickets-1988453356517?aff=ebdssbdestsearch)
-Thu, 28 May, 9:00 am
-Cooladdi · Cooladdi Community Hall
+Lane Cove Council
+2.4k followers
+_Save this event: World Environment Day - Greenwich_ _Share this event: World Environment Day - Greenwich_
+[](https://www.eventbrite.com.au/e/world-environment-day-greenwich-tickets-1988608762340?aff=ebdssbdestsearch)
+### [World Environment Day - Greenwich](https://www.eventbrite.com.au/e/world-environment-day-greenwich-tickets-1988608762340?aff=ebdssbdestsearch)
+Tomorrow at 9:00 AM
+Wollstonecraft · Greendale Park
 Free
-_Share this event: AgForce SWQ: Vegetation, Fire, Mapping Cooladdi_ _Save this event: AgForce SWQ: Vegetation, Fire, Mapping Cooladdi_
-  * [](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353543678?aff=ebdssbdestsearch)
-### [Brisbane Stepping Forward Session: Stages of Change for Families](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353543678?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Windsor · Avive Clinic Brisbane
+_Share this event: World Environment Day - Greenwich_ _Save this event: World Environment Day - Greenwich_
+  * [](https://www.eventbrite.com.au/e/adelaide-wine-festival-winter-show-2026-tickets-1984508666844?aff=ebdssbdestsearch)
+### [ADELAIDE WINE FESTIVAL - WINTER SHOW 2026](https://www.eventbrite.com.au/e/adelaide-wine-festival-winter-show-2026-tickets-1984508666844?aff=ebdssbdestsearch)
+Tomorrow at 11:00 AM
+Adelaide · Adelaide Central Market
+From $54.24
+Adelaide Wine Festival
+293 followers
+_Save this event: ADELAIDE WINE FESTIVAL - WINTER SHOW 2026_ _Share this event: ADELAIDE WINE FESTIVAL - WINTER SHOW 2026_
+[](https://www.eventbrite.com.au/e/adelaide-wine-festival-winter-show-2026-tickets-1984508666844?aff=ebdssbdestsearch)
+### [ADELAIDE WINE FESTIVAL - WINTER SHOW 2026](https://www.eventbrite.com.au/e/adelaide-wine-festival-winter-show-2026-tickets-1984508666844?aff=ebdssbdestsearch)
+Tomorrow at 11:00 AM
+Adelaide · Adelaide Central Market
+From $54.24
+_Share this event: ADELAIDE WINE FESTIVAL - WINTER SHOW 2026_ _Save this event: ADELAIDE WINE FESTIVAL - WINTER SHOW 2026_
+  * Fri, 12 June, 4:45 pm
+Sydney · The Shakespeare Room
 Free
-Family Drug Support
-<<<<<<< HEAD
-776 followers
-=======
-778 followers
->>>>>>> 7bac5f0 (update pipeline)
-_Save this event: Brisbane Stepping Forward Session: Stages of Change for Families_ _Share this event: Brisbane Stepping Forward Session: Stages of Change for Families_
-[](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353543678?aff=ebdssbdestsearch)
-### [Brisbane Stepping Forward Session: Stages of Change for Families](https://www.eventbrite.com.au/e/brisbane-stepping-forward-session-stages-of-change-for-families-tickets-1977353543678?aff=ebdssbdestsearch)
-Tuesday at 6:00 PM
-Windsor · Avive Clinic Brisbane
+_Save this event: The Door: On Choice, Courage, and the Cost of Change.__Share this event: The Door: On Choice, Courage, and the Cost of Change._
+Fri, 12 June, 4:45 pm
+Sydney · The Shakespeare Room
 Free
-_Share this event: Brisbane Stepping Forward Session: Stages of Change for Families_ _Save this event: Brisbane Stepping Forward Session: Stages of Change for Families_
-  * Sales Ended
-[](https://www.eventbrite.com.au/e/advanced-leadership-skills-2-day-workshop-brisbane-tickets-133187014947?aff=ebdssbdestsearch)
-### [Advanced Leadership Skills - 2 Day Workshop, Brisbane](https://www.eventbrite.com.au/e/advanced-leadership-skills-2-day-workshop-brisbane-tickets-133187014947?aff=ebdssbdestsearch)
-Tuesday at 9:00 AM
-Brisbane City · Karstens Brisbane
-From $1,590.00
-Aptitude Management
-139 followers
-_Save this event: Advanced Leadership Skills - 2 Day Workshop, Brisbane_ _Share this event: Advanced Leadership Skills - 2 Day Workshop, Brisbane_
-Sales Ended
-[](https://www.eventbrite.com.au/e/advanced-leadership-skills-2-day-workshop-brisbane-tickets-133187014947?aff=ebdssbdestsearch)
-### [Advanced Leadership Skills - 2 Day Workshop, Brisbane](https://www.eventbrite.com.au/e/advanced-leadership-skills-2-day-workshop-brisbane-tickets-133187014947?aff=ebdssbdestsearch)
-Tuesday at 9:00 AM
-Brisbane City · Karstens Brisbane
-From $1,590.00
-_Share this event: Advanced Leadership Skills - 2 Day Workshop, Brisbane_ _Save this event: Advanced Leadership Skills - 2 Day Workshop, Brisbane_
-  * Sales Ended
-<<<<<<< HEAD
-Thursday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $2,383.73
-MG Aussie
-436 followers
-_Save this event: Practical Change Management – 3 Day Workshop in Geelong_ _Share this event: Practical Change Management – 3 Day Workshop in Geelong_
-Sales Ended
-Thursday at 9:00 AM
-Melbourne · Regus 120 Collins Street
-From $2,383.73
-_Share this event: Practical Change Management – 3 Day Workshop in Geelong_ _Save this event: Practical Change Management – 3 Day Workshop in Geelong_
-=======
-Wednesday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $2,383.73
-MG Aussie
-437 followers
-_Save this event: Practical Change Management – 3 Day Workshop in Wollongong_ _Share this event: Practical Change Management – 3 Day Workshop in Wollongong_
-Sales Ended
-Wednesday at 9:00 AM
-Wollongong · Regus Burelli Street
-From $2,383.73
-_Share this event: Practical Change Management – 3 Day Workshop in Wollongong_ _Save this event: Practical Change Management – 3 Day Workshop in Wollongong_
->>>>>>> 7bac5f0 (update pipeline)
-View 4 similar results
-  * [](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-Monday at 7:00 PM
-Northcote · Northcote
-From $30.00
-International College of Meditation & Healing
-70 followers
-_Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
-[](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-### [Gain Freedom by Changing your Mindset (Metaphysics Class)](https://www.eventbrite.com.au/e/gain-freedom-by-changing-your-mindset-metaphysics-class-tickets-438763642867?aff=ebdssbdestsearch)
-Monday at 7:00 PM
-Northcote · Northcote
-From $30.00
-_Share this event: Gain Freedom by Changing your Mindset (Metaphysics Class)__Save this event: Gain Freedom by Changing your Mindset (Metaphysics Class)_
+_Share this event: The Door: On Choice, Courage, and the Cost of Change.__Save this event: The Door: On Choice, Courage, and the Cost of Change._
 
 
 View map
@@ -459,51 +304,42 @@ View map
 [Things to do in Melbourne](https://www.eventbrite.com.au/ttd/australia--melbourne/)[](https://www.eventbrite.com.au/ttd/australia--melbourne/)
 [Things to do in Sydney](https://www.eventbrite.com.au/ttd/australia--sydney/)[](https://www.eventbrite.com.au/ttd/australia--sydney/)
 [Things to do in Perth](https://www.eventbrite.com.au/ttd/australia--perth--4807/)[](https://www.eventbrite.com.au/ttd/australia--perth--4807/)
-[Things to do in Wollongong](https://www.eventbrite.com.au/ttd/australia--wollongong/)[](https://www.eventbrite.com.au/ttd/australia--wollongong/)
 [Things to do in Adelaide](https://www.eventbrite.com.au/ttd/australia--adelaide/)[](https://www.eventbrite.com.au/ttd/australia--adelaide/)
+[Things to do in Wollongong](https://www.eventbrite.com.au/ttd/australia--wollongong/)[](https://www.eventbrite.com.au/ttd/australia--wollongong/)
 [Things to do in Surfers Paradise](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)[](https://www.eventbrite.com.au/ttd/australia--surfers-paradise/)
 [Things to do in Wayville](https://www.eventbrite.com.au/ttd/australia--wayville/)[](https://www.eventbrite.com.au/ttd/australia--wayville/)
 [Things to do in Brisbane City](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)[](https://www.eventbrite.com.au/ttd/australia--brisbane-city/)
 [Things to do in Darwin City](https://www.eventbrite.com.au/ttd/australia--darwin-city/)[](https://www.eventbrite.com.au/ttd/australia--darwin-city/)
-[Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
 [Things to do in Fortitude Valley](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)[](https://www.eventbrite.com.au/ttd/australia--fortitude-valley/)
+[Things to do in Newcastle East](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)[](https://www.eventbrite.com.au/ttd/australia--newcastle-east/)
 [Things to do in Symonston](https://www.eventbrite.com.au/ttd/australia--symonston/)[](https://www.eventbrite.com.au/ttd/australia--symonston/)
-<<<<<<< HEAD
-Thu, 4 June, 6:30 pm AEST
-Free
-Green Knight Coaching
-79 followers
-Promoted
-_Save this event: Sales Training: Close Like a Leader + Free Mystery Gifts!__Share this event: Sales Training: Close Like a Leader + Free Mystery Gifts!_
-_Promoted event actions_
-[](https://www.eventbrite.com.au/e/the-ndis-to-home-care-roadmap-learn-the-process-with-tania-gomez-tickets-1989969528428?aff=ebdssbdestsearch)
-### [The NDIS to Home Care Roadmap: Learn the Process with Tania Gomez](https://www.eventbrite.com.au/e/the-ndis-to-home-care-roadmap-learn-the-process-with-tania-gomez-tickets-1989969528428?aff=ebdssbdestsearch)
-Thursday at 10:00 AM AEST
+[](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+### [SIL Reform Unpacked: The new standards, requirements and audit pathway](https://www.eventbrite.com.au/e/sil-reform-unpacked-the-new-standards-requirements-and-audit-pathway-tickets-1990623132375?aff=ebdssbdestsearch)
+Monday at 12:00 PM AEST
 Free
 Tania Gomez Consulting
 1.3k followers
 Promoted
-_Save this event: The NDIS to Home Care Roadmap: Learn the Process with Tania Gomez_ _Share this event: The NDIS to Home Care Roadmap: Learn the Process with Tania Gomez_
+_Save this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_ _Share this event: SIL Reform Unpacked: The new standards, requirements and audit pathway_
  _Promoted event actions_
 [](https://www.eventbrite.com.au/e/practical-assistive-technology-online-workshop-and-qa-for-parents-tickets-1988542065849?aff=ebdssbdestsearch)
 ### [Practical Assistive Technology: Online Workshop and Q&A for Parents](https://www.eventbrite.com.au/e/practical-assistive-technology-online-workshop-and-qa-for-parents-tickets-1988542065849?aff=ebdssbdestsearch)
-Thu, 11 June, 7:00 pm AEST
+Thursday at 7:00 PM AEST
 From $200.00
 P
 By **Psychological Assessment Solutions**
 Promoted
 _Save this event: Practical Assistive Technology: Online Workshop and Q &A for Parents_ _Share this event: Practical Assistive Technology: Online Workshop and Q &A for Parents_
  _Promoted event actions_
-[](https://www.eventbrite.com.au/e/sighting-and-listening-occasion-june-2nd-2026-tickets-1990264298092?aff=ebdssbdestsearch)
-### [Sighting and Listening Occasion-June 2nd 2026](https://www.eventbrite.com.au/e/sighting-and-listening-occasion-june-2nd-2026-tickets-1990264298092?aff=ebdssbdestsearch)
-Tuesday at 6:30 PM AEST
+[](https://www.eventbrite.com.au/e/disability-employment-supports-for-neurodivergent-creatives-ages-1730-tickets-1990749561528?aff=ebdssbdestsearch)
+### [Disability Employment Supports for Neurodivergent Creatives (Ages 17–30+)](https://www.eventbrite.com.au/e/disability-employment-supports-for-neurodivergent-creatives-ages-1730-tickets-1990749561528?aff=ebdssbdestsearch)
+Mon, 22 June, 12:30 pm AEST
 Free
-Adidam Australia
-102 followers
+ACDCForYou
+23 followers
 Promoted
-_Save this event: Sighting and Listening Occasion-June 2nd 2026_ _Share this event: Sighting and Listening Occasion-June 2nd 2026_
- _Promoted event actions_
-=======
+_Save this event: Disability Employment Supports for Neurodivergent Creatives (Ages 17–30+)__Share this event: Disability Employment Supports for Neurodivergent Creatives (Ages 17–30+)_
+_Promoted event actions_
 [](https://www.eventbrite.com.au/e/the-famous-goat-powerhour-june-24th-tickets-1987369971082?aff=ebdssbdestsearch)
 ### [The Famous GOAT PowerHour (June 24th)](https://www.eventbrite.com.au/e/the-famous-goat-powerhour-june-24th-tickets-1987369971082?aff=ebdssbdestsearch)
 Wed, 24 June, 12:00 pm AEST
@@ -511,30 +347,6 @@ From $9.25
 Promoted
 _Save this event: The Famous GOAT PowerHour (June 24th)__Share this event: The Famous GOAT PowerHour (June 24th)_
 _Promoted event actions_
-[](https://www.eventbrite.com.au/e/show-up-speak-succeed-the-zero-hassle-podcast-strategy-for-busy-experts-tickets-1989983546356?aff=ebdssbdestsearch)
-### [Show Up, Speak, Succeed: The Zero-Hassle Podcast Strategy for Busy Experts](https://www.eventbrite.com.au/e/show-up-speak-succeed-the-zero-hassle-podcast-strategy-for-busy-experts-tickets-1989983546356?aff=ebdssbdestsearch)
-Wed, 17 June, 8:30 am AEST
-Free
-Podcasts Done For You
-24 followers
-Promoted
-_Save this event: Show Up, Speak, Succeed: The Zero-Hassle Podcast Strategy for Busy Experts_ _Share this event: Show Up, Speak, Succeed: The Zero-Hassle Podcast Strategy for Busy Experts_
- _Promoted event actions_
-[](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-### [How to Take Charge of Your Debilitating Stress](https://www.eventbrite.com.au/e/how-to-take-charge-of-your-debilitating-stress-tickets-1990265035297?aff=ebdssbdestsearch)
-Tuesday at 10:00 AM AEST
-Free
-Promoted
-_Save this event: How to Take Charge of Your Debilitating Stress_ _Share this event: How to Take Charge of Your Debilitating Stress_
- _Promoted event actions_
-Thursday at 6:30 PM AEST
-Free
-Green Knight Coaching
-80 followers
-Promoted
-_Save this event: Sales Training: Close Like a Leader + Free Mystery Gifts!__Share this event: Sales Training: Close Like a Leader + Free Mystery Gifts!_
-_Promoted event actions_
->>>>>>> 7bac5f0 (update pipeline)
 ## [Trends in Australia](https://www.eventbrite.com.au/trending/searches/australia/)
 [Explore more trends](https://www.eventbrite.com.au/trending/searches/australia/)
 ### [1. Joe dispenza](https://www.eventbrite.com.au/d/australia/joe-dispenza/)
